@@ -1,0 +1,49 @@
+{
+  "topics": {
+    "AI": {
+      "queries": ["AI 大模型", "OpenAI OR Anthropic OR Gemini", "AI芯片"],
+      "match": ["AI", "人工智能", "大模型", "LLM", "OpenAI", "Anthropic", "Gemini", "GPT", "Claude", "智能体", "Agent"]
+    },
+    "光互联": {
+      "queries": ["光互联 OR 光通信", "CPO 共封装光学", "光模块 800G OR 1.6T", "硅光 OR OCS"],
+      "match": ["光互联", "光通信", "光模块", "CPO", "共封装", "OCS", "硅光", "光交换", "800G", "1.6T", "3.2T", "LPO", "相干光", "光芯片", "InP", "薄膜铌酸锂"]
+    },
+    "半导体": {
+      "queries": ["半导体 芯片", "台积电 OR 中芯国际", "先进制程 光刻"],
+      "match": ["半导体", "芯片", "台积电", "TSMC", "中芯国际", "晶圆", "光刻", "EUV", "制程", "英特尔", "三星电子", "存储芯片"]
+    },
+    "CPO/OCS/光模块": {
+      "queries": ["CPO OR OCS OR 光模块"],
+      "match": ["CPO", "OCS", "光模块", "共封装光学", "光交换机", "中际旭创", "新易盛", "Coherent", "Lumentum"]
+    },
+    "HBM/先进封装": {
+      "queries": ["HBM OR CoWoS OR chiplet", "先进封装"],
+      "match": ["HBM", "HBM3", "HBM4", "CoWoS", "Chiplet", "先进封装", "2.5D", "3D封装", "SK海力士", "美光"]
+    },
+    "GPU/算力集群": {
+      "queries": ["NVIDIA GPU 数据中心", "超节点 OR NVLink OR 算力集群"],
+      "match": ["GPU", "NVIDIA", "英伟达", "AMD", "超节点", "NVLink", "NVL72", "算力", "智算中心", "数据中心", "Scale-up", "InfiniBand", "以太网交换"]
+    }
+  },
+  "extra_feeds": [
+    {"name": "36氪", "url": "https://36kr.com/feed"},
+    {"name": "IT之家", "url": "https://www.ithome.com/rss/"},
+    {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
+    {"name": "The Register", "url": "https://www.theregister.com/headlines.atom"},
+    {"name": "Tom's Hardware", "url": "https://www.tomshardware.com/feeds/all"}
+  ],
+  "google_news": {
+    "enabled": true,
+    "editions": [
+      {"hl": "zh-CN", "gl": "CN", "ceid": "CN:zh-Hans"},
+      {"hl": "en-US", "gl": "US", "ceid": "US:en"}
+    ]
+  },
+  "max_age_days": 3,
+  "max_items_per_topic": 40,
+  "email": {
+    "to": "boscoliang44@gmail.com",
+    "subject_prefix": "【行业日报】AI·光互联·半导体",
+    "hours_window": 24
+  }
+}
