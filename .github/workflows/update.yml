@@ -21,6 +21,8 @@ jobs:
       - run: python fetch_trending.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: python fetch_x.py
+        continue-on-error: true   # Nitter 镜像不稳定，失败不影响其他数据
       - name: 提交数据
         run: |
           git config user.name "radar-bot"

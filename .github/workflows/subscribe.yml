@@ -1,0 +1,43 @@
+name: 处理订阅申请
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  subscribe:
+    if: startsWith(github.event.issue.title, 'subscribe:') || startsWith(github.event.issue.title, 'unsubscribe:')
+    runs-on: ubuntu-latest
+    env:
+      ISSUE_TITLE: ${{ github.event.issue.title }}
+      ISSUE_NUM: ${{ github.event.issue.number }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: 更新订阅名单
+        run: |
+          EMAIL=$(echo "$ISSUE_TITLE" | grep -Eo '[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}' | head -1 | tr 'A-Z' 'a-z')
+          if [ -z "$EMAIL" ]; then
+            gh issue comment "$ISSUE_NUM" --body "❌ 未识别到有效邮箱，请用标题格式：subscribe: you@example.com"
+            gh issue close "$ISSUE_NUM"
+            exit 0
+          fi
+          if echo "$ISSUE_TITLE" | grep -q '^unsubscribe:'; then
+            jq --arg e "$EMAIL" 'map(select(. != $e))' subscribers.json > tmp.json
+            MSG="✅ 已退订：$EMAIL"
+          else
+            jq --arg e "$EMAIL" '. + [$e] | unique' subscribers.json > tmp.json
+            MSG="✅ 订阅成功：$EMAIL，每天北京时间早 7 点发送日报。退订请开 Issue：unsubscribe: 你的邮箱"
+          fi
+          mv tmp.json subscribers.json
+          git config user.name "radar-bot"
+          git config user.email "actions@github.com"
+          git add subscribers.json
+          git diff --cached --quiet || git commit -m "subscribers: $ISSUE_TITLE"
+          git push
+          gh issue comment "$ISSUE_NUM" --body "$MSG"
+          gh issue close "$ISSUE_NUM"
