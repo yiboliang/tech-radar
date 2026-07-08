@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-08T19:28:49.626884+00:00",
+ "updated": "2026-07-08T22:09:22.747103+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,48 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: As coding models improve, evals need to become harder, fairer, and more trustworthy. Better benchmarks help the field understand real progress and where the frontier is moving.",
+   "link": "https://x.com/OpenAI/status/2074972185895342084",
+   "time": "2026-07-08T21:41:34+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from five independent experienced software engineers. That helped us examine tasks at scale while keeping expert judgment at the center.",
+   "link": "https://x.com/OpenAI/status/2074972182640492731",
+   "time": "2026-07-08T21:41:34+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Our audit of SWE-Bench Pro found that a meaningful share of public tasks contain issues that can distort results. Some correct solutions fail because of hidden requirements, contradictory instructions, overly strict tests, or incomplete grading criteria.",
+   "link": "https://x.com/OpenAI/status/2074972180769907186",
+   "time": "2026-07-08T21:41:33+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "We audited SWE-Bench Pro, one of the most widely used AI coding benchmarks, and found it no longer reliably measures frontier coding capability. We find 30% of SWE-Bench Pro tasks to be broken, and are retracting our previous recommendation that the research community use it as a leading coding eval. https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+   "link": "https://x.com/OpenAI/status/2074972179385720836",
+   "time": "2026-07-08T21:41:33+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @LangChain: Learn more: https://nvda.ws/3RqdAQW",
+   "link": "https://x.com/nvidia/status/2074961727813308614",
+   "time": "2026-07-08T21:00:01+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "Every company has specialized intelligence that sets it apart. With @langchain, we’re helping enterprises turn that knowledge into specialized agents they can customize, secure and improve over time.",
+   "link": "https://x.com/nvidia/status/2074961724164214951",
+   "time": "2026-07-08T21:00:00+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "R to @nvidia: See how we’re working with LangChain to pair benchmark-leading agent performance with an open stack enterprises can own, customize and run anywhere: https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack?ncid=so-link-913402",
@@ -52,34 +94,6 @@ window.RADAR_X = {
    "text": "R to @OpenAI: Our full-duplex architecture allows the model to engage in more natural back-and-forth, maintain a better sense of time, and even perform live translation.",
    "link": "https://x.com/OpenAI/status/2074907030343839925",
    "time": "2026-07-08T17:22:40+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: GPT-Live is built on a full-duplex architecture, meaning it can listen and speak at the same time.",
-   "link": "https://x.com/OpenAI/status/2074907028733178359",
-   "time": "2026-07-08T17:22:40+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice model yet. https://openai.com/index/introducing-gpt-live/",
-   "link": "https://x.com/OpenAI/status/2074907027378511884",
-   "time": "2026-07-08T17:22:39+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "Pinned: Introducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.",
-   "link": "https://x.com/OpenAI/status/2074907025537224840",
-   "time": "2026-07-08T17:22:39+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "The next generation of ChatGPT Voice is here. Livestream starts at 10am PT. https://openai.com/live/",
-   "link": "https://x.com/OpenAI/status/2074897675343085993",
-   "time": "2026-07-08T16:45:30+00:00",
    "rt": false
   },
   {
@@ -153,13 +167,6 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "nvidia",
-   "text": "NVIDIA Vera: The Max Single-Threaded CPU at Scale. Agentic AI systems run sequentially, each reasoning step, tool call, and code execution happens one at a time on the CPU. When that CPU slows under load, the entire agentic loop slows and valuable GPUs go underutilized. A max single-threaded CPU at scale keeps every agent step fast, even when the system is fully loaded. That's what NVIDIA Vera is ",
-   "link": "https://x.com/nvidia/status/2074510027897844105",
-   "time": "2026-07-07T15:05:07+00:00",
-   "rt": false
-  },
-  {
    "user": "dylan522p",
    "text": "Creative structures are needed to get GPUs in the hands of startups + other companies that aren't Meta, OpenAI, Anthropic, SpaceXAI, Microsoft, Amazon, Google AI Debt Financing will be over $7T of debt outstanding by 2029 driven by needs of neoclouds, DC builders, + hyperscalers",
    "link": "https://x.com/dylan522p/status/2074253849095999616",
@@ -172,13 +179,6 @@ window.RADAR_X = {
    "link": "https://x.com/SemiAnalysis_/status/2074237222853984478",
    "time": "2026-07-06T21:01:06+00:00",
    "rt": true
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Check out our sessions: https://nvda.ws/44KNNWA",
-   "link": "https://x.com/nvidia/status/2074191660615864487",
-   "time": "2026-07-06T18:00:03+00:00",
-   "rt": false
   },
   {
    "user": "AnthropicAI",
