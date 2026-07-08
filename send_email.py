@@ -61,13 +61,21 @@ if not user or not pwd:
     print("缺少 SMTP_USER / SMTP_PASS 环境变量", file=sys.stderr)
     sys.exit(1)
 
+# 订阅者列表（subscribers.json），兜底用配置里的 to
+try:
+    subscribers = json.loads((ROOT / "subscribers.json").read_text(encoding="utf-8"))
+except Exception:
+    subscribers = []
+subscribers = sorted({e.strip().lower() for e in subscribers if "@" in e}) or [email_cfg["to"]]
+
 msg = MIMEText(html_body, "html", "utf-8")
 msg["Subject"] = Header(f"{email_cfg['subject_prefix']} {today}（{len(recent)}条）", "utf-8")
 msg["From"] = user
-msg["To"] = email_cfg["to"]
+msg["To"] = email_cfg["to"]          # 显示收件人为主邮箱
+# 其余订阅者放 BCC，互相看不到地址
 
 with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=30) as s:
     s.login(user, pwd)
-    s.sendmail(user, [email_cfg["to"]], msg.as_string())
+    s.sendmail(user, subscribers, msg.as_string())
 
-print(f"已发送 {len(recent)} 条到 {email_cfg['to']}")
+print(f"已发送 {len(recent)} 条给 {len(subscribers)} 位订阅者")

@@ -41,6 +41,10 @@
   },
   "max_age_days": 3,
   "max_items_per_topic": 40,
+  "x_accounts": ["sama", "karpathy", "AnthropicAI", "OpenAI", "GoogleDeepMind",
+                 "nvidia", "dylan522p", "TSMC", "IntelNews"],
+  "nitter_instances": ["nitter.net", "xcancel.com", "nitter.poast.org",
+                       "nitter.privacyredirect.com", "lightbrd.com", "nitter.space"],
   "email": {
     "to": "boscoliang44@gmail.com",
     "subject_prefix": "【行业日报】AI·光互联·半导体",
