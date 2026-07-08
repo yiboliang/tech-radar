@@ -1,5 +1,5 @@
 window.RADAR_DATA = {
- "updated": "2026-07-08T14:16:53.949506+00:00",
+ "updated": "2026-07-08T14:30:47.305394+00:00",
  "topics": [
   "AI",
   "光互联",
@@ -9,6 +9,26 @@ window.RADAR_DATA = {
   "GPU/算力集群"
  ],
  "items": [
+  {
+   "title": "清华与蚂蚁集团联手破解AI训练难题：让大模型\"吃什么\"不再靠猜 - 新浪网",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54d3prSzdkMGVINGl5czJOaGFzUUk0dlJaODdjdXp6Q0tMT3ZPVHRBOV9qQnhtT1RIZTRCeWhFc3B5NmRLcDFfdDhudlpOekM3VFU4SnlXcEUwQl9vRTNHOENobGVvYjJBcmVOMW4ta0FfelFNX0VLVnAtQktEYjQ?oc=5",
+   "source": "新浪网",
+   "published": "2026-07-08T14:18:00+00:00",
+   "summary": "清华与蚂蚁集团联手破解AI训练难题：让大模型\"吃什么\"不再靠猜 新浪网",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "官方确认不会涨价：《幻兽帕鲁》1.0 正式版上线后依然维持原价",
+   "link": "https://www.ithome.com/0/974/262.htm",
+   "source": "IT之家",
+   "published": "2026-07-08T14:17:04+00:00",
+   "summary": "IT之家 7 月 8 日消息，《幻兽帕鲁》是 Pocketpair 开发的一款开放世界生存制作游戏，玩家可在游戏世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活等。目前，本作全球玩家已突破 4000 万，同时 1.0 正式版将于 7 月 10 日上线。IT之家注意到，游戏《幻兽帕鲁》官方今日发布动态，确认 1.0 正式版上线后，售价依然维持原价。《幻兽帕鲁》1.0 正式版上线后，售价依然维持原价，不会涨价！感谢每一位中国玩家一直以来的支持。大家的讨论、建议、攻略、二创和整活，都成为了《幻兽帕鲁》一路走到今天的动力。为了感谢广大玩家，也希望未来有更多新朋友加入帕鲁的世界，我们决定：《幻",
+   "topics": [
+    "AI"
+   ]
+  },
   {
    "title": "公告全知道 - 财联社",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85NEVvUVQ3NmhsUWlfRjJUaFJ3Qm5tMjlTMkNVNkd0TXZDcUZ6bU9zWnd4SzVITkFQQy1BeE9JaVhabjhKRTFEZQ?oc=5",
@@ -134,36 +154,6 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "Major AI models at a glance - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjUDd1T0cwX3NLN0R2M1RxdWxhY1E0S2NYQWZYV183MEoyaWp5WUpWVFEtMzZIVmRNVU4tX1Y3LU1Ud0J1MDhTaXJ2NFJEZXY2TTQ4WVlMaHlsZkg3VHpZdklnRk1DUkpRbEV4OG9uenlBb0l1UHNhbzFR?oc=5",
-   "source": "Reuters",
-   "published": "2026-07-08T13:55:43+00:00",
-   "summary": "Major AI models at a glance Reuters",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "Scoop: Trump administration lifts restrictions on OpenAI's GPT 5.6 - Axios",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yM1FRRGcyemJMc1RsLWZmcGlSZTBuakxJU09mS0k0dW5pLUthb1YzZ01uZURoQTdGR3RUVzhMRDN4Q1JwaWQtVVBkbWt6Ykx3bkpOM3hJMlozLWRFQS13Q3Jrakk3S0FuQThlUg?oc=5",
-   "source": "Axios",
-   "published": "2026-07-08T13:55:12+00:00",
-   "summary": "Scoop: Trump administration lifts restrictions on OpenAI's GPT 5.6 Axios",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "OpenAI will publicly release advanced GPT model after government-requested delay - The Hill",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HdXZpU1BldHowbnRqdHpxci05bl8xbjFsSU84QjlXUl9zVkVOcldoUW1Qbm5qNEpUVm5HZkJyX1RmMFZwV2NqaW5OWURadnFRSEhNNUd3cHpTaGlzejU0Z3FSLVR5ODlQZ0RIcXlGY2NxVEhfY1VraTJhZGxCNE3SAYQBQVVfeXFMUDlBazNBQzg2cGtfbXZ5NFRoRmNIYkVIZW1va2R6Vkk4Z0RNd1h0VG9WOUdEdlAydlNvZDhkV3dlWjlDaXViU3NJbWJocHVwdnBMWGFrRGRTYng5VWlObEZiTjkwTk42eHZDdU5uZmQ2T3lIVFA3dEpEZV8xRFY2azNVVmZT?oc=5",
-   "source": "The Hill",
-   "published": "2026-07-08T13:55:00+00:00",
-   "summary": "OpenAI will publicly release advanced GPT model after government-requested delay The Hill",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
    "title": "台积电(TSM.US)财报前瞻：AI需求持续火爆，广发预计上调指引并加码2027年资本开支 - 富途牛牛",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamY3OFljT0Z0djF3VmI1d1dGTVdBR1ZXWVc1WWR3QnNVNWRUMDdrMVFXcktxV05JVWs2SmlENkpCUFJyRGk1WUI3Um1UbTJPdGd5VmlCZWJrSDNneUxQX2h5VEJ1bDNfYUhGeVVreDkzU0pwTy1qcVIxcWRmcmdzWmloZlU4UTRUdzVfVmJQS3lYZkJrQ3ZqcXh6djQxbUFXR2w0Z0p6NUZpcHpyc19ueUE0OGFzeUU?oc=5",
    "source": "富途牛牛",
@@ -172,16 +162,6 @@ window.RADAR_DATA = {
    "topics": [
     "AI",
     "半导体"
-   ]
-  },
-  {
-   "title": "Inside TeraWulf's Anthropic Data Centre Deal and AJV Exit - Data Centre Magazine",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXp2MjR5OW5XQmxyTTdxaGs2Z0Q2MjFaUFhGWkx5N0NobDB4YmNJRGtoZFYzcFYyS0t0OFZKbXZVbDd5bnR1Zy0ya2tvaW0yWGFSR0J3MTFyZmR4dDN5Rk85TU5qRFFfMHg0WWhjRk5EdF8zQnZjcFFrdDBvd1FEd09DLWRjNmIzdmtVVjZhbGJwanpsSFo0?oc=5",
-   "source": "Data Centre Magazine",
-   "published": "2026-07-08T13:41:15+00:00",
-   "summary": "Inside TeraWulf's Anthropic Data Centre Deal and AJV Exit Data Centre Magazine",
-   "topics": [
-    "AI"
    ]
   },
   {
@@ -227,41 +207,11 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "How Booz Allen’s New OpenAI Partnership Could Reshape Its AI Edge for BAH Investors - simplywall.st",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbHBkQ2dIQkl0WWRQdlJMVjg1MXpLSk53alJxcXd1RVh0Vmx4Z1RuNm9Xa21wLS1uamNDZm15UGtvT21aYUV6RkpQb1RJM2ZmcVFsRnMxTGVZRm1jSlRUM0RraW9EQk1fX0w4dXBDWEFmLV91NXFpVE5JbTNzVjMwM0NKSEdRQ2JlWnNzc2MzY19iVm56Q0FrZFpsT2lodDhXS1hGZjdCeGc0bndWNzIwVUxDUFo2cTduX3ROYXNoT1UwM1BqNDU3TmdYclFvNHl0MFNlSGR2N2JGcFA5VzJsQmsxZW9seXM50gHuAUFVX3lxTE9GdzEydHY5OHpMZVhuVmZVNkg3TnBmaFhSODJqa2pFSDVVVDVQd1BFSGxMNEN4ajNlajUwbDBDRHNuTDhSTlZzYVdLYkZoc3o5cDByZ2tRWHNnN2FEUGZOQUFpdlNIaEtuU1B1M2F1Z3ZsZXFna3oxRTJwMkhxOXlMMjkzOWEzU19NQjc0N2xVRVZRM3VjN0p4TlkySjREU1hXZGtwTk1KSTAzOWJfQ082R0pfaVVvYk1HR0c3akJEN05FVWhEbUZDbHp4dG1QN1VXVmdrVjFEYVFRWWpCeVQxU0ZGdFNBNlk0RndVLVE?oc=5",
-   "source": "simplywall.st",
-   "published": "2026-07-08T13:30:39+00:00",
-   "summary": "How Booz Allen’s New OpenAI Partnership Could Reshape Its AI Edge for BAH Investors simplywall.st",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "Marketri Rebrands as Technology-Enabled B2B Growth Firm, Pursues Anthropic Partnership - PRWeb",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUi1GTkhvUnV0Y1I3ai1KTjFyNUxsY1Y5RWoxdzJtR0k3YmRrejJRNTZpZEt3VlNENnFiZHh3UU5jWDF6Q1NBcHpUZ00zSHY0amdGUVgzRGc5R2NBXzBYTWdyOTM1NTVRUlFMLUdiM19ma2Q2eVlaTmY1ZVlwMXBrc0hId3RiY2RwaGhqRURnYXB2bUJiNGljbk5qYWg3TjRKVVZjcWVzZkFWdld6czl0ZUpwXzFGU3kyQkJHdTZJZXd3ek9WTS1Jcmlocw?oc=5",
-   "source": "PRWeb",
-   "published": "2026-07-08T13:30:00+00:00",
-   "summary": "Marketri Rebrands as Technology-Enabled B2B Growth Firm, Pursues Anthropic Partnership PRWeb",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
    "title": "突然！三重利好，密集来袭！海外大模型解禁，马斯克官宣…… - 新浪财经",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVHFoOEhSYWpQclJaTVdtV3hYM3RJTzF3Yk9YUUxNNmZmYWpjMUtuQWpMU2lRYi1rOVd0bkhmT3IzUEd4SFQ2TmVaQlN4ME94cUZOdl9DVEpxaGJSS0xwWWJhRTFBS2liVngyUDIxczB2akV4T0tBb3U0NVpGNVFIUlZXOERWUDEzWWVqeTdmRnRXZk1EUDZUaUFqbU02ajJfR0JUYlF2UQ?oc=5",
    "source": "新浪财经",
    "published": "2026-07-08T13:27:36+00:00",
    "summary": "突然！三重利好，密集来袭！海外大模型解禁，马斯克官宣…… 新浪财经",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "BofA Saw OpenAI as Too Risky, But Now The Bank Wants to Cash In on IPO - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZTlLUFhqUTVNZU90LWJLT3ZOeXRscy02N0RIM21ZQTNGWlkycDNkZ3M0ZFlhd1RlOE5zYjF6VlhyQjJ0THljcWhLUnVBT3hmWVF2cmF5TFBwejZJLUlzVFE4M2d0OG5ZMlBjNUN4Y1dybjFnWVpleE1hcEEyX1hieC02ajZ4UXR0dkpFQVVqTU9iSDhpa1pWSkljZkw3MkNiTFhmTHFNWVZqaVlkNlBaMVNQQlE0ZXloSmNfYzB4ZzlxSkFI?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-07-08T13:26:06+00:00",
-   "summary": "BofA Saw OpenAI as Too Risky, But Now The Bank Wants to Cash In on IPO Bloomberg.com",
    "topics": [
     "AI"
    ]
@@ -302,16 +252,6 @@ window.RADAR_DATA = {
    "source": "新京报",
    "published": "2026-07-08T13:19:00+00:00",
    "summary": "AI冲击文学界：我们应当抗拒，还是拥抱？ 新京报",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "Why we are suing OpenAI - Mid Florida Newspapers",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX2dpMEtKT2d3TlQ3RmozZkFxY0pUWFBqVDFhcU92UXZLbGpsUWVxN25qbkhGZ09td2UwVEt4c09sTzMzTjdmbW40MWFDSS1OQlJLbzgzSFVpb0QtdWRJVkd1UjBhTjBfUy05a2ItblFZMGhmRU9Kc0FhWGVucHVUdTVJVnJnNFBONU9PWXpyaEszNW41dmNEUDRybk9WSkpsQldwcC1EbkdHb0wyQk5icjVaYUlPdEM3X24wSzEyQ0s5X0Z3bG80dFNMb1BGakZKOUF2V1phX1pFSUx4TDBRanVYZFcwY3NQ?oc=5",
-   "source": "Mid Florida Newspapers",
-   "published": "2026-07-08T13:15:00+00:00",
-   "summary": "Why we are suing OpenAI Mid Florida Newspapers",
    "topics": [
     "AI"
    ]
@@ -369,6 +309,16 @@ window.RADAR_DATA = {
    ]
   },
   {
+   "title": "AI商业化，还是大厂的一本糊涂账 - 新浪财经",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WNmo0dUpSdVNzdzNDdFhNbWpaMURIbWdJY0luVnJnY0t1NUMxdVRuc0ZQYnd4akNaWVRyaHd3alNpX1F4czY3b0N4Yy03dm1SSjluTno2LWtIWEpIMld4YzdLMDEwZ2Z5aDk2VS03QQ?oc=5",
+   "source": "新浪财经",
+   "published": "2026-07-08T12:49:41+00:00",
+   "summary": "AI商业化，还是大厂的一本糊涂账 新浪财经",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
    "title": "活力中国调研行｜孵光聚芯育新才，上海厚植硬科技创新沃土 - 搜狐网",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONVhSRjNGbVFRY0NMQVJRVEVueU9nSWJyenlKbHBLWXRJRjdRN3VzOFVrY0h3MnNZdVNQbmdOS3gtLUZucTQxM0ZZN1dhT1NuQ2E1aWxIMUY4dE9VcFhxOXBMbmlUUTZKUXREbWhqdnFVR0docDZYZEF5U2FsUUtHQ2o5bFhselZuVWxGRg?oc=5",
    "source": "搜狐网",
@@ -376,16 +326,6 @@ window.RADAR_DATA = {
    "summary": "活力中国调研行｜孵光聚芯育新才，上海厚植硬科技创新沃土 搜狐网",
    "topics": [
     "光互联"
-   ]
-  },
-  {
-   "title": "The U.S. Government Is Now Using Anthropic’s AI to Hunt Bugs in Its Own Code - 24/7 Wall St.",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlk1SVhXQXA3M05oYkFadHdDUFZvZE92V1dxMG84T0pyRVpwcUxFRmVydUlYSVBwMVMyVG11aDJPWnFycWF3a0dmcU5leWFCZEZPdUNaa3g0X3FrcnRIWFdXUUNjWndfdFhNLUVzYUhLRnVVank2TWdweGNKU3R3Wm02U3A3VTlWNm5QZVZ2OTRBUHhnQUxwTFdDMkIyNWU0RVZMYnhhaXNFVVJCSjZTLWhmSHhWTVhpb1E?oc=5",
-   "source": "24/7 Wall St.",
-   "published": "2026-07-08T12:45:49+00:00",
-   "summary": "The U.S. Government Is Now Using Anthropic’s AI to Hunt Bugs in Its Own Code 24/7 Wall St.",
-   "topics": [
-    "AI"
    ]
   },
   {
@@ -419,16 +359,6 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "Anthropic expands Claude Cowork to web and mobile as enterprise use broadens - InfoWorld",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSHhfR0l3RkhqZkJHUV9qanp5dGgtMGZKQlV2WmM3X3hqeTdSZW04OTJraWtFRE16Y2ZiSUhsX3EzcnhSd0xld09jbFN0bDRuYkw5QVgtVTh1SlIxQ2s5Y2RVUm5oNWluM0oySWxmTG1QRmExMHhLOFRFOWdZUERYcmpVenQ1ajZLbXEwV21OVWMzdWk3ZlZFMXFBem82NTh2VVlhUXdVT1BRZHA1Qzh4bzltYjI3bW1XNE5ZRTE2eF8?oc=5",
-   "source": "InfoWorld",
-   "published": "2026-07-08T12:36:35+00:00",
-   "summary": "Anthropic expands Claude Cowork to web and mobile as enterprise use broadens InfoWorld",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
    "title": "DeepSeek被曝布局自研AI推理芯片，为摆脱英伟达算力限制，正对接设计、代工、存储多方伙伴 - 搜狐网",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdzNwdEJlM2VkZTlxOFFYSFRhMUVVdVVDV3RNZVhzaWsxb2JXemdKclVTdldveGRmNm5ZNjJDSUFZSzlxT1FQMDJ2SDk1X0tjVmo3SmJySHo4OXdTbFF1NXJGUENJT0tIUGx6cU9XMVF2aDNZWDNMZFpxT2VmdWNVaHVvdTk4V3pJOGVnLQ?oc=5",
    "source": "搜狐网",
@@ -441,22 +371,22 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "芯报丨三星电子支持的韩国AI芯片创企Rebellions计划明年在韩IPO - 电子工程专辑",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wbmdxbXI0SHZ1WnZPa1ZudzVJSnRLRm1manMwSG1fZzRKTnZQU21NLUg1TDdiRXVfVllNLVVuM2hrQ001NEFRRUtGcWY5X2tOa1dN?oc=5",
-   "source": "电子工程专辑",
+   "title": "打不过就加入 美国开始夸中国低价AI大模型对半导体是利好而非利空 - 驱动之家",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92cE9ablNaNkF3ZHk3SUtNVlNZSUE5R2ZFQXh6bVAzQUt0cS0xOVIxOXR0LVA5RlcxbUZIVVNWTERYWnhlN0t6VGRLVU1aczE3SVBFdDlWQ0M?oc=5",
+   "source": "驱动之家",
    "published": "2026-07-08T12:30:00+00:00",
-   "summary": "芯报丨三星电子支持的韩国AI芯片创企Rebellions计划明年在韩IPO 电子工程专辑",
+   "summary": "打不过就加入 美国开始夸中国低价AI大模型对半导体是利好而非利空 驱动之家",
    "topics": [
     "AI",
     "半导体"
    ]
   },
   {
-   "title": "打不过就加入 美国开始夸中国低价AI大模型对半导体是利好而非利空 - 驱动之家",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92cE9ablNaNkF3ZHk3SUtNVlNZSUE5R2ZFQXh6bVAzQUt0cS0xOVIxOXR0LVA5RlcxbUZIVVNWTERYWnhlN0t6VGRLVU1aczE3SVBFdDlWQ0M?oc=5",
-   "source": "驱动之家",
+   "title": "芯报丨三星电子支持的韩国AI芯片创企Rebellions计划明年在韩IPO - 电子工程专辑",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wbmdxbXI0SHZ1WnZPa1ZudzVJSnRLRm1manMwSG1fZzRKTnZQU21NLUg1TDdiRXVfVllNLVVuM2hrQ001NEFRRUtGcWY5X2tOa1dN?oc=5",
+   "source": "电子工程专辑",
    "published": "2026-07-08T12:30:00+00:00",
-   "summary": "打不过就加入 美国开始夸中国低价AI大模型对半导体是利好而非利空 驱动之家",
+   "summary": "芯报丨三星电子支持的韩国AI芯片创企Rebellions计划明年在韩IPO 电子工程专辑",
    "topics": [
     "AI",
     "半导体"
@@ -473,11 +403,11 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "Cloudflare, OpenAI team up to launch research pilot for AI search indexing - Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUUo5NnNibjU3QndLZmM0al9LLUhqUDltY2U3UjhqaWR4SFgwNnpLSk1IMWNBNkdZSDJOZ3RJTUNhS0tEMVlrSnZiVllsRXlMeG5Sbkl3anA0NHBWSGROQTFzQlg1SVZrRS10bXpLVTZBVm1ucFhTV2pPR0ZqaWNub0N3N0Z6OUlFVlFGZFJwdVZEOHBseFQ4Si04SWxBeERzdEtIUWh5cXJjb3prd3A5UQ?oc=5",
-   "source": "Seeking Alpha",
-   "published": "2026-07-08T12:28:19+00:00",
-   "summary": "Cloudflare, OpenAI team up to launch research pilot for AI search indexing Seeking Alpha",
+   "title": "八强战尘埃落定，高庆一发起中美AI大比拼，国产AI模型DeepSeek预测满分 - 新浪财经",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQ3hfVXRYSlJPZzBnZlkyUTIydktIOVNpSHpvT1dNTXNiamgteTA0MlBVUS1sY0ViUmNTMTZETXdrVUJhNXhKUnhqeFNVUm9PdDI1Z3BZbE45dnkwQlU0NFo5aFJIbGlpYXc2TVNIaHMxSzhBcWlSTTFaYzdfMFJ3SnR3ZndpUTEyX08wTExkRk8wd0htV2ZwYldDc3d0SG01SWQ2UWdlU0pQUTdtaWJBMWcwRnpMb3pqTFJEdEpiUlpFbGFhb2R1bnBKazZGcnF5bzd0SnkyeEN6YzRTY3BnX2lndFlrY216elNIVzBGTEdaU1hsNkJPQ3E5NEFoV3g0RnVyY01Uaw?oc=5",
+   "source": "新浪财经",
+   "published": "2026-07-08T12:29:17+00:00",
+   "summary": "八强战尘埃落定，高庆一发起中美AI大比拼，国产AI模型DeepSeek预测满分 新浪财经",
    "topics": [
     "AI"
    ]
@@ -488,6 +418,16 @@ window.RADAR_DATA = {
    "source": "新浪网",
    "published": "2026-07-08T12:27:19+00:00",
    "summary": "OpenAI首席未来学家宣布将于本月底离职 新浪网",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "OpenAI前研究员田永龙入职腾讯，主攻视觉语言模型研发 - 搜狐网",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkpxaFZxQ1oxdDRzSnVwUW9XZkM3MlAwWDRwTnRNOUZNdVloQlVBNzhTZm96eko2U0h6LWdKOTZxaWlCNm96aFREeTNVREtYVUpvRk1TbkN3M0tPcExOdWNpQUFQZXhxd3RUX0Y1NlZiMnFBenQtWHY3VUlGM2d1TmNyODlJTmJX?oc=5",
+   "source": "搜狐网",
+   "published": "2026-07-08T12:24:58+00:00",
+   "summary": "OpenAI前研究员田永龙入职腾讯，主攻视觉语言模型研发 搜狐网",
    "topics": [
     "AI"
    ]
@@ -581,6 +521,46 @@ window.RADAR_DATA = {
    ]
   },
   {
+   "title": "Cloudflare与OpenAI启动试点项目，拟利用全球网络数据优化AI搜索 - 东方财富",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHemVYaUczaHRGcW1GbjE2bmlRVWxodHI2TFlmSlhFTlZUTUN0VkNrSUF0cmFJeW9iMmVRSkdqS1pjdnE1ajZHRjBURzVtTU96U29QM1U5cHRNWDk2aW9ueUw2SXJqZw?oc=5",
+   "source": "东方财富",
+   "published": "2026-07-08T12:05:34+00:00",
+   "summary": "Cloudflare与OpenAI启动试点项目，拟利用全球网络数据优化AI搜索 东方财富",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "医疗AI圈炸了！两大研究\"互撕\"：通用大模型vs医生专属Ai工具，到底谁好？ - ByDrug",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LYmNGWkE5QW5pYTFNR3FPN05iTG5UbXhHNE1jNWxVa29JS25jOVNjdUtEYnd4NmdDbWhsaktXOWVHQXRpRWdLb2dfRU4zMDRYU0NpVUJwV2JTQ0hzWUhTVlpRMTF1ZkJES3pjM09IRHVuUHZfLW5lc1czbVkwQQ?oc=5",
+   "source": "ByDrug",
+   "published": "2026-07-08T12:00:00+00:00",
+   "summary": "医疗AI圈炸了！两大研究\"互撕\"：通用大模型vs医生专属Ai工具，到底谁好？ ByDrug",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+   "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+   "source": "TechCrunch",
+   "published": "2026-07-08T12:00:00+00:00",
+   "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "Anthropic延长Claude Fable 5免费期至7月12日 - 搜狐网",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN3VKcmFkaGVvZEhTZlZYN2FwNWRnYndnR1JyblJRaG0yYlhma05MdHBVRUR2T1JKSWFmZFV5d1ViRHduOGE5OXVONEQtc0l4a01SemNVNTJsTC1mYTg3WmIyNWdKWF9IOEtuaW02OWV6YmY1NUhVeURGZFhMVWdjV1JxaGFCY2lfTm0wTg?oc=5",
+   "source": "搜狐网",
+   "published": "2026-07-08T11:58:46+00:00",
+   "summary": "Anthropic延长Claude Fable 5免费期至7月12日 搜狐网",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
    "title": "万亿美元市值蒸发后，英伟达成\"价值洼地\"，市盈率比标普500还低 - 华尔街见闻",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nMFQ5SWUtaU5GT25ScFJzT3hwS095NTk3dXVoY0hSbnJUaEpSS1pDRUl5WkR3ZVZqaXNSVWI1U3NsSjAySXplbkFMbFQ4aHBOSTIw?oc=5",
    "source": "华尔街见闻",
@@ -588,6 +568,16 @@ window.RADAR_DATA = {
    "summary": "万亿美元市值蒸发后，英伟达成\"价值洼地\"，市盈率比标普500还低 华尔街见闻",
    "topics": [
     "GPU/算力集群"
+   ]
+  },
+  {
+   "title": "OpenAI前研究员田永龙加入腾讯将参与VLM相关研发 - 新浪财经",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nMzhOeEgzVHlBNmNMNmZmWVJjZW5CMVRmU3ZKMXpJUWFaclRIM2hUcVVxRmdPN1MzSjdtb3YyZThHNWx6bFBkakctZVJBN054WG0wTXhEWm9lNHhvWXVhXzhLakgtVHRrbXBHQy1n?oc=5",
+   "source": "新浪财经",
+   "published": "2026-07-08T11:52:51+00:00",
+   "summary": "OpenAI前研究员田永龙加入腾讯将参与VLM相关研发 新浪财经",
+   "topics": [
+    "AI"
    ]
   },
   {
@@ -1091,6 +1081,17 @@ window.RADAR_DATA = {
     "AI",
     "GPU/算力集群",
     "半导体"
+   ]
+  },
+  {
+   "title": "光电共封装CPO板块7月8日跌0.95%，广立微领跌，主力资金净流出16.4亿元 - 搜狐网",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeGNabDI0WmM0bnUzb0JMeENSek9IOGYtV0ZQTzJ5akdpMmpwWDRKMEJFNHdwNVN4N25kcHAyNmJOUzk5UzNyNmlydW9MdWVabVRmN3pnc3Y5amxrUUlFaUxHWHlxUDk4R2xxZG5mNUh5d29LZXBqT19CUzN0YXUySGpXemp6WG9DeFE1MA?oc=5",
+   "source": "搜狐网",
+   "published": "2026-07-08T09:32:36+00:00",
+   "summary": "光电共封装CPO板块7月8日跌0.95%，广立微领跌，主力资金净流出16.4亿元 搜狐网",
+   "topics": [
+    "CPO/OCS/光模块",
+    "光互联"
    ]
   },
   {
@@ -1664,6 +1665,16 @@ window.RADAR_DATA = {
    ]
   },
   {
+   "title": "两大千亿市值龙头，股价新高 - 东方财富",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KdXRZUGlEdVF1T25XR043YzdVQmkwRzRLTnp0RmdIbFUxNW9ZNFQ1STRtdURVWE1abnRBSTdOYjdYbzNaeHRXZ2VWeWRKenFDX0paeVp2cG85TnpQT1dFTkt2Rm0xUQ?oc=5",
+   "source": "东方财富",
+   "published": "2026-07-08T04:33:38+00:00",
+   "summary": "两大千亿市值龙头，股价新高 东方财富",
+   "topics": [
+    "光互联"
+   ]
+  },
+  {
    "title": "14微米叠十层几乎0偏移！浦项科大把芯片堆叠密度干到HBM四倍 - 驱动之家",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42b0E2dGJvV21aVkN3ZWlsOFJqWFJkZDJRaVN6NVZnYXNYQUNQX2puNnVOYUtsWXRMSDNmZUJEVnZHUkw5cHZfM1Bza1dBT2ZSbnkwZkRxX1Q?oc=5",
    "source": "驱动之家",
@@ -1695,16 +1706,6 @@ window.RADAR_DATA = {
     "CPO/OCS/光模块",
     "光互联",
     "半导体"
-   ]
-  },
-  {
-   "title": "两大千亿市值龙头，股价新高 - 搜狐网",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQnM4ZUhQY0lxS1p5MUNuZXRiM2c5QjEwZTJUVGUzWEN6MU1zVkdfWVhqTTB2d1dQdmw2R1c3TTd0blpFSm5CSEhVaGRhRDBwSEVhTzNsem5ocFQxQXBndHVHWEpxZFpvMzc1QUROeEZIeHJyZV9FVVJXeUluYXJKUm1KYzFJMlZDVWlmTw?oc=5",
-   "source": "搜狐网",
-   "published": "2026-07-08T04:13:51+00:00",
-   "summary": "两大千亿市值龙头，股价新高 搜狐网",
-   "topics": [
-    "光互联"
    ]
   },
   {
@@ -1903,17 +1904,6 @@ window.RADAR_DATA = {
    "summary": "Yole：六年跃至1120亿美元 AI重塑光模块市场 iccsz.com",
    "topics": [
     "AI",
-    "CPO/OCS/光模块",
-    "光互联"
-   ]
-  },
-  {
-   "title": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！ - 财联社",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rNkJrODNtc2MxTGFTSVp0bHFlR09QR3BkMFhjR2lKLUdndlNQTGEyZDdyQ2pKVjJjaVZqd195OWtHbUhYaFFTaQ?oc=5",
-   "source": "财联社",
-   "published": "2026-07-08T02:10:17+00:00",
-   "summary": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！ 财联社",
-   "topics": [
     "CPO/OCS/光模块",
     "光互联"
    ]
