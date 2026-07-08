@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-08T14:13:34.752969+00:00",
+ "updated": "2026-07-08T14:16:57.833810+00:00",
  "new_stars": [
   {
    "name": "elder-plinius/T3MP3ST",
    "url": "https://github.com/elder-plinius/T3MP3ST",
    "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-   "stars": 3677,
+   "stars": 3679,
    "lang": "TypeScript",
    "created": "2026-07-02T17:53:55Z",
    "pushed": "2026-07-07T16:59:37Z"
@@ -14,7 +14,7 @@
    "name": "x4gKing/X4G",
    "url": "https://github.com/x4gKing/X4G",
    "desc": "",
-   "stars": 1714,
+   "stars": 1719,
    "lang": "Python",
    "created": "2026-07-04T06:43:51Z",
    "pushed": "2026-07-04T21:17:32Z"
@@ -23,7 +23,7 @@
    "name": "synthetic-sciences/openscience",
    "url": "https://github.com/synthetic-sciences/openscience",
    "desc": "The open-source AI workbench for scientific research",
-   "stars": 1642,
+   "stars": 1644,
    "lang": "TypeScript",
    "created": "2026-07-03T15:06:45Z",
    "pushed": "2026-07-08T13:44:26Z"
@@ -50,7 +50,7 @@
    "name": "jamesob/local-llm",
    "url": "https://github.com/jamesob/local-llm",
    "desc": "Everything I know about running LLMs locally",
-   "stars": 1247,
+   "stars": 1248,
    "lang": "Shell",
    "created": "2026-07-03T13:06:03Z",
    "pushed": "2026-07-08T10:07:31Z"
@@ -59,7 +59,7 @@
    "name": "MaximeRivest/riddle",
    "url": "https://github.com/MaximeRivest/riddle",
    "desc": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
-   "stars": 1152,
+   "stars": 1155,
    "lang": "Rust",
    "created": "2026-07-05T15:48:08Z",
    "pushed": "2026-07-07T17:43:20Z"
@@ -68,7 +68,7 @@
    "name": "xuchonglang/investing-for-beginners",
    "url": "https://github.com/xuchonglang/investing-for-beginners",
    "desc": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
-   "stars": 1079,
+   "stars": 1081,
    "lang": "",
    "created": "2026-07-03T03:56:00Z",
    "pushed": "2026-07-08T11:59:27Z"
@@ -140,7 +140,7 @@
    "name": "dzhng/skills",
    "url": "https://github.com/dzhng/skills",
    "desc": "",
-   "stars": 541,
+   "stars": 542,
    "lang": "JavaScript",
    "created": "2026-07-02T10:24:16Z",
    "pushed": "2026-07-08T13:59:29Z"
@@ -176,7 +176,7 @@
    "name": "wouterdebie/davit",
    "url": "https://github.com/wouterdebie/davit",
    "desc": "A native macOS UI for Apple's platform",
-   "stars": 454,
+   "stars": 455,
    "lang": "Swift",
    "created": "2026-07-04T16:50:17Z",
    "pushed": "2026-07-08T01:56:31Z"
@@ -221,7 +221,7 @@
    "name": "ai4s-research/open-science",
    "url": "https://github.com/ai4s-research/open-science",
    "desc": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + a",
-   "stars": 365,
+   "stars": 366,
    "lang": "TypeScript",
    "created": "2026-07-03T09:22:31Z",
    "pushed": "2026-07-08T10:35:21Z"
@@ -241,7 +241,7 @@
    "name": "NousResearch/hermes-agent",
    "url": "https://github.com/NousResearch/hermes-agent",
    "desc": "The agent that grows with you",
-   "stars": 211380,
+   "stars": 211382,
    "lang": "Python",
    "created": "2025-07-22T22:22:28Z",
    "pushed": "2026-07-08T14:12:22Z"
@@ -253,13 +253,13 @@
    "stars": 185430,
    "lang": "Python",
    "created": "2023-03-16T09:21:07Z",
-   "pushed": "2026-07-08T12:39:25Z"
+   "pushed": "2026-07-08T14:14:53Z"
   },
   {
    "name": "ollama/ollama",
    "url": "https://github.com/ollama/ollama",
    "desc": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-   "stars": 175724,
+   "stars": 175725,
    "lang": "Go",
    "created": "2023-06-26T19:39:32Z",
    "pushed": "2026-07-08T01:20:02Z"
@@ -280,7 +280,7 @@
    "stars": 162374,
    "lang": "Python",
    "created": "2018-10-29T13:56:00Z",
-   "pushed": "2026-07-08T14:05:38Z"
+   "pushed": "2026-07-08T14:16:57Z"
   },
   {
    "name": "langgenius/dify",
@@ -295,7 +295,7 @@
    "name": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
    "desc": "The API to search, scrape, and interact with the web at scale. 🔥",
-   "stars": 147622,
+   "stars": 147623,
    "lang": "TypeScript",
    "created": "2024-04-15T21:02:29Z",
    "pushed": "2026-07-08T13:54:20Z"
@@ -313,7 +313,7 @@
    "name": "browser-use/browser-use",
    "url": "https://github.com/browser-use/browser-use",
    "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-   "stars": 103472,
+   "stars": 103475,
    "lang": "Python",
    "created": "2024-10-31T16:00:56Z",
    "pushed": "2026-07-08T00:18:54Z"
@@ -322,7 +322,7 @@
    "name": "vllm-project/vllm",
    "url": "https://github.com/vllm-project/vllm",
    "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-   "stars": 85694,
+   "stars": 85695,
    "lang": "Python",
    "created": "2023-02-09T11:23:20Z",
    "pushed": "2026-07-08T13:43:16Z"
@@ -340,7 +340,7 @@
    "name": "DietrichGebert/ponytail",
    "url": "https://github.com/DietrichGebert/ponytail",
    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-   "stars": 77618,
+   "stars": 77620,
    "lang": "JavaScript",
    "created": "2026-06-12T00:52:37Z",
    "pushed": "2026-07-07T02:06:38Z"
@@ -349,7 +349,7 @@
    "name": "bytedance/deer-flow",
    "url": "https://github.com/bytedance/deer-flow",
    "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
-   "stars": 76484,
+   "stars": 76483,
    "lang": "Python",
    "created": "2025-05-07T02:50:19Z",
    "pushed": "2026-07-08T13:58:33Z"
@@ -379,7 +379,7 @@
    "stars": 67916,
    "lang": "Python",
    "created": "2023-11-29T16:50:09Z",
-   "pushed": "2026-07-08T14:11:53Z"
+   "pushed": "2026-07-08T14:16:30Z"
   },
   {
    "name": "datawhalechina/hello-agents",
@@ -406,7 +406,7 @@
    "stars": 60397,
    "lang": "Python",
    "created": "2023-06-20T08:58:36Z",
-   "pushed": "2026-07-08T13:44:05Z"
+   "pushed": "2026-07-08T14:13:54Z"
   },
   {
    "name": "sansan0/TrendRadar",
@@ -430,16 +430,16 @@
    "name": "headroomlabs-ai/headroom",
    "url": "https://github.com/headroomlabs-ai/headroom",
    "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-   "stars": 57755,
+   "stars": 57756,
    "lang": "Python",
    "created": "2026-01-07T19:58:51Z",
-   "pushed": "2026-07-08T13:37:46Z"
+   "pushed": "2026-07-08T14:16:38Z"
   },
   {
    "name": "MemPalace/mempalace",
    "url": "https://github.com/MemPalace/mempalace",
    "desc": "The best-benchmarked open-source AI memory system. And it's free.",
-   "stars": 57110,
+   "stars": 57111,
    "lang": "Python",
    "created": "2026-04-05T01:12:07Z",
    "pushed": "2026-07-08T10:25:52Z"
