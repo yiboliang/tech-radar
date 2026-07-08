@@ -40,6 +40,10 @@
   .summary { margin-top: 8px; font-size: 13px; color: var(--muted); line-height: 1.6; }
   .empty { text-align: center; color: var(--muted); padding: 60px 0; }
   mark { background: #feefc3; color: inherit; border-radius: 2px; }
+  .gh-section { font-size: 16px; font-weight: 500; color: var(--text); margin: 24px 0 12px; }
+  .gh-stars { color: #f9ab00; font-weight: 500; }
+  .gh-lang { display: inline-flex; align-items: center; gap: 4px; }
+  .gh-lang::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--accent); display: inline-block; }
 </style>
 </head>
 <body>
@@ -57,7 +61,9 @@
 </div>
 <script>
 const LS_KEY = "radar_keywords_v1";
+const GH_TAB = "GitHub热门";
 let DATA = { topics: [], items: [] };
+let TRENDING = null;
 let activeTab = "全部";
 let query = "";
 
@@ -69,11 +75,37 @@ let kws = loadKws();
 function esc(s) { return s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
 
 function renderTabs() {
-  const tabs = ["全部", ...DATA.topics];
+  const tabs = ["全部", ...DATA.topics, GH_TAB];
   document.getElementById("tabs").innerHTML = tabs.map(t =>
     `<button class="tab${t===activeTab?" active":""}" onclick="setTab('${t}')">${t}</button>`).join("");
 }
 function setTab(t) { activeTab = t; renderTabs(); renderList(); }
+
+function repoCard(r) {
+  const d = r.created ? new Date(r.created).toLocaleDateString("zh-CN") : "";
+  return `<div class="card">
+    <a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.name)}</a>
+    <div class="meta">
+      <span class="gh-stars">★ ${r.stars.toLocaleString()}</span>
+      ${r.lang ? `<span class="gh-lang">${esc(r.lang)}</span>` : ""}
+      ${d ? `<span>创建于 ${d}</span>` : ""}
+    </div>
+    ${r.desc ? `<div class="summary">${esc(r.desc)}</div>` : ""}
+  </div>`;
+}
+
+function renderTrending() {
+  const el = document.getElementById("list");
+  if (!TRENDING) { el.innerHTML = `<div class="empty">GitHub 热门数据尚未生成，等下一次自动抓取即可</div>`; return; }
+  const q = query.toLowerCase();
+  const f = arr => arr.filter(r => !q || (r.name + " " + r.desc).toLowerCase().includes(q));
+  const ns = f(TRENDING.new_stars || []), ai = f(TRENDING.ai_active || []);
+  el.innerHTML =
+    `<div class="gh-section">🚀 本周新星（近7天创建）</div>` +
+    (ns.length ? ns.map(repoCard).join("") : `<div class="empty">暂无</div>`) +
+    `<div class="gh-section">🔥 AI 热门活跃（近3天有更新）</div>` +
+    (ai.length ? ai.map(repoCard).join("") : `<div class="empty">暂无</div>`);
+}
 
 function renderKwBar() {
   const el = document.getElementById("kw-bar");
@@ -88,6 +120,7 @@ function toggleKw(i) { kws[i].on = !kws[i].on; saveKws(kws); renderKwBar(); rend
 function delKw(i) { kws.splice(i,1); saveKws(kws); renderKwBar(); renderList(); }
 
 function renderList() {
+  if (activeTab === GH_TAB) { renderTrending(); return; }
   const activeKws = kws.filter(k => k.on).map(k => k.word.toLowerCase());
   const q = query.toLowerCase();
   const rows = DATA.items.filter(it => {
@@ -135,6 +168,15 @@ fetch("data.json?_=" + Date.now()).then(r => r.json()).then(boot).catch(() => {
     document.getElementById("updated").textContent = "数据加载失败——请先运行 fetch_news.py 生成数据";
   }
 });
+
+fetch("trending.json?_=" + Date.now()).then(r => r.json())
+  .then(d => { TRENDING = d; if (activeTab === GH_TAB) renderList(); })
+  .catch(() => {
+    const s = document.createElement("script");
+    s.src = "trending.js";
+    s.onload = () => { if (window.RADAR_TRENDING) { TRENDING = window.RADAR_TRENDING; if (activeTab === GH_TAB) renderList(); } };
+    document.body.appendChild(s);
+  });
 </script>
 </body>
 </html>
