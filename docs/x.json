@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-08T16:41:15.142880+00:00",
+ "updated": "2026-07-08T19:28:49.626884+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -14,16 +14,79 @@
  "items": [
   {
    "user": "nvidia",
-   "text": "Enterprises don’t just need agents that perform. They need agents they can shape, govern and improve as their business evolves. That’s the idea behind our work with LangChain. Read more: https://nvda.ws/4p6tDjg",
-   "link": "https://x.com/nvidia/status/2074872091388903774",
-   "time": "2026-07-08T15:03:50+00:00",
+   "text": "R to @nvidia: See how we’re working with LangChain to pair benchmark-leading agent performance with an open stack enterprises can own, customize and run anywhere: https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack?ncid=so-link-913402",
+   "link": "https://x.com/nvidia/status/2074935713444081710",
+   "time": "2026-07-08T19:16:39+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "GPT-live (next-generation voice) launches today in ChatGPT. it feels magical and 'real'. i have always preferred typing to talking to an AI, now i think that's going to shift.",
+   "link": "https://x.com/sama/status/2074909079450050629",
+   "time": "2026-07-08T17:30:49+00:00",
    "rt": false
   },
   {
    "user": "OpenAI",
-   "text": "Listen up. Livestream at 10am.",
-   "link": "https://x.com/OpenAI/status/2074871151302774869",
-   "time": "2026-07-08T15:00:06+00:00",
+   "text": "R to @OpenAI: These new models are rolling out to everyone over the next few days, starting today. They’ll be available in ChatGPT across iOS, Android, and web. Coming soon to the API. Just tap the Voice button to talk with ChatGPT, and you’ll feel the magic of GPT-Live.",
+   "link": "https://x.com/OpenAI/status/2074907035225981169",
+   "time": "2026-07-08T17:22:41+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: For questions that require web search, deeper reasoning, or more complex work, GPT-Live can delegate to our latest frontier model behind the scenes, and brings the result back into the conversation when it's ready.",
+   "link": "https://x.com/OpenAI/status/2074907033577693636",
+   "time": "2026-07-08T17:22:41+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: A good voice model should be enjoyable to talk to, and GPT-Live is a great conversationalist with a more natural and defined personality than previous voice models.",
+   "link": "https://x.com/OpenAI/status/2074907031862190406",
+   "time": "2026-07-08T17:22:40+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Our full-duplex architecture allows the model to engage in more natural back-and-forth, maintain a better sense of time, and even perform live translation.",
+   "link": "https://x.com/OpenAI/status/2074907030343839925",
+   "time": "2026-07-08T17:22:40+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: GPT-Live is built on a full-duplex architecture, meaning it can listen and speak at the same time.",
+   "link": "https://x.com/OpenAI/status/2074907028733178359",
+   "time": "2026-07-08T17:22:40+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice model yet. https://openai.com/index/introducing-gpt-live/",
+   "link": "https://x.com/OpenAI/status/2074907027378511884",
+   "time": "2026-07-08T17:22:39+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "Pinned: Introducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.",
+   "link": "https://x.com/OpenAI/status/2074907025537224840",
+   "time": "2026-07-08T17:22:39+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "The next generation of ChatGPT Voice is here. Livestream starts at 10am PT. https://openai.com/live/",
+   "link": "https://x.com/OpenAI/status/2074897675343085993",
+   "time": "2026-07-08T16:45:30+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "Enterprises don’t just need agents that perform. They need agents they can shape, govern and improve as their business evolves. That’s the idea behind our work with LangChain. Read more: https://nvda.ws/4p6tDjg",
+   "link": "https://x.com/nvidia/status/2074872091388903774",
+   "time": "2026-07-08T15:03:50+00:00",
    "rt": false
   },
   {
@@ -38,13 +101,6 @@
    "text": "GPT-5.6 sol launches thursday! happy building",
    "link": "https://x.com/sama/status/2074709023807664454",
    "time": "2026-07-08T04:15:52+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "Pinned: GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.",
-   "link": "https://x.com/OpenAI/status/2074704958419792299",
-   "time": "2026-07-08T03:59:42+00:00",
    "rt": false
   },
   {
@@ -122,13 +178,6 @@
    "text": "R to @nvidia: Check out our sessions: https://nvda.ws/44KNNWA",
    "link": "https://x.com/nvidia/status/2074191660615864487",
    "time": "2026-07-06T18:00:03+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "🌍 At the #AIforGood Summit in Geneva, we are helping shape how AI is built for global impact. From closing the infrastructure gap and expanding access to compute to advancing digital trust in an era of autonomous systems, we are working with leaders across sectors to ensure AI benefits everyone—not just a few. As adoption scales, trust is becoming the defining challenge. Conversations focus on bui",
-   "link": "https://x.com/nvidia/status/2074191650792902838",
-   "time": "2026-07-06T18:00:00+00:00",
    "rt": false
   },
   {
