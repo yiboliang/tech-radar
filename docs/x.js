@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-09T19:49:49.083173+00:00",
+ "updated": "2026-07-09T22:24:04.702928+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,27 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Meet the Wishingrads. A family running a cereal business from their dining room with GPT-5.6.",
+   "link": "https://x.com/OpenAI/status/2075310022121472399",
+   "time": "2026-07-09T20:04:01+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6",
+   "link": "https://x.com/OpenAI/status/2075310020653351324",
+   "time": "2026-07-09T20:04:00+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.",
+   "link": "https://x.com/OpenAI/status/2075310019185389913",
+   "time": "2026-07-09T20:04:00+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "R to @nvidia: Learn more: https://nvda.ws/44mMOfd",
@@ -90,20 +111,6 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.",
-   "link": "https://x.com/OpenAI/status/2075271432041545782",
-   "time": "2026-07-09T17:30:40+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.",
-   "link": "https://x.com/OpenAI/status/2075271421149020426",
-   "time": "2026-07-09T17:30:38+00:00",
-   "rt": false
-  },
-  {
    "user": "sama",
    "text": "we have heard enterprises on their concerns about AI costs, and 5.6 sol is a huge step forward for dollars-per-task, as are terra and luna",
    "link": "https://x.com/sama/status/2075267201058426944",
@@ -122,13 +129,6 @@ window.RADAR_X = {
    "text": "5.6 livestream going now. in addition to the model, 3 major product things. 1. ChatGPT Work--really big deal! 2. new ChatGPT desktop app 3. hosted sites",
    "link": "https://x.com/sama/status/2075264378962907597",
    "time": "2026-07-09T17:02:39+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "It all comes together in 10 minutes. http://openai.com/live",
-   "link": "https://x.com/OpenAI/status/2075261330995790037",
-   "time": "2026-07-09T16:50:32+00:00",
    "rt": false
   },
   {
@@ -217,10 +217,10 @@ window.RADAR_X = {
   },
   {
    "user": "nvidia",
-   "text": "R to @nvidia: See how we’re working with LangChain to pair benchmark-leading agent performance with an open stack enterprises can own, customize and run anywhere: https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack?ncid=so-link-913402",
-   "link": "https://x.com/nvidia/status/2074935713444081710",
-   "time": "2026-07-08T19:16:39+00:00",
-   "rt": false
+   "text": "RT by @nvidia: The DGX Spark is an incredible piece of hardware. Running it to almost full GPU and RAM utilization and it still doesn’t have any issues with the heat. Unified memory is the way to go for maximizing token value per watt.",
+   "link": "https://x.com/AravSrinivas/status/2074900231175684573",
+   "time": "2026-07-08T16:55:39+00:00",
+   "rt": true
   },
   {
    "user": "GoogleDeepMind",
@@ -249,20 +249,6 @@ window.RADAR_X = {
    "link": "https://x.com/GoogleDeepMind/status/2074513661750546762",
    "time": "2026-07-07T15:19:34+00:00",
    "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "Creative structures are needed to get GPUs in the hands of startups + other companies that aren't Meta, OpenAI, Anthropic, SpaceXAI, Microsoft, Amazon, Google AI Debt Financing will be over $7T of debt outstanding by 2029 driven by needs of neoclouds, DC builders, + hyperscalers",
-   "link": "https://x.com/dylan522p/status/2074253849095999616",
-   "time": "2026-07-06T22:07:10+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "RT by @dylan522p: Who knew that @FireworksAI_HQ fast inference was so scary",
-   "link": "https://x.com/SemiAnalysis_/status/2074237222853984478",
-   "time": "2026-07-06T21:01:06+00:00",
-   "rt": true
   }
  ]
 };
