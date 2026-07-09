@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-09T09:53:30.867801+00:00",
+ "updated": "2026-07-09T15:15:02.148361+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -252,30 +252,9 @@ window.RADAR_X = {
   },
   {
    "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: This doesn’t show that Claude can have experiences, or feel things the way we do (it’s unclear whether any experiment could show this). Instead, we’ve found Claude has developed a mechanism for conscious access—which many philosophers distinguish from phenomenal experience.",
-   "link": "https://x.com/AnthropicAI/status/2074185381637988750",
-   "time": "2026-07-06T17:35:06+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: The J-space also shows us Claude’s awareness of its situation. In an evaluation designed to bait Claude into blackmail, its J-space contains “fake” and “fictional”: Claude has privately noticed that the scenario is staged.",
-   "link": "https://x.com/AnthropicAI/status/2074185378404192561",
-   "time": "2026-07-06T17:35:05+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: Observing the J-space can expose hidden goals. In a model secretly trained to sabotage code, “fake,” “secretly,” and “fraud” appear in the J-space at the start of ordinary coding responses, even when the output looks completely unremarkable.",
-   "link": "https://x.com/AnthropicAI/status/2074185373341688258",
-   "time": "2026-07-06T17:35:04+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: For most things, Claude actually doesn’t need its J-space. If we delete the J-space, Claude still speaks fluently, recalls facts, and classifies text—but becomes bad at some tasks like multi-step reasoning. It’s similar to deliberate vs. automatic processing in human cognition.",
-   "link": "https://x.com/AnthropicAI/status/2074185368061026745",
-   "time": "2026-07-06T17:35:02+00:00",
+   "text": "New Anthropic research: A global workspace in language models. Of everything happening in your brain right now, only a tiny fraction is consciously accessible—thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside Claude.",
+   "link": "https://x.com/AnthropicAI/status/2074185348142280912",
+   "time": "2026-07-06T17:34:58+00:00",
    "rt": false
   },
   {
