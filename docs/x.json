@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-09T15:15:02.148361+00:00",
+ "updated": "2026-07-09T19:49:49.083173+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,153 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Learn more: https://nvda.ws/44mMOfd",
+   "link": "https://x.com/nvidia/status/2075293919651168600",
+   "time": "2026-07-09T19:00:02+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "The classroom is being reimagined — and NVIDIA is bringing together the people building what's next. At SIGGRAPH 2026, join an expert panel for How AI Is Changing Education — a candid look at how AI is reshaping the way students learn, educators teach, and institutions deliver knowledge at scale.",
+   "link": "https://x.com/nvidia/status/2075293913213018544",
+   "time": "2026-07-09T19:00:00+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "check this out! you can get some amazing things done. codex is the core of our new work product and what makes it so good. codex is not going anywhere.",
+   "link": "https://x.com/sama/status/2075293792048136572",
+   "time": "2026-07-09T18:59:31+00:00",
+   "rt": false
+  },
+  {
+   "user": "dylan522p",
+   "text": "RT by @dylan522p: BREAKING: Dylan Patel (@dylan522p) of @SemiAnalysis_ says \"chips in Europe have less seasoning than chips in America & Mexico.\" Plus: › Data centers & France’s nuclear power › AI infrastructure over-optimization › Flexibility vs. specialized infrastructure › Software-hardware co-design › Open vs. closed models › Memory costs & token pricing › Tokenmaxxing vs. token budgeting › Ha",
+   "link": "https://x.com/MollySOShea/status/2075290667031404588",
+   "time": "2026-07-09T18:47:06+00:00",
+   "rt": true
+  },
+  {
+   "user": "nvidia",
+   "text": "NVIDIA teams run ChatGPT Work to automate workflows, surface insights faster, and cut operation costs. Our full-stack collaboration continues to scale. GPT-5.6 builds on GPT-5.5, trained and run on NVIDIA GB200 and GB300 NVL72 rack-scale systems. Congratulations to the @OpenAI team on the launch. 🎉",
+   "link": "https://x.com/nvidia/status/2075283846657175683",
+   "time": "2026-07-09T18:20:00+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: On web and mobile, ChatGPT Work is rolling out today for Pro, Enterprise, and Edu plans. It will roll out to Plus and Business plans over the next few days. In the ChatGPT desktop app, Chat, Work, and Codex are available on every plan, including Free, and is available globally to download on Windows and Mac. Codex app users can update their app as usual—it will become the new ChatGPT",
+   "link": "https://x.com/OpenAI/status/2075274276849226204",
+   "time": "2026-07-09T17:41:58+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: ChatGPT Work is powered by GPT-5.6. GPT-5.6 makes ChatGPT state of the art at reasoning through complex tasks and creating materials that match your templates, reference files, and preferred style. Just describe the outcome you want, without having to spell out every step to get there.",
+   "link": "https://x.com/OpenAI/status/2075274275104399670",
+   "time": "2026-07-09T17:41:58+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: ChatGPT Work reflects a shift in how people are using AI, moving beyond just answering questions to getting real work done across web, mobile, and desktop. You can ask ChatGPT Work to take on entire workflows with a single request. It will understand your goals, use context from selected apps and files, create polished documents, decks, analyses, sites, and reports, and keep work mov",
+   "link": "https://x.com/OpenAI/status/2075274273607037403",
+   "time": "2026-07-09T17:41:58+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "Pinned: Introducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6. It can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work. It’s a whole new way to get work done.",
+   "link": "https://x.com/OpenAI/status/2075274271845404744",
+   "time": "2026-07-09T17:41:57+00:00",
+   "rt": false
+  },
+  {
+   "user": "AnthropicAI",
+   "text": "RT by @AnthropicAI: There’s hope in hard questions.",
+   "link": "https://x.com/claudeai/status/2075271759289303522",
+   "time": "2026-07-09T17:31:58+00:00",
+   "rt": true
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: GPT‑5.6 is available starting today across ChatGPT, Codex, and the OpenAI API. The rollout is starting globally now and will continue gradually toward full availability over the next 24 hours. In ChatGPT, Plus, Pro, Business, and Enterprise users access GPT-5.6 Sol through medium and higher effort settings. Pro and Enterprise users can also select GPT‑5.6 Pro for the highest-quality ",
+   "link": "https://x.com/OpenAI/status/2075271435573244008",
+   "time": "2026-07-09T17:30:41+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.",
+   "link": "https://x.com/OpenAI/status/2075271432041545782",
+   "time": "2026-07-09T17:30:40+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.",
+   "link": "https://x.com/OpenAI/status/2075271421149020426",
+   "time": "2026-07-09T17:30:38+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "we have heard enterprises on their concerns about AI costs, and 5.6 sol is a huge step forward for dollars-per-task, as are terra and luna",
+   "link": "https://x.com/sama/status/2075267201058426944",
+   "time": "2026-07-09T17:13:51+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "obviously the best model we have ever produced, but also one of the best blog posts we have ever produced: https://openai.com/index/gpt-5-6/",
+   "link": "https://x.com/sama/status/2075266471316615436",
+   "time": "2026-07-09T17:10:58+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "5.6 livestream going now. in addition to the model, 3 major product things. 1. ChatGPT Work--really big deal! 2. new ChatGPT desktop app 3. hosted sites",
+   "link": "https://x.com/sama/status/2075264378962907597",
+   "time": "2026-07-09T17:02:39+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "It all comes together in 10 minutes. http://openai.com/live",
+   "link": "https://x.com/OpenAI/status/2075261330995790037",
+   "time": "2026-07-09T16:50:32+00:00",
+   "rt": false
+  },
+  {
+   "user": "AnthropicAI",
+   "text": "Our Long-Term Benefit Trust has appointed Dr. Ben Bernanke as its newest member. Read more: https://www.anthropic.com/news/ben-bernanke",
+   "link": "https://x.com/AnthropicAI/status/2075257492716879967",
+   "time": "2026-07-09T16:35:17+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: Today. 10am PT.",
+   "link": "https://x.com/OpenAI/status/2075254288956440848",
+   "time": "2026-07-09T16:22:33+00:00",
+   "rt": true
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "RT by @GoogleDeepMind: AlphaEvolve is now GA on Google Cloud! Co-developed with @GoogleDeepMind, AlphaEvolve is a Gemini-powered evolutionary agent that autonomously designs and discovers highly optimized code to solve your hardest problems and algorithmic bottlenecks across industries: https://goo.gle/4eStb4P",
+   "link": "https://x.com/googlecloud/status/2075251885276012668",
+   "time": "2026-07-09T16:13:00+00:00",
+   "rt": true
+  },
+  {
+   "user": "nvidia",
+   "text": "Every @NVIDIAGeForce generation has a story. Which graphics card and game started yours? Tell us below. 👇 #CollectRTX",
+   "link": "https://x.com/nvidia/status/2075248918011801686",
+   "time": "2026-07-09T16:01:12+00:00",
+   "rt": false
+  },
   {
    "user": "sama",
    "text": "what a good video",
@@ -34,27 +181,6 @@
    "rt": false
   },
   {
-   "user": "sama",
-   "text": "🫶",
-   "link": "https://x.com/sama/status/2075047983314571764",
-   "time": "2026-07-09T02:42:46+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "i do love rottweilers",
-   "link": "https://x.com/sama/status/2075047747250684352",
-   "time": "2026-07-09T02:41:50+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "GPT-Live is now fully rolled out to all ChatGPT users on Go, Plus, and Pro plans. Free user rollout is in progress. Update to the latest version of the ChatGPT app on iOS or Android to try it out.",
-   "link": "https://x.com/OpenAI/status/2075019750569378007",
-   "time": "2026-07-09T00:50:35+00:00",
-   "rt": false
-  },
-  {
    "user": "AnthropicAI",
    "text": "We’re pleased to have collaborated with AE Studio on this research. Read more here: https://www.anthropic.com/research/off-switch-dual-use",
    "link": "https://x.com/AnthropicAI/status/2075005777522172146",
@@ -69,32 +195,11 @@
    "rt": false
   },
   {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: As coding models improve, evals need to become harder, fairer, and more trustworthy. Better benchmarks help the field understand real progress and where the frontier is moving.",
-   "link": "https://x.com/OpenAI/status/2074972185895342084",
-   "time": "2026-07-08T21:41:34+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from five independent experienced software engineers. That helped us examine tasks at scale while keeping expert judgment at the center.",
-   "link": "https://x.com/OpenAI/status/2074972182640492731",
-   "time": "2026-07-08T21:41:34+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Our audit of SWE-Bench Pro found that a meaningful share of public tasks contain issues that can distort results. Some correct solutions fail because of hidden requirements, contradictory instructions, overly strict tests, or incomplete grading criteria.",
-   "link": "https://x.com/OpenAI/status/2074972180769907186",
-   "time": "2026-07-08T21:41:33+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "We audited SWE-Bench Pro, one of the most widely used AI coding benchmarks, and found it no longer reliably measures frontier coding capability. We find 30% of SWE-Bench Pro tasks to be broken, and are retracting our previous recommendation that the research community use it as a leading coding eval. https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-   "link": "https://x.com/OpenAI/status/2074972179385720836",
-   "time": "2026-07-08T21:41:33+00:00",
-   "rt": false
+   "user": "karpathy",
+   "text": "RT by @karpathy: Rewriting Bun in Rust https://bun.com/blog/bun-in-rust",
+   "link": "https://x.com/jarredsumner/status/2074973674332123157",
+   "time": "2026-07-08T21:47:29+00:00",
+   "rt": true
   },
   {
    "user": "nvidia",
@@ -111,59 +216,10 @@
    "rt": false
   },
   {
-   "user": "sama",
-   "text": "RT by @sama: I had a pretty similar experience A bunch of my tweets about missing Fable were actually about missing GPT 5.6 Sol, but I couldn’t say it so said Fable instead Fable is really good and maybe better in some ways, but I vastly prefer GPT 5.6 Sol",
-   "link": "https://x.com/mweinbach/status/2074944427689202158",
-   "time": "2026-07-08T19:51:16+00:00",
-   "rt": true
-  },
-  {
    "user": "nvidia",
    "text": "R to @nvidia: See how we’re working with LangChain to pair benchmark-leading agent performance with an open stack enterprises can own, customize and run anywhere: https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack?ncid=so-link-913402",
    "link": "https://x.com/nvidia/status/2074935713444081710",
    "time": "2026-07-08T19:16:39+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "RT by @sama: We've usually stayed away from model comparisons but 5.6 vs Fable is a unique situation We've never had a case where the team is so completely convinced on which one is better Here's the timeline of our experience with it - We test early versions of 5.6 for a couple of weeks and have a great time, it feels like a step change improvement, enabling new workflows - We get to try Fable an",
-   "link": "https://x.com/jayair/status/2074929399842078839",
-   "time": "2026-07-08T18:51:33+00:00",
-   "rt": true
-  },
-  {
-   "user": "sama",
-   "text": "GPT-live (next-generation voice) launches today in ChatGPT. it feels magical and 'real'. i have always preferred typing to talking to an AI, now i think that's going to shift.",
-   "link": "https://x.com/sama/status/2074909079450050629",
-   "time": "2026-07-08T17:30:49+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: These new models are rolling out to everyone over the next few days, starting today. They’ll be available in ChatGPT across iOS, Android, and web. Coming soon to the API. Just tap the Voice button to talk with ChatGPT, and you’ll feel the magic of GPT-Live.",
-   "link": "https://x.com/OpenAI/status/2074907035225981169",
-   "time": "2026-07-08T17:22:41+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: For questions that require web search, deeper reasoning, or more complex work, GPT-Live can delegate to our latest frontier model behind the scenes, and brings the result back into the conversation when it's ready.",
-   "link": "https://x.com/OpenAI/status/2074907033577693636",
-   "time": "2026-07-08T17:22:41+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: A good voice model should be enjoyable to talk to, and GPT-Live is a great conversationalist with a more natural and defined personality than previous voice models.",
-   "link": "https://x.com/OpenAI/status/2074907031862190406",
-   "time": "2026-07-08T17:22:40+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Enterprises don’t just need agents that perform. They need agents they can shape, govern and improve as their business evolves. That’s the idea behind our work with LangChain. Read more: https://nvda.ws/4p6tDjg",
-   "link": "https://x.com/nvidia/status/2074872091388903774",
-   "time": "2026-07-08T15:03:50+00:00",
    "rt": false
   },
   {
@@ -172,27 +228,6 @@
    "link": "https://x.com/ShaneLegg/status/2074783586973061351",
    "time": "2026-07-08T09:12:09+00:00",
    "rt": true
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Learn more: https://nvda.ws/4yoIBFM",
-   "link": "https://x.com/nvidia/status/2074584283918823818",
-   "time": "2026-07-07T20:00:11+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Join NVIDIA for AI in Production Day at SIGGRAPH 2026. 🎥 On Thursday, July 23, explore how generative and agentic AI are moving into real-world creative pipelines through a full day of sessions focused on film, animation, storytelling, and production workflows. Hear from industry experts on how AI is helping teams direct generative video, support artist-centered pipelines, modernize animation and ",
-   "link": "https://x.com/nvidia/status/2074584281662300649",
-   "time": "2026-07-07T20:00:11+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: 📖 Read this inspiring success story on how AI is democratizing medical knowledge globally: https://nvda.ws/3RnB5dp",
-   "link": "https://x.com/nvidia/status/2074554041137353035",
-   "time": "2026-07-07T18:00:01+00:00",
-   "rt": false
   },
   {
    "user": "GoogleDeepMind",
@@ -210,7 +245,7 @@
   },
   {
    "user": "GoogleDeepMind",
-   "text": "🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets historians study Greek and Latin texts using plain English. 🧵",
+   "text": "Pinned: 🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets historians study Greek and Latin texts using plain English. 🧵",
    "link": "https://x.com/GoogleDeepMind/status/2074513661750546762",
    "time": "2026-07-07T15:19:34+00:00",
    "rt": false
@@ -228,41 +263,6 @@
    "link": "https://x.com/SemiAnalysis_/status/2074237222853984478",
    "time": "2026-07-06T21:01:06+00:00",
    "rt": true
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: We also partnered with Neuronpedia to create an interactive demo of our methods on open-weights models. Try it here: http://neuronpedia.org/jlens",
-   "link": "https://x.com/AnthropicAI/status/2074185390060110138",
-   "time": "2026-07-06T17:35:08+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: The J-space lets us read, audit, and shape what Claude is actively thinking about—useful tools for keeping models trustworthy as they grow more capable. And it suggests surprising parallels between language models and our own minds. Read the full paper: http://transformer-circuits.pub/2026/workspace/index.html",
-   "link": "https://x.com/AnthropicAI/status/2074185387577094398",
-   "time": "2026-07-06T17:35:07+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: We invited experts in neuroscience, philosophy, and interpretability to share their perspectives on our work. Read their commentary here: https://www-cdn.anthropic.com/files/4zrzovbb/website/cc4be2488d65e54a6ed06492f8968398ddc18ebe.pdf",
-   "link": "https://x.com/AnthropicAI/status/2074185384792109380",
-   "time": "2026-07-06T17:35:06+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "New Anthropic research: A global workspace in language models. Of everything happening in your brain right now, only a tiny fraction is consciously accessible—thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside Claude.",
-   "link": "https://x.com/AnthropicAI/status/2074185348142280912",
-   "time": "2026-07-06T17:34:58+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "Pinned: As @Apptronik expands their Robot Park facility, our research partnership means real-world data collected by the latest Apollo 2 humanoid platform will help train and advance Gemini Robotics. 🤖 Find out more → https://goo.gle/4vOPwpO",
-   "link": "https://x.com/GoogleDeepMind/status/2074157282477154597",
-   "time": "2026-07-06T15:43:26+00:00",
-   "rt": false
   }
  ]
 }
