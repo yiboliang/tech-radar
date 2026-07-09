@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-08T22:09:22.747103+00:00",
+ "updated": "2026-07-09T03:31:04.010936+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,48 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "it surely doesnt",
+   "link": "https://x.com/sama/status/2075048072837734448",
+   "time": "2026-07-09T02:43:07+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "🫶",
+   "link": "https://x.com/sama/status/2075047983314571764",
+   "time": "2026-07-09T02:42:46+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "i do love rottweilers",
+   "link": "https://x.com/sama/status/2075047747250684352",
+   "time": "2026-07-09T02:41:50+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "GPT-Live is now fully rolled out to all ChatGPT users on Go, Plus, and Pro plans. Free user rollout is in progress. Update to the latest version of the ChatGPT app on iOS or Android to try it out.",
+   "link": "https://x.com/OpenAI/status/2075019750569378007",
+   "time": "2026-07-09T00:50:35+00:00",
+   "rt": false
+  },
+  {
+   "user": "AnthropicAI",
+   "text": "We’re pleased to have collaborated with AE Studio on this research. Read more here: https://www.anthropic.com/research/off-switch-dual-use",
+   "link": "https://x.com/AnthropicAI/status/2075005777522172146",
+   "time": "2026-07-08T23:55:03+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "Congrats to @SpaceXAI on Grok 4.5 — trained on NVIDIA GB300 NVL72 systems and purpose-built for coding, agentic tasks, and knowledge work. This is what happens when world-class AI infrastructure meets world-class AI research.",
+   "link": "https://x.com/nvidia/status/2074979063106843131",
+   "time": "2026-07-08T22:08:54+00:00",
+   "rt": false
+  },
   {
    "user": "OpenAI",
    "text": "R to @OpenAI: As coding models improve, evals need to become harder, fairer, and more trustworthy. Better benchmarks help the field understand real progress and where the frontier is moving.",
@@ -55,11 +97,25 @@
    "rt": false
   },
   {
+   "user": "sama",
+   "text": "RT by @sama: I had a pretty similar experience A bunch of my tweets about missing Fable were actually about missing GPT 5.6 Sol, but I couldn’t say it so said Fable instead Fable is really good and maybe better in some ways, but I vastly prefer GPT 5.6 Sol",
+   "link": "https://x.com/mweinbach/status/2074944427689202158",
+   "time": "2026-07-08T19:51:16+00:00",
+   "rt": true
+  },
+  {
    "user": "nvidia",
    "text": "R to @nvidia: See how we’re working with LangChain to pair benchmark-leading agent performance with an open stack enterprises can own, customize and run anywhere: https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack?ncid=so-link-913402",
    "link": "https://x.com/nvidia/status/2074935713444081710",
    "time": "2026-07-08T19:16:39+00:00",
    "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: We've usually stayed away from model comparisons but 5.6 vs Fable is a unique situation We've never had a case where the team is so completely convinced on which one is better Here's the timeline of our experience with it - We test early versions of 5.6 for a couple of weeks and have a great time, it feels like a step change improvement, enabling new workflows - We get to try Fable an",
+   "link": "https://x.com/jayair/status/2074929399842078839",
+   "time": "2026-07-08T18:51:33+00:00",
+   "rt": true
   },
   {
    "user": "sama",
@@ -86,13 +142,6 @@
    "user": "OpenAI",
    "text": "R to @OpenAI: A good voice model should be enjoyable to talk to, and GPT-Live is a great conversationalist with a more natural and defined personality than previous voice models.",
    "link": "https://x.com/OpenAI/status/2074907031862190406",
-   "time": "2026-07-08T17:22:40+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Our full-duplex architecture allows the model to engage in more natural back-and-forth, maintain a better sense of time, and even perform live translation.",
-   "link": "https://x.com/OpenAI/status/2074907030343839925",
    "time": "2026-07-08T17:22:40+00:00",
    "rt": false
   },
@@ -136,13 +185,6 @@
    "text": "R to @nvidia: 📖 Read this inspiring success story on how AI is democratizing medical knowledge globally: https://nvda.ws/3RnB5dp",
    "link": "https://x.com/nvidia/status/2074554041137353035",
    "time": "2026-07-07T18:00:01+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "🌍 20 million lives impacted every single year. That is the power of technology when it is purposefully engineered to serve humanity. In many low and middle-income countries, healthcare professionals face immense barriers such as unreliable internet, a lack of localized content, and language gaps that can delay critical care. To bridge this gap, Techies Without Borders built an AI-powered experimen",
-   "link": "https://x.com/nvidia/status/2074554037509185674",
-   "time": "2026-07-07T18:00:00+00:00",
    "rt": false
   },
   {
@@ -203,37 +245,9 @@
   },
   {
    "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: This doesn’t show that Claude can have experiences, or feel things the way we do (it’s unclear whether any experiment could show this). Instead, we’ve found Claude has developed a mechanism for conscious access—which many philosophers distinguish from phenomenal experience.",
-   "link": "https://x.com/AnthropicAI/status/2074185381637988750",
-   "time": "2026-07-06T17:35:06+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: The J-space also shows us Claude’s awareness of its situation. In an evaluation designed to bait Claude into blackmail, its J-space contains “fake” and “fictional”: Claude has privately noticed that the scenario is staged.",
-   "link": "https://x.com/AnthropicAI/status/2074185378404192561",
-   "time": "2026-07-06T17:35:05+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: Observing the J-space can expose hidden goals. In a model secretly trained to sabotage code, “fake,” “secretly,” and “fraud” appear in the J-space at the start of ordinary coding responses, even when the output looks completely unremarkable.",
-   "link": "https://x.com/AnthropicAI/status/2074185373341688258",
-   "time": "2026-07-06T17:35:04+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: For most things, Claude actually doesn’t need its J-space. If we delete the J-space, Claude still speaks fluently, recalls facts, and classifies text—but becomes bad at some tasks like multi-step reasoning. It’s similar to deliberate vs. automatic processing in human cognition.",
-   "link": "https://x.com/AnthropicAI/status/2074185368061026745",
-   "time": "2026-07-06T17:35:02+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: Similar to how humans can think about one thing while doing another, Claude can activate concepts and computations in its J-space that are unrelated to its outputs.",
-   "link": "https://x.com/AnthropicAI/status/2074185363401167261",
-   "time": "2026-07-06T17:35:01+00:00",
+   "text": "New Anthropic research: A global workspace in language models. Of everything happening in your brain right now, only a tiny fraction is consciously accessible—thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside Claude.",
+   "link": "https://x.com/AnthropicAI/status/2074185348142280912",
+   "time": "2026-07-06T17:34:58+00:00",
    "rt": false
   },
   {
