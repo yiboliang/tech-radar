@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-10T09:39:12.162080+00:00",
+ "updated": "2026-07-10T14:31:48.715166+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,27 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/",
+   "link": "https://x.com/sama/status/2075585386441789605",
+   "time": "2026-07-10T14:18:13+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "makes us happy to see people love 5.6 sol so much!",
+   "link": "https://x.com/sama/status/2075579646373216282",
+   "time": "2026-07-10T13:55:24+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "the sun is out today",
+   "link": "https://x.com/sama/status/2075579012223787402",
+   "time": "2026-07-10T13:52:53+00:00",
+   "rt": false
+  },
   {
    "user": "dylan522p",
    "text": "RT by @dylan522p: compute daddy @dylan522p has spoken",
@@ -42,15 +63,15 @@
   },
   {
    "user": "OpenAI",
-   "text": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.",
-   "link": "https://x.com/OpenAI/status/2075310019185389913",
+   "text": "R to @OpenAI: Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6",
+   "link": "https://x.com/OpenAI/status/2075310020653351324",
    "time": "2026-07-09T20:04:00+00:00",
    "rt": false
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6",
-   "link": "https://x.com/OpenAI/status/2075310020653351324",
+   "text": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.",
+   "link": "https://x.com/OpenAI/status/2075310019185389913",
    "time": "2026-07-09T20:04:00+00:00",
    "rt": false
   },
@@ -80,6 +101,13 @@
    "text": "RT by @dylan522p: BREAKING: Dylan Patel (@dylan522p) of @SemiAnalysis_ says \"chips in Europe have less seasoning than chips in America & Mexico.\" Plus: › Data centers & France’s nuclear power › AI infrastructure over-optimization › Flexibility vs. specialized infrastructure › Software-hardware co-design › Open vs. closed models › Memory costs & token pricing › Tokenmaxxing vs. token budgeting › Ha",
    "link": "https://x.com/MollySOShea/status/2075290667031404588",
    "time": "2026-07-09T18:47:06+00:00",
+   "rt": true
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: Massive day for us @OpenAI: - GPT-5.6 SOTA at ~everything & by far most token efficient - Agents for everyone in the new ChatGPT app Work and Codex modes - Work mode available on desktop (most powerful), web & mobile - Ultra mode - Sites out to everyone - Artifact templates",
+   "link": "https://x.com/embirico/status/2075287410032918853",
+   "time": "2026-07-09T18:34:10+00:00",
    "rt": true
   },
   {
@@ -126,9 +154,9 @@
   },
   {
    "user": "OpenAI",
-   "text": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.",
-   "link": "https://x.com/OpenAI/status/2075271421149020426",
-   "time": "2026-07-09T17:30:38+00:00",
+   "text": "R to @OpenAI: GPT‑5.6 is available starting today across ChatGPT, Codex, and the OpenAI API. The rollout is starting globally now and will continue gradually toward full availability over the next 24 hours. In ChatGPT, Plus, Pro, Business, and Enterprise users access GPT-5.6 Sol through medium and higher effort settings. Pro and Enterprise users can also select GPT‑5.6 Pro for the highest-quality ",
+   "link": "https://x.com/OpenAI/status/2075271435573244008",
+   "time": "2026-07-09T17:30:41+00:00",
    "rt": false
   },
   {
@@ -139,39 +167,11 @@
    "rt": true
   },
   {
-   "user": "sama",
-   "text": "we have heard enterprises on their concerns about AI costs, and 5.6 sol is a huge step forward for dollars-per-task, as are terra and luna",
-   "link": "https://x.com/sama/status/2075267201058426944",
-   "time": "2026-07-09T17:13:51+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "obviously the best model we have ever produced, but also one of the best blog posts we have ever produced: https://openai.com/index/gpt-5-6/",
-   "link": "https://x.com/sama/status/2075266471316615436",
-   "time": "2026-07-09T17:10:58+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "5.6 livestream going now. in addition to the model, 3 major product things. 1. ChatGPT Work--really big deal! 2. new ChatGPT desktop app 3. hosted sites",
-   "link": "https://x.com/sama/status/2075264378962907597",
-   "time": "2026-07-09T17:02:39+00:00",
-   "rt": false
-  },
-  {
    "user": "AnthropicAI",
    "text": "Our Long-Term Benefit Trust has appointed Dr. Ben Bernanke as its newest member. Read more: https://www.anthropic.com/news/ben-bernanke",
    "link": "https://x.com/AnthropicAI/status/2075257492716879967",
    "time": "2026-07-09T16:35:17+00:00",
    "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "RT by @sama: Today. 10am PT.",
-   "link": "https://x.com/OpenAI/status/2075254288956440848",
-   "time": "2026-07-09T16:22:33+00:00",
-   "rt": true
   },
   {
    "user": "GoogleDeepMind",
