@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-10T14:31:48.715166+00:00",
+ "updated": "2026-07-10T16:57:50.751939+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,34 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "GoogleDeepMind",
+   "text": "R to @GoogleDeepMind: Watch → https://goo.gle/4pxlGEh Spotify → https://goo.gle/4f89R2a Apple Podcasts → https://goo.gle/4fpWThL Or listen wherever you get your podcasts! 🎧",
+   "link": "https://x.com/GoogleDeepMind/status/2075620285923905602",
+   "time": "2026-07-10T16:36:53+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "A model’s chain of thought acts like a scratch pad, offering a window into its reasoning. 📝 On the latest episode of our podcast, host @fryrsquared sits down with @NeelNanda5 to explore interpretability – the science of reverse engineering how neural networks learn and think. Timecodes: 00:00 Introduction 02:41 Motivation for interpretability research 04:01 Mechanistic interpretability 08:14 Chain",
+   "link": "https://x.com/GoogleDeepMind/status/2075620281515929716",
+   "time": "2026-07-10T16:36:52+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: → Watch the full interview: https://nvda.ws/4ybqvXq",
+   "link": "https://x.com/nvidia/status/2075611008417087901",
+   "time": "2026-07-10T16:00:02+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "Every AI response you've ever gotten started with an electron. ⚡ In a recent interview with Sequoia Capital, Jensen Huang described AI infrastructure as a five-layer cake, and at the very bottom, before chips, before data centers, before models, is energy. That's the binding constraint on the Intelligence Age: not compute, not software — watts. This is why NVIDIA calls AI factories the dynamos of ",
+   "link": "https://x.com/nvidia/status/2075611004508029149",
+   "time": "2026-07-10T16:00:01+00:00",
+   "rt": false
+  },
   {
    "user": "sama",
    "text": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/",
@@ -202,25 +230,11 @@
    "rt": false
   },
   {
-   "user": "nvidia",
-   "text": "Congrats to @SpaceXAI on Grok 4.5 — trained on NVIDIA GB300 NVL72 systems and purpose-built for coding, agentic tasks, and knowledge work. This is what happens when world-class AI infrastructure meets world-class AI research.",
-   "link": "https://x.com/nvidia/status/2074979063106843131",
-   "time": "2026-07-08T22:08:54+00:00",
-   "rt": false
-  },
-  {
    "user": "karpathy",
    "text": "RT by @karpathy: Rewriting Bun in Rust https://bun.com/blog/bun-in-rust",
    "link": "https://x.com/jarredsumner/status/2074973674332123157",
    "time": "2026-07-08T21:47:29+00:00",
    "rt": true
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @LangChain: Learn more: https://nvda.ws/3RqdAQW",
-   "link": "https://x.com/nvidia/status/2074961727813308614",
-   "time": "2026-07-08T21:00:01+00:00",
-   "rt": false
   },
   {
    "user": "nvidia",
@@ -235,27 +249,6 @@
    "link": "https://x.com/ShaneLegg/status/2074783586973061351",
    "time": "2026-07-08T09:12:09+00:00",
    "rt": true
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: The Predicting the Past Skill is a collaborative research partner. 🏛️ We teamed up with @TSommerschield on 3️⃣ case studies to prove it. By blending specialized AI with Gemini’s reasoning, we showed how historians can explore ancient data in entirely new ways. Explore the platform → https://goo.gle/4vR5ZtC",
-   "link": "https://x.com/GoogleDeepMind/status/2074513847306572213",
-   "time": "2026-07-07T15:20:18+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: Using AI for history analysis has 3 core challenges: 🔹 Creating custom analysis and visuals for every inscription. 🔹 Cross-source mapping to find large-scale patterns. 🔹 Utilizing advanced AI tools with no coding skills. Our Antigravity skill shifts all these complex workflows into plain English.",
-   "link": "https://x.com/GoogleDeepMind/status/2074513665299034447",
-   "time": "2026-07-07T15:19:35+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "Pinned: 🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets historians study Greek and Latin texts using plain English. 🧵",
-   "link": "https://x.com/GoogleDeepMind/status/2074513661750546762",
-   "time": "2026-07-07T15:19:34+00:00",
-   "rt": false
   }
  ]
 }
