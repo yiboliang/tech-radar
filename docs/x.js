@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-10T03:33:11.430395+00:00",
+ "updated": "2026-07-10T09:39:12.162080+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -42,15 +42,15 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6",
-   "link": "https://x.com/OpenAI/status/2075310020653351324",
+   "text": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.",
+   "link": "https://x.com/OpenAI/status/2075310019185389913",
    "time": "2026-07-09T20:04:00+00:00",
    "rt": false
   },
   {
    "user": "OpenAI",
-   "text": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.",
-   "link": "https://x.com/OpenAI/status/2075310019185389913",
+   "text": "R to @OpenAI: Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6",
+   "link": "https://x.com/OpenAI/status/2075310020653351324",
    "time": "2026-07-09T20:04:00+00:00",
    "rt": false
   },
@@ -126,10 +126,17 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: GPT‑5.6 is available starting today across ChatGPT, Codex, and the OpenAI API. The rollout is starting globally now and will continue gradually toward full availability over the next 24 hours. In ChatGPT, Plus, Pro, Business, and Enterprise users access GPT-5.6 Sol through medium and higher effort settings. Pro and Enterprise users can also select GPT‑5.6 Pro for the highest-quality ",
-   "link": "https://x.com/OpenAI/status/2075271435573244008",
-   "time": "2026-07-09T17:30:41+00:00",
+   "text": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.",
+   "link": "https://x.com/OpenAI/status/2075271421149020426",
+   "time": "2026-07-09T17:30:38+00:00",
    "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: GPT-5.6 Sol sets a new SOTA on ARC-AGI-3: 7.8% Sol is the first verified frontier model to ever beat an ARC-AGI-3 game It is the best model at orienting in a situation it's never encountered",
+   "link": "https://x.com/arcprize/status/2075270869992264003",
+   "time": "2026-07-09T17:28:26+00:00",
+   "rt": true
   },
   {
    "user": "sama",
@@ -182,17 +189,10 @@ window.RADAR_X = {
   },
   {
    "user": "sama",
-   "text": "what a good video",
-   "link": "https://x.com/sama/status/2075068286107316317",
-   "time": "2026-07-09T04:03:26+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "tbh i dont think sol gets that many dates either",
-   "link": "https://x.com/sama/status/2075063511290662996",
-   "time": "2026-07-09T03:44:28+00:00",
-   "rt": false
+   "text": "RT by @sama: All problems have been solved by OpenAI!",
+   "link": "https://x.com/FakePsyho/status/2075128093891801305",
+   "time": "2026-07-09T08:01:06+00:00",
+   "rt": true
   },
   {
    "user": "AnthropicAI",
