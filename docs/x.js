@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-09T22:24:04.702928+00:00",
+ "updated": "2026-07-10T03:33:11.430395+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,27 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "dylan522p",
+   "text": "RT by @dylan522p: compute daddy @dylan522p has spoken",
+   "link": "https://x.com/alexandr_wang/status/2075364232623956227",
+   "time": "2026-07-09T23:39:26+00:00",
+   "rt": true
+  },
+  {
+   "user": "sama",
+   "text": "i am really sad about this and very grateful for all fidji has done for openai, and even grateful for her friendship and who she is as a person. we all wish her the best for a speedy recovery. this sucks.",
+   "link": "https://x.com/sama/status/2075354679031067058",
+   "time": "2026-07-09T23:01:28+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: 📣 An #NVIDIADGX GB300 system will become operational at @NPS_Monterey this month. To enrich AI skills for officers and students in the public sector, DGX GB300 will support the development of AI applications and address operational challenges in fields ranging from weather modeling, oceanic and operations research, to disaster resilience and response planning. 💡 Read more on how we’",
+   "link": "https://x.com/NVIDIAAIInfra/status/2075311533190455594",
+   "time": "2026-07-09T20:10:01+00:00",
+   "rt": true
+  },
   {
    "user": "OpenAI",
    "text": "R to @OpenAI: Meet the Wishingrads. A family running a cereal business from their dining room with GPT-5.6.",
@@ -174,13 +195,6 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "sama",
-   "text": "it surely doesnt",
-   "link": "https://x.com/sama/status/2075048072837734448",
-   "time": "2026-07-09T02:43:07+00:00",
-   "rt": false
-  },
-  {
    "user": "AnthropicAI",
    "text": "We’re pleased to have collaborated with AE Studio on this research. Read more here: https://www.anthropic.com/research/off-switch-dual-use",
    "link": "https://x.com/AnthropicAI/status/2075005777522172146",
@@ -206,13 +220,6 @@ window.RADAR_X = {
    "text": "R to @LangChain: Learn more: https://nvda.ws/3RqdAQW",
    "link": "https://x.com/nvidia/status/2074961727813308614",
    "time": "2026-07-08T21:00:01+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Every company has specialized intelligence that sets it apart. With @langchain, we’re helping enterprises turn that knowledge into specialized agents they can customize, secure and improve over time.",
-   "link": "https://x.com/nvidia/status/2074961724164214951",
-   "time": "2026-07-08T21:00:00+00:00",
    "rt": false
   },
   {
