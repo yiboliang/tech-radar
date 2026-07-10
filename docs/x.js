@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-10T16:57:50.751939+00:00",
+ "updated": "2026-07-10T19:36:24.057660+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,34 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "As part of our ongoing efforts to strengthen our safeguards for advanced AI capabilities in biology, we’re evolving our Bio Bug Bounty into an ongoing private program, known as the OpenAI Bio Bug Bounty program and doubling rewards to $50K. We’re inviting researchers with experience in AI red teaming, security, or biosecurity to try to find a universal jailbreak that can defeat our predefined bios",
+   "link": "https://x.com/OpenAI/status/2075647722766614733",
+   "time": "2026-07-10T18:25:55+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "RT by @OpenAI: Yesterday, we made GPT-5.6 Sol Ultra generally available. Today, we're sharing that it produced a proof of the 50-year-old Cycle Double Cover Conjecture using 64 subagents in just under one hour. We're sharing the prompt and proof below. We're excited to see what you all do with Ultra!",
+   "link": "https://x.com/__eknight__/status/2075643450196971805",
+   "time": "2026-07-10T18:08:56+00:00",
+   "rt": true
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice. Now that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday. We’ve spent the last 24 hours reading feedback, looking at usage patterns, and talking with many of you. The short version is that there is a",
+   "link": "https://x.com/thsottiaux/status/2075641131002700120",
+   "time": "2026-07-10T17:59:43+00:00",
+   "rt": true
+  },
+  {
+   "user": "OpenAI",
+   "text": "RT by @OpenAI: Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice. Now that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday. We’ve spent the last 24 hours reading feedback, looking at usage patterns, and talking with many of you. The short version is that there is",
+   "link": "https://x.com/thsottiaux/status/2075641131002700120",
+   "time": "2026-07-10T17:59:43+00:00",
+   "rt": true
+  },
   {
    "user": "GoogleDeepMind",
    "text": "R to @GoogleDeepMind: Watch → https://goo.gle/4pxlGEh Spotify → https://goo.gle/4f89R2a Apple Podcasts → https://goo.gle/4fpWThL Or listen wherever you get your podcasts! 🎧",
@@ -39,6 +67,13 @@ window.RADAR_X = {
    "link": "https://x.com/nvidia/status/2075611004508029149",
    "time": "2026-07-10T16:00:01+00:00",
    "rt": false
+  },
+  {
+   "user": "dylan522p",
+   "text": "RT by @dylan522p: Talk about talent density! Last night, Avenir hosted an AI dinner in Paris with some of our favorite founders and friends @ScottWu46 (Cognition), @andrewdfeldman (Cerebras) @oliveur (Datadog), Chris Clark (OpenRouter), @paraga (Parallel), @nikhilbenesch (TurboPuffer), @dylan522p (the self described shit poster and SemiAnalysis legend), @robertwachen (Etched), @goodwin_ml (Fractil",
+   "link": "https://x.com/AndrewGSugrue/status/2075592577135329655",
+   "time": "2026-07-10T14:46:47+00:00",
+   "rt": true
   },
   {
    "user": "sama",
@@ -118,13 +153,6 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "sama",
-   "text": "check this out! you can get some amazing things done. codex is the core of our new work product and what makes it so good. codex is not going anywhere.",
-   "link": "https://x.com/sama/status/2075293792048136572",
-   "time": "2026-07-09T18:59:31+00:00",
-   "rt": false
-  },
-  {
    "user": "dylan522p",
    "text": "RT by @dylan522p: BREAKING: Dylan Patel (@dylan522p) of @SemiAnalysis_ says \"chips in Europe have less seasoning than chips in America & Mexico.\" Plus: › Data centers & France’s nuclear power › AI infrastructure over-optimization › Flexibility vs. specialized infrastructure › Software-hardware co-design › Open vs. closed models › Memory costs & token pricing › Tokenmaxxing vs. token budgeting › Ha",
    "link": "https://x.com/MollySOShea/status/2075290667031404588",
@@ -160,32 +188,11 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: ChatGPT Work reflects a shift in how people are using AI, moving beyond just answering questions to getting real work done across web, mobile, and desktop. You can ask ChatGPT Work to take on entire workflows with a single request. It will understand your goals, use context from selected apps and files, create polished documents, decks, analyses, sites, and reports, and keep work mov",
-   "link": "https://x.com/OpenAI/status/2075274273607037403",
-   "time": "2026-07-09T17:41:58+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "Pinned: Introducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6. It can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work. It’s a whole new way to get work done.",
-   "link": "https://x.com/OpenAI/status/2075274271845404744",
-   "time": "2026-07-09T17:41:57+00:00",
-   "rt": false
-  },
-  {
    "user": "AnthropicAI",
    "text": "RT by @AnthropicAI: There’s hope in hard questions.",
    "link": "https://x.com/claudeai/status/2075271759289303522",
    "time": "2026-07-09T17:31:58+00:00",
    "rt": true
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: GPT‑5.6 is available starting today across ChatGPT, Codex, and the OpenAI API. The rollout is starting globally now and will continue gradually toward full availability over the next 24 hours. In ChatGPT, Plus, Pro, Business, and Enterprise users access GPT-5.6 Sol through medium and higher effort settings. Pro and Enterprise users can also select GPT‑5.6 Pro for the highest-quality ",
-   "link": "https://x.com/OpenAI/status/2075271435573244008",
-   "time": "2026-07-09T17:30:41+00:00",
-   "rt": false
   },
   {
    "user": "sama",
