@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-10T19:36:24.057660+00:00",
+ "updated": "2026-07-10T22:06:14.170162+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "GPT-5.6 is a major step forward for health intelligence. Across the lineup, we’re delivering stronger performance at lower cost: GPT-5.6 Luna outperforms GPT-5.5 at its highest reasoning setting while costing 25x less. Together, these advances raise quality while making advanced models accessible to more people globally.",
+   "link": "https://x.com/OpenAI/status/2075686461693898868",
+   "time": "2026-07-10T20:59:51+00:00",
+   "rt": false
+  },
   {
    "user": "OpenAI",
    "text": "As part of our ongoing efforts to strengthen our safeguards for advanced AI capabilities in biology, we’re evolving our Bio Bug Bounty into an ongoing private program, known as the OpenAI Bio Bug Bounty program and doubling rewards to $50K. We’re inviting researchers with experience in AI red teaming, security, or biosecurity to try to find a universal jailbreak that can defeat our predefined bios",
@@ -104,13 +111,6 @@
    "rt": true
   },
   {
-   "user": "sama",
-   "text": "i am really sad about this and very grateful for all fidji has done for openai, and even grateful for her friendship and who she is as a person. we all wish her the best for a speedy recovery. this sucks.",
-   "link": "https://x.com/sama/status/2075354679031067058",
-   "time": "2026-07-09T23:01:28+00:00",
-   "rt": false
-  },
-  {
    "user": "nvidia",
    "text": "RT by @nvidia: 📣 An #NVIDIADGX GB300 system will become operational at @NPS_Monterey this month. To enrich AI skills for officers and students in the public sector, DGX GB300 will support the development of AI applications and address operational challenges in fields ranging from weather modeling, oceanic and operations research, to disaster resilience and response planning. 💡 Read more on how we’",
    "link": "https://x.com/NVIDIAAIInfra/status/2075311533190455594",
@@ -137,6 +137,13 @@
    "link": "https://x.com/OpenAI/status/2075310019185389913",
    "time": "2026-07-09T20:04:00+00:00",
    "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: OpenAI Build Week is here. The challenge starts July 13. Across the week, join live sessions and community events with builders around the world. Registration is open. Bring the idea sitting in your backlog. Build it with Codex.",
+   "link": "https://x.com/OpenAIDevs/status/2075294038648148385",
+   "time": "2026-07-09T19:00:30+00:00",
+   "rt": true
   },
   {
    "user": "nvidia",
@@ -177,13 +184,6 @@
    "user": "OpenAI",
    "text": "R to @OpenAI: On web and mobile, ChatGPT Work is rolling out today for Pro, Enterprise, and Edu plans. It will roll out to Plus and Business plans over the next few days. In the ChatGPT desktop app, Chat, Work, and Codex are available on every plan, including Free, and is available globally to download on Windows and Mac. Codex app users can update their app as usual—it will become the new ChatGPT",
    "link": "https://x.com/OpenAI/status/2075274276849226204",
-   "time": "2026-07-09T17:41:58+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: ChatGPT Work is powered by GPT-5.6. GPT-5.6 makes ChatGPT state of the art at reasoning through complex tasks and creating materials that match your templates, reference files, and preferred style. Just describe the outcome you want, without having to spell out every step to get there.",
-   "link": "https://x.com/OpenAI/status/2075274275104399670",
    "time": "2026-07-09T17:41:58+00:00",
    "rt": false
   },
