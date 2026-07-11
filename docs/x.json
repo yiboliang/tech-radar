@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-11T07:59:36.686947+00:00",
+ "updated": "2026-07-11T10:17:00.275402+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -255,13 +255,6 @@
    "text": "RT by @nvidia: The DGX Spark is an incredible piece of hardware. Running it to almost full GPU and RAM utilization and it still doesn’t have any issues with the heat. Unified memory is the way to go for maximizing token value per watt.",
    "link": "https://x.com/AravSrinivas/status/2074900231175684573",
    "time": "2026-07-08T16:55:39+00:00",
-   "rt": true
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "RT by @GoogleDeepMind: To whom do the fruits of advanced technological innovation belong? A new paper on this key societal question from @IasonGabriel and @Dr_Atoosa in my post-AGI research group.",
-   "link": "https://x.com/ShaneLegg/status/2074783586973061351",
-   "time": "2026-07-08T09:12:09+00:00",
    "rt": true
   }
  ]
