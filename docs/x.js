@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-11T19:07:22.242034+00:00",
+ "updated": "2026-07-11T21:52:30.655402+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "so far at least, i'm pretty sure AI has been net job-creating. this was not what i expected--although i was much less pessimistic than others, i thought by this level of capability we'd have seen some impact. it is possible this direction keeps going!",
+   "link": "https://x.com/sama/status/2076036901824532530",
+   "time": "2026-07-11T20:12:22+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "whoa",
+   "link": "https://x.com/sama/status/2076034163418014199",
+   "time": "2026-07-11T20:01:30+00:00",
+   "rt": false
+  },
   {
    "user": "sama",
    "text": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
@@ -97,13 +111,6 @@ window.RADAR_X = {
    "rt": true
   },
   {
-   "user": "sama",
-   "text": "RT by @sama: Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice. Now that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday. We’ve spent the last 24 hours reading feedback, looking at usage patterns, and talking with many of you. The short version is that there is a",
-   "link": "https://x.com/thsottiaux/status/2075641131002700120",
-   "time": "2026-07-10T17:59:43+00:00",
-   "rt": true
-  },
-  {
    "user": "OpenAI",
    "text": "RT by @OpenAI: Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice. Now that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday. We’ve spent the last 24 hours reading feedback, looking at usage patterns, and talking with many of you. The short version is that there is",
    "link": "https://x.com/thsottiaux/status/2075641131002700120",
@@ -144,13 +151,6 @@ window.RADAR_X = {
    "link": "https://x.com/AndrewGSugrue/status/2075592577135329655",
    "time": "2026-07-10T14:46:47+00:00",
    "rt": true
-  },
-  {
-   "user": "sama",
-   "text": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/",
-   "link": "https://x.com/sama/status/2075585386441789605",
-   "time": "2026-07-10T14:18:13+00:00",
-   "rt": false
   },
   {
    "user": "dylan522p",
@@ -249,13 +249,6 @@ window.RADAR_X = {
    "link": "https://x.com/AnthropicAI/status/2075005777522172146",
    "time": "2026-07-08T23:55:03+00:00",
    "rt": false
-  },
-  {
-   "user": "karpathy",
-   "text": "RT by @karpathy: Rewriting Bun in Rust https://bun.com/blog/bun-in-rust",
-   "link": "https://x.com/jarredsumner/status/2074973674332123157",
-   "time": "2026-07-08T21:47:29+00:00",
-   "rt": true
   }
  ]
 };
