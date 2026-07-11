@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-10T22:06:14.170162+00:00",
+ "updated": "2026-07-11T02:48:42.641038+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,34 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "RT by @OpenAI: GPT-Live is now fully rolled out to all ChatGPT users globally. We're also doubling everyone's voice usage limit for the whole weekend so you can try more of it. Have fun! 🎉",
+   "link": "https://x.com/athyuttamre/status/2075768216866205786",
+   "time": "2026-07-11T02:24:43+00:00",
+   "rt": true
+  },
+  {
+   "user": "dylan522p",
+   "text": "When a bi man calls you daddy it hits different",
+   "link": "https://x.com/dylan522p/status/2075741269066993828",
+   "time": "2026-07-11T00:37:38+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: 📖 Read the success story here: https://nvda.ws/4voFTOl",
+   "link": "https://x.com/nvidia/status/2075724302586949793",
+   "time": "2026-07-10T23:30:13+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "AI factories don’t have to be a strain on the grid. Instead, they can be an energy supplier⚡ Emerald AI's Conductor platform, developed using the NVIDIA Vera Rubin DSX AI Factory reference design, is leading the way for power-flexible AI factories — built to come onto the grid faster without impacting existing power needs.",
+   "link": "https://x.com/nvidia/status/2075724298841387291",
+   "time": "2026-07-10T23:30:12+00:00",
+   "rt": false
+  },
   {
    "user": "OpenAI",
    "text": "GPT-5.6 is a major step forward for health intelligence. Across the lineup, we’re delivering stronger performance at lower cost: GPT-5.6 Luna outperforms GPT-5.5 at its highest reasoning setting while costing 25x less. Together, these advances raise quality while making advanced models accessible to more people globally.",
@@ -174,20 +202,6 @@ window.RADAR_X = {
    "rt": true
   },
   {
-   "user": "nvidia",
-   "text": "NVIDIA teams run ChatGPT Work to automate workflows, surface insights faster, and cut operation costs. Our full-stack collaboration continues to scale. GPT-5.6 builds on GPT-5.5, trained and run on NVIDIA GB200 and GB300 NVL72 rack-scale systems. Congratulations to the @OpenAI team on the launch. 🎉",
-   "link": "https://x.com/nvidia/status/2075283846657175683",
-   "time": "2026-07-09T18:20:00+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: On web and mobile, ChatGPT Work is rolling out today for Pro, Enterprise, and Edu plans. It will roll out to Plus and Business plans over the next few days. In the ChatGPT desktop app, Chat, Work, and Codex are available on every plan, including Free, and is available globally to download on Windows and Mac. Codex app users can update their app as usual—it will become the new ChatGPT",
-   "link": "https://x.com/OpenAI/status/2075274276849226204",
-   "time": "2026-07-09T17:41:58+00:00",
-   "rt": false
-  },
-  {
    "user": "AnthropicAI",
    "text": "RT by @AnthropicAI: There’s hope in hard questions.",
    "link": "https://x.com/claudeai/status/2075271759289303522",
@@ -214,13 +228,6 @@ window.RADAR_X = {
    "link": "https://x.com/googlecloud/status/2075251885276012668",
    "time": "2026-07-09T16:13:00+00:00",
    "rt": true
-  },
-  {
-   "user": "nvidia",
-   "text": "Every @NVIDIAGeForce generation has a story. Which graphics card and game started yours? Tell us below. 👇 #CollectRTX",
-   "link": "https://x.com/nvidia/status/2075248918011801686",
-   "time": "2026-07-09T16:01:12+00:00",
-   "rt": false
   },
   {
    "user": "sama",
