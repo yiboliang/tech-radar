@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-11T15:58:18.897929+00:00",
+ "updated": "2026-07-11T19:07:22.242034+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,34 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+   "link": "https://x.com/sama/status/2075985056846451123",
+   "time": "2026-07-11T16:46:22+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again",
+   "link": "https://x.com/sama/status/2075983427019612242",
+   "time": "2026-07-11T16:39:53+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "30% of the cost was on fable at these levels of usage?",
+   "link": "https://x.com/sama/status/2075982820322025788",
+   "time": "2026-07-11T16:37:28+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "homeboy you're the one sellling public market investors on short-term space datacenters",
+   "link": "https://x.com/sama/status/2075982617976230043",
+   "time": "2026-07-11T16:36:40+00:00",
+   "rt": false
+  },
   {
    "user": "OpenAI",
    "text": "RT by @OpenAI: GPT-Live is now fully rolled out to all ChatGPT users globally. We're also doubling everyone's voice usage limit for the whole weekend so you can try more of it. Have fun! 🎉",
@@ -53,6 +81,13 @@
    "link": "https://x.com/OpenAI/status/2075647722766614733",
    "time": "2026-07-10T18:25:55+00:00",
    "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: GPT-5.6 Sol Ultra produced a proof of a 50 year old math conjecture. Unlike the Erdős Unit Distance Problem, this was done with a model publicly available *today*. I look forward to seeing what scientists and researchers are able to do with this model!",
+   "link": "https://x.com/polynoamial/status/2075646048425431469",
+   "time": "2026-07-10T18:19:16+00:00",
+   "rt": true
   },
   {
    "user": "OpenAI",
@@ -115,20 +150,6 @@
    "text": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/",
    "link": "https://x.com/sama/status/2075585386441789605",
    "time": "2026-07-10T14:18:13+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "makes us happy to see people love 5.6 sol so much!",
-   "link": "https://x.com/sama/status/2075579646373216282",
-   "time": "2026-07-10T13:55:24+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "the sun is out today",
-   "link": "https://x.com/sama/status/2075579012223787402",
-   "time": "2026-07-10T13:52:53+00:00",
    "rt": false
   },
   {
@@ -195,24 +216,17 @@
    "rt": true
   },
   {
-   "user": "sama",
-   "text": "RT by @sama: Massive day for us @OpenAI: - GPT-5.6 SOTA at ~everything & by far most token efficient - Agents for everyone in the new ChatGPT app Work and Codex modes - Work mode available on desktop (most powerful), web & mobile - Ultra mode - Sites out to everyone - Artifact templates",
-   "link": "https://x.com/embirico/status/2075287410032918853",
-   "time": "2026-07-09T18:34:10+00:00",
-   "rt": true
+   "user": "nvidia",
+   "text": "NVIDIA teams run ChatGPT Work to automate workflows, surface insights faster, and cut operation costs. Our full-stack collaboration continues to scale. GPT-5.6 builds on GPT-5.5, trained and run on NVIDIA GB200 and GB300 NVL72 rack-scale systems. Congratulations to the @OpenAI team on the launch. 🎉",
+   "link": "https://x.com/nvidia/status/2075283846657175683",
+   "time": "2026-07-09T18:20:00+00:00",
+   "rt": false
   },
   {
    "user": "AnthropicAI",
    "text": "RT by @AnthropicAI: There’s hope in hard questions.",
    "link": "https://x.com/claudeai/status/2075271759289303522",
    "time": "2026-07-09T17:31:58+00:00",
-   "rt": true
-  },
-  {
-   "user": "sama",
-   "text": "RT by @sama: GPT-5.6 Sol sets a new SOTA on ARC-AGI-3: 7.8% Sol is the first verified frontier model to ever beat an ARC-AGI-3 game It is the best model at orienting in a situation it's never encountered",
-   "link": "https://x.com/arcprize/status/2075270869992264003",
-   "time": "2026-07-09T17:28:26+00:00",
    "rt": true
   },
   {
@@ -230,13 +244,6 @@
    "rt": true
   },
   {
-   "user": "sama",
-   "text": "RT by @sama: All problems have been solved by OpenAI!",
-   "link": "https://x.com/FakePsyho/status/2075128093891801305",
-   "time": "2026-07-09T08:01:06+00:00",
-   "rt": true
-  },
-  {
    "user": "AnthropicAI",
    "text": "We’re pleased to have collaborated with AE Studio on this research. Read more here: https://www.anthropic.com/research/off-switch-dual-use",
    "link": "https://x.com/AnthropicAI/status/2075005777522172146",
@@ -248,13 +255,6 @@
    "text": "RT by @karpathy: Rewriting Bun in Rust https://bun.com/blog/bun-in-rust",
    "link": "https://x.com/jarredsumner/status/2074973674332123157",
    "time": "2026-07-08T21:47:29+00:00",
-   "rt": true
-  },
-  {
-   "user": "nvidia",
-   "text": "RT by @nvidia: The DGX Spark is an incredible piece of hardware. Running it to almost full GPU and RAM utilization and it still doesn’t have any issues with the heat. Unified memory is the way to go for maximizing token value per watt.",
-   "link": "https://x.com/AravSrinivas/status/2074900231175684573",
-   "time": "2026-07-08T16:55:39+00:00",
    "rt": true
   }
  ]
