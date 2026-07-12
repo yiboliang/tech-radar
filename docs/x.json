@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-11T21:52:30.655402+00:00",
+ "updated": "2026-07-12T02:57:11.452343+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -242,13 +242,6 @@
    "link": "https://x.com/googlecloud/status/2075251885276012668",
    "time": "2026-07-09T16:13:00+00:00",
    "rt": true
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "We’re pleased to have collaborated with AE Studio on this research. Read more here: https://www.anthropic.com/research/off-switch-dual-use",
-   "link": "https://x.com/AnthropicAI/status/2075005777522172146",
-   "time": "2026-07-08T23:55:03+00:00",
-   "rt": false
   }
  ]
 }
