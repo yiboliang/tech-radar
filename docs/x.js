@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-12T19:08:31.441243+00:00",
+ "updated": "2026-07-12T21:53:28.680685+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "i'd love to see interesting things people have built with 5.6 sol. i will send the person who made the coolest thing a special gift from the openai archives.",
+   "link": "https://x.com/sama/status/2076398253332140410",
+   "time": "2026-07-12T20:08:15+00:00",
+   "rt": false
+  },
   {
    "user": "dylan522p",
    "text": "Or he failed to keep it together (Anthropic, Thinky, Core Automation, etc) and bloviated so much about his tech that everyone saw it as existential and it created completion from all the hyperscalers. If he played his cards right I'd bet there'd be no Anthropic or Meta TBD or XAI",
@@ -118,13 +125,6 @@ window.RADAR_X = {
    "rt": true
   },
   {
-   "user": "sama",
-   "text": "RT by @sama: Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice. Now that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday. We’ve spent the last 24 hours reading feedback, looking at usage patterns, and talking with many of you. The short version is that there is a",
-   "link": "https://x.com/thsottiaux/status/2075641131002700120",
-   "time": "2026-07-10T17:59:43+00:00",
-   "rt": true
-  },
-  {
    "user": "OpenAI",
    "text": "RT by @OpenAI: Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice. Now that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday. We’ve spent the last 24 hours reading feedback, looking at usage patterns, and talking with many of you. The short version is that there is",
    "link": "https://x.com/thsottiaux/status/2075641131002700120",
@@ -172,34 +172,6 @@ window.RADAR_X = {
    "link": "https://x.com/alexandr_wang/status/2075364232623956227",
    "time": "2026-07-09T23:39:26+00:00",
    "rt": true
-  },
-  {
-   "user": "nvidia",
-   "text": "RT by @nvidia: 📣 An #NVIDIADGX GB300 system will become operational at @NPS_Monterey this month. To enrich AI skills for officers and students in the public sector, DGX GB300 will support the development of AI applications and address operational challenges in fields ranging from weather modeling, oceanic and operations research, to disaster resilience and response planning. 💡 Read more on how we’",
-   "link": "https://x.com/NVIDIAAIInfra/status/2075311533190455594",
-   "time": "2026-07-09T20:10:01+00:00",
-   "rt": true
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Meet the Wishingrads. A family running a cereal business from their dining room with GPT-5.6.",
-   "link": "https://x.com/OpenAI/status/2075310022121472399",
-   "time": "2026-07-09T20:04:01+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.",
-   "link": "https://x.com/OpenAI/status/2075310019185389913",
-   "time": "2026-07-09T20:04:00+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6",
-   "link": "https://x.com/OpenAI/status/2075310020653351324",
-   "time": "2026-07-09T20:04:00+00:00",
-   "rt": false
   }
  ]
 };
