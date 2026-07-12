@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T16:01:23.291679+00:00",
+ "updated": "2026-07-12T19:08:31.441243+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -118,6 +118,13 @@
    "rt": true
   },
   {
+   "user": "sama",
+   "text": "RT by @sama: Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice. Now that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday. We’ve spent the last 24 hours reading feedback, looking at usage patterns, and talking with many of you. The short version is that there is a",
+   "link": "https://x.com/thsottiaux/status/2075641131002700120",
+   "time": "2026-07-10T17:59:43+00:00",
+   "rt": true
+  },
+  {
    "user": "OpenAI",
    "text": "RT by @OpenAI: Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice. Now that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday. We’ve spent the last 24 hours reading feedback, looking at usage patterns, and talking with many of you. The short version is that there is",
    "link": "https://x.com/thsottiaux/status/2075641131002700120",
@@ -182,73 +189,17 @@
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6",
-   "link": "https://x.com/OpenAI/status/2075310020653351324",
-   "time": "2026-07-09T20:04:00+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
    "text": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.",
    "link": "https://x.com/OpenAI/status/2075310019185389913",
    "time": "2026-07-09T20:04:00+00:00",
    "rt": false
   },
   {
-   "user": "sama",
-   "text": "RT by @sama: OpenAI Build Week is here. The challenge starts July 13. Across the week, join live sessions and community events with builders around the world. Registration is open. Bring the idea sitting in your backlog. Build it with Codex.",
-   "link": "https://x.com/OpenAIDevs/status/2075294038648148385",
-   "time": "2026-07-09T19:00:30+00:00",
-   "rt": true
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Learn more: https://nvda.ws/44mMOfd",
-   "link": "https://x.com/nvidia/status/2075293919651168600",
-   "time": "2026-07-09T19:00:02+00:00",
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6",
+   "link": "https://x.com/OpenAI/status/2075310020653351324",
+   "time": "2026-07-09T20:04:00+00:00",
    "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "The classroom is being reimagined — and NVIDIA is bringing together the people building what's next. At SIGGRAPH 2026, join an expert panel for How AI Is Changing Education — a candid look at how AI is reshaping the way students learn, educators teach, and institutions deliver knowledge at scale.",
-   "link": "https://x.com/nvidia/status/2075293913213018544",
-   "time": "2026-07-09T19:00:00+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "RT by @dylan522p: BREAKING: Dylan Patel (@dylan522p) of @SemiAnalysis_ says \"chips in Europe have less seasoning than chips in America & Mexico.\" Plus: › Data centers & France’s nuclear power › AI infrastructure over-optimization › Flexibility vs. specialized infrastructure › Software-hardware co-design › Open vs. closed models › Memory costs & token pricing › Tokenmaxxing vs. token budgeting › Ha",
-   "link": "https://x.com/MollySOShea/status/2075290667031404588",
-   "time": "2026-07-09T18:47:06+00:00",
-   "rt": true
-  },
-  {
-   "user": "nvidia",
-   "text": "NVIDIA teams run ChatGPT Work to automate workflows, surface insights faster, and cut operation costs. Our full-stack collaboration continues to scale. GPT-5.6 builds on GPT-5.5, trained and run on NVIDIA GB200 and GB300 NVL72 rack-scale systems. Congratulations to the @OpenAI team on the launch. 🎉",
-   "link": "https://x.com/nvidia/status/2075283846657175683",
-   "time": "2026-07-09T18:20:00+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "RT by @AnthropicAI: There’s hope in hard questions.",
-   "link": "https://x.com/claudeai/status/2075271759289303522",
-   "time": "2026-07-09T17:31:58+00:00",
-   "rt": true
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "Our Long-Term Benefit Trust has appointed Dr. Ben Bernanke as its newest member. Read more: https://www.anthropic.com/news/ben-bernanke",
-   "link": "https://x.com/AnthropicAI/status/2075257492716879967",
-   "time": "2026-07-09T16:35:17+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "RT by @GoogleDeepMind: AlphaEvolve is now GA on Google Cloud! Co-developed with @GoogleDeepMind, AlphaEvolve is a Gemini-powered evolutionary agent that autonomously designs and discovers highly optimized code to solve your hardest problems and algorithmic bottlenecks across industries: https://goo.gle/4eStb4P",
-   "link": "https://x.com/googlecloud/status/2075251885276012668",
-   "time": "2026-07-09T16:13:00+00:00",
-   "rt": true
   }
  ]
 }
