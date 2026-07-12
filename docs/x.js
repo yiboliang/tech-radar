@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-12T10:35:59.281413+00:00",
+ "updated": "2026-07-12T13:24:26.964572+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -182,15 +182,15 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.",
-   "link": "https://x.com/OpenAI/status/2075310019185389913",
+   "text": "R to @OpenAI: Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6",
+   "link": "https://x.com/OpenAI/status/2075310020653351324",
    "time": "2026-07-09T20:04:00+00:00",
    "rt": false
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6",
-   "link": "https://x.com/OpenAI/status/2075310020653351324",
+   "text": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.",
+   "link": "https://x.com/OpenAI/status/2075310019185389913",
    "time": "2026-07-09T20:04:00+00:00",
    "rt": false
   },
