@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-12T06:09:59.771310+00:00",
+ "updated": "2026-07-12T10:35:59.281413+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "dylan522p",
+   "text": "Or he failed to keep it together (Anthropic, Thinky, Core Automation, etc) and bloviated so much about his tech that everyone saw it as existential and it created completion from all the hyperscalers. If he played his cards right I'd bet there'd be no Anthropic or Meta TBD or XAI",
+   "link": "https://x.com/dylan522p/status/2076200679186567521",
+   "time": "2026-07-12T07:03:10+00:00",
+   "rt": false
+  },
   {
    "user": "sama",
    "text": "so far at least, i'm pretty sure AI has been net job-creating. this was not what i expected--although i was much less pessimistic than others, i thought by this level of capability we'd have seen some impact. it is possible this direction keeps going!",
@@ -175,15 +182,15 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6",
-   "link": "https://x.com/OpenAI/status/2075310020653351324",
+   "text": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.",
+   "link": "https://x.com/OpenAI/status/2075310019185389913",
    "time": "2026-07-09T20:04:00+00:00",
    "rt": false
   },
   {
    "user": "OpenAI",
-   "text": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.",
-   "link": "https://x.com/OpenAI/status/2075310019185389913",
+   "text": "R to @OpenAI: Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6",
+   "link": "https://x.com/OpenAI/status/2075310020653351324",
    "time": "2026-07-09T20:04:00+00:00",
    "rt": false
   },
