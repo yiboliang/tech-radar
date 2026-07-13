@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T21:53:28.680685+00:00",
+ "updated": "2026-07-13T03:15:54.706574+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -140,7 +140,7 @@
   },
   {
    "user": "GoogleDeepMind",
-   "text": "A model’s chain of thought acts like a scratch pad, offering a window into its reasoning. 📝 On the latest episode of our podcast, host @fryrsquared sits down with @NeelNanda5 to explore interpretability – the science of reverse engineering how neural networks learn and think. Timecodes: 00:00 Introduction 02:41 Motivation for interpretability research 04:01 Mechanistic interpretability 08:14 Chain",
+   "text": "Pinned: A model’s chain of thought acts like a scratch pad, offering a window into its reasoning. 📝 On the latest episode of our podcast, host @fryrsquared sits down with @NeelNanda5 to explore interpretability – the science of reverse engineering how neural networks learn and think. Timecodes: 00:00 Introduction 02:41 Motivation for interpretability research 04:01 Mechanistic interpretability 08:",
    "link": "https://x.com/GoogleDeepMind/status/2075620281515929716",
    "time": "2026-07-10T16:36:52+00:00",
    "rt": false
@@ -164,13 +164,6 @@
    "text": "RT by @dylan522p: Talk about talent density! Last night, Avenir hosted an AI dinner in Paris with some of our favorite founders and friends @ScottWu46 (Cognition), @andrewdfeldman (Cerebras) @oliveur (Datadog), Chris Clark (OpenRouter), @paraga (Parallel), @nikhilbenesch (TurboPuffer), @dylan522p (the self described shit poster and SemiAnalysis legend), @robertwachen (Etched), @goodwin_ml (Fractil",
    "link": "https://x.com/AndrewGSugrue/status/2075592577135329655",
    "time": "2026-07-10T14:46:47+00:00",
-   "rt": true
-  },
-  {
-   "user": "dylan522p",
-   "text": "RT by @dylan522p: compute daddy @dylan522p has spoken",
-   "link": "https://x.com/alexandr_wang/status/2075364232623956227",
-   "time": "2026-07-09T23:39:26+00:00",
    "rt": true
   }
  ]
