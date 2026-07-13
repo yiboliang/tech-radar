@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-13T09:31:45.477344+00:00",
+ "updated": "2026-07-13T14:38:41.641901+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "RT by @OpenAI: ChatGPT is available again on WhatsApp in the EEA, part of our work to make AI accessible in the apps people already use every day. Message the verified 1-800-CHATGPT contact to ask questions, upload images, send voice notes, create images, and use ChatGPT in many languages. Now also on Kakao in South Korea and Viber in supported markets.",
+   "link": "https://x.com/ChatGPTapp/status/2076654365121855835",
+   "time": "2026-07-13T13:05:57+00:00",
+   "rt": true
+  },
   {
    "user": "sama",
    "text": "i'd love to see interesting things people have built with 5.6 sol. i will send the person who made the coolest thing a special gift from the openai archives.",
