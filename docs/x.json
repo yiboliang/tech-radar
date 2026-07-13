@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-13T14:38:41.641901+00:00",
+ "updated": "2026-07-13T17:13:43.625484+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,62 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "clarity is nice",
+   "link": "https://x.com/sama/status/2076696938918084809",
+   "time": "2026-07-13T15:55:08+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Register by July 15 to save up to 25%: https://nvda.ws/4eXR3UJ",
+   "link": "https://x.com/nvidia/status/2076690665220567441",
+   "time": "2026-07-13T15:30:12+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "What’s the saying about the early bird and the worm? 🐦🪱 #NVIDIAGTC Berlin discounted pricing is available for a limited time only - join us for the latest in AI, accelerated computing, robotics, simulation, and more.",
+   "link": "https://x.com/nvidia/status/2076690662196490454",
+   "time": "2026-07-13T15:30:11+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "R to @GoogleDeepMind: These examples showcase how the Predicting the Past Skill can push forward historical research using advanced AI models and complex workflows - with no coding required. Find out more → https://goo.gle/4vR5ZtC",
+   "link": "https://x.com/GoogleDeepMind/status/2076686127604302290",
+   "time": "2026-07-13T15:12:10+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "R to @GoogleDeepMind: 🔮 Who visited the Oracle of Dodona? By analyzing collections of ancient lead tablets, the Skill mapped visitors traveling from across the ancient world. It reconstructed the community of oracle visitors, turning scattered fragments into a connected network.",
+   "link": "https://x.com/GoogleDeepMind/status/2076686125289071074",
+   "time": "2026-07-13T15:12:09+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "R to @GoogleDeepMind: 🗺️ Mapping the cult of the Aufaniae The Skill can study multiple texts in parallel, we used it to map stone altars dedicated to the Aufaniae - Germanic goddesses. It showcased how religious practices traveled with Roman soldiers, even flagging an outlier in Spain by a veteran who brought his favorite deity home.",
+   "link": "https://x.com/GoogleDeepMind/status/2076686121866494038",
+   "time": "2026-07-13T15:12:09+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "R to @GoogleDeepMind: 🔍 The ring thief of Aquae Sulis When given an 1,800 year old curse tablet, the Skill used Aeneas - our generative model for restoring, dating and placing ancient texts - to locate it in time and space. It also generated an explanation of why it made that prediction, acting as a piece of epigraphic commentary to the expert.",
+   "link": "https://x.com/GoogleDeepMind/status/2076686118129389732",
+   "time": "2026-07-13T15:12:08+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "Here’s how we used the Predicting the Past Skill in Google @Antigravity to track down a Roman ring thief, map an ancient cult across Europe, and reconstruct the networks of people visiting a Greek oracle. 🧵",
+   "link": "https://x.com/GoogleDeepMind/status/2076686114631340046",
+   "time": "2026-07-13T15:12:07+00:00",
+   "rt": false
+  },
   {
    "user": "OpenAI",
    "text": "RT by @OpenAI: ChatGPT is available again on WhatsApp in the EEA, part of our work to make AI accessible in the apps people already use every day. Message the verified 1-800-CHATGPT contact to ask questions, upload images, send voice notes, create images, and use ChatGPT in many languages. Now also on Kakao in South Korea and Viber in supported markets.",
@@ -66,13 +122,6 @@
    "text": "30% of the cost was on fable at these levels of usage?",
    "link": "https://x.com/sama/status/2075982820322025788",
    "time": "2026-07-11T16:37:28+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "homeboy you're the one sellling public market investors on short-term space datacenters",
-   "link": "https://x.com/sama/status/2075982617976230043",
-   "time": "2026-07-11T16:36:40+00:00",
    "rt": false
   },
   {
@@ -136,41 +185,6 @@
    "text": "RT by @OpenAI: Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice. Now that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday. We’ve spent the last 24 hours reading feedback, looking at usage patterns, and talking with many of you. The short version is that there is",
    "link": "https://x.com/thsottiaux/status/2075641131002700120",
    "time": "2026-07-10T17:59:43+00:00",
-   "rt": true
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: Watch → https://goo.gle/4pxlGEh Spotify → https://goo.gle/4f89R2a Apple Podcasts → https://goo.gle/4fpWThL Or listen wherever you get your podcasts! 🎧",
-   "link": "https://x.com/GoogleDeepMind/status/2075620285923905602",
-   "time": "2026-07-10T16:36:53+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "Pinned: A model’s chain of thought acts like a scratch pad, offering a window into its reasoning. 📝 On the latest episode of our podcast, host @fryrsquared sits down with @NeelNanda5 to explore interpretability – the science of reverse engineering how neural networks learn and think. Timecodes: 00:00 Introduction 02:41 Motivation for interpretability research 04:01 Mechanistic interpretability 08:",
-   "link": "https://x.com/GoogleDeepMind/status/2075620281515929716",
-   "time": "2026-07-10T16:36:52+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: → Watch the full interview: https://nvda.ws/4ybqvXq",
-   "link": "https://x.com/nvidia/status/2075611008417087901",
-   "time": "2026-07-10T16:00:02+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Every AI response you've ever gotten started with an electron. ⚡ In a recent interview with Sequoia Capital, Jensen Huang described AI infrastructure as a five-layer cake, and at the very bottom, before chips, before data centers, before models, is energy. That's the binding constraint on the Intelligence Age: not compute, not software — watts. This is why NVIDIA calls AI factories the dynamos of ",
-   "link": "https://x.com/nvidia/status/2075611004508029149",
-   "time": "2026-07-10T16:00:01+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "RT by @dylan522p: Talk about talent density! Last night, Avenir hosted an AI dinner in Paris with some of our favorite founders and friends @ScottWu46 (Cognition), @andrewdfeldman (Cerebras) @oliveur (Datadog), Chris Clark (OpenRouter), @paraga (Parallel), @nikhilbenesch (TurboPuffer), @dylan522p (the self described shit poster and SemiAnalysis legend), @robertwachen (Etched), @goodwin_ml (Fractil",
-   "link": "https://x.com/AndrewGSugrue/status/2075592577135329655",
-   "time": "2026-07-10T14:46:47+00:00",
    "rt": true
   }
  ]
