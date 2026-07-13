@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-13T19:25:49.519150+00:00",
+ "updated": "2026-07-13T21:58:55.876392+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "come for the best model, stay because we don’t treat you with contempt",
+   "link": "https://x.com/sama/status/2076780425280954658",
+   "time": "2026-07-13T21:26:52+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "that goes hard",
+   "link": "https://x.com/sama/status/2076759971967230419",
+   "time": "2026-07-13T20:05:36+00:00",
+   "rt": false
+  },
   {
    "user": "sama",
    "text": "we love our users",
@@ -153,20 +167,6 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "sama",
-   "text": "there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again",
-   "link": "https://x.com/sama/status/2075983427019612242",
-   "time": "2026-07-11T16:39:53+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "30% of the cost was on fable at these levels of usage?",
-   "link": "https://x.com/sama/status/2075982820322025788",
-   "time": "2026-07-11T16:37:28+00:00",
-   "rt": false
-  },
-  {
    "user": "OpenAI",
    "text": "RT by @OpenAI: GPT-Live is now fully rolled out to all ChatGPT users globally. We're also doubling everyone's voice usage limit for the whole weekend so you can try more of it. Have fun! 🎉",
    "link": "https://x.com/athyuttamre/status/2075768216866205786",
@@ -192,13 +192,6 @@ window.RADAR_X = {
    "text": "AI factories don’t have to be a strain on the grid. Instead, they can be an energy supplier⚡ Emerald AI's Conductor platform, developed using the NVIDIA Vera Rubin DSX AI Factory reference design, is leading the way for power-flexible AI factories — built to come onto the grid faster without impacting existing power needs.",
    "link": "https://x.com/nvidia/status/2075724298841387291",
    "time": "2026-07-10T23:30:12+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "GPT-5.6 is a major step forward for health intelligence. Across the lineup, we’re delivering stronger performance at lower cost: GPT-5.6 Luna outperforms GPT-5.5 at its highest reasoning setting while costing 25x less. Together, these advances raise quality while making advanced models accessible to more people globally.",
-   "link": "https://x.com/OpenAI/status/2075686461693898868",
-   "time": "2026-07-10T20:59:51+00:00",
    "rt": false
   }
  ]
