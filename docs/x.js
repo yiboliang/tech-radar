@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-14T19:23:15.413150+00:00",
+ "updated": "2026-07-14T21:59:50.183221+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "hello!",
+   "link": "https://x.com/sama/status/2077118672150388816",
+   "time": "2026-07-14T19:50:57+00:00",
+   "rt": false
+  },
   {
    "user": "sama",
    "text": "5.6 sol growth is insane. the inference team has done heroic work to be able to support demand. we are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
@@ -137,13 +144,6 @@ window.RADAR_X = {
    "link": "https://x.com/demishassabis/status/2076957440109625718",
    "time": "2026-07-14T09:10:16+00:00",
    "rt": true
-  },
-  {
-   "user": "sama",
-   "text": "R to @sama: \"hard questions are great but only if we deem you worthy enough to not silently downgrade you, or even get access at all\"",
-   "link": "https://x.com/sama/status/2076824870072238299",
-   "time": "2026-07-14T00:23:29+00:00",
-   "rt": false
   },
   {
    "user": "nvidia",
