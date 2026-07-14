@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-14T13:48:58.140242+00:00",
+ "updated": "2026-07-14T16:17:49.992195+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,97 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: From benchmark to production, NVIDIA GB300 NVL72 delivers industry-leading performance per watt to maximize revenue and deliver the lowest token cost to improve profit margins, providing a reliable foundation for production inference used by leading AI labs and enterprises. Learn more: https://nvda.ws/4gDZSUT",
+   "link": "https://x.com/nvidia/status/2077060583556251825",
+   "time": "2026-07-14T16:00:07+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: On Kimi K2.6, NVIDIA GB300 NVL72 systems deliver up to 10× higher performance per watt than NVIDIA Hopper.",
+   "link": "https://x.com/nvidia/status/2077060581253648482",
+   "time": "2026-07-14T16:00:07+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: On GLM 5.1, NVIDIA GB300 NVL72 systems deliver up to 20× higher performance per watt than NVIDIA Hopper.",
+   "link": "https://x.com/nvidia/status/2077060574123352346",
+   "time": "2026-07-14T16:00:05+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: On DeepSeek V4 Pro, NVIDIA GB300 NVL72 systems deliver up to 25× higher performance per watt than NVIDIA Hopper.",
+   "link": "https://x.com/nvidia/status/2077060569459253384",
+   "time": "2026-07-14T16:00:04+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "⚡ Performance per watt is the foundational metric for every AI factory today operating in a power-constrained environment. 🧵",
+   "link": "https://x.com/nvidia/status/2077060563666866491",
+   "time": "2026-07-14T16:00:02+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "R to @sama: also, a reason to favor open-source harnesses.",
+   "link": "https://x.com/sama/status/2077053226080436235",
+   "time": "2026-07-14T15:30:53+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "Concerning.",
+   "link": "https://x.com/sama/status/2077053140508266710",
+   "time": "2026-07-14T15:30:33+00:00",
+   "rt": false
+  },
+  {
+   "user": "AnthropicAI",
+   "text": "RT by @AnthropicAI: We're introducing Claude for Teachers: free access to premium Claude capabilities for verified K-12 educators in the US, with a library of teaching skills and a direct connection to evidence-based curricula, mapped to academic standards in all 50 states. https://claude.com/solutions/teachers",
+   "link": "https://x.com/claudeai/status/2077047278078931243",
+   "time": "2026-07-14T15:07:15+00:00",
+   "rt": true
+  },
+  {
+   "user": "sama",
+   "text": "this is a thoughtful proposal from demis:",
+   "link": "https://x.com/sama/status/2077042528906527225",
+   "time": "2026-07-14T14:48:23+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "this would have been a whole startup not too long ago",
+   "link": "https://x.com/sama/status/2077037818824843719",
+   "time": "2026-07-14T14:29:40+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "GPT-5.6 sol is half the price and ~twice as token efficient as fable in many cases for accomplishing the same task. happy to deliver at one-quarter of the price.",
+   "link": "https://x.com/sama/status/2077036999303999910",
+   "time": "2026-07-14T14:26:24+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "2.5x increase in usage of our agentic products (codex and chatgpt work) in the last week! welcome.",
+   "link": "https://x.com/sama/status/2077033807736459713",
+   "time": "2026-07-14T14:13:43+00:00",
+   "rt": false
+  },
+  {
+   "user": "AnthropicAI",
+   "text": "We’re committing $10 million CAD and partnering with leading AI institutions in Canada to help fund new AI research. https://www.anthropic.com/news/canadian-ai-research",
+   "link": "https://x.com/AnthropicAI/status/2077026346375540870",
+   "time": "2026-07-14T13:44:04+00:00",
+   "rt": false
+  },
   {
    "user": "GoogleDeepMind",
    "text": "RT by @GoogleDeepMind: A Framework for Frontier AI and the Dawning of a New Age",
@@ -34,13 +125,6 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "sama",
-   "text": "still sorta breaks my brain to see our models be good at design finally",
-   "link": "https://x.com/sama/status/2076823209589313910",
-   "time": "2026-07-14T00:16:53+00:00",
-   "rt": false
-  },
-  {
    "user": "nvidia",
    "text": "R to @nvidia: Leading companies are already compounding value with full-stack open inference software on NVIDIA Blackwell: Baseten used TensorRT LLM to serve DeepSeek V4 Pro on Blackwell, applying proprietary runtime optimizations to deliver up to 50% more tokens per second for reasoning, coding, and long-context workloads. Cognition uses NVIDIA Dynamo to manage inference GPUs like NVIDIA Blackwel",
    "link": "https://x.com/nvidia/status/2076796351241728218",
@@ -59,55 +143,6 @@ window.RADAR_X = {
    "text": "R to @nvidia: Open source multiplies the full-stack advantage. PyTorch has surpassed 700 million PyPI downloads with CUDA support — co-evolved with a decade of NVIDIA architecture advances.. Open source frameworks built on CUDA mean every AI breakthrough runs on NVIDIA from day one. NVIDIA 💚 @PyTorch",
    "link": "https://x.com/nvidia/status/2076796336200954047",
    "time": "2026-07-13T22:30:06+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: When the full inference stack works as one system, individual optimizations compound. Disaggregated serving, large expert parallelism over NVIDIA NVLink interconnect technology, NVFP4 precision and multi-token prediction each deliver meaningful gains on their own. Together, they increase throughput up to 20x on NVIDIA Blackwell.",
-   "link": "https://x.com/nvidia/status/2076796331046146406",
-   "time": "2026-07-13T22:30:04+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: That's 5x lower token cost from software in just one month — on the same hardware.",
-   "link": "https://x.com/nvidia/status/2076796326025585020",
-   "time": "2026-07-13T22:30:03+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: With software optimizations alone, NVIDIA has delivered 5x more tokens from the same GPUs and power envelope, and the pace is accelerating.",
-   "link": "https://x.com/nvidia/status/2076796320824590441",
-   "time": "2026-07-13T22:30:02+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "As organizations move from AI pilots to production, infrastructure decisions have shifted from peak chip specs to cost per token: how many useful tokens they can deliver per dollar, per watt, and within required latency targets. NVIDIA's full-stack inference software continuously improves hardware performance — so that number keeps improving, even after deployment. See the 🧵",
-   "link": "https://x.com/nvidia/status/2076796314306617590",
-   "time": "2026-07-13T22:30:00+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "come for the best model, stay because we don’t treat you with contempt",
-   "link": "https://x.com/sama/status/2076780425280954658",
-   "time": "2026-07-13T21:26:52+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "that goes hard",
-   "link": "https://x.com/sama/status/2076759971967230419",
-   "time": "2026-07-13T20:05:36+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "we love our users",
-   "link": "https://x.com/sama/status/2076736417498267652",
-   "time": "2026-07-13T18:32:00+00:00",
    "rt": false
   },
   {
@@ -143,20 +178,6 @@ window.RADAR_X = {
    "text": "In previous research, we found that Claude expresses over 3,000 values, like honesty and warmth. In new work, we asked how the values Claude expresses vary between Claude models and across languages. We analyzed 300K+ anonymized conversations to find out.https://www.anthropic.com/research/claude-values-models-languages",
    "link": "https://x.com/AnthropicAI/status/2076719540785012872",
    "time": "2026-07-13T17:24:56+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "clarity is nice",
-   "link": "https://x.com/sama/status/2076696938918084809",
-   "time": "2026-07-13T15:55:08+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Register by July 15 to save up to 25%: https://nvda.ws/4eXR3UJ",
-   "link": "https://x.com/nvidia/status/2076690665220567441",
-   "time": "2026-07-13T15:30:12+00:00",
    "rt": false
   },
   {
@@ -200,13 +221,6 @@ window.RADAR_X = {
    "link": "https://x.com/ChatGPTapp/status/2076654365121855835",
    "time": "2026-07-13T13:05:57+00:00",
    "rt": true
-  },
-  {
-   "user": "sama",
-   "text": "i'd love to see interesting things people have built with 5.6 sol. i will send the person who made the coolest thing a special gift from the openai archives.",
-   "link": "https://x.com/sama/status/2076398253332140410",
-   "time": "2026-07-12T20:08:15+00:00",
-   "rt": false
   },
   {
    "user": "dylan522p",
