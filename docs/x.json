@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-14T08:09:47.228117+00:00",
+ "updated": "2026-07-14T10:49:05.532138+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -45,34 +45,6 @@
    "text": "R to @nvidia: This ensures that every layer benefits when any layer improves.",
    "link": "https://x.com/nvidia/status/2076796346258829336",
    "time": "2026-07-13T22:30:08+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Open source multiplies the full-stack advantage. PyTorch has surpassed 700 million PyPI downloads with CUDA support — co-evolved with a decade of NVIDIA architecture advances.. Open source frameworks built on CUDA mean every AI breakthrough runs on NVIDIA from day one. NVIDIA 💚 @PyTorch",
-   "link": "https://x.com/nvidia/status/2076796336200954047",
-   "time": "2026-07-13T22:30:06+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: When the full inference stack works as one system, individual optimizations compound. Disaggregated serving, large expert parallelism over NVIDIA NVLink interconnect technology, NVFP4 precision and multi-token prediction each deliver meaningful gains on their own. Together, they increase throughput up to 20x on NVIDIA Blackwell.",
-   "link": "https://x.com/nvidia/status/2076796331046146406",
-   "time": "2026-07-13T22:30:04+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: That's 5x lower token cost from software in just one month — on the same hardware.",
-   "link": "https://x.com/nvidia/status/2076796326025585020",
-   "time": "2026-07-13T22:30:03+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: With software optimizations alone, NVIDIA has delivered 5x more tokens from the same GPUs and power envelope, and the pace is accelerating.",
-   "link": "https://x.com/nvidia/status/2076796320824590441",
-   "time": "2026-07-13T22:30:02+00:00",
    "rt": false
   },
   {
@@ -150,6 +122,13 @@
    "text": "R to @nvidia: Register by July 15 to save up to 25%: https://nvda.ws/4eXR3UJ",
    "link": "https://x.com/nvidia/status/2076690665220567441",
    "time": "2026-07-13T15:30:12+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "What’s the saying about the early bird and the worm? 🐦🪱 #NVIDIAGTC Berlin discounted pricing is available for a limited time only - join us for the latest in AI, accelerated computing, robotics, simulation, and more.",
+   "link": "https://x.com/nvidia/status/2076690662196490454",
+   "time": "2026-07-13T15:30:11+00:00",
    "rt": false
   },
   {
