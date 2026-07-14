@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-14T16:17:49.992195+00:00",
+ "updated": "2026-07-14T19:23:15.413150+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,34 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "5.6 sol growth is insane. the inference team has done heroic work to be able to support demand. we are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
+   "link": "https://x.com/sama/status/2077106587307798989",
+   "time": "2026-07-14T19:02:55+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Learn more: https://nvda.ws/4fyJljZ",
+   "link": "https://x.com/nvidia/status/2077075662536339911",
+   "time": "2026-07-14T17:00:02+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "Enterprises need AI they can trust, control and customize. Open models give teams the visibility and ownership to evaluate AI against their standards, specialize AI with domain knowledge, and improve accuracy and efficiency.",
+   "link": "https://x.com/nvidia/status/2077075654210695537",
+   "time": "2026-07-14T17:00:00+00:00",
+   "rt": false
+  },
+  {
+   "user": "dylan522p",
+   "text": "I would like to see them TRY STOP THIS",
+   "link": "https://x.com/dylan522p/status/2077065171533762717",
+   "time": "2026-07-14T16:18:21+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "R to @nvidia: From benchmark to production, NVIDIA GB300 NVL72 delivers industry-leading performance per watt to maximize revenue and deliver the lowest token cost to improve profit margins, providing a reliable foundation for production inference used by leading AI labs and enterprises. Learn more: https://nvda.ws/4gDZSUT",
@@ -118,31 +146,10 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "sama",
-   "text": "i thought this was satire, kept looking for the handle to be spelled c1audeai or something",
-   "link": "https://x.com/sama/status/2076824686307271125",
-   "time": "2026-07-14T00:22:45+00:00",
-   "rt": false
-  },
-  {
    "user": "nvidia",
    "text": "R to @nvidia: Leading companies are already compounding value with full-stack open inference software on NVIDIA Blackwell: Baseten used TensorRT LLM to serve DeepSeek V4 Pro on Blackwell, applying proprietary runtime optimizations to deliver up to 50% more tokens per second for reasoning, coding, and long-context workloads. Cognition uses NVIDIA Dynamo to manage inference GPUs like NVIDIA Blackwel",
    "link": "https://x.com/nvidia/status/2076796351241728218",
    "time": "2026-07-13T22:30:09+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: This ensures that every layer benefits when any layer improves.",
-   "link": "https://x.com/nvidia/status/2076796346258829336",
-   "time": "2026-07-13T22:30:08+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Open source multiplies the full-stack advantage. PyTorch has surpassed 700 million PyPI downloads with CUDA support — co-evolved with a decade of NVIDIA architecture advances.. Open source frameworks built on CUDA mean every AI breakthrough runs on NVIDIA from day one. NVIDIA 💚 @PyTorch",
-   "link": "https://x.com/nvidia/status/2076796336200954047",
-   "time": "2026-07-13T22:30:06+00:00",
    "rt": false
   },
   {
