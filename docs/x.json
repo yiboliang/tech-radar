@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-14T02:39:59.291083+00:00",
+ "updated": "2026-07-14T05:33:26.802820+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -105,13 +105,6 @@
   },
   {
    "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: While the values Claude expresses shape millions of conversations every day, we don't yet understand why they vary, or whether that's desired. This approach will allow us to determine what factors influence Claude's value expression—and ultimately how (and whether) to steer it. https://www.anthropic.com/research/claude-values-models-languages",
-   "link": "https://x.com/AnthropicAI/status/2076719549060382802",
-   "time": "2026-07-13T17:24:58+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
    "text": "R to @AnthropicAI: The values Claude expresses also vary with the language of the conversation, most noticeably along the Warmth vs. Rigor axis. Claude leans most toward warmth in Hindi and Arabic. In Russian, it leans toward rigor—often asking the user for supporting evidence.",
    "link": "https://x.com/AnthropicAI/status/2076719546954825769",
    "time": "2026-07-13T17:24:58+00:00",
@@ -119,16 +112,9 @@
   },
   {
    "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: While the differences between models are modest overall, we find that each Claude model sits at a different point along these value axes. Sonnet 4.6, for example, is more playful and affirming, while Opus 4.7 is more likely to give candid critiques.",
-   "link": "https://x.com/AnthropicAI/status/2076719544727716287",
-   "time": "2026-07-13T17:24:57+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: Because it’s hard to spot patterns by comparing 3,000 values at a time, we clustered similar values together, then identified four key axes along which Claude’s values differ between models: Deference vs. Caution, Warmth vs. Rigor, Depth vs. Brevity, and Candor vs. Execution.",
-   "link": "https://x.com/AnthropicAI/status/2076719542404018631",
-   "time": "2026-07-13T17:24:57+00:00",
+   "text": "R to @AnthropicAI: While the values Claude expresses shape millions of conversations every day, we don't yet understand why they vary, or whether that's desired. This approach will allow us to determine what factors influence Claude's value expression—and ultimately how (and whether) to steer it. https://www.anthropic.com/research/claude-values-models-languages",
+   "link": "https://x.com/AnthropicAI/status/2076719549060382802",
+   "time": "2026-07-13T17:24:58+00:00",
    "rt": false
   },
   {
