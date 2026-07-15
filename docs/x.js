@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-15T19:14:51.002320+00:00",
+ "updated": "2026-07-15T22:03:18.387324+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "A closer look at improved intelligence in GPT-Live: the model can keep a conversation going while helping with multiple tasks at once, like checking flights, pulling up local weather, and shaping an itinerary in real time.",
+   "link": "https://x.com/OpenAI/status/2077501603050033634",
+   "time": "2026-07-15T21:12:34+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "amazing to me that some people want the silent version https://openai.com/supply/co-lab/work-louder/",
+   "link": "https://x.com/sama/status/2077489177374208000",
+   "time": "2026-07-15T20:23:12+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "R to @nvidia: Read the blog → https://nvda.ws/37aKhZ1",
@@ -28,10 +42,38 @@ window.RADAR_X = {
   },
   {
    "user": "nvidia",
+   "text": "R to @nvidia: A full Pareto allows you to see exactly where your workload sits and how to optimize for it.",
+   "link": "https://x.com/nvidia/status/2077460244150513942",
+   "time": "2026-07-15T18:28:14+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Throughput or interactivity? It isn't one or the other — it depends on the workload.",
+   "link": "https://x.com/nvidia/status/2077460239117394212",
+   "time": "2026-07-15T18:28:13+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Optimize for one, and you move away from the other.",
+   "link": "https://x.com/nvidia/status/2077460233841004771",
+   "time": "2026-07-15T18:28:11+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
    "text": "Any single performance number only tells part of the story. AI Infrastructure performance is a Pareto Curve 🧵",
    "link": "https://x.com/nvidia/status/2077460228350546173",
    "time": "2026-07-15T18:28:10+00:00",
    "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: The #BoxWorks agenda is live, and @nvidia CEO Jensen Huang is taking the main stage. Jensen will join Box CEO @levie for a keynote fireside chat to unpack the keys to successful AI transformation. Across this years’ agenda, you’ll find opportunities to learn from the brightest minds in AI innovation and discover how to put your business content to work securely with any AI agent or ",
+   "link": "https://x.com/Box/status/2077453251885342984",
+   "time": "2026-07-15T18:00:27+00:00",
+   "rt": true
   },
   {
    "user": "AnthropicAI",
@@ -69,6 +111,13 @@ window.RADAR_X = {
    "rt": false
   },
   {
+   "user": "sama",
+   "text": "RT by @sama: Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
+   "link": "https://x.com/OpenAI/status/2077446718728425686",
+   "time": "2026-07-15T17:34:29+00:00",
+   "rt": true
+  },
+  {
    "user": "OpenAI",
    "text": "R to @OpenAI: As model capabilities grow, safety and alignment must scale with them. Red-teaming is essential, but today’s approaches are difficult to scale, creating a critical bottleneck. GPT‑Red is one way we’re addressing it.",
    "link": "https://x.com/OpenAI/status/2077446719990796505",
@@ -97,25 +146,11 @@ window.RADAR_X = {
    "rt": true
   },
   {
-   "user": "nvidia",
-   "text": "RT by @nvidia: Jensen joined @SEGA_OFFICIAL leaders in Tokyo to celebrate a partnership built over decades of gaming innovation - from the halcyon days of 3D graphics to what’s next.",
-   "link": "https://x.com/NVIDIAGeForce/status/2077377645512163767",
-   "time": "2026-07-15T13:00:01+00:00",
-   "rt": true
-  },
-  {
    "user": "GoogleDeepMind",
    "text": "From proposing hypotheses to designing experiments, AI agents are starting to reshape scientific discovery. But the hardest part is testing these ideas in the real world. Our essay explores the growing validation bottleneck and outlines four priorities for policymakers and funders. → https://goo.gle/4poACUT",
    "link": "https://x.com/GoogleDeepMind/status/2077372568143642972",
    "time": "2026-07-15T12:39:50+00:00",
    "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "RT by @nvidia: Akihabara visit checklist for Jensen: ✅ @NVIDIARTXSpark ✅ @SEGA_OFFICIAL's VIRTUA FIGHTER CROSSROADS ✅ Gamers ready for the next round",
-   "link": "https://x.com/NVIDIAGeForce/status/2077366746126725412",
-   "time": "2026-07-15T12:16:42+00:00",
-   "rt": true
   },
   {
    "user": "OpenAI",
@@ -136,20 +171,6 @@ window.RADAR_X = {
    "text": "5.6 sol growth is insane. the inference team has done heroic work to be able to support demand. we are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
    "link": "https://x.com/sama/status/2077106587307798989",
    "time": "2026-07-14T19:02:55+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Learn more: https://nvda.ws/4fyJljZ",
-   "link": "https://x.com/nvidia/status/2077075662536339911",
-   "time": "2026-07-14T17:00:02+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Enterprises need AI they can trust, control and customize. Open models give teams the visibility and ownership to evaluate AI against their standards, specialize AI with domain knowledge, and improve accuracy and efficiency.",
-   "link": "https://x.com/nvidia/status/2077075654210695537",
-   "time": "2026-07-14T17:00:00+00:00",
    "rt": false
   },
   {
@@ -192,20 +213,6 @@ window.RADAR_X = {
    "text": "this would have been a whole startup not too long ago",
    "link": "https://x.com/sama/status/2077037818824843719",
    "time": "2026-07-14T14:29:40+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "GPT-5.6 sol is half the price and ~twice as token efficient as fable in many cases for accomplishing the same task. happy to deliver at one-quarter of the price.",
-   "link": "https://x.com/sama/status/2077036999303999910",
-   "time": "2026-07-14T14:26:24+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "2.5x increase in usage of our agentic products (codex and chatgpt work) in the last week! welcome.",
-   "link": "https://x.com/sama/status/2077033807736459713",
-   "time": "2026-07-14T14:13:43+00:00",
    "rt": false
   },
   {
@@ -284,13 +291,6 @@ window.RADAR_X = {
    "link": "https://x.com/GoogleDeepMind/status/2076686114631340046",
    "time": "2026-07-13T15:12:07+00:00",
    "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "RT by @OpenAI: ChatGPT is available again on WhatsApp in the EEA, part of our work to make AI accessible in the apps people already use every day. Message the verified 1-800-CHATGPT contact to ask questions, upload images, send voice notes, create images, and use ChatGPT in many languages. Now also on Kakao in South Korea and Viber in supported markets.",
-   "link": "https://x.com/ChatGPTapp/status/2076654365121855835",
-   "time": "2026-07-13T13:05:57+00:00",
-   "rt": true
   }
  ]
 };
