@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15T05:34:15.952983+00:00",
+ "updated": "2026-07-15T08:16:14.956729+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -56,6 +56,13 @@
   },
   {
    "user": "nvidia",
+   "text": "R to @nvidia: From benchmark to production, NVIDIA GB300 NVL72 delivers industry-leading performance per watt to maximize revenue and deliver the lowest token cost to improve profit margins, providing a reliable foundation for production inference used by leading AI labs and enterprises. Learn more: https://nvda.ws/4gDZSUT",
+   "link": "https://x.com/nvidia/status/2077060583556251825",
+   "time": "2026-07-14T16:00:07+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
    "text": "R to @nvidia: On Kimi K2.6, NVIDIA GB300 NVL72 systems deliver up to 10× higher performance per watt than NVIDIA Hopper.",
    "link": "https://x.com/nvidia/status/2077060581253648482",
    "time": "2026-07-14T16:00:07+00:00",
@@ -63,9 +70,16 @@
   },
   {
    "user": "nvidia",
-   "text": "R to @nvidia: From benchmark to production, NVIDIA GB300 NVL72 delivers industry-leading performance per watt to maximize revenue and deliver the lowest token cost to improve profit margins, providing a reliable foundation for production inference used by leading AI labs and enterprises. Learn more: https://nvda.ws/4gDZSUT",
-   "link": "https://x.com/nvidia/status/2077060583556251825",
-   "time": "2026-07-14T16:00:07+00:00",
+   "text": "R to @nvidia: On GLM 5.1, NVIDIA GB300 NVL72 systems deliver up to 20× higher performance per watt than NVIDIA Hopper.",
+   "link": "https://x.com/nvidia/status/2077060574123352346",
+   "time": "2026-07-14T16:00:05+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: On DeepSeek V4 Pro, NVIDIA GB300 NVL72 systems deliver up to 25× higher performance per watt than NVIDIA Hopper.",
+   "link": "https://x.com/nvidia/status/2077060569459253384",
+   "time": "2026-07-14T16:00:04+00:00",
    "rt": false
   },
   {
@@ -146,20 +160,6 @@
    "rt": false
   },
   {
-   "user": "nvidia",
-   "text": "R to @nvidia: This ensures that every layer benefits when any layer improves.",
-   "link": "https://x.com/nvidia/status/2076796346258829336",
-   "time": "2026-07-13T22:30:08+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "As organizations move from AI pilots to production, infrastructure decisions have shifted from peak chip specs to cost per token: how many useful tokens they can deliver per dollar, per watt, and within required latency targets. NVIDIA's full-stack inference software continuously improves hardware performance — so that number keeps improving, even after deployment. See the 🧵",
-   "link": "https://x.com/nvidia/status/2076796314306617590",
-   "time": "2026-07-13T22:30:00+00:00",
-   "rt": false
-  },
-  {
    "user": "AnthropicAI",
    "text": "R to @AnthropicAI: While the values Claude expresses shape millions of conversations every day, we don't yet understand why they vary, or whether that's desired. This approach will allow us to determine what factors influence Claude's value expression—and ultimately how (and whether) to steer it. https://www.anthropic.com/research/claude-values-models-languages",
    "link": "https://x.com/AnthropicAI/status/2076719549060382802",
@@ -235,13 +235,6 @@
    "link": "https://x.com/ChatGPTapp/status/2076654365121855835",
    "time": "2026-07-13T13:05:57+00:00",
    "rt": true
-  },
-  {
-   "user": "dylan522p",
-   "text": "Or he failed to keep it together (Anthropic, Thinky, Core Automation, etc) and bloviated so much about his tech that everyone saw it as existential and it created completion from all the hyperscalers. If he played his cards right I'd bet there'd be no Anthropic or Meta TBD or XAI",
-   "link": "https://x.com/dylan522p/status/2076200679186567521",
-   "time": "2026-07-12T07:03:10+00:00",
-   "rt": false
   }
  ]
 }
