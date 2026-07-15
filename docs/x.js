@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-15T10:52:21.432385+00:00",
+ "updated": "2026-07-15T13:47:38.910838+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,34 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: First stop in Japan: Build-a-Claw. 🇯🇵 Jensen made a surprise stop in the heart of Tokyo to meet with devs, give away some DGX Sparks, and see what they're building with open models.",
+   "link": "https://x.com/NVIDIAAI/status/2077380552865538430",
+   "time": "2026-07-15T13:11:34+00:00",
+   "rt": true
+  },
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: Jensen joined @SEGA_OFFICIAL leaders in Tokyo to celebrate a partnership built over decades of gaming innovation - from the halcyon days of 3D graphics to what’s next.",
+   "link": "https://x.com/NVIDIAGeForce/status/2077377645512163767",
+   "time": "2026-07-15T13:00:01+00:00",
+   "rt": true
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "From proposing hypotheses to designing experiments, AI agents are starting to reshape scientific discovery. But the hardest part is testing these ideas in the real world. Our essay explores the growing validation bottleneck and outlines four priorities for policymakers and funders. → https://goo.gle/4poACUT",
+   "link": "https://x.com/GoogleDeepMind/status/2077372568143642972",
+   "time": "2026-07-15T12:39:50+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: Akihabara visit checklist for Jensen: ✅ @NVIDIARTXSpark ✅ @SEGA_OFFICIAL's VIRTUA FIGHTER CROSSROADS ✅ Gamers ready for the next round",
+   "link": "https://x.com/NVIDIAGeForce/status/2077366746126725412",
+   "time": "2026-07-15T12:16:42+00:00",
+   "rt": true
+  },
   {
    "user": "OpenAI",
    "text": "RT by @OpenAI: Or… what if we gave you $100 in Codex credits if you tell us what you love about GPT-5.6 Sol or why you switched? Tweet it, claim your gift, enjoy more usage. First 10k get the free tokens! https://switch-to-codex.openai.chatgpt.site/",
@@ -73,20 +101,6 @@ window.RADAR_X = {
    "text": "R to @nvidia: On GLM 5.1, NVIDIA GB300 NVL72 systems deliver up to 20× higher performance per watt than NVIDIA Hopper.",
    "link": "https://x.com/nvidia/status/2077060574123352346",
    "time": "2026-07-14T16:00:05+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: On DeepSeek V4 Pro, NVIDIA GB300 NVL72 systems deliver up to 25× higher performance per watt than NVIDIA Hopper.",
-   "link": "https://x.com/nvidia/status/2077060569459253384",
-   "time": "2026-07-14T16:00:04+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "⚡ Performance per watt is the foundational metric for every AI factory today operating in a power-constrained environment. 🧵",
-   "link": "https://x.com/nvidia/status/2077060563666866491",
-   "time": "2026-07-14T16:00:02+00:00",
    "rt": false
   },
   {
@@ -153,13 +167,6 @@ window.RADAR_X = {
    "rt": true
   },
   {
-   "user": "nvidia",
-   "text": "R to @nvidia: Leading companies are already compounding value with full-stack open inference software on NVIDIA Blackwell: Baseten used TensorRT LLM to serve DeepSeek V4 Pro on Blackwell, applying proprietary runtime optimizations to deliver up to 50% more tokens per second for reasoning, coding, and long-context workloads. Cognition uses NVIDIA Dynamo to manage inference GPUs like NVIDIA Blackwel",
-   "link": "https://x.com/nvidia/status/2076796351241728218",
-   "time": "2026-07-13T22:30:09+00:00",
-   "rt": false
-  },
-  {
    "user": "AnthropicAI",
    "text": "R to @AnthropicAI: While the values Claude expresses shape millions of conversations every day, we don't yet understand why they vary, or whether that's desired. This approach will allow us to determine what factors influence Claude's value expression—and ultimately how (and whether) to steer it. https://www.anthropic.com/research/claude-values-models-languages",
    "link": "https://x.com/AnthropicAI/status/2076719549060382802",
@@ -206,20 +213,6 @@ window.RADAR_X = {
    "text": "R to @GoogleDeepMind: 🔮 Who visited the Oracle of Dodona? By analyzing collections of ancient lead tablets, the Skill mapped visitors traveling from across the ancient world. It reconstructed the community of oracle visitors, turning scattered fragments into a connected network.",
    "link": "https://x.com/GoogleDeepMind/status/2076686125289071074",
    "time": "2026-07-13T15:12:09+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: 🗺️ Mapping the cult of the Aufaniae The Skill can study multiple texts in parallel, we used it to map stone altars dedicated to the Aufaniae - Germanic goddesses. It showcased how religious practices traveled with Roman soldiers, even flagging an outlier in Spain by a veteran who brought his favorite deity home.",
-   "link": "https://x.com/GoogleDeepMind/status/2076686121866494038",
-   "time": "2026-07-13T15:12:09+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: 🔍 The ring thief of Aquae Sulis When given an 1,800 year old curse tablet, the Skill used Aeneas - our generative model for restoring, dating and placing ancient texts - to locate it in time and space. It also generated an explanation of why it made that prediction, acting as a piece of epigraphic commentary to the expert.",
-   "link": "https://x.com/GoogleDeepMind/status/2076686118129389732",
-   "time": "2026-07-13T15:12:08+00:00",
    "rt": false
   },
   {
