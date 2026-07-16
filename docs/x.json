@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-16T13:57:28.154038+00:00",
+ "updated": "2026-07-16T16:18:41.574557+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -262,27 +262,6 @@
    "text": "R to @AnthropicAI: Because it’s hard to spot patterns by comparing 3,000 values at a time, we clustered similar values together, then identified four key axes along which Claude’s values differ between models: Deference vs. Caution, Warmth vs. Rigor, Depth vs. Brevity, and Candor vs. Execution.",
    "link": "https://x.com/AnthropicAI/status/2076719542404018631",
    "time": "2026-07-13T17:24:57+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: These examples showcase how the Predicting the Past Skill can push forward historical research using advanced AI models and complex workflows - with no coding required. Find out more → https://goo.gle/4vR5ZtC",
-   "link": "https://x.com/GoogleDeepMind/status/2076686127604302290",
-   "time": "2026-07-13T15:12:10+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: 🔮 Who visited the Oracle of Dodona? By analyzing collections of ancient lead tablets, the Skill mapped visitors traveling from across the ancient world. It reconstructed the community of oracle visitors, turning scattered fragments into a connected network.",
-   "link": "https://x.com/GoogleDeepMind/status/2076686125289071074",
-   "time": "2026-07-13T15:12:09+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "Here’s how we used the Predicting the Past Skill in Google @Antigravity to track down a Roman ring thief, map an ancient cult across Europe, and reconstruct the networks of people visiting a Greek oracle. 🧵",
-   "link": "https://x.com/GoogleDeepMind/status/2076686114631340046",
-   "time": "2026-07-13T15:12:07+00:00",
    "rt": false
   }
  ]
