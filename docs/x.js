@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-16T08:17:33.431282+00:00",
+ "updated": "2026-07-16T11:02:22.873597+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -70,9 +70,9 @@ window.RADAR_X = {
   },
   {
    "user": "nvidia",
-   "text": "Any single performance number only tells part of the story. AI Infrastructure performance is a Pareto Curve 🧵",
-   "link": "https://x.com/nvidia/status/2077460228350546173",
-   "time": "2026-07-15T18:28:10+00:00",
+   "text": "R to @nvidia: Read the blog → https://nvda.ws/37aKhZ1",
+   "link": "https://x.com/nvidia/status/2077460260843844009",
+   "time": "2026-07-15T18:28:18+00:00",
    "rt": false
   },
   {
@@ -98,6 +98,13 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
+   "text": "R to @OpenAI: AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.",
+   "link": "https://x.com/OpenAI/status/2077446723992228167",
+   "time": "2026-07-15T17:34:30+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
    "text": "R to @OpenAI: Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.",
    "link": "https://x.com/OpenAI/status/2077446722683650525",
    "time": "2026-07-15T17:34:30+00:00",
@@ -105,8 +112,8 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.",
-   "link": "https://x.com/OpenAI/status/2077446723992228167",
+   "text": "R to @OpenAI: GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models. Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT‑Red to continuously find broader and more complex failures.",
+   "link": "https://x.com/OpenAI/status/2077446721161093124",
    "time": "2026-07-15T17:34:30+00:00",
    "rt": false
   },
@@ -119,7 +126,14 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
+   "text": "R to @OpenAI: As model capabilities grow, safety and alignment must scale with them. Red-teaming is essential, but today’s approaches are difficult to scale, creating a critical bottleneck. GPT‑Red is one way we’re addressing it.",
+   "link": "https://x.com/OpenAI/status/2077446719990796505",
+   "time": "2026-07-15T17:34:29+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "Pinned: Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
    "link": "https://x.com/OpenAI/status/2077446718728425686",
    "time": "2026-07-15T17:34:29+00:00",
    "rt": false
@@ -277,13 +291,6 @@ window.RADAR_X = {
    "link": "https://x.com/GoogleDeepMind/status/2076686114631340046",
    "time": "2026-07-13T15:12:07+00:00",
    "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "RT by @OpenAI: ChatGPT is available again on WhatsApp in the EEA, part of our work to make AI accessible in the apps people already use every day. Message the verified 1-800-CHATGPT contact to ask questions, upload images, send voice notes, create images, and use ChatGPT in many languages. Now also on Kakao in South Korea and Viber in supported markets.",
-   "link": "https://x.com/ChatGPTapp/status/2076654365121855835",
-   "time": "2026-07-13T13:05:57+00:00",
-   "rt": true
   }
  ]
 };
