@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-16T16:18:41.574557+00:00",
+ "updated": "2026-07-16T19:15:01.252870+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -13,11 +13,53 @@
  ],
  "items": [
   {
+   "user": "nvidia",
+   "text": "Nations have always invested in critical infrastructure to grow their economies and improve citizens’ lives, from transportation and communications to commerce, entertainment and healthcare. Today, AI is the most important layer of that infrastructure. It is turbocharging innovation across every facet of society. That's why countries are now investing in AI capabilities that let them design, train",
+   "link": "https://x.com/nvidia/status/2077830629568205266",
+   "time": "2026-07-16T19:00:00+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "we did not have our best last 12 months ever, which is mostly my fault, but we are about to have our best 12 months to date. the team is doing amazing work and i think you’ll be very happy with what they’ve got cooking for you. i am happy about this for many reasons, but mostly because i care about our users winning. AI has to be about giving lots of people more freedom, agency, and wealth. we wan",
+   "link": "https://x.com/sama/status/2077817060068057493",
+   "time": "2026-07-16T18:06:05+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Listen to the OpenAI Podcast on— Spotify https://open.spotify.com/show/0zojMEDizKMh3aTxnGLENP Apple https://podcasts.apple.com/us/podcast/what-racing-reveals-about-working-with-ai-episode-22/id1820330260?i=1000777091917 YouTube https://www.youtube.com/watch?v=KNPjRpNtQ7s",
+   "link": "https://x.com/OpenAI/status/2077807981715128702",
+   "time": "2026-07-16T17:30:01+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "In racing, tiny margins matter. AI can help teams find them. OpenAI’s Joyce Ruffell and @RaceTekSystems co-founder @GarageGuyChase discuss with @AndrewMayne how racing teams use AI to turn track data into faster decisions—from our research collaboration with Chip Ganassi Racing to building new tools with ChatGPT and Codex.",
+   "link": "https://x.com/OpenAI/status/2077807977193714080",
+   "time": "2026-07-16T17:30:00+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: My first attempt at a twitter article.. if you prefer the blog form, see https://windowsontheory.org/2026/07/16/all-watched-over/",
+   "link": "https://x.com/boazbaraktcs/status/2077794137428922833",
+   "time": "2026-07-16T16:35:00+00:00",
+   "rt": true
+  },
+  {
    "user": "GoogleDeepMind",
    "text": "The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier AI to build proactive defenses for global health → https://goo.gle/4wKHXk2",
    "link": "https://x.com/GoogleDeepMind/status/2077721122116640969",
    "time": "2026-07-16T11:44:52+00:00",
    "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: - Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled - The model attempts to override the $HOME env var to define a temporary directory. - The model makes an",
+   "link": "https://x.com/thsottiaux/status/2077630111499882637",
+   "time": "2026-07-16T05:43:13+00:00",
+   "rt": true
   },
   {
    "user": "nvidia",
@@ -73,13 +115,6 @@
    "text": "amazing to me that some people want the silent version https://openai.com/supply/co-lab/work-louder/",
    "link": "https://x.com/sama/status/2077489177374208000",
    "time": "2026-07-15T20:23:12+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Read the blog → https://nvda.ws/37aKhZ1",
-   "link": "https://x.com/nvidia/status/2077460260843844009",
-   "time": "2026-07-15T18:28:18+00:00",
    "rt": false
   },
   {
@@ -146,25 +181,11 @@
    "rt": false
   },
   {
-   "user": "OpenAI",
-   "text": "You don’t have to wait. Merch inspired by research & deployment. Available until sold out. https://openai.com/supply/",
-   "link": "https://x.com/OpenAI/status/2077430470510526635",
-   "time": "2026-07-15T16:29:55+00:00",
-   "rt": false
-  },
-  {
    "user": "GoogleDeepMind",
    "text": "From proposing hypotheses to designing experiments, AI agents are starting to reshape scientific discovery. But the hardest part is testing these ideas in the real world. Our essay explores the growing validation bottleneck and outlines four priorities for policymakers and funders. → https://goo.gle/4poACUT",
    "link": "https://x.com/GoogleDeepMind/status/2077372568143642972",
    "time": "2026-07-15T12:39:50+00:00",
    "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "RT by @OpenAI: Or… what if we gave you $100 in Codex credits if you tell us what you love about GPT-5.6 Sol or why you switched? Tweet it, claim your gift, enjoy more usage. First 10k get the free tokens! https://switch-to-codex.openai.chatgpt.site/",
-   "link": "https://x.com/thsottiaux/status/2077248807533003257",
-   "time": "2026-07-15T04:28:03+00:00",
-   "rt": true
   },
   {
    "user": "sama",
@@ -195,32 +216,11 @@
    "rt": false
   },
   {
-   "user": "sama",
-   "text": "Concerning.",
-   "link": "https://x.com/sama/status/2077053140508266710",
-   "time": "2026-07-14T15:30:33+00:00",
-   "rt": false
-  },
-  {
    "user": "AnthropicAI",
    "text": "RT by @AnthropicAI: We're introducing Claude for Teachers: free access to premium Claude capabilities for verified K-12 educators in the US, with a library of teaching skills and a direct connection to evidence-based curricula, mapped to academic standards in all 50 states. https://claude.com/solutions/teachers",
    "link": "https://x.com/claudeai/status/2077047278078931243",
    "time": "2026-07-14T15:07:15+00:00",
    "rt": true
-  },
-  {
-   "user": "sama",
-   "text": "this is a thoughtful proposal from demis:",
-   "link": "https://x.com/sama/status/2077042528906527225",
-   "time": "2026-07-14T14:48:23+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "this would have been a whole startup not too long ago",
-   "link": "https://x.com/sama/status/2077037818824843719",
-   "time": "2026-07-14T14:29:40+00:00",
-   "rt": false
   },
   {
    "user": "AnthropicAI",
@@ -235,34 +235,6 @@
    "link": "https://x.com/demishassabis/status/2076957440109625718",
    "time": "2026-07-14T09:10:16+00:00",
    "rt": true
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: While the values Claude expresses shape millions of conversations every day, we don't yet understand why they vary, or whether that's desired. This approach will allow us to determine what factors influence Claude's value expression—and ultimately how (and whether) to steer it. https://www.anthropic.com/research/claude-values-models-languages",
-   "link": "https://x.com/AnthropicAI/status/2076719549060382802",
-   "time": "2026-07-13T17:24:58+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: The values Claude expresses also vary with the language of the conversation, most noticeably along the Warmth vs. Rigor axis. Claude leans most toward warmth in Hindi and Arabic. In Russian, it leans toward rigor—often asking the user for supporting evidence.",
-   "link": "https://x.com/AnthropicAI/status/2076719546954825769",
-   "time": "2026-07-13T17:24:58+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: While the differences between models are modest overall, we find that each Claude model sits at a different point along these value axes. Sonnet 4.6, for example, is more playful and affirming, while Opus 4.7 is more likely to give candid critiques.",
-   "link": "https://x.com/AnthropicAI/status/2076719544727716287",
-   "time": "2026-07-13T17:24:57+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: Because it’s hard to spot patterns by comparing 3,000 values at a time, we clustered similar values together, then identified four key axes along which Claude’s values differ between models: Deference vs. Caution, Warmth vs. Rigor, Depth vs. Brevity, and Candor vs. Execution.",
-   "link": "https://x.com/AnthropicAI/status/2076719542404018631",
-   "time": "2026-07-13T17:24:57+00:00",
-   "rt": false
   }
  ]
 }
