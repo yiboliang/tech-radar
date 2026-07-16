@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-16T05:42:52.787758+00:00",
+ "updated": "2026-07-16T08:17:33.431282+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -70,9 +70,9 @@ window.RADAR_X = {
   },
   {
    "user": "nvidia",
-   "text": "R to @nvidia: Read the blog → https://nvda.ws/37aKhZ1",
-   "link": "https://x.com/nvidia/status/2077460260843844009",
-   "time": "2026-07-15T18:28:18+00:00",
+   "text": "Any single performance number only tells part of the story. AI Infrastructure performance is a Pareto Curve 🧵",
+   "link": "https://x.com/nvidia/status/2077460228350546173",
+   "time": "2026-07-15T18:28:10+00:00",
    "rt": false
   },
   {
@@ -98,13 +98,6 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.",
-   "link": "https://x.com/OpenAI/status/2077446723992228167",
-   "time": "2026-07-15T17:34:30+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
    "text": "R to @OpenAI: Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.",
    "link": "https://x.com/OpenAI/status/2077446722683650525",
    "time": "2026-07-15T17:34:30+00:00",
@@ -112,8 +105,8 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models. Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT‑Red to continuously find broader and more complex failures.",
-   "link": "https://x.com/OpenAI/status/2077446721161093124",
+   "text": "R to @OpenAI: AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.",
+   "link": "https://x.com/OpenAI/status/2077446723992228167",
    "time": "2026-07-15T17:34:30+00:00",
    "rt": false
   },
@@ -126,14 +119,7 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: As model capabilities grow, safety and alignment must scale with them. Red-teaming is essential, but today’s approaches are difficult to scale, creating a critical bottleneck. GPT‑Red is one way we’re addressing it.",
-   "link": "https://x.com/OpenAI/status/2077446719990796505",
-   "time": "2026-07-15T17:34:29+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "Pinned: Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
+   "text": "Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
    "link": "https://x.com/OpenAI/status/2077446718728425686",
    "time": "2026-07-15T17:34:29+00:00",
    "rt": false
@@ -231,13 +217,6 @@ window.RADAR_X = {
   },
   {
    "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: The values Claude expresses also vary with the language of the conversation, most noticeably along the Warmth vs. Rigor axis. Claude leans most toward warmth in Hindi and Arabic. In Russian, it leans toward rigor—often asking the user for supporting evidence.",
-   "link": "https://x.com/AnthropicAI/status/2076719546954825769",
-   "time": "2026-07-13T17:24:58+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
    "text": "R to @AnthropicAI: While the values Claude expresses shape millions of conversations every day, we don't yet understand why they vary, or whether that's desired. This approach will allow us to determine what factors influence Claude's value expression—and ultimately how (and whether) to steer it. https://www.anthropic.com/research/claude-values-models-languages",
    "link": "https://x.com/AnthropicAI/status/2076719549060382802",
    "time": "2026-07-13T17:24:58+00:00",
@@ -245,9 +224,23 @@ window.RADAR_X = {
   },
   {
    "user": "AnthropicAI",
-   "text": "In previous research, we found that Claude expresses over 3,000 values, like honesty and warmth. In new work, we asked how the values Claude expresses vary between Claude models and across languages. We analyzed 300K+ anonymized conversations to find out.https://www.anthropic.com/research/claude-values-models-languages",
-   "link": "https://x.com/AnthropicAI/status/2076719540785012872",
-   "time": "2026-07-13T17:24:56+00:00",
+   "text": "R to @AnthropicAI: The values Claude expresses also vary with the language of the conversation, most noticeably along the Warmth vs. Rigor axis. Claude leans most toward warmth in Hindi and Arabic. In Russian, it leans toward rigor—often asking the user for supporting evidence.",
+   "link": "https://x.com/AnthropicAI/status/2076719546954825769",
+   "time": "2026-07-13T17:24:58+00:00",
+   "rt": false
+  },
+  {
+   "user": "AnthropicAI",
+   "text": "R to @AnthropicAI: While the differences between models are modest overall, we find that each Claude model sits at a different point along these value axes. Sonnet 4.6, for example, is more playful and affirming, while Opus 4.7 is more likely to give candid critiques.",
+   "link": "https://x.com/AnthropicAI/status/2076719544727716287",
+   "time": "2026-07-13T17:24:57+00:00",
+   "rt": false
+  },
+  {
+   "user": "AnthropicAI",
+   "text": "R to @AnthropicAI: Because it’s hard to spot patterns by comparing 3,000 values at a time, we clustered similar values together, then identified four key axes along which Claude’s values differ between models: Deference vs. Caution, Warmth vs. Rigor, Depth vs. Brevity, and Candor vs. Execution.",
+   "link": "https://x.com/AnthropicAI/status/2076719542404018631",
+   "time": "2026-07-13T17:24:57+00:00",
    "rt": false
   },
   {
@@ -266,10 +259,31 @@ window.RADAR_X = {
   },
   {
    "user": "GoogleDeepMind",
+   "text": "R to @GoogleDeepMind: 🗺️ Mapping the cult of the Aufaniae The Skill can study multiple texts in parallel, we used it to map stone altars dedicated to the Aufaniae - Germanic goddesses. It showcased how religious practices traveled with Roman soldiers, even flagging an outlier in Spain by a veteran who brought his favorite deity home.",
+   "link": "https://x.com/GoogleDeepMind/status/2076686121866494038",
+   "time": "2026-07-13T15:12:09+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "R to @GoogleDeepMind: 🔍 The ring thief of Aquae Sulis When given an 1,800 year old curse tablet, the Skill used Aeneas - our generative model for restoring, dating and placing ancient texts - to locate it in time and space. It also generated an explanation of why it made that prediction, acting as a piece of epigraphic commentary to the expert.",
+   "link": "https://x.com/GoogleDeepMind/status/2076686118129389732",
+   "time": "2026-07-13T15:12:08+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
    "text": "Here’s how we used the Predicting the Past Skill in Google @Antigravity to track down a Roman ring thief, map an ancient cult across Europe, and reconstruct the networks of people visiting a Greek oracle. 🧵",
    "link": "https://x.com/GoogleDeepMind/status/2076686114631340046",
    "time": "2026-07-13T15:12:07+00:00",
    "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "RT by @OpenAI: ChatGPT is available again on WhatsApp in the EEA, part of our work to make AI accessible in the apps people already use every day. Message the verified 1-800-CHATGPT contact to ask questions, upload images, send voice notes, create images, and use ChatGPT in many languages. Now also on Kakao in South Korea and Viber in supported markets.",
+   "link": "https://x.com/ChatGPTapp/status/2076654365121855835",
+   "time": "2026-07-13T13:05:57+00:00",
+   "rt": true
   }
  ]
 };
