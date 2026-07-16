@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-15T22:03:18.387324+00:00",
+ "updated": "2026-07-16T02:45:55.023273+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,48 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Jensen. @SEGA. Akihabara. 🎮 Some collabs are just meant to be. We stepped into the heart of Tokyo's most legendary gaming district to celebrate decades of shared history, and the next era with @NVIDIARTXSpark.",
+   "link": "https://x.com/nvidia/status/2077545044752429330",
+   "time": "2026-07-16T00:05:12+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Read the blog: https://nvda.ws/4hgaxW1",
+   "link": "https://x.com/nvidia/status/2077540977720397883",
+   "time": "2026-07-15T23:49:02+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "Japan's biggest banks spent the last few years evaluating AI. Now they're building the infrastructure for it. 🏭 We're working with Mizuho, SMFG, Rakuten Bank, and MUFG NICOS to build the AI factories making that possible — using NVIDIA Nemotron open models and Agent Toolkit to turn regulated financial data into intelligence.",
+   "link": "https://x.com/nvidia/status/2077540972422946823",
+   "time": "2026-07-15T23:49:01+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "Building a production-ready vision AI agent no longer takes thousands of developer hours. NVIDIA Metropolis offers 80+ open agent skills for generating synthetic data, fine-tuning models, deploying applications and unlocking real-time insights, all through natural-language prompts. Leading companies like @FujitsuOfficial, @Hitachi, @OMRON_Official, @YazakiNA, and Shimizu Corporation are using Metr",
+   "link": "https://x.com/nvidia/status/2077540620394958889",
+   "time": "2026-07-15T23:47:37+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Learn more: https://nvda.ws/4gEPj3V",
+   "link": "https://x.com/nvidia/status/2077528642318479584",
+   "time": "2026-07-15T23:00:01+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "Japan’s enterprises, startups and research institutions are building industry-specialized AI with NVIDIA Nemotron open models, data and libraries, helping advance AI tailored to the country’s language, industries and workforce.",
+   "link": "https://x.com/nvidia/status/2077528638505861566",
+   "time": "2026-07-15T23:00:00+00:00",
+   "rt": false
+  },
   {
    "user": "OpenAI",
    "text": "A closer look at improved intelligence in GPT-Live: the model can keep a conversation going while helping with multiple tasks at once, like checking flights, pulling up local weather, and shaping an itinerary in real time.",
@@ -31,41 +73,6 @@ window.RADAR_X = {
    "text": "R to @nvidia: Read the blog → https://nvda.ws/37aKhZ1",
    "link": "https://x.com/nvidia/status/2077460260843844009",
    "time": "2026-07-15T18:28:18+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Above, NVIDIA GB300 NVL72 systems deliver up to 25x performance per watt over Hopper.",
-   "link": "https://x.com/nvidia/status/2077460249221447764",
-   "time": "2026-07-15T18:28:15+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: A full Pareto allows you to see exactly where your workload sits and how to optimize for it.",
-   "link": "https://x.com/nvidia/status/2077460244150513942",
-   "time": "2026-07-15T18:28:14+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Throughput or interactivity? It isn't one or the other — it depends on the workload.",
-   "link": "https://x.com/nvidia/status/2077460239117394212",
-   "time": "2026-07-15T18:28:13+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Optimize for one, and you move away from the other.",
-   "link": "https://x.com/nvidia/status/2077460233841004771",
-   "time": "2026-07-15T18:28:11+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Any single performance number only tells part of the story. AI Infrastructure performance is a Pareto Curve 🧵",
-   "link": "https://x.com/nvidia/status/2077460228350546173",
-   "time": "2026-07-15T18:28:10+00:00",
    "rt": false
   },
   {
@@ -137,13 +144,6 @@ window.RADAR_X = {
    "link": "https://x.com/OpenAI/status/2077430470510526635",
    "time": "2026-07-15T16:29:55+00:00",
    "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "RT by @nvidia: First stop in Japan: Build-a-Claw. 🇯🇵 Jensen made a surprise stop in the heart of Tokyo to meet with devs, give away some DGX Sparks, and see what they're building with open models.",
-   "link": "https://x.com/NVIDIAAI/status/2077380552865538430",
-   "time": "2026-07-15T13:11:34+00:00",
-   "rt": true
   },
   {
    "user": "GoogleDeepMind",
@@ -269,20 +269,6 @@ window.RADAR_X = {
    "text": "R to @GoogleDeepMind: 🔮 Who visited the Oracle of Dodona? By analyzing collections of ancient lead tablets, the Skill mapped visitors traveling from across the ancient world. It reconstructed the community of oracle visitors, turning scattered fragments into a connected network.",
    "link": "https://x.com/GoogleDeepMind/status/2076686125289071074",
    "time": "2026-07-13T15:12:09+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: 🗺️ Mapping the cult of the Aufaniae The Skill can study multiple texts in parallel, we used it to map stone altars dedicated to the Aufaniae - Germanic goddesses. It showcased how religious practices traveled with Roman soldiers, even flagging an outlier in Spain by a veteran who brought his favorite deity home.",
-   "link": "https://x.com/GoogleDeepMind/status/2076686121866494038",
-   "time": "2026-07-13T15:12:09+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: 🔍 The ring thief of Aquae Sulis When given an 1,800 year old curse tablet, the Skill used Aeneas - our generative model for restoring, dating and placing ancient texts - to locate it in time and space. It also generated an explanation of why it made that prediction, acting as a piece of epigraphic commentary to the expert.",
-   "link": "https://x.com/GoogleDeepMind/status/2076686118129389732",
-   "time": "2026-07-13T15:12:08+00:00",
    "rt": false
   },
   {
