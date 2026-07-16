@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-16T11:02:22.873597+00:00",
+ "updated": "2026-07-16T13:57:28.154038+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "GoogleDeepMind",
+   "text": "The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier AI to build proactive defenses for global health → https://goo.gle/4wKHXk2",
+   "link": "https://x.com/GoogleDeepMind/status/2077721122116640969",
+   "time": "2026-07-16T11:44:52+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "Jensen. @SEGA. Akihabara. 🎮 Some collabs are just meant to be. We stepped into the heart of Tokyo's most legendary gaming district to celebrate decades of shared history, and the next era with @NVIDIARTXSpark.",
@@ -269,20 +276,6 @@ window.RADAR_X = {
    "text": "R to @GoogleDeepMind: 🔮 Who visited the Oracle of Dodona? By analyzing collections of ancient lead tablets, the Skill mapped visitors traveling from across the ancient world. It reconstructed the community of oracle visitors, turning scattered fragments into a connected network.",
    "link": "https://x.com/GoogleDeepMind/status/2076686125289071074",
    "time": "2026-07-13T15:12:09+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: 🗺️ Mapping the cult of the Aufaniae The Skill can study multiple texts in parallel, we used it to map stone altars dedicated to the Aufaniae - Germanic goddesses. It showcased how religious practices traveled with Roman soldiers, even flagging an outlier in Spain by a veteran who brought his favorite deity home.",
-   "link": "https://x.com/GoogleDeepMind/status/2076686121866494038",
-   "time": "2026-07-13T15:12:09+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: 🔍 The ring thief of Aquae Sulis When given an 1,800 year old curse tablet, the Skill used Aeneas - our generative model for restoring, dating and placing ancient texts - to locate it in time and space. It also generated an explanation of why it made that prediction, acting as a piece of epigraphic commentary to the expert.",
-   "link": "https://x.com/GoogleDeepMind/status/2076686118129389732",
-   "time": "2026-07-13T15:12:08+00:00",
    "rt": false
   },
   {
