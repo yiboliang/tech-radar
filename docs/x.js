@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-16T19:15:01.252870+00:00",
+ "updated": "2026-07-16T22:04:48.512484+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "i talk to chatgpt more than i type to it at this point new voice model really crossed a threshold",
+   "link": "https://x.com/sama/status/2077842579232895286",
+   "time": "2026-07-16T19:47:29+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "Nations have always invested in critical infrastructure to grow their economies and improve citizens’ lives, from transportation and communications to commerce, entertainment and healthcare. Today, AI is the most important layer of that infrastructure. It is turbocharging innovation across every facet of society. That's why countries are now investing in AI capabilities that let them design, train",
@@ -206,13 +213,6 @@ window.RADAR_X = {
    "text": "I would like to see them TRY STOP THIS",
    "link": "https://x.com/dylan522p/status/2077065171533762717",
    "time": "2026-07-14T16:18:21+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "R to @sama: also, a reason to favor open-source harnesses.",
-   "link": "https://x.com/sama/status/2077053226080436235",
-   "time": "2026-07-14T15:30:53+00:00",
    "rt": false
   },
   {
