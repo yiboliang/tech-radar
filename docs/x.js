@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-17T08:12:58.856237+00:00",
+ "updated": "2026-07-17T10:48:59.113042+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -228,13 +228,6 @@ window.RADAR_X = {
    "link": "https://x.com/AnthropicAI/status/2077026346375540870",
    "time": "2026-07-14T13:44:04+00:00",
    "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "RT by @GoogleDeepMind: A Framework for Frontier AI and the Dawning of a New Age",
-   "link": "https://x.com/demishassabis/status/2076957440109625718",
-   "time": "2026-07-14T09:10:16+00:00",
-   "rt": true
   }
  ]
 };
