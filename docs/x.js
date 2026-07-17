@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-17T16:16:40.621443+00:00",
+ "updated": "2026-07-17T19:13:46.108195+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "GoogleDeepMind",
+   "text": "RT by @GoogleDeepMind: We're announcing a major update to Weather Lab, our interactive website for sharing Google’s AI weather models from @GoogleDeepMind and @GoogleResearch: https://deepmind.google.com/science/weatherlab",
+   "link": "https://x.com/PeterWBattaglia/status/2078132675332755933",
+   "time": "2026-07-17T15:00:14+00:00",
+   "rt": true
+  },
   {
    "user": "OpenAI",
    "text": "RT by @OpenAI: Evening! We’ve gotten lots of great feedback on the new ChatGPT desktop app (which we didn't get totally quite right on the first try), and as a result, we've made some changes. 1/ ChatGPT conversation history and projects are now visible in the sidebar. Also, your Chat and Work history now sync across web, mobile, and desktop. Local tasks still stay on your computer. 2/ You can now",
@@ -63,7 +70,7 @@ window.RADAR_X = {
   },
   {
    "user": "GoogleDeepMind",
-   "text": "The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier AI to build proactive defenses for global health → https://goo.gle/4wKHXk2",
+   "text": "Pinned: The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier AI to build proactive defenses for global health → https://goo.gle/4wKHXk2",
    "link": "https://x.com/GoogleDeepMind/status/2077721122116640969",
    "time": "2026-07-16T11:44:52+00:00",
    "rt": false
@@ -154,13 +161,6 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.",
-   "link": "https://x.com/OpenAI/status/2077446723992228167",
-   "time": "2026-07-15T17:34:30+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
    "text": "R to @OpenAI: Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.",
    "link": "https://x.com/OpenAI/status/2077446722683650525",
    "time": "2026-07-15T17:34:30+00:00",
@@ -168,8 +168,8 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models. Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT‑Red to continuously find broader and more complex failures.",
-   "link": "https://x.com/OpenAI/status/2077446721161093124",
+   "text": "R to @OpenAI: AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.",
+   "link": "https://x.com/OpenAI/status/2077446723992228167",
    "time": "2026-07-15T17:34:30+00:00",
    "rt": false
   },
@@ -182,9 +182,16 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: As model capabilities grow, safety and alignment must scale with them. Red-teaming is essential, but today’s approaches are difficult to scale, creating a critical bottleneck. GPT‑Red is one way we’re addressing it.",
-   "link": "https://x.com/OpenAI/status/2077446719990796505",
+   "text": "Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
+   "link": "https://x.com/OpenAI/status/2077446718728425686",
    "time": "2026-07-15T17:34:29+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "You don’t have to wait. Merch inspired by research & deployment. Available until sold out. https://openai.com/supply/",
+   "link": "https://x.com/OpenAI/status/2077430470510526635",
+   "time": "2026-07-15T16:29:55+00:00",
    "rt": false
   },
   {
@@ -199,20 +206,6 @@ window.RADAR_X = {
    "text": "hello!",
    "link": "https://x.com/sama/status/2077118672150388816",
    "time": "2026-07-14T19:50:57+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "5.6 sol growth is insane. the inference team has done heroic work to be able to support demand. we are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
-   "link": "https://x.com/sama/status/2077106587307798989",
-   "time": "2026-07-14T19:02:55+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "I would like to see them TRY STOP THIS",
-   "link": "https://x.com/dylan522p/status/2077065171533762717",
-   "time": "2026-07-14T16:18:21+00:00",
    "rt": false
   }
  ]
