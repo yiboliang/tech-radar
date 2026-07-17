@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-16T22:04:48.512484+00:00",
+ "updated": "2026-07-17T02:48:13.320968+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "RT by @OpenAI: Evening! We’ve gotten lots of great feedback on the new ChatGPT desktop app (which we didn't get totally quite right on the first try), and as a result, we've made some changes. 1/ ChatGPT conversation history and projects are now visible in the sidebar. Also, your Chat and Work history now sync across web, mobile, and desktop. Local tasks still stay on your computer. 2/ You can now",
+   "link": "https://x.com/thsottiaux/status/2077928427936710901",
+   "time": "2026-07-17T01:28:37+00:00",
+   "rt": true
+  },
   {
    "user": "sama",
    "text": "i talk to chatgpt more than i type to it at this point new voice model really crossed a threshold",
@@ -147,13 +154,6 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.",
-   "link": "https://x.com/OpenAI/status/2077446723992228167",
-   "time": "2026-07-15T17:34:30+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
    "text": "R to @OpenAI: Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.",
    "link": "https://x.com/OpenAI/status/2077446722683650525",
    "time": "2026-07-15T17:34:30+00:00",
@@ -161,8 +161,8 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models. Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT‑Red to continuously find broader and more complex failures.",
-   "link": "https://x.com/OpenAI/status/2077446721161093124",
+   "text": "R to @OpenAI: AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.",
+   "link": "https://x.com/OpenAI/status/2077446723992228167",
    "time": "2026-07-15T17:34:30+00:00",
    "rt": false
   },
@@ -175,16 +175,16 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: As model capabilities grow, safety and alignment must scale with them. Red-teaming is essential, but today’s approaches are difficult to scale, creating a critical bottleneck. GPT‑Red is one way we’re addressing it.",
-   "link": "https://x.com/OpenAI/status/2077446719990796505",
+   "text": "Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
+   "link": "https://x.com/OpenAI/status/2077446718728425686",
    "time": "2026-07-15T17:34:29+00:00",
    "rt": false
   },
   {
    "user": "OpenAI",
-   "text": "Pinned: Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
-   "link": "https://x.com/OpenAI/status/2077446718728425686",
-   "time": "2026-07-15T17:34:29+00:00",
+   "text": "You don’t have to wait. Merch inspired by research & deployment. Available until sold out. https://openai.com/supply/",
+   "link": "https://x.com/OpenAI/status/2077430470510526635",
+   "time": "2026-07-15T16:29:55+00:00",
    "rt": false
   },
   {
