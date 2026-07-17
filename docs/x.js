@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-17T13:42:57.922575+00:00",
+ "updated": "2026-07-17T16:16:40.621443+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -213,20 +213,6 @@ window.RADAR_X = {
    "text": "I would like to see them TRY STOP THIS",
    "link": "https://x.com/dylan522p/status/2077065171533762717",
    "time": "2026-07-14T16:18:21+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "RT by @AnthropicAI: We're introducing Claude for Teachers: free access to premium Claude capabilities for verified K-12 educators in the US, with a library of teaching skills and a direct connection to evidence-based curricula, mapped to academic standards in all 50 states. https://claude.com/solutions/teachers",
-   "link": "https://x.com/claudeai/status/2077047278078931243",
-   "time": "2026-07-14T15:07:15+00:00",
-   "rt": true
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "We’re committing $10 million CAD and partnering with leading AI institutions in Canada to help fund new AI research. https://www.anthropic.com/news/canadian-ai-research",
-   "link": "https://x.com/AnthropicAI/status/2077026346375540870",
-   "time": "2026-07-14T13:44:04+00:00",
    "rt": false
   }
  ]
