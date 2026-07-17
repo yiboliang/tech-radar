@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-17T19:13:46.108195+00:00",
+ "updated": "2026-07-17T21:55:21.487383+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Still building your #SIGGRAPH2026 agenda? We've got you covered. 🤝 👉 Learn the latest research breakthroughs at the NVIDIA keynote. 👉 Build new skills in hands-on labs. 👉 Explore a full lineup of sessions covering physical AI, RTX, AI in production & more. Learn more: https://vist.ly/5bmju",
+   "link": "https://x.com/nvidia/status/2078228046465655279",
+   "time": "2026-07-17T21:19:12+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "Pinned: 10,000 reasons people love GPT-5.6 Sol https://switch-to-codex.openai.chatgpt.site/",
+   "link": "https://x.com/OpenAI/status/2078223217773474134",
+   "time": "2026-07-17T21:00:01+00:00",
+   "rt": false
+  },
   {
    "user": "GoogleDeepMind",
    "text": "RT by @GoogleDeepMind: We're announcing a major update to Weather Lab, our interactive website for sharing Google’s AI weather models from @GoogleDeepMind and @GoogleResearch: https://deepmind.google.com/science/weatherlab",
@@ -139,13 +153,6 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "nvidia",
-   "text": "RT by @nvidia: The #BoxWorks agenda is live, and @nvidia CEO Jensen Huang is taking the main stage. Jensen will join Box CEO @levie for a keynote fireside chat to unpack the keys to successful AI transformation. Across this years’ agenda, you’ll find opportunities to learn from the brightest minds in AI innovation and discover how to put your business content to work securely with any AI agent or ",
-   "link": "https://x.com/Box/status/2077453251885342984",
-   "time": "2026-07-15T18:00:27+00:00",
-   "rt": true
-  },
-  {
    "user": "AnthropicAI",
    "text": "R to @AnthropicAI: We tested many AI models, including Claude, in the four scenarios. Even though these weren’t real incidents, they demonstrate clear misaligned behavior that should be studied further and mitigated. Find all the transcripts from the scenarios here: https://www.aenguslynch.com/portfolio-transcript-viewer/",
    "link": "https://x.com/AnthropicAI/status/2077452649000042614",
@@ -161,6 +168,13 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
+   "text": "R to @OpenAI: AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.",
+   "link": "https://x.com/OpenAI/status/2077446723992228167",
+   "time": "2026-07-15T17:34:30+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
    "text": "R to @OpenAI: Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.",
    "link": "https://x.com/OpenAI/status/2077446722683650525",
    "time": "2026-07-15T17:34:30+00:00",
@@ -168,8 +182,8 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.",
-   "link": "https://x.com/OpenAI/status/2077446723992228167",
+   "text": "R to @OpenAI: GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models. Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT‑Red to continuously find broader and more complex failures.",
+   "link": "https://x.com/OpenAI/status/2077446721161093124",
    "time": "2026-07-15T17:34:30+00:00",
    "rt": false
   },
@@ -181,31 +195,10 @@ window.RADAR_X = {
    "rt": true
   },
   {
-   "user": "OpenAI",
-   "text": "Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
-   "link": "https://x.com/OpenAI/status/2077446718728425686",
-   "time": "2026-07-15T17:34:29+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "You don’t have to wait. Merch inspired by research & deployment. Available until sold out. https://openai.com/supply/",
-   "link": "https://x.com/OpenAI/status/2077430470510526635",
-   "time": "2026-07-15T16:29:55+00:00",
-   "rt": false
-  },
-  {
    "user": "GoogleDeepMind",
    "text": "From proposing hypotheses to designing experiments, AI agents are starting to reshape scientific discovery. But the hardest part is testing these ideas in the real world. Our essay explores the growing validation bottleneck and outlines four priorities for policymakers and funders. → https://goo.gle/4poACUT",
    "link": "https://x.com/GoogleDeepMind/status/2077372568143642972",
    "time": "2026-07-15T12:39:50+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "hello!",
-   "link": "https://x.com/sama/status/2077118672150388816",
-   "time": "2026-07-14T19:50:57+00:00",
    "rt": false
   }
  ]
