@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17T21:55:21.487383+00:00",
+ "updated": "2026-07-18T02:40:12.719643+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,41 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Read More🔗https://nvda.ws/3T3ttNP",
+   "link": "https://x.com/nvidia/status/2078252828804686278",
+   "time": "2026-07-17T22:57:41+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "Agents are becoming specialized, using reinforcement learning post-training to develop domain-specific skills 🛠️ Every post-training rollout is an inference call, so a lower cost per token flows straight into a higher Intelligence per Dollar on every run. That is what the NVIDIA Vera Rubin platform is built for: extreme co-design that drives Cost per Token down and Intelligence per Dollar up, on e",
+   "link": "https://x.com/nvidia/status/2078244664751104293",
+   "time": "2026-07-17T22:25:14+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "this is cool: https://welcome-to-codex.openai.chatgpt.site/",
+   "link": "https://x.com/sama/status/2078244242993164716",
+   "time": "2026-07-17T22:23:34+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Here's how to add the Codex Security plugin in Codex and get started: Add the plugin in Codex. After installation is complete, the button changes to “Try in chat.” Click “Try in chat” to start a new Codex chat with a Codex Security scan prompt ready to run. Choose a folder that contains the code you want Codex Security to review. Send the scan prompt. Codex opens with the Codex Secur",
+   "link": "https://x.com/OpenAI/status/2078243670265041038",
+   "time": "2026-07-17T22:21:17+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "GPT-5.6 Sol sets a new state of the art in cybersecurity on “The Last Ones” cyber range. We’re already seeing that capability translate into defensive outcomes: helping teams find, validate, and fix vulnerabilities in real-world code. Put it to work with Codex Security: https://openai.com/daybreak/codex-security-plugin/#desktop-codex",
+   "link": "https://x.com/OpenAI/status/2078243667081617826",
+   "time": "2026-07-17T22:21:16+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "Still building your #SIGGRAPH2026 agenda? We've got you covered. 🤝 👉 Learn the latest research breakthroughs at the NVIDIA keynote. 👉 Build new skills in hands-on labs. 👉 Explore a full lineup of sessions covering physical AI, RTX, AI in production & more. Learn more: https://vist.ly/5bmju",
@@ -31,6 +66,13 @@
    "text": "RT by @GoogleDeepMind: We're announcing a major update to Weather Lab, our interactive website for sharing Google’s AI weather models from @GoogleDeepMind and @GoogleResearch: https://deepmind.google.com/science/weatherlab",
    "link": "https://x.com/PeterWBattaglia/status/2078132675332755933",
    "time": "2026-07-17T15:00:14+00:00",
+   "rt": true
+  },
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: You are all invited to our first public reveal at @siggraph next Thursday during @nvidia's AI in Production Day. 😊 LA Convention Center Thursday 9 AM, Room 502A More information about our talk here: https://lnkd.in/g2hSZjEi #evrn http://evrn.world",
+   "link": "https://x.com/evrn_world/status/2078110222502248783",
+   "time": "2026-07-17T13:31:01+00:00",
    "rt": true
   },
   {
@@ -118,27 +160,6 @@
    "rt": false
   },
   {
-   "user": "nvidia",
-   "text": "Building a production-ready vision AI agent no longer takes thousands of developer hours. NVIDIA Metropolis offers 80+ open agent skills for generating synthetic data, fine-tuning models, deploying applications and unlocking real-time insights, all through natural-language prompts. Leading companies like @FujitsuOfficial, @Hitachi, @OMRON_Official, @YazakiNA, and Shimizu Corporation are using Metr",
-   "link": "https://x.com/nvidia/status/2077540620394958889",
-   "time": "2026-07-15T23:47:37+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Learn more: https://nvda.ws/4gEPj3V",
-   "link": "https://x.com/nvidia/status/2077528642318479584",
-   "time": "2026-07-15T23:00:01+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Japan’s enterprises, startups and research institutions are building industry-specialized AI with NVIDIA Nemotron open models, data and libraries, helping advance AI tailored to the country’s language, industries and workforce.",
-   "link": "https://x.com/nvidia/status/2077528638505861566",
-   "time": "2026-07-15T23:00:00+00:00",
-   "rt": false
-  },
-  {
    "user": "OpenAI",
    "text": "A closer look at improved intelligence in GPT-Live: the model can keep a conversation going while helping with multiple tasks at once, like checking flights, pulling up local weather, and shaping an itinerary in real time.",
    "link": "https://x.com/OpenAI/status/2077501603050033634",
@@ -170,20 +191,6 @@
    "user": "OpenAI",
    "text": "R to @OpenAI: AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.",
    "link": "https://x.com/OpenAI/status/2077446723992228167",
-   "time": "2026-07-15T17:34:30+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.",
-   "link": "https://x.com/OpenAI/status/2077446722683650525",
-   "time": "2026-07-15T17:34:30+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models. Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT‑Red to continuously find broader and more complex failures.",
-   "link": "https://x.com/OpenAI/status/2077446721161093124",
    "time": "2026-07-15T17:34:30+00:00",
    "rt": false
   },
