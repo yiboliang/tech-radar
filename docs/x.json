@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T19:08:24.323660+00:00",
+ "updated": "2026-07-18T21:53:31.136617+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -157,20 +157,6 @@
    "text": "R to @nvidia: Learn more: https://nvda.ws/4gEPj3V",
    "link": "https://x.com/nvidia/status/2077528642318479584",
    "time": "2026-07-15T23:00:01+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "A closer look at improved intelligence in GPT-Live: the model can keep a conversation going while helping with multiple tasks at once, like checking flights, pulling up local weather, and shaping an itinerary in real time.",
-   "link": "https://x.com/OpenAI/status/2077501603050033634",
-   "time": "2026-07-15T21:12:34+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "amazing to me that some people want the silent version https://openai.com/supply/co-lab/work-louder/",
-   "link": "https://x.com/sama/status/2077489177374208000",
-   "time": "2026-07-15T20:23:12+00:00",
    "rt": false
   }
  ]
