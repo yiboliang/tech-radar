@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T10:20:09.968598+00:00",
+ "updated": "2026-07-18T13:19:58.698002+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -200,13 +200,6 @@
    "link": "https://x.com/OpenAI/status/2077446718728425686",
    "time": "2026-07-15T17:34:29+00:00",
    "rt": true
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "From proposing hypotheses to designing experiments, AI agents are starting to reshape scientific discovery. But the hardest part is testing these ideas in the real world. Our essay explores the growing validation bottleneck and outlines four priorities for policymakers and funders. → https://goo.gle/4poACUT",
-   "link": "https://x.com/GoogleDeepMind/status/2077372568143642972",
-   "time": "2026-07-15T12:39:50+00:00",
-   "rt": false
   }
  ]
 }
