@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T15:59:25.493508+00:00",
+ "updated": "2026-07-18T19:08:24.323660+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -147,16 +147,16 @@
   },
   {
    "user": "nvidia",
-   "text": "R to @nvidia: Read the blog: https://nvda.ws/4hgaxW1",
-   "link": "https://x.com/nvidia/status/2077540977720397883",
-   "time": "2026-07-15T23:49:02+00:00",
+   "text": "Building a production-ready vision AI agent no longer takes thousands of developer hours. NVIDIA Metropolis offers 80+ open agent skills for generating synthetic data, fine-tuning models, deploying applications and unlocking real-time insights, all through natural-language prompts. Leading companies like @FujitsuOfficial, @Hitachi, @OMRON_Official, @YazakiNA, and Shimizu Corporation are using Metr",
+   "link": "https://x.com/nvidia/status/2077540620394958889",
+   "time": "2026-07-15T23:47:37+00:00",
    "rt": false
   },
   {
    "user": "nvidia",
-   "text": "Japan's biggest banks spent the last few years evaluating AI. Now they're building the infrastructure for it. 🏭 We're working with Mizuho, SMFG, Rakuten Bank, and MUFG NICOS to build the AI factories making that possible — using NVIDIA Nemotron open models and Agent Toolkit to turn regulated financial data into intelligence.",
-   "link": "https://x.com/nvidia/status/2077540972422946823",
-   "time": "2026-07-15T23:49:01+00:00",
+   "text": "R to @nvidia: Learn more: https://nvda.ws/4gEPj3V",
+   "link": "https://x.com/nvidia/status/2077528642318479584",
+   "time": "2026-07-15T23:00:01+00:00",
    "rt": false
   },
   {
@@ -172,34 +172,6 @@
    "link": "https://x.com/sama/status/2077489177374208000",
    "time": "2026-07-15T20:23:12+00:00",
    "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: We tested many AI models, including Claude, in the four scenarios. Even though these weren’t real incidents, they demonstrate clear misaligned behavior that should be studied further and mitigated. Find all the transcripts from the scenarios here: https://www.aenguslynch.com/portfolio-transcript-viewer/",
-   "link": "https://x.com/AnthropicAI/status/2077452649000042614",
-   "time": "2026-07-15T17:58:03+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "New Anthropic research: Agentic misalignment in Summer 2026. A year after our blackmail experiments, we found four more ways that today’s autonomous AI agents misbehave in simulations. Read more: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
-   "link": "https://x.com/AnthropicAI/status/2077452646303006927",
-   "time": "2026-07-15T17:58:02+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.",
-   "link": "https://x.com/OpenAI/status/2077446723992228167",
-   "time": "2026-07-15T17:34:30+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "RT by @sama: Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
-   "link": "https://x.com/OpenAI/status/2077446718728425686",
-   "time": "2026-07-15T17:34:29+00:00",
-   "rt": true
   }
  ]
 }
