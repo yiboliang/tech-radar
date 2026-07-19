@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T02:54:24.475928+00:00",
+ "updated": "2026-07-19T05:56:17.081552+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "dylan522p",
+   "text": "RT by @dylan522p: The answer is lamb (you can see @dylan522p live tweeting)",
+   "link": "https://x.com/Reshusaur/status/2078694522373157347",
+   "time": "2026-07-19T04:12:49+00:00",
+   "rt": true
+  },
   {
    "user": "nvidia",
    "text": "R to @nvidia: Read More🔗https://nvda.ws/3T3ttNP",
@@ -130,13 +137,6 @@
    "link": "https://x.com/GoogleDeepMind/status/2077721122116640969",
    "time": "2026-07-16T11:44:52+00:00",
    "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "RT by @sama: On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: - Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled - The model attempts to override the $HOME env var to define a temporary directory. - The model makes an",
-   "link": "https://x.com/thsottiaux/status/2077630111499882637",
-   "time": "2026-07-16T05:43:13+00:00",
-   "rt": true
   }
  ]
 }
