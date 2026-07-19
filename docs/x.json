@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T19:09:39.615636+00:00",
+ "updated": "2026-07-19T21:55:18.475741+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -88,13 +88,6 @@
    "link": "https://x.com/thsottiaux/status/2077928427936710901",
    "time": "2026-07-17T01:28:37+00:00",
    "rt": true
-  },
-  {
-   "user": "sama",
-   "text": "i talk to chatgpt more than i type to it at this point new voice model really crossed a threshold",
-   "link": "https://x.com/sama/status/2077842579232895286",
-   "time": "2026-07-16T19:47:29+00:00",
-   "rt": false
   }
  ]
 }
