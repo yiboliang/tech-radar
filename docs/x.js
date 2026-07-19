@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-19T10:36:35.390671+00:00",
+ "updated": "2026-07-19T13:21:49.759061+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -130,13 +130,6 @@ window.RADAR_X = {
    "link": "https://x.com/boazbaraktcs/status/2077794137428922833",
    "time": "2026-07-16T16:35:00+00:00",
    "rt": true
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "Pinned: The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier AI to build proactive defenses for global health → https://goo.gle/4wKHXk2",
-   "link": "https://x.com/GoogleDeepMind/status/2077721122116640969",
-   "time": "2026-07-16T11:44:52+00:00",
-   "rt": false
   }
  ]
 };
