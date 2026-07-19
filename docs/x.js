@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-19T15:59:21.171047+00:00",
+ "updated": "2026-07-19T19:09:39.615636+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -95,41 +95,6 @@ window.RADAR_X = {
    "link": "https://x.com/sama/status/2077842579232895286",
    "time": "2026-07-16T19:47:29+00:00",
    "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Nations have always invested in critical infrastructure to grow their economies and improve citizens’ lives, from transportation and communications to commerce, entertainment and healthcare. Today, AI is the most important layer of that infrastructure. It is turbocharging innovation across every facet of society. That's why countries are now investing in AI capabilities that let them design, train",
-   "link": "https://x.com/nvidia/status/2077830629568205266",
-   "time": "2026-07-16T19:00:00+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "we did not have our best last 12 months ever, which is mostly my fault, but we are about to have our best 12 months to date. the team is doing amazing work and i think you’ll be very happy with what they’ve got cooking for you. i am happy about this for many reasons, but mostly because i care about our users winning. AI has to be about giving lots of people more freedom, agency, and wealth. we wan",
-   "link": "https://x.com/sama/status/2077817060068057493",
-   "time": "2026-07-16T18:06:05+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Listen to the OpenAI Podcast on— Spotify https://open.spotify.com/show/0zojMEDizKMh3aTxnGLENP Apple https://podcasts.apple.com/us/podcast/what-racing-reveals-about-working-with-ai-episode-22/id1820330260?i=1000777091917 YouTube https://www.youtube.com/watch?v=KNPjRpNtQ7s",
-   "link": "https://x.com/OpenAI/status/2077807981715128702",
-   "time": "2026-07-16T17:30:01+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "In racing, tiny margins matter. AI can help teams find them. OpenAI’s Joyce Ruffell and @RaceTekSystems co-founder @GarageGuyChase discuss with @AndrewMayne how racing teams use AI to turn track data into faster decisions—from our research collaboration with Chip Ganassi Racing to building new tools with ChatGPT and Codex.",
-   "link": "https://x.com/OpenAI/status/2077807977193714080",
-   "time": "2026-07-16T17:30:00+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "RT by @sama: My first attempt at a twitter article.. if you prefer the blog form, see https://windowsontheory.org/2026/07/16/all-watched-over/",
-   "link": "https://x.com/boazbaraktcs/status/2077794137428922833",
-   "time": "2026-07-16T16:35:00+00:00",
-   "rt": true
   }
  ]
 };
