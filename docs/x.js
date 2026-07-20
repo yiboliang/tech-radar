@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-20T09:18:19.379359+00:00",
+ "updated": "2026-07-20T14:10:09.109754+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -73,13 +73,6 @@ window.RADAR_X = {
    "text": "RT by @GoogleDeepMind: We're announcing a major update to Weather Lab, our interactive website for sharing Google’s AI weather models from @GoogleDeepMind and @GoogleResearch: https://deepmind.google.com/science/weatherlab",
    "link": "https://x.com/PeterWBattaglia/status/2078132675332755933",
    "time": "2026-07-17T15:00:14+00:00",
-   "rt": true
-  },
-  {
-   "user": "nvidia",
-   "text": "RT by @nvidia: You are all invited to our first public reveal at @siggraph next Thursday during @nvidia's AI in Production Day. 😊 LA Convention Center Thursday 9 AM, Room 502A More information about our talk here: https://lnkd.in/g2hSZjEi #evrn http://evrn.world",
-   "link": "https://x.com/evrn_world/status/2078110222502248783",
-   "time": "2026-07-17T13:31:01+00:00",
    "rt": true
   }
  ]
