@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T19:45:58.421400+00:00",
+ "updated": "2026-07-20T22:01:39.070435+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "RT by @OpenAI: Was very cool to hear about the reasons people love Sol. We're doing the promotion again, except this time for ChatGPT Work: Tweet what you love about ChatGPT Work, claim $100 in free credits, get more work done. First 10k get the free tokens: https://share-chatgpt-work.openai.chatgpt.site/",
+   "link": "https://x.com/gdb/status/2079289658622738481",
+   "time": "2026-07-20T19:37:40+00:00",
+   "rt": true
+  },
   {
    "user": "OpenAI",
    "text": "RT by @OpenAI: Long-running models can solve hard open-ended problems, but their persistence can create safety risks that shorter-horizon evaluations miss. We’re sharing what we learned from studying a long-running model, and how those findings are shaping our approach to evaluations, alignment, monitoring, and user control. https://openai.com/index/safety-alignment-long-horizon-models/",
@@ -115,13 +122,6 @@
    "text": "GPT-5.6 Sol sets a new state of the art in cybersecurity on “The Last Ones” cyber range. We’re already seeing that capability translate into defensive outcomes: helping teams find, validate, and fix vulnerabilities in real-world code. Put it to work with Codex Security: https://openai.com/daybreak/codex-security-plugin/#desktop-codex",
    "link": "https://x.com/OpenAI/status/2078243667081617826",
    "time": "2026-07-17T22:21:16+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "Pinned: 10,000 reasons people love GPT-5.6 Sol https://switch-to-codex.openai.chatgpt.site/",
-   "link": "https://x.com/OpenAI/status/2078223217773474134",
-   "time": "2026-07-17T21:00:01+00:00",
    "rt": false
   }
  ]
