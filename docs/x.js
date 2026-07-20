@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-20T14:10:09.109754+00:00",
+ "updated": "2026-07-20T16:25:13.927762+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,34 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: NVIDIA’s research isn’t just focused on creating worlds that look real — but that behave realistically and respond in real time. Whether the output is a game, film, robot or factory digital twin, the goal is the same: expand the canvas of creativity with AI-generated worlds that are grounded in 3D, governed by physics and directed by creators. 🔗 https://nvda.ws/3TbQLkD #SIGGRAPH2026",
+   "link": "https://x.com/nvidia/status/2079239644177432886",
+   "time": "2026-07-20T16:18:56+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: As AI-generated content becomes more prevalent, media organizations need trusted tools to help verify video at the speed of production. Built on the NVIDIA AI for Media platform, the Synthetic Video Detector NVIDIA NIM microservice helps broadcasters, publishers, and content teams strengthen content authenticity across modern media workflows. 🔗 https://nvda.ws/4fl9sK5 #SIGGRAPH2026",
+   "link": "https://x.com/nvidia/status/2079235324241424582",
+   "time": "2026-07-20T16:01:46+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Leading creative applications are opening Model Context Protocol connections that let AI agents work inside the tools where scenes, shots, timelines, assets and edits come to life — while creators stay in control. MCP is opening the next chapter of accelerated creativity: applications aren’t just getting faster. They’re becoming agent-ready. 🔗 https://nvda.ws/4pmRxqQ #SIGGRAPH2026",
+   "link": "https://x.com/nvidia/status/2079234895340269985",
+   "time": "2026-07-20T16:00:04+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "NVIDIA is advancing graphics and simulation with agentic and physical AI at #SIGGRAPH2026. From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation, and robotics. Read the latest announcements. 👇 https://vist.ly/5bt2j",
+   "link": "https://x.com/nvidia/status/2079221588705099788",
+   "time": "2026-07-20T15:07:11+00:00",
+   "rt": false
+  },
   {
    "user": "dylan522p",
    "text": "RT by @dylan522p: The answer is lamb (you can see @dylan522p live tweeting)",
@@ -67,13 +95,6 @@ window.RADAR_X = {
    "link": "https://x.com/OpenAI/status/2078223217773474134",
    "time": "2026-07-17T21:00:01+00:00",
    "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "RT by @GoogleDeepMind: We're announcing a major update to Weather Lab, our interactive website for sharing Google’s AI weather models from @GoogleDeepMind and @GoogleResearch: https://deepmind.google.com/science/weatherlab",
-   "link": "https://x.com/PeterWBattaglia/status/2078132675332755933",
-   "time": "2026-07-17T15:00:14+00:00",
-   "rt": true
   }
  ]
 };
