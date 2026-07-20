@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T21:55:18.475741+00:00",
+ "updated": "2026-07-20T03:23:12.280466+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -80,13 +80,6 @@
    "text": "RT by @nvidia: You are all invited to our first public reveal at @siggraph next Thursday during @nvidia's AI in Production Day. 😊 LA Convention Center Thursday 9 AM, Room 502A More information about our talk here: https://lnkd.in/g2hSZjEi #evrn http://evrn.world",
    "link": "https://x.com/evrn_world/status/2078110222502248783",
    "time": "2026-07-17T13:31:01+00:00",
-   "rt": true
-  },
-  {
-   "user": "OpenAI",
-   "text": "RT by @OpenAI: Evening! We’ve gotten lots of great feedback on the new ChatGPT desktop app (which we didn't get totally quite right on the first try), and as a result, we've made some changes. 1/ ChatGPT conversation history and projects are now visible in the sidebar. Also, your Chat and Work history now sync across web, mobile, and desktop. Local tasks still stay on your computer. 2/ You can now",
-   "link": "https://x.com/thsottiaux/status/2077928427936710901",
-   "time": "2026-07-17T01:28:37+00:00",
    "rt": true
   }
  ]
