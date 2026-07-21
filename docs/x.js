@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-21T19:26:27.409767+00:00",
+ "updated": "2026-07-21T22:05:02.721371+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -13,10 +13,31 @@ window.RADAR_X = {
  ],
  "items": [
   {
+   "user": "sama",
+   "text": "we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this. https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+   "link": "https://x.com/sama/status/2079661132302995790",
+   "time": "2026-07-21T20:13:46+00:00",
+   "rt": false
+  },
+  {
    "user": "OpenAI",
-   "text": "R to @OpenAI: We had guessed reward seeking might increase over the course of capabilities-focused RL training, but had no way of measuring it until now. We’re continuing to collaborate with Apollo Research to improve how reward-seeking is measured during training—and better detect whether models are doing the right thing for the right reason.",
-   "link": "https://x.com/OpenAI/status/2079647256941412817",
-   "time": "2026-07-21T19:18:38+00:00",
+   "text": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capable OpenAI models compromised Hugging Face production during a benchmark evaluation. Sharing preliminary findings to help defenders understand emerging risks: https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+   "link": "https://x.com/OpenAI/status/2079658951264920020",
+   "time": "2026-07-21T20:05:06+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "R to @GoogleDeepMind: It even outperforms 3 Flash on many agentic and coding benchmarks. 3.5 Flash-Lite is rolling out in the @GeminiApp and @Google Search, with API access in @GoogleAIStudio and @AndroidStudio. Find out more → https://goo.gle/4yyNkoi",
+   "link": "https://x.com/GoogleDeepMind/status/2079653801502380543",
+   "time": "2026-07-21T19:44:39+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "Gemini 3.5 Flash-Lite is our fast, cost-effective model for scaling repetitive use cases like sorting tickets and extracting data. Watch how it performs against 3.5 Flash on a series of high volume tasks ↓",
+   "link": "https://x.com/GoogleDeepMind/status/2079653799602368604",
+   "time": "2026-07-21T19:44:38+00:00",
    "rt": false
   },
   {
@@ -28,9 +49,9 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: Reward hacking asks: did the model exploit the reward? Reward-seeking asks: was grader approval what motivated the model’s choice? The second is potentially more important for generalization, because behavior can change when beliefs about the grader change.",
-   "link": "https://x.com/OpenAI/status/2079647253191619001",
-   "time": "2026-07-21T19:18:37+00:00",
+   "text": "R to @OpenAI: We had guessed reward seeking might increase over the course of capabilities-focused RL training, but had no way of measuring it until now. We’re continuing to collaborate with Apollo Research to improve how reward-seeking is measured during training—and better detect whether models are doing the right thing for the right reason.",
+   "link": "https://x.com/OpenAI/status/2079647256941412817",
+   "time": "2026-07-21T19:18:38+00:00",
    "rt": false
   },
   {
@@ -56,15 +77,15 @@ window.RADAR_X = {
   },
   {
    "user": "GoogleDeepMind",
-   "text": "Gemini 3.6 Flash builds directly on feedback from 3.5 Flash. Watch how it compares on quality and token usage ↓",
-   "link": "https://x.com/GoogleDeepMind/status/2079615466356580535",
+   "text": "R to @GoogleDeepMind: It’s much better at writing production-ready code faster without getting stuck in loops. Plus, it excels at multimodal tasks like analyzing charts, understanding documents, and report drafting. 3.6 Flash is rolling out in the @GeminiApp and developers can start building in @Antigravity, with API access in @GoogleAIStudio and @AndroidStudio. Find out more → https://goo.gle/4yy",
+   "link": "https://x.com/GoogleDeepMind/status/2079615468294320365",
    "time": "2026-07-21T17:12:19+00:00",
    "rt": false
   },
   {
    "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: It’s much better at writing production-ready code faster without getting stuck in loops. Plus, it excels at multimodal tasks like analyzing charts, understanding documents, and report drafting. 3.6 Flash is rolling out in the @GeminiApp and developers can start building in @Antigravity, with API access in @GoogleAIStudio and @AndroidStudio. Find out more → https://goo.gle/4yy",
-   "link": "https://x.com/GoogleDeepMind/status/2079615468294320365",
+   "text": "Gemini 3.6 Flash builds directly on feedback from 3.5 Flash. Watch how it compares on quality and token usage ↓",
+   "link": "https://x.com/GoogleDeepMind/status/2079615466356580535",
    "time": "2026-07-21T17:12:19+00:00",
    "rt": false
   },
@@ -91,7 +112,7 @@ window.RADAR_X = {
   },
   {
    "user": "GoogleDeepMind",
-   "text": "We’re rolling out three new models to make AI agents faster, smarter, and cheaper at scale: 🔵 Gemini 3.6 Flash: It uses fewer tokens than 3.5 Flash to deliver higher quality work at the exact same cost. 🔵 Gemini 3.5 Flash-Lite: A fast, cost-effective option for everyday tasks like processing documents and agentic search. 🔵 Gemini 3.5 Flash Cyber: A cybersecurity model built to find and patch criti",
+   "text": "Pinned: We’re rolling out three new models to make AI agents faster, smarter, and cheaper at scale: 🔵 Gemini 3.6 Flash: It uses fewer tokens than 3.5 Flash to deliver higher quality work at the exact same cost. 🔵 Gemini 3.5 Flash-Lite: A fast, cost-effective option for everyday tasks like processing documents and agentic search. 🔵 Gemini 3.5 Flash Cyber: A cybersecurity model built to find and pat",
    "link": "https://x.com/GoogleDeepMind/status/2079589698490572961",
    "time": "2026-07-21T15:29:55+00:00",
    "rt": false
@@ -147,10 +168,10 @@ window.RADAR_X = {
   },
   {
    "user": "nvidia",
-   "text": "RT by @nvidia: Want to put AI agents to work building simulation-ready worlds? 👀 NVIDIA Agent Toolkit now includes Omniverse libraries, giving AI agents the tools to help developers integrate physical AI capabilities into their existing 3D applications. Want to learn more? Read the full #SIGGRAPH2026 press release → https://nvda.ws/4wTHFri",
-   "link": "https://x.com/nvidiaomniverse/status/2079223282759282949",
-   "time": "2026-07-20T15:13:55+00:00",
-   "rt": true
+   "text": "NVIDIA is advancing graphics and simulation with agentic and physical AI at #SIGGRAPH2026. From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation, and robotics. Read the latest announcements. 👇 https://vist.ly/5bt2j",
+   "link": "https://x.com/nvidia/status/2079221588705099788",
+   "time": "2026-07-20T15:07:11+00:00",
+   "rt": false
   },
   {
    "user": "dylan522p",
