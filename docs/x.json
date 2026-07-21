@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T22:01:39.070435+00:00",
+ "updated": "2026-07-21T02:51:01.895747+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -102,27 +102,6 @@
    "link": "https://x.com/dol_editors/status/2078669136310456334",
    "time": "2026-07-19T02:31:56+00:00",
    "rt": true
-  },
-  {
-   "user": "sama",
-   "text": "this is cool: https://welcome-to-codex.openai.chatgpt.site/",
-   "link": "https://x.com/sama/status/2078244242993164716",
-   "time": "2026-07-17T22:23:34+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Here's how to add the Codex Security plugin in Codex and get started: Add the plugin in Codex. After installation is complete, the button changes to “Try in chat.” Click “Try in chat” to start a new Codex chat with a Codex Security scan prompt ready to run. Choose a folder that contains the code you want Codex Security to review. Send the scan prompt. Codex opens with the Codex Secur",
-   "link": "https://x.com/OpenAI/status/2078243670265041038",
-   "time": "2026-07-17T22:21:17+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "GPT-5.6 Sol sets a new state of the art in cybersecurity on “The Last Ones” cyber range. We’re already seeing that capability translate into defensive outcomes: helping teams find, validate, and fix vulnerabilities in real-world code. Put it to work with Codex Security: https://openai.com/daybreak/codex-security-plugin/#desktop-codex",
-   "link": "https://x.com/OpenAI/status/2078243667081617826",
-   "time": "2026-07-17T22:21:16+00:00",
-   "rt": false
   }
  ]
 }
