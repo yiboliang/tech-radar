@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-21T22:05:02.721371+00:00",
+ "updated": "2026-07-22T02:48:52.890259+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,34 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Missed the NVIDIA keynote at #SIGGRAPH2026? Catch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders Neil Ashton, Edward Liu and Ming-Yu Liu. Watch on demand 🎥 https://vist.ly/5b2ct",
+   "link": "https://x.com/nvidia/status/2079715060197310935",
+   "time": "2026-07-21T23:48:04+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "Already at #SIGGRAPH2026? Keep your camera handy. Check out the giveaway below for your chance to take home an NVIDIA RTX PRO 6000 Workstation Edition GPU.",
+   "link": "https://x.com/nvidia/status/2079709298784088470",
+   "time": "2026-07-21T23:25:10+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Learn more about Wistron’s new Fort Worth facility and the advanced AI systems it will help produce: https://nvda.ws/4pusD8Q",
+   "link": "https://x.com/nvidia/status/2079699529943699613",
+   "time": "2026-07-21T22:46:21+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "The AI era runs on servers. More of those servers are built in Texas. Today, NVIDIA CEO Jensen Huang joined Wistron Chairman Simon Lin in Fort Worth to open Wistron’s first U.S. facility, producing Grace Blackwell compute boards, with Vera Rubin next.",
+   "link": "https://x.com/nvidia/status/2079699527888404973",
+   "time": "2026-07-21T22:46:21+00:00",
+   "rt": false
+  },
   {
    "user": "sama",
    "text": "we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this. https://openai.com/index/hugging-face-model-evaluation-security-incident/",
@@ -42,6 +70,13 @@
   },
   {
    "user": "OpenAI",
+   "text": "R to @OpenAI: We had guessed reward seeking might increase over the course of capabilities-focused RL training, but had no way of measuring it until now. We’re continuing to collaborate with Apollo Research to improve how reward-seeking is measured during training—and better detect whether models are doing the right thing for the right reason.",
+   "link": "https://x.com/OpenAI/status/2079647256941412817",
+   "time": "2026-07-21T19:18:38+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
    "text": "R to @OpenAI: Contrastive SDF gives copies of the same model opposing beliefs about what the grader prefers, then measures how their behavior changes.",
    "link": "https://x.com/OpenAI/status/2079647254701634028",
    "time": "2026-07-21T19:18:38+00:00",
@@ -49,9 +84,9 @@
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: We had guessed reward seeking might increase over the course of capabilities-focused RL training, but had no way of measuring it until now. We’re continuing to collaborate with Apollo Research to improve how reward-seeking is measured during training—and better detect whether models are doing the right thing for the right reason.",
-   "link": "https://x.com/OpenAI/status/2079647256941412817",
-   "time": "2026-07-21T19:18:38+00:00",
+   "text": "R to @OpenAI: Reward hacking asks: did the model exploit the reward? Reward-seeking asks: was grader approval what motivated the model’s choice? The second is potentially more important for generalization, because behavior can change when beliefs about the grader change.",
+   "link": "https://x.com/OpenAI/status/2079647253191619001",
+   "time": "2026-07-21T19:18:37+00:00",
    "rt": false
   },
   {
@@ -147,44 +182,16 @@
   },
   {
    "user": "nvidia",
-   "text": "R to @nvidia: Super agents have arrived on the desktop. With local AI, designers and engineers can build, customize and run domain-specific agents using their own data and workflows. NVIDIA NemoClaw on DGX Station brings together Nemotron 3 Ultra, Omniverse libraries and OpenShell in an open agent stack. 🔗 https://nvda.ws/4h2mcYH #SIGGRAPH2026",
-   "link": "https://x.com/nvidia/status/2079254592664301778",
-   "time": "2026-07-20T17:18:20+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Frontier world models now run on edge GPUs. ⚡ Now openly available, NVIDIA Cosmos 3 Edge brings advanced world-model capabilities to local devices. The 4-billion-parameter omnimodel can understand and generate text, image, video, ambient sound and action for physical AI across robotics, autonomous vehicles and smart infrastructure. 🔗 https://nvda.ws/3RGxNCc #SIGGRAPH2026",
-   "link": "https://x.com/nvidia/status/2079240931337965928",
-   "time": "2026-07-20T16:24:03+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
    "text": "RT by @nvidia: Introducing Cosmos 3 Edge: our open frontier world model built to run on-device. Cosmos 3 Edge helps robots learn and act, autonomous vehicles understand road scenes and predict intent, and vision AI agents reason across live video for smart infrastructure. With 4B parameters and a 2B Nemotron-based reasoner, you can run it on DGX Spark, NVIDIA Jetson, and more.",
    "link": "https://x.com/NVIDIAAI/status/2079236204743053592",
    "time": "2026-07-20T16:05:16+00:00",
    "rt": true
   },
   {
-   "user": "nvidia",
-   "text": "NVIDIA is advancing graphics and simulation with agentic and physical AI at #SIGGRAPH2026. From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation, and robotics. Read the latest announcements. 👇 https://vist.ly/5bt2j",
-   "link": "https://x.com/nvidia/status/2079221588705099788",
-   "time": "2026-07-20T15:07:11+00:00",
-   "rt": false
-  },
-  {
    "user": "dylan522p",
    "text": "RT by @dylan522p: The answer is lamb (you can see @dylan522p live tweeting)",
    "link": "https://x.com/Reshusaur/status/2078694522373157347",
    "time": "2026-07-19T04:12:49+00:00",
-   "rt": true
-  },
-  {
-   "user": "nvidia",
-   "text": "RT by @nvidia: 【おすすめ記事】エヌビディアCEOの“神田の夜”に密着！日本半導体トップ30社と居酒屋外交、やきとん三吉に響いた「日本復活」の檄！ 【Featured Article】 NVIDIA CEO Jensen's Tokyo Izakaya Night with Leaders from Japan's Top 30 Semiconductor Companies https://www.youtube.com/watch?v=X7ffSOzcYBc",
-   "link": "https://x.com/dol_editors/status/2078669136310456334",
-   "time": "2026-07-19T02:31:56+00:00",
    "rt": true
   }
  ]
