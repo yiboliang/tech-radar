@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-22T11:11:17.003967+00:00",
+ "updated": "2026-07-22T14:00:45.631629+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "GoogleDeepMind",
+   "text": "We’re expanding our work with the US Dept. of @ENERGY on the Genesis Mission – an initiative to double the pace of scientific discovery within a decade. 🧪 By committing $40M in AI tokens and @GoogleCloud credits, more lab researchers will gain access to Gemini and other AI models. → https://goo.gle/4yGqKKD",
+   "link": "https://x.com/GoogleDeepMind/status/2079925576077324552",
+   "time": "2026-07-22T13:44:35+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "New for enterprises: OpenAI Presence helps companies deploy trusted voice and chat agents across customer and internal workflows. AI agents can answer questions, use company systems, take approved actions, and escalate to people when needed—while improving over time. OpenAI Presence is available to eligible enterprise customers through a limited general availability program. https://openai.com/ind",
+   "link": "https://x.com/OpenAI/status/2079916436232036614",
+   "time": "2026-07-22T13:08:16+00:00",
+   "rt": false
+  },
   {
    "user": "dylan522p",
    "text": "This is a public cry to not waste the silicon and have better AI infra Rivos, DSF, Grand Teton, Ariel and the cut-down MI450X were defensible on some narrow metric that a group inside Meta Infrastructure was optimizing for, but each was a poor decision for the company as a whole.",
@@ -151,6 +165,13 @@ window.RADAR_X = {
    "link": "https://x.com/GoogleDeepMind/status/2079589698490572961",
    "time": "2026-07-21T15:29:55+00:00",
    "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "RT by @GoogleDeepMind: Fascinating application of @GoogleDeepMind's AlphaFold in protein engineering! 🧬 As we approach 5 years since the AlphaFold Database was launched, it’s great to see it being used to fill in structural blind spots. While still early, it’s a brilliant example of how open access to AI-predicted structures is empowering experimental biologists to target complex health challenges",
+   "link": "https://x.com/pushmeet/status/2079527699157008775",
+   "time": "2026-07-21T11:23:33+00:00",
+   "rt": true
   },
   {
    "user": "OpenAI",

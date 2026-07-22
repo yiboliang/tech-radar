@@ -1,11 +1,11 @@
 {
- "updated": "2026-07-22T11:11:15.603540+00:00",
+ "updated": "2026-07-22T14:00:43.830414+00:00",
  "new_stars": [
   {
    "name": "lopopolo/harness-engineering",
    "url": "https://github.com/lopopolo/harness-engineering",
    "desc": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-   "stars": 1984,
+   "stars": 2064,
    "lang": "Python",
    "created": "2026-07-18T21:42:28Z",
    "pushed": "2026-07-18T21:55:49Z"
@@ -14,7 +14,7 @@
    "name": "tandpfun/wardrobe",
    "url": "https://github.com/tandpfun/wardrobe",
    "desc": "Your clothes, extracted and organized with gpt-image.",
-   "stars": 1316,
+   "stars": 1323,
    "lang": "JavaScript",
    "created": "2026-07-16T06:17:00Z",
    "pushed": "2026-07-16T06:35:44Z"
@@ -23,7 +23,7 @@
    "name": "pablostanley/yoinks",
    "url": "https://github.com/pablostanley/yoinks",
    "desc": "yoink any video from your terminal. no shady ads.",
-   "stars": 1010,
+   "stars": 1023,
    "lang": "TypeScript",
    "created": "2026-07-16T07:06:09Z",
    "pushed": "2026-07-17T06:40:05Z"
@@ -32,7 +32,7 @@
    "name": "nethical6/conversation-steganography",
    "url": "https://github.com/nethical6/conversation-steganography",
    "desc": "Use LLMs to hide messages inside normal looking conversations",
-   "stars": 931,
+   "stars": 938,
    "lang": "Go",
    "created": "2026-07-17T04:58:22Z",
    "pushed": "2026-07-18T13:20:49Z"
@@ -41,7 +41,7 @@
    "name": "v-modal/vmodal_sdk_flutter",
    "url": "https://github.com/v-modal/vmodal_sdk_flutter",
    "desc": "V- Modal AI: Search anything anywhere SDK Flutter",
-   "stars": 824,
+   "stars": 852,
    "lang": "Dart",
    "created": "2026-07-16T12:25:48Z",
    "pushed": "2026-07-19T12:11:31Z"
@@ -50,25 +50,25 @@
    "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
    "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
    "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-   "stars": 739,
+   "stars": 801,
    "lang": "Solidity",
    "created": "2026-07-17T09:45:22Z",
-   "pushed": "2026-07-22T11:11:02Z"
+   "pushed": "2026-07-22T13:59:39Z"
   },
   {
    "name": "Blaizzy/nativ",
    "url": "https://github.com/Blaizzy/nativ",
    "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-   "stars": 686,
+   "stars": 704,
    "lang": "Swift",
    "created": "2026-07-20T15:37:29Z",
-   "pushed": "2026-07-22T01:30:48Z"
+   "pushed": "2026-07-22T12:39:13Z"
   },
   {
    "name": "xiejunjie524/handdraw-story-video",
    "url": "https://github.com/xiejunjie524/handdraw-story-video",
    "desc": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
-   "stars": 610,
+   "stars": 611,
    "lang": "Python",
    "created": "2026-07-18T06:51:05Z",
    "pushed": "2026-07-18T09:43:19Z"
@@ -77,7 +77,7 @@
    "name": "smixs/pohuy",
    "url": "https://github.com/smixs/pohuy",
    "desc": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
-   "stars": 505,
+   "stars": 520,
    "lang": "",
    "created": "2026-07-17T15:22:53Z",
    "pushed": "2026-07-21T13:35:07Z"
@@ -86,7 +86,7 @@
    "name": "EthanXiang777/circuit-framework",
    "url": "https://github.com/EthanXiang777/circuit-framework",
    "desc": "Circuit Framework — multi-agent LLM trading research system",
-   "stars": 488,
+   "stars": 489,
    "lang": "Python",
    "created": "2026-07-16T15:02:10Z",
    "pushed": "2026-07-16T16:57:57Z"
@@ -95,7 +95,7 @@
    "name": "Vincentwei1021/video-shotcraft",
    "url": "https://github.com/Vincentwei1021/video-shotcraft",
    "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-   "stars": 479,
+   "stars": 485,
    "lang": "TypeScript",
    "created": "2026-07-19T11:44:41Z",
    "pushed": "2026-07-21T04:42:01Z"
@@ -104,34 +104,52 @@
    "name": "Icex0/wp2shell-poc",
    "url": "https://github.com/Icex0/wp2shell-poc",
    "desc": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
-   "stars": 478,
+   "stars": 482,
    "lang": "Python",
    "created": "2026-07-17T20:18:33Z",
-   "pushed": "2026-07-21T08:20:56Z"
+   "pushed": "2026-07-22T13:17:00Z"
   },
   {
    "name": "powerycy/goutoujunshi",
    "url": "https://github.com/powerycy/goutoujunshi",
    "desc": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-   "stars": 433,
+   "stars": 452,
    "lang": "Python",
    "created": "2026-07-20T14:58:48Z",
-   "pushed": "2026-07-22T06:10:16Z"
+   "pushed": "2026-07-22T13:59:22Z"
   },
   {
    "name": "JustinGamer191/Holo",
    "url": "https://github.com/JustinGamer191/Holo",
    "desc": "",
-   "stars": 415,
+   "stars": 420,
    "lang": "Swift",
    "created": "2026-07-17T17:48:08Z",
    "pushed": "2026-07-21T18:17:03Z"
   },
   {
+   "name": "0xhype/hyperliquid-tracker",
+   "url": "https://github.com/0xhype/hyperliquid-tracker",
+   "desc": "Get notified when big trades happen on Hyperliquid.",
+   "stars": 399,
+   "lang": "TypeScript",
+   "created": "2026-07-21T14:24:08Z",
+   "pushed": "2026-07-21T14:25:10Z"
+  },
+  {
+   "name": "Jakubantalik/thinking-orbs",
+   "url": "https://github.com/Jakubantalik/thinking-orbs",
+   "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+   "stars": 391,
+   "lang": "TypeScript",
+   "created": "2026-07-21T07:01:53Z",
+   "pushed": "2026-07-21T21:33:07Z"
+  },
+  {
    "name": "mesamirh/MovieBox-Tui",
    "url": "https://github.com/mesamirh/MovieBox-Tui",
    "desc": "A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
-   "stars": 378,
+   "stars": 382,
    "lang": "Rust",
    "created": "2026-07-16T07:09:47Z",
    "pushed": "2026-07-18T11:22:52Z"
@@ -140,37 +158,55 @@
    "name": "KinetiNode/claude-fable-5-system-prompt-clean",
    "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
    "desc": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM",
-   "stars": 364,
+   "stars": 367,
    "lang": "",
    "created": "2026-07-19T06:09:52Z",
    "pushed": "2026-07-19T14:38:22Z"
   },
   {
-   "name": "Jakubantalik/thinking-orbs",
-   "url": "https://github.com/Jakubantalik/thinking-orbs",
-   "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-   "stars": 350,
-   "lang": "TypeScript",
-   "created": "2026-07-21T07:01:53Z",
-   "pushed": "2026-07-21T21:33:07Z"
+   "name": "gnipbao/story-to-handdrawn-video",
+   "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+   "desc": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+   "stars": 329,
+   "lang": "JavaScript",
+   "created": "2026-07-21T08:54:45Z",
+   "pushed": "2026-07-21T12:25:48Z"
   },
   {
-   "name": "thesysdev/appless",
-   "url": "https://github.com/thesysdev/appless",
-   "desc": "What if your phone had no apps",
-   "stars": 320,
+   "name": "pireel/pireel",
+   "url": "https://github.com/pireel/pireel",
+   "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+   "stars": 322,
    "lang": "TypeScript",
-   "created": "2026-07-16T07:08:49Z",
-   "pushed": "2026-07-16T15:18:10Z"
+   "created": "2026-07-20T09:34:24Z",
+   "pushed": "2026-07-22T03:22:29Z"
   },
   {
    "name": "thebuggeddev/football-stadium",
    "url": "https://github.com/thebuggeddev/football-stadium",
    "desc": "A 3D football stadium to visualize where you sit in the seat before you buy it",
-   "stars": 319,
+   "stars": 321,
    "lang": "HTML",
    "created": "2026-07-17T12:36:15Z",
    "pushed": "2026-07-18T04:30:29Z"
+  },
+  {
+   "name": "thesysdev/appless",
+   "url": "https://github.com/thesysdev/appless",
+   "desc": "What if your phone had no apps",
+   "stars": 321,
+   "lang": "TypeScript",
+   "created": "2026-07-16T07:08:49Z",
+   "pushed": "2026-07-16T15:18:10Z"
+  },
+  {
+   "name": "yc-duan/fastctx",
+   "url": "https://github.com/yc-duan/fastctx",
+   "desc": "Fast, context-efficient repository tools for AI agents (MCP)",
+   "stars": 315,
+   "lang": "Rust",
+   "created": "2026-07-17T03:05:57Z",
+   "pushed": "2026-07-21T20:13:53Z"
   },
   {
    "name": "PromptPartner/agentsmith",
@@ -182,15 +218,6 @@
    "pushed": "2026-07-22T10:34:26Z"
   },
   {
-   "name": "yc-duan/fastctx",
-   "url": "https://github.com/yc-duan/fastctx",
-   "desc": "Fast, context-efficient repository tools for AI agents (MCP)",
-   "stars": 312,
-   "lang": "Rust",
-   "created": "2026-07-17T03:05:57Z",
-   "pushed": "2026-07-21T20:13:53Z"
-  },
-  {
    "name": "chartup-solana-volume-bot/solanavolumebot",
    "url": "https://github.com/chartup-solana-volume-bot/solanavolumebot",
    "desc": "Top-rated Solana volume bot and developer tools for DEX liquidity, maker activity, and holder management.",
@@ -198,33 +225,6 @@
    "lang": "",
    "created": "2026-07-21T23:44:26Z",
    "pushed": "2026-07-22T10:52:11Z"
-  },
-  {
-   "name": "gnipbao/story-to-handdrawn-video",
-   "url": "https://github.com/gnipbao/story-to-handdrawn-video",
-   "desc": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-   "stars": 306,
-   "lang": "JavaScript",
-   "created": "2026-07-21T08:54:45Z",
-   "pushed": "2026-07-21T12:25:48Z"
-  },
-  {
-   "name": "Kritt-ai/open-kritt",
-   "url": "https://github.com/Kritt-ai/open-kritt",
-   "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
-   "stars": 288,
-   "lang": "JavaScript",
-   "created": "2026-07-20T20:26:24Z",
-   "pushed": "2026-07-22T10:17:31Z"
-  },
-  {
-   "name": "paxlabs-inc/machine-genome",
-   "url": "https://github.com/paxlabs-inc/machine-genome",
-   "desc": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
-   "stars": 284,
-   "lang": "Go",
-   "created": "2026-07-20T12:41:33Z",
-   "pushed": "2026-07-20T13:25:58Z"
   }
  ],
  "ai_active": [
@@ -232,7 +232,7 @@
    "name": "affaan-m/ECC",
    "url": "https://github.com/affaan-m/ECC",
    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-   "stars": 232052,
+   "stars": 232097,
    "lang": "JavaScript",
    "created": "2026-01-18T00:51:51Z",
    "pushed": "2026-07-22T07:07:46Z"
@@ -241,25 +241,25 @@
    "name": "NousResearch/hermes-agent",
    "url": "https://github.com/NousResearch/hermes-agent",
    "desc": "The agent that grows with you",
-   "stars": 218705,
+   "stars": 218785,
    "lang": "Python",
    "created": "2025-07-22T22:22:28Z",
-   "pushed": "2026-07-22T11:07:38Z"
+   "pushed": "2026-07-22T14:00:30Z"
   },
   {
    "name": "Significant-Gravitas/AutoGPT",
    "url": "https://github.com/Significant-Gravitas/AutoGPT",
    "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-   "stars": 185648,
+   "stars": 185651,
    "lang": "Python",
    "created": "2023-03-16T09:21:07Z",
-   "pushed": "2026-07-22T11:11:04Z"
+   "pushed": "2026-07-22T13:23:50Z"
   },
   {
    "name": "ollama/ollama",
    "url": "https://github.com/ollama/ollama",
    "desc": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-   "stars": 176621,
+   "stars": 176635,
    "lang": "Go",
    "created": "2023-06-26T19:39:32Z",
    "pushed": "2026-07-22T07:51:49Z"
@@ -268,7 +268,7 @@
    "name": "f/prompts.chat",
    "url": "https://github.com/f/prompts.chat",
    "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-   "stars": 166187,
+   "stars": 166199,
    "lang": "HTML",
    "created": "2022-12-05T13:54:13Z",
    "pushed": "2026-07-22T04:07:26Z"
@@ -277,34 +277,34 @@
    "name": "huggingface/transformers",
    "url": "https://github.com/huggingface/transformers",
    "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-   "stars": 162835,
+   "stars": 162837,
    "lang": "Python",
    "created": "2018-10-29T13:56:00Z",
-   "pushed": "2026-07-22T10:33:15Z"
+   "pushed": "2026-07-22T13:49:37Z"
   },
   {
    "name": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
    "desc": "The API to search, scrape, and interact with the web at scale. 🔥",
-   "stars": 154281,
+   "stars": 154342,
    "lang": "TypeScript",
    "created": "2024-04-15T21:02:29Z",
-   "pushed": "2026-07-22T06:59:39Z"
+   "pushed": "2026-07-22T13:44:41Z"
   },
   {
    "name": "langgenius/dify",
    "url": "https://github.com/langgenius/dify",
    "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb",
-   "stars": 149752,
+   "stars": 149766,
    "lang": "TypeScript",
    "created": "2023-04-12T07:40:24Z",
-   "pushed": "2026-07-22T11:01:41Z"
+   "pushed": "2026-07-22T13:57:32Z"
   },
   {
    "name": "open-webui/open-webui",
    "url": "https://github.com/open-webui/open-webui",
    "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-   "stars": 146310,
+   "stars": 146326,
    "lang": "Python",
    "created": "2023-10-06T22:08:27Z",
    "pushed": "2026-07-21T18:18:42Z"
@@ -313,16 +313,16 @@
    "name": "langchain-ai/langchain",
    "url": "https://github.com/langchain-ai/langchain",
    "desc": "The agent engineering platform.",
-   "stars": 142317,
+   "stars": 142325,
    "lang": "Python",
    "created": "2022-10-17T02:58:36Z",
-   "pushed": "2026-07-22T08:53:18Z"
+   "pushed": "2026-07-22T13:41:18Z"
   },
   {
    "name": "browser-use/browser-use",
    "url": "https://github.com/browser-use/browser-use",
    "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-   "stars": 106049,
+   "stars": 106071,
    "lang": "Python",
    "created": "2024-10-31T16:00:56Z",
    "pushed": "2026-07-22T07:14:12Z"
@@ -331,7 +331,7 @@
    "name": "harry0703/MoneyPrinterTurbo",
    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
    "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-   "stars": 98577,
+   "stars": 98593,
    "lang": "Python",
    "created": "2024-03-11T02:57:34Z",
    "pushed": "2026-07-20T13:24:36Z"
@@ -340,7 +340,7 @@
    "name": "Graphify-Labs/graphify",
    "url": "https://github.com/Graphify-Labs/graphify",
    "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
-   "stars": 93519,
+   "stars": 93598,
    "lang": "Python",
    "created": "2026-04-03T15:49:07Z",
    "pushed": "2026-07-21T21:26:09Z"
@@ -349,52 +349,52 @@
    "name": "vllm-project/vllm",
    "url": "https://github.com/vllm-project/vllm",
    "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-   "stars": 86861,
+   "stars": 86872,
    "lang": "Python",
    "created": "2023-02-09T11:23:20Z",
-   "pushed": "2026-07-22T10:56:23Z"
+   "pushed": "2026-07-22T13:51:59Z"
   },
   {
    "name": "OpenHands/OpenHands",
    "url": "https://github.com/OpenHands/OpenHands",
    "desc": "🙌 OpenHands: AI-Driven Development",
-   "stars": 81682,
+   "stars": 81693,
    "lang": "Python",
    "created": "2024-03-13T03:33:31Z",
-   "pushed": "2026-07-22T10:56:04Z"
+   "pushed": "2026-07-22T13:52:11Z"
   },
   {
    "name": "bytedance/deer-flow",
    "url": "https://github.com/bytedance/deer-flow",
    "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
-   "stars": 77589,
+   "stars": 77598,
    "lang": "Python",
    "created": "2025-05-07T02:50:19Z",
-   "pushed": "2026-07-22T06:59:33Z"
+   "pushed": "2026-07-22T13:31:30Z"
   },
   {
    "name": "rtk-ai/rtk",
    "url": "https://github.com/rtk-ai/rtk",
    "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-   "stars": 72523,
+   "stars": 72545,
    "lang": "Rust",
    "created": "2026-01-22T16:54:16Z",
-   "pushed": "2026-07-22T10:44:13Z"
+   "pushed": "2026-07-22T13:43:31Z"
   },
   {
    "name": "unslothai/unsloth",
    "url": "https://github.com/unslothai/unsloth",
    "desc": "Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.",
-   "stars": 68717,
+   "stars": 68729,
    "lang": "Python",
    "created": "2023-11-29T16:50:09Z",
-   "pushed": "2026-07-22T11:05:08Z"
+   "pushed": "2026-07-22T13:56:24Z"
   },
   {
    "name": "Mintplex-Labs/anything-llm",
    "url": "https://github.com/Mintplex-Labs/anything-llm",
    "desc": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
-   "stars": 63676,
+   "stars": 63681,
    "lang": "JavaScript",
    "created": "2023-06-04T02:29:14Z",
    "pushed": "2026-07-21T23:11:11Z"
@@ -403,7 +403,7 @@
    "name": "mem0ai/mem0",
    "url": "https://github.com/mem0ai/mem0",
    "desc": "Universal memory layer for AI Agents",
-   "stars": 61445,
+   "stars": 61459,
    "lang": "TypeScript",
    "created": "2023-06-20T08:58:36Z",
    "pushed": "2026-07-21T16:30:19Z"
@@ -412,16 +412,16 @@
    "name": "headroomlabs-ai/headroom",
    "url": "https://github.com/headroomlabs-ai/headroom",
    "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-   "stars": 61120,
+   "stars": 61147,
    "lang": "Python",
    "created": "2026-01-07T19:58:51Z",
-   "pushed": "2026-07-21T23:27:23Z"
+   "pushed": "2026-07-22T13:34:58Z"
   },
   {
    "name": "asgeirtj/system_prompts_leaks",
    "url": "https://github.com/asgeirtj/system_prompts_leaks",
    "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -",
-   "stars": 59656,
+   "stars": 59677,
    "lang": "JavaScript",
    "created": "2025-05-03T02:43:56Z",
    "pushed": "2026-07-21T21:52:25Z"
@@ -430,25 +430,25 @@
    "name": "upstash/context7",
    "url": "https://github.com/upstash/context7",
    "desc": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
-   "stars": 59579,
+   "stars": 59585,
    "lang": "TypeScript",
    "created": "2025-03-26T23:40:39Z",
-   "pushed": "2026-07-22T09:53:41Z"
+   "pushed": "2026-07-22T13:04:26Z"
   },
   {
    "name": "ZhuLinsen/daily_stock_analysis",
    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
    "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f",
-   "stars": 58241,
+   "stars": 58256,
    "lang": "Python",
    "created": "2026-01-10T06:43:20Z",
-   "pushed": "2026-07-21T15:41:42Z"
+   "pushed": "2026-07-22T13:35:32Z"
   },
   {
    "name": "MemPalace/mempalace",
    "url": "https://github.com/MemPalace/mempalace",
    "desc": "The best-benchmarked open-source AI memory system. And it's free.",
-   "stars": 57592,
+   "stars": 57595,
    "lang": "Python",
    "created": "2026-04-05T01:12:07Z",
    "pushed": "2026-07-22T03:57:37Z"
