@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T16:37:13.419398+00:00",
+ "updated": "2026-07-23T19:21:19.911313+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,27 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: More than 300 million people turn to ChatGPT with health-related questions each week—and we’re continuing to improve how our models respond. We work with hundreds of physicians around the world to measure and improve accuracy, safety, communication, context awareness, completeness, and appropriate escalation. GPT‑5.5 Instant brought frontier health intelligence to all free users. GPT",
+   "link": "https://x.com/OpenAI/status/2080339986717790394",
+   "time": "2026-07-23T17:11:18+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "Health in ChatGPT is starting to roll out to U.S. users. You can securely connect Apple Health and supported medical records to understand your information in context, track what has changed, and have more informed conversations. https://openai.com/index/health-in-chatgpt/",
+   "link": "https://x.com/OpenAI/status/2080339982288568709",
+   "time": "2026-07-23T17:11:17+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: We built this experience based on feedback from early testers and physicians. With your permission, ChatGPT can use relevant context you’ve connected in Health across your conversations — to help you compare a new result with prior tests, summarize changes since your last appointment, or explore how your sleep and activity relate. Connected medical records and Apple Health informatio",
+   "link": "https://x.com/OpenAI/status/2080339983962181983",
+   "time": "2026-07-23T17:11:17+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "R to @NPS_Monterey: Read the event recap ➡️ https://nvda.ws/4wgPzez",
@@ -193,34 +214,6 @@
    "link": "https://x.com/pushmeet/status/2079527699157008775",
    "time": "2026-07-21T11:23:33+00:00",
    "rt": true
-  },
-  {
-   "user": "OpenAI",
-   "text": "RT by @OpenAI: Was very cool to hear about the reasons people love Sol. We're doing the promotion again, except this time for ChatGPT Work: Tweet what you love about ChatGPT Work, claim $100 in free credits, get more work done. First 10k get the free tokens: https://share-chatgpt-work.openai.chatgpt.site/",
-   "link": "https://x.com/gdb/status/2079289658622738481",
-   "time": "2026-07-20T19:37:40+00:00",
-   "rt": true
-  },
-  {
-   "user": "OpenAI",
-   "text": "RT by @OpenAI: Long-running models can solve hard open-ended problems, but their persistence can create safety risks that shorter-horizon evaluations miss. We’re sharing what we learned from studying a long-running model, and how those findings are shaping our approach to evaluations, alignment, monitoring, and user control. https://openai.com/index/safety-alignment-long-horizon-models/",
-   "link": "https://x.com/polynoamial/status/2079260550895382965",
-   "time": "2026-07-20T17:42:00+00:00",
-   "rt": true
-  },
-  {
-   "user": "sama",
-   "text": "it is good now!",
-   "link": "https://x.com/sama/status/2079258683884917013",
-   "time": "2026-07-20T17:34:35+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "We're offering grants of up to $50,000 in Claude usage credits to researchers accelerating cures for rare diseases. This is our first focused call within AI for Science, our program supporting scientists using Claude to speed up discovery. https://www.anthropic.com/news/rare-disease-research-grants",
-   "link": "https://x.com/AnthropicAI/status/2079256626771665098",
-   "time": "2026-07-20T17:26:25+00:00",
-   "rt": false
   }
  ]
 }
