@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22T22:05:19.692172+00:00",
+ "updated": "2026-07-23T02:54:50.662484+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Personalized fan experiences don't have to end at the game. Check out how @LiveX_ai is using NVIDIA AI to blend real-time interaction, customization, and commerce.",
+   "link": "https://x.com/nvidia/status/2080078677426241940",
+   "time": "2026-07-22T23:52:57+00:00",
+   "rt": false
+  },
   {
    "user": "dylan522p",
    "text": "Coincidentally AMD has a product named Verano. Competing with Nvidia's Vera CPU. The pun, Vera No writes itself. It's attached to MI500. It is on 2nm, and generally has more cores, memory. We described it back here in February. https://newsletter.semianalysis.com/p/cpus-are-back-the-datacenter-cpu",
@@ -214,13 +221,6 @@
    "link": "https://x.com/AnthropicAI/status/2079256626771665098",
    "time": "2026-07-20T17:26:25+00:00",
    "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "RT by @nvidia: Introducing Cosmos 3 Edge: our open frontier world model built to run on-device. Cosmos 3 Edge helps robots learn and act, autonomous vehicles understand road scenes and predict intent, and vision AI agents reason across live video for smart infrastructure. With 4B parameters and a 2B Nemotron-based reasoner, you can run it on DGX Spark, NVIDIA Jetson, and more.",
-   "link": "https://x.com/NVIDIAAI/status/2079236204743053592",
-   "time": "2026-07-20T16:05:16+00:00",
-   "rt": true
   }
  ]
 }
