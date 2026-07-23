@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-23T08:41:30.331770+00:00",
+ "updated": "2026-07-23T11:12:45.583305+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Personalized fan experiences don't have to end at the game. Check out how @LiveX_ai is using NVIDIA AI to blend real-time interaction, customization, and commerce.",
+   "link": "https://x.com/nvidia/status/2080078677426241940",
+   "time": "2026-07-22T23:52:57+00:00",
+   "rt": false
+  },
+  {
+   "user": "dylan522p",
+   "text": "Coincidentally AMD has a product named Verano. Competing with Nvidia's Vera CPU. The pun, Vera No writes itself. It's attached to MI500. It is on 2nm, and generally has more cores, memory. We described it back here in February. https://newsletter.semianalysis.com/p/cpus-are-back-the-datacenter-cpu",
+   "link": "https://x.com/dylan522p/status/2080026098096853215",
+   "time": "2026-07-22T20:24:01+00:00",
+   "rt": false
+  },
   {
    "user": "AnthropicAI",
    "text": "RT by @AnthropicAI: You can now ask Claude about the Anthropic Economic Index, our public dataset measuring how AI is used across the economy. Ask which occupations use AI the most, or what kinds of tasks people are automating, and the answers draw directly from the Index data.",
@@ -31,6 +45,41 @@ window.RADAR_X = {
    "text": "New for enterprises: OpenAI Presence helps companies deploy trusted voice and chat agents across customer and internal workflows. AI agents can answer questions, use company systems, take approved actions, and escalate to people when needed—while improving over time. OpenAI Presence is available to eligible enterprise customers through a limited general availability program. https://openai.com/ind",
    "link": "https://x.com/OpenAI/status/2079916436232036614",
    "time": "2026-07-22T13:08:16+00:00",
+   "rt": false
+  },
+  {
+   "user": "dylan522p",
+   "text": "This is a public cry to not waste the silicon and have better AI infra Rivos, DSF, Grand Teton, Ariel and the cut-down MI450X were defensible on some narrow metric that a group inside Meta Infrastructure was optimizing for, but each was a poor decision for the company as a whole.",
+   "link": "https://x.com/dylan522p/status/2079764693640790176",
+   "time": "2026-07-22T03:05:17+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "Missed the NVIDIA keynote at #SIGGRAPH2026? Catch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders Neil Ashton, Edward Liu and Ming-Yu Liu. Watch on demand 🎥 https://vist.ly/5b2ct",
+   "link": "https://x.com/nvidia/status/2079715060197310935",
+   "time": "2026-07-21T23:48:04+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "Already at #SIGGRAPH2026? Keep your camera handy. Check out the giveaway below for your chance to take home an NVIDIA RTX PRO 6000 Workstation Edition GPU.",
+   "link": "https://x.com/nvidia/status/2079709298784088470",
+   "time": "2026-07-21T23:25:10+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "The AI era runs on servers. More of those servers are built in Texas. Today, NVIDIA CEO Jensen Huang joined Wistron Chairman Simon Lin in Fort Worth to open Wistron’s first U.S. facility, producing Grace Blackwell compute boards, with Vera Rubin next.",
+   "link": "https://x.com/nvidia/status/2079699527888404973",
+   "time": "2026-07-21T22:46:21+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Learn more about Wistron’s new Fort Worth facility and the advanced AI systems it will help produce: https://nvda.ws/4pusD8Q",
+   "link": "https://x.com/nvidia/status/2079699529943699613",
+   "time": "2026-07-21T22:46:21+00:00",
    "rt": false
   },
   {
@@ -83,6 +132,20 @@ window.RADAR_X = {
    "rt": false
   },
   {
+   "user": "nvidia",
+   "text": "NVIDIA Spectrum-6, a 102.4-terabit-per-second Ethernet switch built for the Vera Rubin platform, is now arriving across the world's gigascale AI factories. @CoreWeave, @Microsoft, @NebiusAI @SpaceXAI and @Tesla are among the first to bring in Spectrum-6 to accelerate their AI factories. Read the Blog: https://nvda.ws/44AO2nn",
+   "link": "https://x.com/nvidia/status/2079633231629144565",
+   "time": "2026-07-21T18:22:54+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "🚀 The NVIDIA Vera Rubin platform is here, with 10x better performance per watt. ➡️ The NVIDIA ecosystem, including @CoreWeave, @GoogleCloud, @Microsoft, and @Oracle Cloud, are standing up NVIDIA Vera Rubin NVL72 to deliver the lowest token cost for the agentic era. ➡️ NVIDIA Vera Rubin NVL72 on CoreWeave demonstrates 10x more tokens per megawatt than Blackwell in their first measured performance. ",
+   "link": "https://x.com/nvidia/status/2079619127560556869",
+   "time": "2026-07-21T17:26:52+00:00",
+   "rt": false
+  },
+  {
    "user": "GoogleDeepMind",
    "text": "Gemini 3.6 Flash builds directly on feedback from 3.5 Flash. Watch how it compares on quality and token usage ↓",
    "link": "https://x.com/GoogleDeepMind/status/2079615466356580535",
@@ -101,6 +164,13 @@ window.RADAR_X = {
    "text": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like \"switching to s",
    "link": "https://x.com/karpathy/status/2079610838143623371",
    "time": "2026-07-21T16:53:55+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "10x more tokens per megawatt. CoreWeave has the first measured performance of NVIDIA Vera Rubin NVL72, showing 10x improvement in tokens per second per megawatt on DeepSeek-R1 compared to Blackwell.",
+   "link": "https://x.com/nvidia/status/2079601314234032474",
+   "time": "2026-07-21T16:16:05+00:00",
    "rt": false
   },
   {
