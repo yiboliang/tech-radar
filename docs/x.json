@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-23T19:21:19.911313+00:00",
+ "updated": "2026-07-23T22:06:08.224812+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,34 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: You can also use ChatGPT Voice in Codex from the iOS app with paired remote access. Android support is coming soon.",
+   "link": "https://x.com/OpenAI/status/2080392280549253392",
+   "time": "2026-07-23T20:39:06+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running in ChatGPT Work or Codex, using just your voice. It's powered by GPT-Live, so it can speak, listen, and coordinate work in the app at the same time. Rolling out globally today on macOS and Windows to Plus, Pro, Business, Edu, and Enterprise plans.",
+   "link": "https://x.com/OpenAI/status/2080378182469857576",
+   "time": "2026-07-23T19:43:04+00:00",
+   "rt": true
+  },
+  {
+   "user": "OpenAI",
+   "text": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running in ChatGPT Work or Codex, using just your voice. It's powered by GPT-Live, so it can speak, listen, and coordinate work in the app at the same time. Rolling out globally today on macOS and Windows to Plus, Pro, Business, Edu, and Enterprise plans.",
+   "link": "https://x.com/OpenAI/status/2080378182469857576",
+   "time": "2026-07-23T19:43:04+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: We're rolling out Health in ChatGPT to all U.S. users. ♥️ More than 300 million people come to ChatGPT every week with health questions. Today, ChatGPT can bring together the health info you choose to connect to make conversations more personal and useful.",
+   "link": "https://x.com/thekaransinghal/status/2080343306731761927",
+   "time": "2026-07-23T17:24:29+00:00",
+   "rt": true
+  },
   {
    "user": "OpenAI",
    "text": "R to @OpenAI: More than 300 million people turn to ChatGPT with health-related questions each week—and we’re continuing to improve how our models respond. We work with hundreds of physicians around the world to measure and improve accuracy, safety, communication, context awareness, completeness, and appropriate escalation. GPT‑5.5 Instant brought frontier health intelligence to all free users. GPT",
@@ -164,20 +192,6 @@
    "text": "Gemini 3.5 Flash-Lite is our fast, cost-effective model for scaling repetitive use cases like sorting tickets and extracting data. Watch how it performs against 3.5 Flash on a series of high volume tasks ↓",
    "link": "https://x.com/GoogleDeepMind/status/2079653799602368604",
    "time": "2026-07-21T19:44:38+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Contrastive SDF gives copies of the same model opposing beliefs about what the grader prefers, then measures how their behavior changes.",
-   "link": "https://x.com/OpenAI/status/2079647254701634028",
-   "time": "2026-07-21T19:18:38+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: We had guessed reward seeking might increase over the course of capabilities-focused RL training, but had no way of measuring it until now. We’re continuing to collaborate with Apollo Research to improve how reward-seeking is measured during training—and better detect whether models are doing the right thing for the right reason.",
-   "link": "https://x.com/OpenAI/status/2079647256941412817",
-   "time": "2026-07-21T19:18:38+00:00",
    "rt": false
   },
   {
