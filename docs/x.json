@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T16:44:24.267788+00:00",
+ "updated": "2026-07-24T19:27:22.521816+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "dylan522p",
+   "text": "Impressive that Huawei shipped this first after Nvidia / Groq and AMD / Cerebras announcements.",
+   "link": "https://x.com/dylan522p/status/2080703926782021665",
+   "time": "2026-07-24T17:17:28+00:00",
+   "rt": false
+  },
+  {
+   "user": "AnthropicAI",
+   "text": "RT by @AnthropicAI: Introducing Claude Opus 5. It's a thoughtful and proactive model that comes close to the frontier intelligence of Fable 5 at half the price.",
+   "link": "https://x.com/claudeai/status/2080699495453528290",
+   "time": "2026-07-24T16:59:51+00:00",
+   "rt": true
+  },
   {
    "user": "nvidia",
    "text": "Pinned: Welcome @jensenhuang 💚 The future of AI leadership needs both frontier closed models and frontier open models.",
@@ -67,6 +81,13 @@
    "link": "https://x.com/OpenAI/status/2080378182469857576",
    "time": "2026-07-23T19:43:04+00:00",
    "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: A billion users can now create and publish websites from their phones with ChatGPT Work. But most people don’t really grasp the full extent of the capabilities here. From your phone, you also have access to: - Cloud computer (15 GB RAM) - Persistent workspace & files - Terminal and code execution - Remote browser - Connected plugins (Slack, Gmail, GitHub, etc.) - All your personal fin",
+   "link": "https://x.com/pashmerepat/status/2080354753473835461",
+   "time": "2026-07-23T18:09:59+00:00",
+   "rt": true
   },
   {
    "user": "sama",
@@ -220,34 +241,6 @@
    "text": "Gemini 3.5 Flash-Lite is our fast, cost-effective model for scaling repetitive use cases like sorting tickets and extracting data. Watch how it performs against 3.5 Flash on a series of high volume tasks ↓",
    "link": "https://x.com/GoogleDeepMind/status/2079653799602368604",
    "time": "2026-07-21T19:44:38+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "We’re sharing new research with @apolloaievals on reward-seeking—when models follow what they believe a grader rewards rather than what users or developers want—and a new method, Contrastive SDF, for measuring how strongly such beliefs shape behavior. https://alignment.openai.com/measuring-reward-seeking/",
-   "link": "https://x.com/OpenAI/status/2079647251677536324",
-   "time": "2026-07-21T19:18:37+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "Gemini 3.6 Flash builds directly on feedback from 3.5 Flash. Watch how it compares on quality and token usage ↓",
-   "link": "https://x.com/GoogleDeepMind/status/2079615466356580535",
-   "time": "2026-07-21T17:12:19+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: It’s much better at writing production-ready code faster without getting stuck in loops. Plus, it excels at multimodal tasks like analyzing charts, understanding documents, and report drafting. 3.6 Flash is rolling out in the @GeminiApp and developers can start building in @Antigravity, with API access in @GoogleAIStudio and @AndroidStudio. Find out more → https://goo.gle/4yy",
-   "link": "https://x.com/GoogleDeepMind/status/2079615468294320365",
-   "time": "2026-07-21T17:12:19+00:00",
-   "rt": false
-  },
-  {
-   "user": "karpathy",
-   "text": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like \"switching to s",
-   "link": "https://x.com/karpathy/status/2079610838143623371",
-   "time": "2026-07-21T16:53:55+00:00",
    "rt": false
   }
  ]
