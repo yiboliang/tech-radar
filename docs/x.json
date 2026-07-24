@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T19:27:22.521816+00:00",
+ "updated": "2026-07-24T22:06:34.451500+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -213,34 +213,6 @@
    "text": "Already at #SIGGRAPH2026? Keep your camera handy. Check out the giveaway below for your chance to take home an NVIDIA RTX PRO 6000 Workstation Edition GPU.",
    "link": "https://x.com/nvidia/status/2079709298784088470",
    "time": "2026-07-21T23:25:10+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this. https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-   "link": "https://x.com/sama/status/2079661132302995790",
-   "time": "2026-07-21T20:13:46+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capable OpenAI models compromised Hugging Face production during a benchmark evaluation. Sharing preliminary findings to help defenders understand emerging risks: https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-   "link": "https://x.com/OpenAI/status/2079658951264920020",
-   "time": "2026-07-21T20:05:06+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: It even outperforms 3 Flash on many agentic and coding benchmarks. 3.5 Flash-Lite is rolling out in the @GeminiApp and @Google Search, with API access in @GoogleAIStudio and @AndroidStudio. Find out more → https://goo.gle/4yyNkoi",
-   "link": "https://x.com/GoogleDeepMind/status/2079653801502380543",
-   "time": "2026-07-21T19:44:39+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "Gemini 3.5 Flash-Lite is our fast, cost-effective model for scaling repetitive use cases like sorting tickets and extracting data. Watch how it performs against 3.5 Flash on a series of high volume tasks ↓",
-   "link": "https://x.com/GoogleDeepMind/status/2079653799602368604",
-   "time": "2026-07-21T19:44:38+00:00",
    "rt": false
   }
  ]
