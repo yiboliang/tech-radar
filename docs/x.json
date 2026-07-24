@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T13:49:05.946335+00:00",
+ "updated": "2026-07-24T16:44:24.267788+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -14,10 +14,31 @@
  "items": [
   {
    "user": "nvidia",
-   "text": "RT by @nvidia: For my first post, I’m sharing a letter @NVIDIA signed on why open models matter. AI will transform every industry, power every company, and be built by every country. Open models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty. The world needs both frontier closed models and frontier open models. https://images.nvidia.com/pdf/Open-We",
-   "link": "https://x.com/JensenHuang/status/2080643682408321103",
-   "time": "2026-07-24T13:18:05+00:00",
-   "rt": true
+   "text": "Pinned: Welcome @jensenhuang 💚 The future of AI leadership needs both frontier closed models and frontier open models.",
+   "link": "https://x.com/nvidia/status/2080686579400765517",
+   "time": "2026-07-24T16:08:32+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "i want the US to win in AI both in open source and proprietary models, and i am glad to see this",
+   "link": "https://x.com/sama/status/2080683363174945065",
+   "time": "2026-07-24T15:55:45+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "let us know what you think of pro-ultra-superhard",
+   "link": "https://x.com/sama/status/2080683119959757243",
+   "time": "2026-07-24T15:54:47+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "Honored to celebrate @kaistpr’s launch of the joint AI Research Lab in Seoul, dedicated to advancing agentic AI for Korea’s industries. Together with KAIST’s leading researchers, we’re advancing frontier AI and opening new pathways for Korea’s next generation of AI talent.",
+   "link": "https://x.com/nvidia/status/2080663854447804796",
+   "time": "2026-07-24T14:38:14+00:00",
+   "rt": false
   },
   {
    "user": "nvidia",
@@ -171,13 +192,6 @@
    "text": "Already at #SIGGRAPH2026? Keep your camera handy. Check out the giveaway below for your chance to take home an NVIDIA RTX PRO 6000 Workstation Edition GPU.",
    "link": "https://x.com/nvidia/status/2079709298784088470",
    "time": "2026-07-21T23:25:10+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "The AI era runs on servers. More of those servers are built in Texas. Today, NVIDIA CEO Jensen Huang joined Wistron Chairman Simon Lin in Fort Worth to open Wistron’s first U.S. facility, producing Grace Blackwell compute boards, with Vera Rubin next.",
-   "link": "https://x.com/nvidia/status/2079699527888404973",
-   "time": "2026-07-21T22:46:21+00:00",
    "rt": false
   },
   {
