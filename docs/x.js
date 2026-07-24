@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-24T11:04:40.752889+00:00",
+ "updated": "2026-07-24T13:49:05.946335+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: For my first post, I’m sharing a letter @NVIDIA signed on why open models matter. AI will transform every industry, power every company, and be built by every country. Open models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty. The world needs both frontier closed models and frontier open models. https://images.nvidia.com/pdf/Open-We",
+   "link": "https://x.com/JensenHuang/status/2080643682408321103",
+   "time": "2026-07-24T13:18:05+00:00",
+   "rt": true
+  },
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: A warm California welcome from NVIDIA to @SKhynix.",
+   "link": "https://x.com/nvidianewsroom/status/2080499639149593034",
+   "time": "2026-07-24T03:45:42+00:00",
+   "rt": true
+  },
   {
    "user": "OpenAI",
    "text": "R to @OpenAI: You can also use ChatGPT Voice in Codex from the iOS app with paired remote access. Android support is coming soon.",
@@ -167,13 +181,6 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "nvidia",
-   "text": "R to @nvidia: Learn more about Wistron’s new Fort Worth facility and the advanced AI systems it will help produce: https://nvda.ws/4pusD8Q",
-   "link": "https://x.com/nvidia/status/2079699529943699613",
-   "time": "2026-07-21T22:46:21+00:00",
-   "rt": false
-  },
-  {
    "user": "sama",
    "text": "we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this. https://openai.com/index/hugging-face-model-evaluation-security-incident/",
    "link": "https://x.com/sama/status/2079661132302995790",
@@ -209,16 +216,16 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "nvidia",
-   "text": "NVIDIA Spectrum-6, a 102.4-terabit-per-second Ethernet switch built for the Vera Rubin platform, is now arriving across the world's gigascale AI factories. @CoreWeave, @Microsoft, @NebiusAI @SpaceXAI and @Tesla are among the first to bring in Spectrum-6 to accelerate their AI factories. Read the Blog: https://nvda.ws/44AO2nn",
-   "link": "https://x.com/nvidia/status/2079633231629144565",
-   "time": "2026-07-21T18:22:54+00:00",
+   "user": "GoogleDeepMind",
+   "text": "Gemini 3.6 Flash builds directly on feedback from 3.5 Flash. Watch how it compares on quality and token usage ↓",
+   "link": "https://x.com/GoogleDeepMind/status/2079615466356580535",
+   "time": "2026-07-21T17:12:19+00:00",
    "rt": false
   },
   {
    "user": "GoogleDeepMind",
-   "text": "Gemini 3.6 Flash builds directly on feedback from 3.5 Flash. Watch how it compares on quality and token usage ↓",
-   "link": "https://x.com/GoogleDeepMind/status/2079615466356580535",
+   "text": "R to @GoogleDeepMind: It’s much better at writing production-ready code faster without getting stuck in loops. Plus, it excels at multimodal tasks like analyzing charts, understanding documents, and report drafting. 3.6 Flash is rolling out in the @GeminiApp and developers can start building in @Antigravity, with API access in @GoogleAIStudio and @AndroidStudio. Find out more → https://goo.gle/4yy",
+   "link": "https://x.com/GoogleDeepMind/status/2079615468294320365",
    "time": "2026-07-21T17:12:19+00:00",
    "rt": false
   },
@@ -228,13 +235,6 @@ window.RADAR_X = {
    "link": "https://x.com/karpathy/status/2079610838143623371",
    "time": "2026-07-21T16:53:55+00:00",
    "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "RT by @GoogleDeepMind: Fascinating application of @GoogleDeepMind's AlphaFold in protein engineering! 🧬 As we approach 5 years since the AlphaFold Database was launched, it’s great to see it being used to fill in structural blind spots. While still early, it’s a brilliant example of how open access to AI-predicted structures is empowering experimental biologists to target complex health challenges",
-   "link": "https://x.com/pushmeet/status/2079527699157008775",
-   "time": "2026-07-21T11:23:33+00:00",
-   "rt": true
   }
  ]
 };
