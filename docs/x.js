@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-23T22:06:08.224812+00:00",
+ "updated": "2026-07-24T02:49:24.477480+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -95,6 +95,13 @@ window.RADAR_X = {
    "link": "https://x.com/GoogleDeepMind/status/2080321516814647630",
    "time": "2026-07-23T15:57:54+00:00",
    "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: already in bed. couldn’t remember if my laptop was plugged in. asked codex. good night",
+   "link": "https://x.com/coreyching/status/2080179310204461545",
+   "time": "2026-07-23T06:32:50+00:00",
+   "rt": true
   },
   {
    "user": "nvidia",
