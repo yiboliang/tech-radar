@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T10:35:37.297014+00:00",
+ "updated": "2026-07-25T13:38:33.359352+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -213,13 +213,6 @@
    "text": "We’re expanding our work with the US Dept. of @ENERGY on the Genesis Mission – an initiative to double the pace of scientific discovery within a decade. 🧪 By committing $40M in AI tokens and @GoogleCloud credits, more lab researchers will gain access to Gemini and other AI models. → https://goo.gle/4yGqKKD",
    "link": "https://x.com/GoogleDeepMind/status/2079925576077324552",
    "time": "2026-07-22T13:44:35+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "New for enterprises: OpenAI Presence helps companies deploy trusted voice and chat agents across customer and internal workflows. AI agents can answer questions, use company systems, take approved actions, and escalate to people when needed—while improving over time. OpenAI Presence is available to eligible enterprise customers through a limited general availability program. https://openai.com/ind",
-   "link": "https://x.com/OpenAI/status/2079916436232036614",
-   "time": "2026-07-22T13:08:16+00:00",
    "rt": false
   }
  ]
