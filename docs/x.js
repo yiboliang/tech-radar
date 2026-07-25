@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-25T19:09:58.012674+00:00",
+ "updated": "2026-07-25T21:58:27.849964+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -200,13 +200,6 @@ window.RADAR_X = {
    "link": "https://x.com/coreyching/status/2080179310204461545",
    "time": "2026-07-23T06:32:50+00:00",
    "rt": true
-  },
-  {
-   "user": "dylan522p",
-   "text": "Coincidentally AMD has a product named Verano. Competing with Nvidia's Vera CPU. The pun, Vera No writes itself. It's attached to MI500. It is on 2nm, and generally has more cores, memory. We described it back here in February. https://newsletter.semianalysis.com/p/cpus-are-back-the-datacenter-cpu",
-   "link": "https://x.com/dylan522p/status/2080026098096853215",
-   "time": "2026-07-22T20:24:01+00:00",
-   "rt": false
   }
  ]
 };
