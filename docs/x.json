@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T22:06:34.451500+00:00",
+ "updated": "2026-07-25T02:48:48.664580+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,34 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "This is the Golden Age of Korea. NVIDIA is proud to partner with leaders across government, industry, and global technology to advance the K-AI vision — across chips, frontier AI, physical AI and robotics, and AI factories. Together, we’re building AI infrastructure for Korea and the world.",
+   "link": "https://x.com/nvidia/status/2080833379197477226",
+   "time": "2026-07-25T01:51:52+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @huggingface: We recognize there are a lot of questions and speculative details circulating related to the Hugging Face incident. This is an unprecedented incident, and we think it marks an important moment for AI safety. We are still conducting a thorough review along with external advisors and with oversight from our Safety and Security Committee. Once the review is complete, we plan to pub",
+   "link": "https://x.com/OpenAI/status/2080815626113954288",
+   "time": "2026-07-25T00:41:19+00:00",
+   "rt": false
+  },
+  {
+   "user": "dylan522p",
+   "text": "Many don't know this but the collapse of the Bronze Age is what led humans to developing test-time compute, also known as an internal monologue. When civilization collapsed, writing systems disappeared across much of the eastern Mediterranean. Trade networks broke. Specialized bureaucracies vanished. Knowledge could no longer be offloaded to institutions. Humans increasingly had to simulate, plan,",
+   "link": "https://x.com/dylan522p/status/2080797997546590564",
+   "time": "2026-07-24T23:31:16+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "Korea has long been a technology leader, with the talent, industrial strength, and drive to help shape the AI era. President Lee Jae Myung met with our CEO @JensenHuang today ahead of the San Francisco AI Summit to discuss deepening the partnership behind Korea’s national AI ambitions.",
+   "link": "https://x.com/nvidia/status/2080788131062641095",
+   "time": "2026-07-24T22:52:04+00:00",
+   "rt": false
+  },
   {
    "user": "dylan522p",
    "text": "Impressive that Huawei shipped this first after Nvidia / Groq and AMD / Cerebras announcements.",
@@ -77,7 +105,7 @@
   },
   {
    "user": "OpenAI",
-   "text": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running in ChatGPT Work or Codex, using just your voice. It's powered by GPT-Live, so it can speak, listen, and coordinate work in the app at the same time. Rolling out globally today on macOS and Windows to Plus, Pro, Business, Edu, and Enterprise plans.",
+   "text": "Pinned: ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running in ChatGPT Work or Codex, using just your voice. It's powered by GPT-Live, so it can speak, listen, and coordinate work in the app at the same time. Rolling out globally today on macOS and Windows to Plus, Pro, Business, Edu, and Enterprise plans.",
    "link": "https://x.com/OpenAI/status/2080378182469857576",
    "time": "2026-07-23T19:43:04+00:00",
    "rt": false
@@ -199,20 +227,6 @@
    "text": "This is a public cry to not waste the silicon and have better AI infra Rivos, DSF, Grand Teton, Ariel and the cut-down MI450X were defensible on some narrow metric that a group inside Meta Infrastructure was optimizing for, but each was a poor decision for the company as a whole.",
    "link": "https://x.com/dylan522p/status/2079764693640790176",
    "time": "2026-07-22T03:05:17+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Missed the NVIDIA keynote at #SIGGRAPH2026? Catch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders Neil Ashton, Edward Liu and Ming-Yu Liu. Watch on demand 🎥 https://vist.ly/5b2ct",
-   "link": "https://x.com/nvidia/status/2079715060197310935",
-   "time": "2026-07-21T23:48:04+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Already at #SIGGRAPH2026? Keep your camera handy. Check out the giveaway below for your chance to take home an NVIDIA RTX PRO 6000 Workstation Edition GPU.",
-   "link": "https://x.com/nvidia/status/2079709298784088470",
-   "time": "2026-07-21T23:25:10+00:00",
    "rt": false
   }
  ]
