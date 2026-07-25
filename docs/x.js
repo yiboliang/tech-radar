@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-25T13:38:33.359352+00:00",
+ "updated": "2026-07-25T16:05:48.452344+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -39,6 +39,13 @@ window.RADAR_X = {
    "link": "https://x.com/nvidia/status/2080886766958150079",
    "time": "2026-07-25T05:24:00+00:00",
    "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: stories like this should be told more",
+   "link": "https://x.com/gdb/status/2080861203010568232",
+   "time": "2026-07-25T03:42:25+00:00",
+   "rt": true
   },
   {
    "user": "nvidia",
@@ -207,13 +214,6 @@ window.RADAR_X = {
    "link": "https://x.com/claudeai/status/2079979809606664564",
    "time": "2026-07-22T17:20:05+00:00",
    "rt": true
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "We’re expanding our work with the US Dept. of @ENERGY on the Genesis Mission – an initiative to double the pace of scientific discovery within a decade. 🧪 By committing $40M in AI tokens and @GoogleCloud credits, more lab researchers will gain access to Gemini and other AI models. → https://goo.gle/4yGqKKD",
-   "link": "https://x.com/GoogleDeepMind/status/2079925576077324552",
-   "time": "2026-07-22T13:44:35+00:00",
-   "rt": false
   }
  ]
 };
