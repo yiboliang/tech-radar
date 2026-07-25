@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-25T02:48:48.664580+00:00",
+ "updated": "2026-07-25T05:44:43.238686+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,34 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "R to @official_naver: Read the announcement 👇 https://nvda.ws/4hqgRdG",
+   "link": "https://x.com/nvidia/status/2080887170399617041",
+   "time": "2026-07-25T05:25:37+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "To compete in the intelligence era, nations need AI factory infrastructure. Together, @official_naver, NVIDIA, and @Brookfield are expanding Korea’s national AI factory buildout to fuel Korea’s startups and industries at gigawatt-scale. NAVER is deploying the NVIDIA DSX platform to deliver full-stack, lowest-cost AI factory infrastructure.",
+   "link": "https://x.com/nvidia/status/2080887168793190587",
+   "time": "2026-07-25T05:25:36+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "SK Group and NVIDIA today announced a $500 billion-plus initiative spanning AI factories and next-generation memory. ➡️ @SKtelecom is building a 2-gigawatt NVIDIA Vera Rubin DSX AI Factory in Korea to serve global compute demand. ➡️ @SKhynix and NVIDIA will codevelop next-generation AI memory, including HBM. Korea is ready to become a global AI powerhouse with world-class networks and data centers",
+   "link": "https://x.com/nvidia/status/2080886765146321314",
+   "time": "2026-07-25T05:24:00+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Read More 🔗https://nvda.ws/4vNNJ3C",
+   "link": "https://x.com/nvidia/status/2080886766958150079",
+   "time": "2026-07-25T05:24:00+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "This is the Golden Age of Korea. NVIDIA is proud to partner with leaders across government, industry, and global technology to advance the K-AI vision — across chips, frontier AI, physical AI and robotics, and AI factories. Together, we’re building AI infrastructure for Korea and the world.",
@@ -83,13 +111,6 @@
    "rt": false
   },
   {
-   "user": "nvidia",
-   "text": "RT by @nvidia: A warm California welcome from NVIDIA to @SKhynix.",
-   "link": "https://x.com/nvidianewsroom/status/2080499639149593034",
-   "time": "2026-07-24T03:45:42+00:00",
-   "rt": true
-  },
-  {
    "user": "OpenAI",
    "text": "R to @OpenAI: You can also use ChatGPT Voice in Codex from the iOS app with paired remote access. Android support is coming soon.",
    "link": "https://x.com/OpenAI/status/2080392280549253392",
@@ -146,20 +167,6 @@
    "rt": false
   },
   {
-   "user": "nvidia",
-   "text": "R to @NPS_Monterey: Read the event recap ➡️ https://nvda.ws/4wgPzez",
-   "link": "https://x.com/nvidia/status/2080326299826962474",
-   "time": "2026-07-23T16:16:55+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "What a moment for @NPS_Monterey and the public sector. At Converge @ NPS, our CEO Jensen Huang joined federal leaders and ecosystem partners to commission the #NVIDIADGX GB300 system, providing 1,500 students and 600 faculty with on-premises access to large-scale AI computing for research, model training, simulations, and real-world application development. The visit marked a shared commitment to ",
-   "link": "https://x.com/nvidia/status/2080326297260072992",
-   "time": "2026-07-23T16:16:54+00:00",
-   "rt": false
-  },
-  {
    "user": "GoogleDeepMind",
    "text": "R to @GoogleDeepMind: To ensure this model is deployed responsibly, we’re starting with a limited-access pilot for governments and trusted partners. → https://goo.gle/3T67Ts9",
    "link": "https://x.com/GoogleDeepMind/status/2080321522040807769",
@@ -188,13 +195,6 @@
    "rt": true
   },
   {
-   "user": "nvidia",
-   "text": "Personalized fan experiences don't have to end at the game. Check out how @LiveX_ai is using NVIDIA AI to blend real-time interaction, customization, and commerce.",
-   "link": "https://x.com/nvidia/status/2080078677426241940",
-   "time": "2026-07-22T23:52:57+00:00",
-   "rt": false
-  },
-  {
    "user": "dylan522p",
    "text": "Coincidentally AMD has a product named Verano. Competing with Nvidia's Vera CPU. The pun, Vera No writes itself. It's attached to MI500. It is on 2nm, and generally has more cores, memory. We described it back here in February. https://newsletter.semianalysis.com/p/cpus-are-back-the-datacenter-cpu",
    "link": "https://x.com/dylan522p/status/2080026098096853215",
@@ -220,13 +220,6 @@
    "text": "New for enterprises: OpenAI Presence helps companies deploy trusted voice and chat agents across customer and internal workflows. AI agents can answer questions, use company systems, take approved actions, and escalate to people when needed—while improving over time. OpenAI Presence is available to eligible enterprise customers through a limited general availability program. https://openai.com/ind",
    "link": "https://x.com/OpenAI/status/2079916436232036614",
    "time": "2026-07-22T13:08:16+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "This is a public cry to not waste the silicon and have better AI infra Rivos, DSF, Grand Teton, Ariel and the cut-down MI450X were defensible on some narrow metric that a group inside Meta Infrastructure was optimizing for, but each was a poor decision for the company as a whole.",
-   "link": "https://x.com/dylan522p/status/2079764693640790176",
-   "time": "2026-07-22T03:05:17+00:00",
    "rt": false
   }
  ]
