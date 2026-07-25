@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-25T16:05:48.452344+00:00",
+ "updated": "2026-07-25T19:09:58.012674+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: Image",
+   "link": "https://x.com/DennysDiner/status/2081069889931112816",
+   "time": "2026-07-25T17:31:40+00:00",
+   "rt": true
+  },
   {
    "user": "nvidia",
    "text": "R to @official_naver: Read the announcement 👇 https://nvda.ws/4hqgRdG",
@@ -111,13 +118,6 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "nvidia",
-   "text": "Honored to celebrate @kaistpr’s launch of the joint AI Research Lab in Seoul, dedicated to advancing agentic AI for Korea’s industries. Together with KAIST’s leading researchers, we’re advancing frontier AI and opening new pathways for Korea’s next generation of AI talent.",
-   "link": "https://x.com/nvidia/status/2080663854447804796",
-   "time": "2026-07-24T14:38:14+00:00",
-   "rt": false
-  },
-  {
    "user": "OpenAI",
    "text": "R to @OpenAI: You can also use ChatGPT Voice in Codex from the iOS app with paired remote access. Android support is coming soon.",
    "link": "https://x.com/OpenAI/status/2080392280549253392",
@@ -207,13 +207,6 @@ window.RADAR_X = {
    "link": "https://x.com/dylan522p/status/2080026098096853215",
    "time": "2026-07-22T20:24:01+00:00",
    "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "RT by @AnthropicAI: You can now ask Claude about the Anthropic Economic Index, our public dataset measuring how AI is used across the economy. Ask which occupations use AI the most, or what kinds of tasks people are automating, and the answers draw directly from the Index data.",
-   "link": "https://x.com/claudeai/status/2079979809606664564",
-   "time": "2026-07-22T17:20:05+00:00",
-   "rt": true
   }
  ]
 };
