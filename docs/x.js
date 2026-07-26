@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-26T19:14:22.165818+00:00",
+ "updated": "2026-07-26T22:01:35.199289+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -83,24 +83,10 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "dylan522p",
-   "text": "Many don't know this but the collapse of the Bronze Age is what led humans to developing test-time compute, also known as an internal monologue. When civilization collapsed, writing systems disappeared across much of the eastern Mediterranean. Trade networks broke. Specialized bureaucracies vanished. Knowledge could no longer be offloaded to institutions. Humans increasingly had to simulate, plan,",
-   "link": "https://x.com/dylan522p/status/2080797997546590564",
-   "time": "2026-07-24T23:31:16+00:00",
-   "rt": false
-  },
-  {
    "user": "nvidia",
    "text": "Korea has long been a technology leader, with the talent, industrial strength, and drive to help shape the AI era. President Lee Jae Myung met with our CEO @JensenHuang today ahead of the San Francisco AI Summit to discuss deepening the partnership behind Korea’s national AI ambitions.",
    "link": "https://x.com/nvidia/status/2080788131062641095",
    "time": "2026-07-24T22:52:04+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "Impressive that Huawei shipped this first after Nvidia / Groq and AMD / Cerebras announcements.",
-   "link": "https://x.com/dylan522p/status/2080703926782021665",
-   "time": "2026-07-24T17:17:28+00:00",
    "rt": false
   },
   {
@@ -122,27 +108,6 @@ window.RADAR_X = {
    "text": "let us know what you think of pro-ultra-superhard",
    "link": "https://x.com/sama/status/2080683119959757243",
    "time": "2026-07-24T15:54:47+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: You can also use ChatGPT Voice in Codex from the iOS app with paired remote access. Android support is coming soon.",
-   "link": "https://x.com/OpenAI/status/2080392280549253392",
-   "time": "2026-07-23T20:39:06+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "RT by @sama: ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running in ChatGPT Work or Codex, using just your voice. It's powered by GPT-Live, so it can speak, listen, and coordinate work in the app at the same time. Rolling out globally today on macOS and Windows to Plus, Pro, Business, Edu, and Enterprise plans.",
-   "link": "https://x.com/OpenAI/status/2080378182469857576",
-   "time": "2026-07-23T19:43:04+00:00",
-   "rt": true
-  },
-  {
-   "user": "OpenAI",
-   "text": "Pinned: ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running in ChatGPT Work or Codex, using just your voice. It's powered by GPT-Live, so it can speak, listen, and coordinate work in the app at the same time. Rolling out globally today on macOS and Windows to Plus, Pro, Business, Edu, and Enterprise plans.",
-   "link": "https://x.com/OpenAI/status/2080378182469857576",
-   "time": "2026-07-23T19:43:04+00:00",
    "rt": false
   }
  ]
