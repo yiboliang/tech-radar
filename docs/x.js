@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-25T21:58:27.849964+00:00",
+ "updated": "2026-07-26T02:57:39.089005+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "\"When I left this morning, I was just Jensen. Next time I come back, call me K-Jensen.” Korea isn't just an NVIDIA partner anymore. It's where the next wave of AI gets built and SNU is at the center of it. Introducing the NVIDIA AI Technology Center at @SeoulNatlUni. NVIDIA ❤️ SNU — let's build. 🇰🇷",
+   "link": "https://x.com/nvidia/status/2081142850994229468",
+   "time": "2026-07-25T22:21:36+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "RT by @nvidia: Image",
@@ -95,13 +102,6 @@ window.RADAR_X = {
    "link": "https://x.com/claudeai/status/2080699495453528290",
    "time": "2026-07-24T16:59:51+00:00",
    "rt": true
-  },
-  {
-   "user": "nvidia",
-   "text": "Pinned: Welcome @jensenhuang 💚 The future of AI leadership needs both frontier closed models and frontier open models.",
-   "link": "https://x.com/nvidia/status/2080686579400765517",
-   "time": "2026-07-24T16:08:32+00:00",
-   "rt": false
   },
   {
    "user": "sama",
