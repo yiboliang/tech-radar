@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-26T06:12:15.428625+00:00",
+ "updated": "2026-07-26T10:46:00.687633+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -13,48 +13,6 @@ window.RADAR_X = {
  ],
  "items": [
   {
-   "user": "nvidia",
-   "text": "\"When I left this morning, I was just Jensen. Next time I come back, call me K-Jensen.” Korea isn't just an NVIDIA partner anymore. It's where the next wave of AI gets built and SNU is at the center of it. Introducing the NVIDIA AI Technology Center at @SeoulNatlUni. NVIDIA ❤️ SNU — let's build. 🇰🇷",
-   "link": "https://x.com/nvidia/status/2081142850994229468",
-   "time": "2026-07-25T22:21:36+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "RT by @nvidia: Image",
-   "link": "https://x.com/DennysDiner/status/2081069889931112816",
-   "time": "2026-07-25T17:31:40+00:00",
-   "rt": true
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @official_naver: Read the announcement 👇 https://nvda.ws/4hqgRdG",
-   "link": "https://x.com/nvidia/status/2080887170399617041",
-   "time": "2026-07-25T05:25:37+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "To compete in the intelligence era, nations need AI factory infrastructure. Together, @official_naver, NVIDIA, and @Brookfield are expanding Korea’s national AI factory buildout to fuel Korea’s startups and industries at gigawatt-scale. NAVER is deploying the NVIDIA DSX platform to deliver full-stack, lowest-cost AI factory infrastructure.",
-   "link": "https://x.com/nvidia/status/2080887168793190587",
-   "time": "2026-07-25T05:25:36+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "SK Group and NVIDIA today announced a $500 billion-plus initiative spanning AI factories and next-generation memory. ➡️ @SKtelecom is building a 2-gigawatt NVIDIA Vera Rubin DSX AI Factory in Korea to serve global compute demand. ➡️ @SKhynix and NVIDIA will codevelop next-generation AI memory, including HBM. Korea is ready to become a global AI powerhouse with world-class networks and data centers",
-   "link": "https://x.com/nvidia/status/2080886765146321314",
-   "time": "2026-07-25T05:24:00+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Read More 🔗https://nvda.ws/4vNNJ3C",
-   "link": "https://x.com/nvidia/status/2080886766958150079",
-   "time": "2026-07-25T05:24:00+00:00",
-   "rt": false
-  },
-  {
    "user": "sama",
    "text": "RT by @sama: stories like this should be told more",
    "link": "https://x.com/gdb/status/2080861203010568232",
@@ -62,38 +20,10 @@ window.RADAR_X = {
    "rt": true
   },
   {
-   "user": "nvidia",
-   "text": "This is the Golden Age of Korea. NVIDIA is proud to partner with leaders across government, industry, and global technology to advance the K-AI vision — across chips, frontier AI, physical AI and robotics, and AI factories. Together, we’re building AI infrastructure for Korea and the world.",
-   "link": "https://x.com/nvidia/status/2080833379197477226",
-   "time": "2026-07-25T01:51:52+00:00",
-   "rt": false
-  },
-  {
    "user": "OpenAI",
    "text": "R to @huggingface: We recognize there are a lot of questions and speculative details circulating related to the Hugging Face incident. This is an unprecedented incident, and we think it marks an important moment for AI safety. We are still conducting a thorough review along with external advisors and with oversight from our Safety and Security Committee. Once the review is complete, we plan to pub",
    "link": "https://x.com/OpenAI/status/2080815626113954288",
    "time": "2026-07-25T00:41:19+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "Many don't know this but the collapse of the Bronze Age is what led humans to developing test-time compute, also known as an internal monologue. When civilization collapsed, writing systems disappeared across much of the eastern Mediterranean. Trade networks broke. Specialized bureaucracies vanished. Knowledge could no longer be offloaded to institutions. Humans increasingly had to simulate, plan,",
-   "link": "https://x.com/dylan522p/status/2080797997546590564",
-   "time": "2026-07-24T23:31:16+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Korea has long been a technology leader, with the talent, industrial strength, and drive to help shape the AI era. President Lee Jae Myung met with our CEO @JensenHuang today ahead of the San Francisco AI Summit to discuss deepening the partnership behind Korea’s national AI ambitions.",
-   "link": "https://x.com/nvidia/status/2080788131062641095",
-   "time": "2026-07-24T22:52:04+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "Impressive that Huawei shipped this first after Nvidia / Groq and AMD / Cerebras announcements.",
-   "link": "https://x.com/dylan522p/status/2080703926782021665",
-   "time": "2026-07-24T17:17:28+00:00",
    "rt": false
   },
   {
@@ -193,13 +123,6 @@ window.RADAR_X = {
    "link": "https://x.com/GoogleDeepMind/status/2080321516814647630",
    "time": "2026-07-23T15:57:54+00:00",
    "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "RT by @sama: already in bed. couldn’t remember if my laptop was plugged in. asked codex. good night",
-   "link": "https://x.com/coreyching/status/2080179310204461545",
-   "time": "2026-07-23T06:32:50+00:00",
-   "rt": true
   }
  ]
 };
