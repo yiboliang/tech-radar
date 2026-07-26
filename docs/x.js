@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-26T13:27:00.574320+00:00",
+ "updated": "2026-07-26T16:02:53.623403+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "chatgpt work is remarkable, and \"work\" undersells it. from my phone i sent: \"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in each place and decide where to go, and then after we get to group agreement make reservations. draft an email in my gmail i",
+   "link": "https://x.com/sama/status/2081396796174282900",
+   "time": "2026-07-26T15:10:41+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "\"When I left this morning, I was just Jensen. Next time I come back, call me K-Jensen.” Korea isn't just an NVIDIA partner anymore. It's where the next wave of AI gets built and SNU is at the center of it. Introducing the NVIDIA AI Technology Center at @SeoulNatlUni. NVIDIA ❤️ SNU — let's build. 🇰🇷",
@@ -171,27 +178,6 @@ window.RADAR_X = {
    "text": "R to @OpenAI: We built this experience based on feedback from early testers and physicians. With your permission, ChatGPT can use relevant context you’ve connected in Health across your conversations — to help you compare a new result with prior tests, summarize changes since your last appointment, or explore how your sleep and activity relate. Connected medical records and Apple Health informatio",
    "link": "https://x.com/OpenAI/status/2080339983962181983",
    "time": "2026-07-23T17:11:17+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: To ensure this model is deployed responsibly, we’re starting with a limited-access pilot for governments and trusted partners. → https://goo.gle/3T67Ts9",
-   "link": "https://x.com/GoogleDeepMind/status/2080321522040807769",
-   "time": "2026-07-23T15:57:56+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: By combining speed and efficiency, 3.5 Flash Cyber lets defense specialists check significantly more code paths. In testing on our own codebases – including @googlechrome and @Android – it consistently caught complex, unique vulnerabilities that standard models missed.",
-   "link": "https://x.com/GoogleDeepMind/status/2080321519952056441",
-   "time": "2026-07-23T15:57:55+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "Gemini 3.5 Flash Cyber is our specialized, lightweight model built to help security teams spot and patch vulnerabilities before they can be exploited. 🧵",
-   "link": "https://x.com/GoogleDeepMind/status/2080321516814647630",
-   "time": "2026-07-23T15:57:54+00:00",
    "rt": false
   }
  ]
