@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T14:39:31.122526+00:00",
+ "updated": "2026-07-27T16:59:26.138994+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -116,20 +116,6 @@
    "link": "https://x.com/claudeai/status/2080699495453528290",
    "time": "2026-07-24T16:59:51+00:00",
    "rt": true
-  },
-  {
-   "user": "sama",
-   "text": "i want the US to win in AI both in open source and proprietary models, and i am glad to see this",
-   "link": "https://x.com/sama/status/2080683363174945065",
-   "time": "2026-07-24T15:55:45+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "let us know what you think of pro-ultra-superhard",
-   "link": "https://x.com/sama/status/2080683119959757243",
-   "time": "2026-07-24T15:54:47+00:00",
-   "rt": false
   }
  ]
 }
