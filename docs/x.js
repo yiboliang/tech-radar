@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-27T09:55:50.149703+00:00",
+ "updated": "2026-07-27T14:39:31.122526+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Korea’s AI moment came to San Francisco last week 🇰🇷 President Lee Jae Myung joined @JensenHuang and some of the biggest names in technology, industry and research to accelerate Korea’s full-stack AI ambitions.",
+   "link": "https://x.com/nvidia/status/2081730105454322151",
+   "time": "2026-07-27T13:15:08+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @JensenHuang: Catch up on the announcements shaping Korea's future: https://nvda.ws/4x2P6fN",
+   "link": "https://x.com/nvidia/status/2081730107060744553",
+   "time": "2026-07-27T13:15:08+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "Pinned: AI security advances when the industry builds in the open, together. We're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents. By sharing models, tooling and research in the open, we can broaden the community of defenders. Learn more about the founding members’ contributions: https://nvda.ws/4pD8Fc5",
@@ -69,25 +83,11 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "nvidia",
-   "text": "R to @nvidia: Read More 🔗https://nvda.ws/4vNNJ3C",
-   "link": "https://x.com/nvidia/status/2080886766958150079",
-   "time": "2026-07-25T05:24:00+00:00",
-   "rt": false
-  },
-  {
    "user": "sama",
    "text": "RT by @sama: stories like this should be told more",
    "link": "https://x.com/gdb/status/2080861203010568232",
    "time": "2026-07-25T03:42:25+00:00",
    "rt": true
-  },
-  {
-   "user": "nvidia",
-   "text": "This is the Golden Age of Korea. NVIDIA is proud to partner with leaders across government, industry, and global technology to advance the K-AI vision — across chips, frontier AI, physical AI and robotics, and AI factories. Together, we’re building AI infrastructure for Korea and the world.",
-   "link": "https://x.com/nvidia/status/2080833379197477226",
-   "time": "2026-07-25T01:51:52+00:00",
-   "rt": false
   },
   {
    "user": "OpenAI",
