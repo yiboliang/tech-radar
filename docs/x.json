@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T22:01:35.199289+00:00",
+ "updated": "2026-07-27T03:22:47.411296+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "agreed feels big, i want a new kind of computer",
+   "link": "https://x.com/sama/status/2081513071135346814",
+   "time": "2026-07-26T22:52:43+00:00",
+   "rt": false
+  },
   {
    "user": "sama",
    "text": "chatgpt work is remarkable, and \"work\" undersells it. from my phone i sent: \"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in each place and decide where to go, and then after we get to group agreement make reservations. draft an email in my gmail i",
@@ -83,10 +90,24 @@
    "rt": false
   },
   {
+   "user": "dylan522p",
+   "text": "Many don't know this but the collapse of the Bronze Age is what led humans to developing test-time compute, also known as an internal monologue. When civilization collapsed, writing systems disappeared across much of the eastern Mediterranean. Trade networks broke. Specialized bureaucracies vanished. Knowledge could no longer be offloaded to institutions. Humans increasingly had to simulate, plan,",
+   "link": "https://x.com/dylan522p/status/2080797997546590564",
+   "time": "2026-07-24T23:31:16+00:00",
+   "rt": false
+  },
+  {
    "user": "nvidia",
    "text": "Korea has long been a technology leader, with the talent, industrial strength, and drive to help shape the AI era. President Lee Jae Myung met with our CEO @JensenHuang today ahead of the San Francisco AI Summit to discuss deepening the partnership behind Korea’s national AI ambitions.",
    "link": "https://x.com/nvidia/status/2080788131062641095",
    "time": "2026-07-24T22:52:04+00:00",
+   "rt": false
+  },
+  {
+   "user": "dylan522p",
+   "text": "Impressive that Huawei shipped this first after Nvidia / Groq and AMD / Cerebras announcements.",
+   "link": "https://x.com/dylan522p/status/2080703926782021665",
+   "time": "2026-07-24T17:17:28+00:00",
    "rt": false
   },
   {
