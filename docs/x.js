@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-27T16:59:26.138994+00:00",
+ "updated": "2026-07-27T19:36:47.025896+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "GPT-Live in ChatGPT Voice is now available to Edu, Business, and Enterprise plans globally.",
+   "link": "https://x.com/OpenAI/status/2081794871795589485",
+   "time": "2026-07-27T17:32:29+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "Korea’s AI moment came to San Francisco last week 🇰🇷 President Lee Jae Myung joined @JensenHuang and some of the biggest names in technology, industry and research to accelerate Korea’s full-stack AI ambitions.",
@@ -102,20 +109,6 @@ window.RADAR_X = {
    "link": "https://x.com/dylan522p/status/2080797997546590564",
    "time": "2026-07-24T23:31:16+00:00",
    "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "Impressive that Huawei shipped this first after Nvidia / Groq and AMD / Cerebras announcements.",
-   "link": "https://x.com/dylan522p/status/2080703926782021665",
-   "time": "2026-07-24T17:17:28+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "RT by @AnthropicAI: Introducing Claude Opus 5. It's a thoughtful and proactive model that comes close to the frontier intelligence of Fable 5 at half the price.",
-   "link": "https://x.com/claudeai/status/2080699495453528290",
-   "time": "2026-07-24T16:59:51+00:00",
-   "rt": true
   }
  ]
 };
