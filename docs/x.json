@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T03:22:47.411296+00:00",
+ "updated": "2026-07-27T09:55:50.149703+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Pinned: AI security advances when the industry builds in the open, together. We're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents. By sharing models, tooling and research in the open, we can broaden the community of defenders. Learn more about the founding members’ contributions: https://nvda.ws/4pD8Fc5",
+   "link": "https://x.com/nvidia/status/2081666629264449730",
+   "time": "2026-07-27T09:02:54+00:00",
+   "rt": false
+  },
   {
    "user": "sama",
    "text": "agreed feels big, i want a new kind of computer",
@@ -94,13 +101,6 @@
    "text": "Many don't know this but the collapse of the Bronze Age is what led humans to developing test-time compute, also known as an internal monologue. When civilization collapsed, writing systems disappeared across much of the eastern Mediterranean. Trade networks broke. Specialized bureaucracies vanished. Knowledge could no longer be offloaded to institutions. Humans increasingly had to simulate, plan,",
    "link": "https://x.com/dylan522p/status/2080797997546590564",
    "time": "2026-07-24T23:31:16+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Korea has long been a technology leader, with the talent, industrial strength, and drive to help shape the AI era. President Lee Jae Myung met with our CEO @JensenHuang today ahead of the San Francisco AI Summit to discuss deepening the partnership behind Korea’s national AI ambitions.",
-   "link": "https://x.com/nvidia/status/2080788131062641095",
-   "time": "2026-07-24T22:52:04+00:00",
    "rt": false
   },
   {
