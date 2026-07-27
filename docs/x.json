@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T19:36:47.025896+00:00",
+ "updated": "2026-07-27T22:10:14.469236+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,27 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: openai.com/index/how-ai-is-e…",
+   "link": "https://x.com/OpenAI/status/2081833351678406878",
+   "time": "2026-07-27T20:05:24+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "At a small business, the person closest to a problem is often the one who has to solve it—even when it falls outside their job description. We studied how AI is becoming powerful generalist tool for small teams, helping them work across functions.",
+   "link": "https://x.com/OpenAI/status/2081833350323720219",
+   "time": "2026-07-27T20:05:23+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "wrong",
+   "link": "https://x.com/sama/status/2081832600591892712",
+   "time": "2026-07-27T20:02:25+00:00",
+   "rt": false
+  },
   {
    "user": "OpenAI",
    "text": "GPT-Live in ChatGPT Voice is now available to Edu, Business, and Enterprise plans globally.",
