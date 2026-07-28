@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T22:10:14.469236+00:00",
+ "updated": "2026-07-28T02:41:20.581147+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,27 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Translation queues and custom integrations can slow global launches. Our Digital Marketing team built an AI-powered localization platform with NVIDIA Nemotron Speech to change that. See the results ↓ https://nvda.ws/4wYUS22",
+   "link": "https://x.com/nvidia/status/2081884835715404071",
+   "time": "2026-07-27T23:29:59+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "RT by @OpenAI: Last week, we made ChatGPT Work available to enterprises. It's an awesome product. So for ChatGPT Enterprise customers, enroll by August 21, and each teammate who tries Work for the first time within two weeks gets up to $200 in credits, valid for 14 days. Already a customer? Ask your account team. New to Enterprise? Get in touch. https://openai.com/contact-sales/",
+   "link": "https://x.com/gdb/status/2081877298538746165",
+   "time": "2026-07-27T23:00:02+00:00",
+   "rt": true
+  },
+  {
+   "user": "AnthropicAI",
+   "text": "There’s been a lot of speculation about where we stand on open-weights models. We’ve outlined our views in full here: https://www.anthropic.com/news/position-open-weights-models",
+   "link": "https://x.com/AnthropicAI/status/2081864750296658008",
+   "time": "2026-07-27T22:10:10+00:00",
+   "rt": false
+  },
   {
    "user": "OpenAI",
    "text": "R to @OpenAI: openai.com/index/how-ai-is-e…",
@@ -104,32 +125,11 @@
    "rt": false
   },
   {
-   "user": "nvidia",
-   "text": "SK Group and NVIDIA today announced a $500 billion-plus initiative spanning AI factories and next-generation memory. ➡️ @SKtelecom is building a 2-gigawatt NVIDIA Vera Rubin DSX AI Factory in Korea to serve global compute demand. ➡️ @SKhynix and NVIDIA will codevelop next-generation AI memory, including HBM. Korea is ready to become a global AI powerhouse with world-class networks and data centers",
-   "link": "https://x.com/nvidia/status/2080886765146321314",
-   "time": "2026-07-25T05:24:00+00:00",
-   "rt": false
-  },
-  {
    "user": "sama",
    "text": "RT by @sama: stories like this should be told more",
    "link": "https://x.com/gdb/status/2080861203010568232",
    "time": "2026-07-25T03:42:25+00:00",
    "rt": true
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @huggingface: We recognize there are a lot of questions and speculative details circulating related to the Hugging Face incident. This is an unprecedented incident, and we think it marks an important moment for AI safety. We are still conducting a thorough review along with external advisors and with oversight from our Safety and Security Committee. Once the review is complete, we plan to pub",
-   "link": "https://x.com/OpenAI/status/2080815626113954288",
-   "time": "2026-07-25T00:41:19+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "Many don't know this but the collapse of the Bronze Age is what led humans to developing test-time compute, also known as an internal monologue. When civilization collapsed, writing systems disappeared across much of the eastern Mediterranean. Trade networks broke. Specialized bureaucracies vanished. Knowledge could no longer be offloaded to institutions. Humans increasingly had to simulate, plan,",
-   "link": "https://x.com/dylan522p/status/2080797997546590564",
-   "time": "2026-07-24T23:31:16+00:00",
-   "rt": false
   }
  ]
 }
