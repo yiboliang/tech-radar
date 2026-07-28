@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T19:27:39.689039+00:00",
+ "updated": "2026-07-28T22:05:46.761306+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyone. We believe that, at some point in the future, AI acceleration for frontier model development may be so high that the world will need to pace the rate of AI advancement. We hope to contribute to work led by the U.S. government, alongside other labs and the open-source community, to develop the to",
+   "link": "https://x.com/OpenAI/status/2082208694142730340",
+   "time": "2026-07-28T20:56:52+00:00",
+   "rt": false
+  },
   {
    "user": "AnthropicAI",
    "text": "R to @AnthropicAI: Full technical details of both attacks are provided in our new papers: On HAWK: https://anthropic.com/document/hawk_key_recovery.pdf On AES: https://anthropic.com/document/aes_mobius_bridge.pdf And the associated model chain-of-thought for AES: https://anthropic.com/document/aes_mobius_bridge_cot.pdf",
@@ -115,13 +122,6 @@
    "text": "wrong",
    "link": "https://x.com/sama/status/2081832600591892712",
    "time": "2026-07-27T20:02:25+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "GPT-Live in ChatGPT Voice is now available to Edu, Business, and Enterprise plans globally.",
-   "link": "https://x.com/OpenAI/status/2081794871795589485",
-   "time": "2026-07-27T17:32:29+00:00",
    "rt": false
   },
   {
