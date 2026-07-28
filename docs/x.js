@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-28T05:48:27.042035+00:00",
+ "updated": "2026-07-28T08:37:48.447127+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Translation queues and custom integrations can slow global launches. Our Digital Marketing team built an AI-powered localization platform with NVIDIA Nemotron Speech to change that. See the results ↓ https://nvda.ws/4wYUS22",
+   "link": "https://x.com/nvidia/status/2081884835715404071",
+   "time": "2026-07-27T23:29:59+00:00",
+   "rt": false
+  },
   {
    "user": "OpenAI",
    "text": "RT by @OpenAI: Last week, we made ChatGPT Work available to enterprises. It's an awesome product. So for ChatGPT Enterprise customers, enroll by August 21, and each teammate who tries Work for the first time within two weeks gets up to $200 in credits, valid for 14 days. Already a customer? Ask your account team. New to Enterprise? Get in touch. https://openai.com/contact-sales/",
@@ -55,6 +62,27 @@ window.RADAR_X = {
    "rt": false
   },
   {
+   "user": "nvidia",
+   "text": "Korea’s AI moment came to San Francisco last week 🇰🇷 President Lee Jae Myung joined @JensenHuang and some of the biggest names in technology, industry and research to accelerate Korea’s full-stack AI ambitions.",
+   "link": "https://x.com/nvidia/status/2081730105454322151",
+   "time": "2026-07-27T13:15:08+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @JensenHuang: Catch up on the announcements shaping Korea's future: https://nvda.ws/4x2P6fN",
+   "link": "https://x.com/nvidia/status/2081730107060744553",
+   "time": "2026-07-27T13:15:08+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "Pinned: AI security advances when the industry builds in the open, together. We're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents. By sharing models, tooling and research in the open, we can broaden the community of defenders. Learn more about the founding members’ contributions: https://nvda.ws/4pD8Fc5",
+   "link": "https://x.com/nvidia/status/2081666629264449730",
+   "time": "2026-07-27T09:02:54+00:00",
+   "rt": false
+  },
+  {
    "user": "sama",
    "text": "agreed feels big, i want a new kind of computer",
    "link": "https://x.com/sama/status/2081513071135346814",
@@ -67,6 +95,20 @@ window.RADAR_X = {
    "link": "https://x.com/sama/status/2081396796174282900",
    "time": "2026-07-26T15:10:41+00:00",
    "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "\"When I left this morning, I was just Jensen. Next time I come back, call me K-Jensen.” Korea isn't just an NVIDIA partner anymore. It's where the next wave of AI gets built and SNU is at the center of it. Introducing the NVIDIA AI Technology Center at @SeoulNatlUni. NVIDIA ❤️ SNU — let's build. 🇰🇷",
+   "link": "https://x.com/nvidia/status/2081142850994229468",
+   "time": "2026-07-25T22:21:36+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: Image",
+   "link": "https://x.com/DennysDiner/status/2081069889931112816",
+   "time": "2026-07-25T17:31:40+00:00",
+   "rt": true
   }
  ]
 };
