@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T14:11:41.336335+00:00",
+ "updated": "2026-07-28T16:41:44.070627+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: The Open Secure AI Alliance is growing, with more organizations contributing expertise to help safeguard software and agents. http://nvda.ws/4pD8Fc5",
+   "link": "https://x.com/nvidia/status/2082135368040886299",
+   "time": "2026-07-28T16:05:30+00:00",
+   "rt": false
+  },
   {
    "user": "dylan522p",
    "text": "I would wait in line for 8 hours to watch Shrek 2 in 70mm IMAX",
@@ -84,7 +91,7 @@
   },
   {
    "user": "nvidia",
-   "text": "Pinned: AI security advances when the industry builds in the open, together. We're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents. By sharing models, tooling and research in the open, we can broaden the community of defenders. Learn more about the founding members’ contributions: https://nvda.ws/4pD8Fc5",
+   "text": "AI security advances when the industry builds in the open, together. We're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents. By sharing models, tooling and research in the open, we can broaden the community of defenders. Learn more about the founding members’ contributions: https://nvda.ws/4pD8Fc5",
    "link": "https://x.com/nvidia/status/2081666629264449730",
    "time": "2026-07-27T09:02:54+00:00",
    "rt": false
