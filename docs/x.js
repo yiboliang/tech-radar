@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-28T16:41:44.070627+00:00",
+ "updated": "2026-07-28T19:27:39.689039+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,55 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "AnthropicAI",
+   "text": "R to @AnthropicAI: Full technical details of both attacks are provided in our new papers: On HAWK: https://anthropic.com/document/hawk_key_recovery.pdf On AES: https://anthropic.com/document/aes_mobius_bridge.pdf And the associated model chain-of-thought for AES: https://anthropic.com/document/aes_mobius_bridge_cot.pdf",
+   "link": "https://x.com/AnthropicAI/status/2082153309553463600",
+   "time": "2026-07-28T17:16:48+00:00",
+   "rt": false
+  },
+  {
+   "user": "AnthropicAI",
+   "text": "R to @AnthropicAI: We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities. https://arxiv.org/abs/2607.18538",
+   "link": "https://x.com/AnthropicAI/status/2082153311189225927",
+   "time": "2026-07-28T17:16:48+00:00",
+   "rt": false
+  },
+  {
+   "user": "AnthropicAI",
+   "text": "New Anthropic research: Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that are used to keep data private. Read more: https://anthropic.com/research/discovering-cryptographic-weaknesses",
+   "link": "https://x.com/AnthropicAI/status/2082153297670992134",
+   "time": "2026-07-28T17:16:45+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Across eight case studies spanning industry and academia, we explore what this shift means for scientific computing—and why human verification, stewardship, and long-term maintenance matter. https://openai.com/index/scientific-computing-agentic-ai/",
+   "link": "https://x.com/OpenAI/status/2082152075778293831",
+   "time": "2026-07-28T17:11:54+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "Coding agents are helping scientists spend more time advancing research, taking on everything from routine maintenance and targeted optimization to complete redesigns and new systems. While agents can reliably execute on ambitious projects, researchers must still define the scientific questions, verify results, and take a stance on long-term ownership.",
+   "link": "https://x.com/OpenAI/status/2082152074071228702",
+   "time": "2026-07-28T17:11:53+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "We're opening applications for the OpenAI Student Collective—a program for undergraduate Campus Leads bringing AI innovation to their campuses. Campus Leads will work directly with OpenAI and receive hands-on training, funding, credits, swag, and access to a global community of peers.",
+   "link": "https://x.com/OpenAI/status/2082146058017321257",
+   "time": "2026-07-28T16:47:59+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Apply here: https://openai.com/student-collective/",
+   "link": "https://x.com/OpenAI/status/2082146059271417879",
+   "time": "2026-07-28T16:47:59+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "R to @nvidia: The Open Secure AI Alliance is growing, with more organizations contributing expertise to help safeguard software and agents. http://nvda.ws/4pD8Fc5",
@@ -116,13 +165,6 @@ window.RADAR_X = {
    "link": "https://x.com/nvidia/status/2081142850994229468",
    "time": "2026-07-25T22:21:36+00:00",
    "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "RT by @nvidia: Image",
-   "link": "https://x.com/DennysDiner/status/2081069889931112816",
-   "time": "2026-07-25T17:31:40+00:00",
-   "rt": true
   }
  ]
 };
