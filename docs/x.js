@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-28T08:37:48.447127+00:00",
+ "updated": "2026-07-28T11:19:57.594953+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "dylan522p",
+   "text": "I would wait in line for 8 hours to watch Shrek 2 in 70mm IMAX",
+   "link": "https://x.com/dylan522p/status/2081952370615812250",
+   "time": "2026-07-28T03:58:20+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "Translation queues and custom integrations can slow global launches. Our Digital Marketing team built an AI-powered localization platform with NVIDIA Nemotron Speech to change that. See the results ↓ https://nvda.ws/4wYUS22",
