@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-29T16:23:28.601560+00:00",
+ "updated": "2026-07-29T19:19:31.268121+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,48 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "GoogleDeepMind",
+   "text": "Pinned: Video",
+   "link": "https://x.com/GoogleDeepMind/status/2082541871612449180",
+   "time": "2026-07-29T19:00:48+00:00",
+   "rt": false
+  },
+  {
+   "user": "dylan522p",
+   "text": "RT by @dylan522p: on a mission to find the coolest people, companies & ideas in tech, money & culture... so naturally i had to see why @dylan522p, founder of @SemiAnalysis_, is so optimistic about AI turns out the future has more jobs and less \"permanent underclass\" than doomers think",
+   "link": "https://x.com/jaiyagill/status/2082526248287523199",
+   "time": "2026-07-29T17:58:43+00:00",
+   "rt": true
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: We believe the benefits of frontier AI should not be concentrated in a few companies and well-resourced labs. Researchers know their fields best. Our role is to put powerful tools in their hands and help accelerate their work. The program will help researchers take on the hardest problems, accelerate discovery, and improve productivity across their work, from preparing grant applicat",
+   "link": "https://x.com/OpenAI/status/2082516372656111654",
+   "time": "2026-07-29T17:19:29+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Participants will receive access to our frontier models, including our GPT-5.6 family of models. Each workspace includes business-grade privacy and security protections. Researcher data is not used to train our models by default, and participants can invite up to four collaborators. The program also includes training, hands-on support, and opportunities to learn from other researcher",
+   "link": "https://x.com/OpenAI/status/2082516374010974228",
+   "time": "2026-07-29T17:19:29+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "We’re giving scientists, mathematicians, and engineers free access to our frontier models—starting with 10,000 researchers and expanding to 100,000 through 2027. ChatGPT for Academic Researchers is built to accelerate discovery across disciplines.",
+   "link": "https://x.com/OpenAI/status/2082516370949062989",
+   "time": "2026-07-29T17:19:28+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "RT by @GoogleDeepMind: Meet Lyria 3.5, the newest music model from @GoogleDeepMind, now powering Flow Music: 🎤 Vocals: More expressive, dynamic singing 🎸 Musicality: Richer arrangements with tracks that flow naturally. 🎛️ Controls: Better at following creative directions - now featuring BPM control and exportable stems for full-length songs! Try it now at http://flowmusic.google! 🧵",
+   "link": "https://x.com/googleflowmusic/status/2082496617664413721",
+   "time": "2026-07-29T16:00:59+00:00",
+   "rt": true
+  },
   {
    "user": "dylan522p",
    "text": "Slowing down AI is a ultimately wishful thinking The genie is out of the bottle The most importan competition ever with potentially immeasurable benefits to the winner will not suddenly have people stop and sing kumbaya While many lab employees have signed, many more havent. Practically none at some labs less than 6 months behind have.",
@@ -77,30 +119,9 @@ window.RADAR_X = {
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: Across eight case studies spanning industry and academia, we explore what this shift means for scientific computing—and why human verification, stewardship, and long-term maintenance matter. https://openai.com/index/scientific-computing-agentic-ai/",
-   "link": "https://x.com/OpenAI/status/2082152075778293831",
-   "time": "2026-07-28T17:11:54+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
    "text": "Coding agents are helping scientists spend more time advancing research, taking on everything from routine maintenance and targeted optimization to complete redesigns and new systems. While agents can reliably execute on ambitious projects, researchers must still define the scientific questions, verify results, and take a stance on long-term ownership.",
    "link": "https://x.com/OpenAI/status/2082152074071228702",
    "time": "2026-07-28T17:11:53+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "We're opening applications for the OpenAI Student Collective—a program for undergraduate Campus Leads bringing AI innovation to their campuses. Campus Leads will work directly with OpenAI and receive hands-on training, funding, credits, swag, and access to a global community of peers.",
-   "link": "https://x.com/OpenAI/status/2082146058017321257",
-   "time": "2026-07-28T16:47:59+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Apply here: https://openai.com/student-collective/",
-   "link": "https://x.com/OpenAI/status/2082146059271417879",
-   "time": "2026-07-28T16:47:59+00:00",
    "rt": false
   },
   {
