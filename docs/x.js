@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-29T02:48:13.420611+00:00",
+ "updated": "2026-07-29T05:54:31.299702+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "dylan522p",
+   "text": "Slowing down AI is a ultimately wishful thinking The genie is out of the bottle The most importan competition ever with potentially immeasurable benefits to the winner will not suddenly have people stop and sing kumbaya While many lab employees have signed, many more havent. Practically none at some labs less than 6 months behind have.",
+   "link": "https://x.com/dylan522p/status/2082321388736581641",
+   "time": "2026-07-29T04:24:41+00:00",
+   "rt": false
+  },
   {
    "user": "OpenAI",
    "text": "R to @OpenAI: Source + docs: http://github.com/openai/codex-security",
