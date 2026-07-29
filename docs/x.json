@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T22:05:46.761306+00:00",
+ "updated": "2026-07-29T02:48:13.420611+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,34 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Source + docs: http://github.com/openai/codex-security",
+   "link": "https://x.com/OpenAI/status/2082263720777101505",
+   "time": "2026-07-29T00:35:32+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here... You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. This is an early release, and we're listening to your feedback as we continue improving it.",
+   "link": "https://x.com/OpenAI/status/2082263717916586117",
+   "time": "2026-07-29T00:35:31+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: http://npmjs.com/package/@openai/codex-security",
+   "link": "https://x.com/OpenAI/status/2082263719460094127",
+   "time": "2026-07-29T00:35:31+00:00",
+   "rt": false
+  },
+  {
+   "user": "AnthropicAI",
+   "text": "We support this petition, signed by our CEO, several co-founders, and senior staff. Our own research on recursive self-improvement, published last month, points to the need for tools to deliberately pace the frontier of AI development so society can prepare. We’re glad to see broad agreement across the field. https://www.pacingthefrontier.com/",
+   "link": "https://x.com/AnthropicAI/status/2082228994653696371",
+   "time": "2026-07-28T22:17:32+00:00",
+   "rt": false
+  },
   {
    "user": "OpenAI",
    "text": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyone. We believe that, at some point in the future, AI acceleration for frontier model development may be so high that the world will need to pace the rate of AI advancement. We hope to contribute to work led by the U.S. government, alongside other labs and the open-source community, to develop the to",
@@ -90,31 +118,10 @@
    "rt": false
   },
   {
-   "user": "OpenAI",
-   "text": "RT by @OpenAI: Last week, we made ChatGPT Work available to enterprises. It's an awesome product. So for ChatGPT Enterprise customers, enroll by August 21, and each teammate who tries Work for the first time within two weeks gets up to $200 in credits, valid for 14 days. Already a customer? Ask your account team. New to Enterprise? Get in touch. https://openai.com/contact-sales/",
-   "link": "https://x.com/gdb/status/2081877298538746165",
-   "time": "2026-07-27T23:00:02+00:00",
-   "rt": true
-  },
-  {
    "user": "AnthropicAI",
    "text": "There’s been a lot of speculation about where we stand on open-weights models. We’ve outlined our views in full here: https://www.anthropic.com/news/position-open-weights-models",
    "link": "https://x.com/AnthropicAI/status/2081864750296658008",
    "time": "2026-07-27T22:10:10+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: openai.com/index/how-ai-is-e…",
-   "link": "https://x.com/OpenAI/status/2081833351678406878",
-   "time": "2026-07-27T20:05:24+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "At a small business, the person closest to a problem is often the one who has to solve it—even when it falls outside their job description. We studied how AI is becoming powerful generalist tool for small teams, helping them work across functions.",
-   "link": "https://x.com/OpenAI/status/2081833350323720219",
-   "time": "2026-07-27T20:05:23+00:00",
    "rt": false
   },
   {
@@ -157,13 +164,6 @@
    "text": "chatgpt work is remarkable, and \"work\" undersells it. from my phone i sent: \"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in each place and decide where to go, and then after we get to group agreement make reservations. draft an email in my gmail i",
    "link": "https://x.com/sama/status/2081396796174282900",
    "time": "2026-07-26T15:10:41+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "\"When I left this morning, I was just Jensen. Next time I come back, call me K-Jensen.” Korea isn't just an NVIDIA partner anymore. It's where the next wave of AI gets built and SNU is at the center of it. Introducing the NVIDIA AI Technology Center at @SeoulNatlUni. NVIDIA ❤️ SNU — let's build. 🇰🇷",
-   "link": "https://x.com/nvidia/status/2081142850994229468",
-   "time": "2026-07-25T22:21:36+00:00",
    "rt": false
   }
  ]
