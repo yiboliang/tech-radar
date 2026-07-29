@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-29T14:13:35.594306+00:00",
+ "updated": "2026-07-29T16:23:28.601560+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -164,13 +164,6 @@ window.RADAR_X = {
    "text": "agreed feels big, i want a new kind of computer",
    "link": "https://x.com/sama/status/2081513071135346814",
    "time": "2026-07-26T22:52:43+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "chatgpt work is remarkable, and \"work\" undersells it. from my phone i sent: \"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in each place and decide where to go, and then after we get to group agreement make reservations. draft an email in my gmail i",
-   "link": "https://x.com/sama/status/2081396796174282900",
-   "time": "2026-07-26T15:10:41+00:00",
    "rt": false
   }
  ]
