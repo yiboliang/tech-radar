@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T19:19:31.268121+00:00",
+ "updated": "2026-07-29T22:02:46.903800+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,27 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: These optimizations across our stack compound to unlock the most performant models at every point in the cost-intelligence curve. https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/",
+   "link": "https://x.com/OpenAI/status/2082577278450676080",
+   "time": "2026-07-29T21:21:30+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. The results: - 20% lower serving costs from production GPU kernel improvements. - 15%+ better token-generation efficiency from improved speculative decoding.",
+   "link": "https://x.com/OpenAI/status/2082577277246972300",
+   "time": "2026-07-29T21:21:29+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: NVIDIA is proud to be part of the U.S. manufacturing progress made over the past 18 months alongside Secretary @howardlutnick, @CommerceGov, and partners across industry. We look forward to continuing this work together.",
+   "link": "https://x.com/nvidianewsroom/status/2082569183104057775",
+   "time": "2026-07-29T20:49:20+00:00",
+   "rt": true
+  },
   {
    "user": "GoogleDeepMind",
    "text": "Pinned: Video",
@@ -90,13 +111,6 @@
    "rt": false
   },
   {
-   "user": "OpenAI",
-   "text": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyone. We believe that, at some point in the future, AI acceleration for frontier model development may be so high that the world will need to pace the rate of AI advancement. We hope to contribute to work led by the U.S. government, alongside other labs and the open-source community, to develop the to",
-   "link": "https://x.com/OpenAI/status/2082208694142730340",
-   "time": "2026-07-28T20:56:52+00:00",
-   "rt": false
-  },
-  {
    "user": "AnthropicAI",
    "text": "R to @AnthropicAI: Full technical details of both attacks are provided in our new papers: On HAWK: https://anthropic.com/document/hawk_key_recovery.pdf On AES: https://anthropic.com/document/aes_mobius_bridge.pdf And the associated model chain-of-thought for AES: https://anthropic.com/document/aes_mobius_bridge_cot.pdf",
    "link": "https://x.com/AnthropicAI/status/2082153309553463600",
@@ -115,13 +129,6 @@
    "text": "New Anthropic research: Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that are used to keep data private. Read more: https://anthropic.com/research/discovering-cryptographic-weaknesses",
    "link": "https://x.com/AnthropicAI/status/2082153297670992134",
    "time": "2026-07-28T17:16:45+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "Coding agents are helping scientists spend more time advancing research, taking on everything from routine maintenance and targeted optimization to complete redesigns and new systems. While agents can reliably execute on ambitious projects, researchers must still define the scientific questions, verify results, and take a stance on long-term ownership.",
-   "link": "https://x.com/OpenAI/status/2082152074071228702",
-   "time": "2026-07-28T17:11:53+00:00",
    "rt": false
   },
   {
