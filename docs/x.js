@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-30T14:07:03.287297+00:00",
+ "updated": "2026-07-30T16:37:28.399661+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,34 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Incredible to see the open model momentum continue. Seeing more than 230 organizations rally around open weights reinforces what’s possible when the ecosystem comes together. Thank you to @Microsoft for your partnership, and to everyone helping strengthen the open ecosystem. 🤝",
+   "link": "https://x.com/nvidia/status/2082850072438636908",
+   "time": "2026-07-30T15:25:29+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "R to @GoogleDeepMind: To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 equips different hardware platforms with high dexterity. It can control a five-fingered hand to tie a knot or screw in a lightbulb - while also managing parallel grippers for complex packing tasks. We’re additionally introducing multi-robot collaboration so completely different types of",
+   "link": "https://x.com/GoogleDeepMind/status/2082844170998182350",
+   "time": "2026-07-30T15:02:02+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "R to @GoogleDeepMind: Gemini Robotics 2 moves physical AI beyond tabletop tasks, enabling intelligent whole-body control for humanoids. Watch @Apptronik's Apollo 2 process a single prompt to reach, bend, and pick up a watering can ↓",
+   "link": "https://x.com/GoogleDeepMind/status/2082844168154435957",
+   "time": "2026-07-30T15:02:01+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "One brain. For any robot. 🤖 We’re launching Gemini Robotics 2: our next-generation physical AI bringing full body intelligence to humanoids, advanced dexterity, multi-robot teamwork and more.",
+   "link": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+   "time": "2026-07-30T15:02:00+00:00",
+   "rt": false
+  },
   {
    "user": "sama",
    "text": "so excited for this. very close to models that will significantly accelerate scientific discovery; the best way to do this is for us to empower scientists, not to try to figure out everything ourselves. we all deserve the benefits.",
@@ -70,7 +98,7 @@ window.RADAR_X = {
   },
   {
    "user": "GoogleDeepMind",
-   "text": "Pinned: Video",
+   "text": "Video",
    "link": "https://x.com/GoogleDeepMind/status/2082541871612449180",
    "time": "2026-07-29T19:00:48+00:00",
    "rt": false
