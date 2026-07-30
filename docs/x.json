@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T16:37:28.399661+00:00",
+ "updated": "2026-07-30T19:28:30.095988+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,83 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "GoogleDeepMind",
+   "text": "R to @GoogleDeepMind: To be truly useful, a robot needs the dexterity that humans take for granted. But asking AI models to coordinate these motions is incredibly complicated. In this demo, we pushed Apollo 2 to master fine motor skills and complete tricky kitchen chores ↓",
+   "link": "https://x.com/GoogleDeepMind/status/2082904278461469091",
+   "time": "2026-07-30T19:00:53+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "R to @GoogleDeepMind: Teamwork makes the dream work. To test multi-robot collaboration with Gemini Robotics 2, we challenged our Apollo and Duo robots to tidy up a messy garage. The high-level reasoning model breaks down what to do, where to go, and identifies the exact moment to hand over control ↓ https://goo.gle/4h5N7CQ",
+   "link": "https://x.com/GoogleDeepMind/status/2082904281838227562",
+   "time": "2026-07-30T19:00:53+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "This is how Gemini Robotics 2 helps @Apptronik’s Apollo 2 use whole body intelligence to pack for a sports game ↓",
+   "link": "https://x.com/GoogleDeepMind/status/2082904276293062994",
+   "time": "2026-07-30T19:00:52+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "good job little bro",
+   "link": "https://x.com/sama/status/2082881262679642281",
+   "time": "2026-07-30T17:29:25+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "R to @sama: we want to offer the best price/intelligence tradeoff at every level",
+   "link": "https://x.com/sama/status/2082880884525482061",
+   "time": "2026-07-30T17:27:55+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "major price cuts today: *80% drop for GPT-5.6 Luna, now $0.20 per million input tokens and $1.20 per million output *20% drop for GPT-5.6 Terra, to $2/$12 *GPT-5.6 Sol gets Fast mode in the API, up to 2.5x the speed for 2x the price, same intelligence",
+   "link": "https://x.com/sama/status/2082880720989532597",
+   "time": "2026-07-30T17:27:16+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: openai.com/index/advancing-t…",
+   "link": "https://x.com/OpenAI/status/2082879614532370847",
+   "time": "2026-07-30T17:22:52+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Making advanced intelligence more abundant and affordable is central to our mission to ensure AGI benefits all of humanity. With the help of GPT-5.6 Sol, we have made leaps in efficiency. Today, we are passing those gains on in the API with lower prices for Luna and Terra, and providing faster performance to Sol. These updates help everyone get more useful work from every dollar and ",
+   "link": "https://x.com/OpenAI/status/2082878192390689147",
+   "time": "2026-07-30T17:17:13+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "We are committed to pushing the model frontier across cost efficiency, capability, and speed. Starting today, we are reducing prices for GPT-5.6 Luna by 80% and GPT-5.6 Terra by 20% , and offering a faster option for GPT-5.6 Sol in the API. Luna and Terra’s lower prices are reflected in how usage is counted in Codex and ChatGPT Work, so your usage goes further.",
+   "link": "https://x.com/OpenAI/status/2082878156483219672",
+   "time": "2026-07-30T17:17:05+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: one of the most beautiful things about OpenAI is that every employee really has a voice. i wanted to capture what it feels like to work here, what our mission means to me, and why you should join us. so i made this video with Codex, shared it with the team, and they felt it was worth producing and sharing with the world. this is our mission. and it’s why i’m here.",
+   "link": "https://x.com/jxnlco/status/2082855170296205719",
+   "time": "2026-07-30T15:45:44+00:00",
+   "rt": true
+  },
+  {
+   "user": "OpenAI",
+   "text": "RT by @OpenAI: one of the most beautiful things about OpenAI is that every employee really has a voice. i wanted to capture what it feels like to work here, what our mission means to me, and why you should join us. so i made this video with Codex, shared it with the team, and they felt it was worth producing and sharing with the world. this is our mission. and it’s why i’m here.",
+   "link": "https://x.com/jxnlco/status/2082855170296205719",
+   "time": "2026-07-30T15:45:44+00:00",
+   "rt": true
+  },
   {
    "user": "nvidia",
    "text": "Incredible to see the open model momentum continue. Seeing more than 230 organizations rally around open weights reinforces what’s possible when the ecosystem comes together. Thank you to @Microsoft for your partnership, and to everyone helping strengthen the open ecosystem. 🤝",
@@ -77,13 +154,6 @@
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: These optimizations across our stack compound to unlock the most performant models at every point in the cost-intelligence curve. https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/",
-   "link": "https://x.com/OpenAI/status/2082577278450676080",
-   "time": "2026-07-29T21:21:30+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
    "text": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. The results: - 20% lower serving costs from production GPU kernel improvements. - 15%+ better token-generation efficiency from improved speculative decoding.",
    "link": "https://x.com/OpenAI/status/2082577277246972300",
    "time": "2026-07-29T21:21:29+00:00",
@@ -109,27 +179,6 @@
    "link": "https://x.com/jaiyagill/status/2082526248287523199",
    "time": "2026-07-29T17:58:43+00:00",
    "rt": true
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: We believe the benefits of frontier AI should not be concentrated in a few companies and well-resourced labs. Researchers know their fields best. Our role is to put powerful tools in their hands and help accelerate their work. The program will help researchers take on the hardest problems, accelerate discovery, and improve productivity across their work, from preparing grant applicat",
-   "link": "https://x.com/OpenAI/status/2082516372656111654",
-   "time": "2026-07-29T17:19:29+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Participants will receive access to our frontier models, including our GPT-5.6 family of models. Each workspace includes business-grade privacy and security protections. Researcher data is not used to train our models by default, and participants can invite up to four collaborators. The program also includes training, hands-on support, and opportunities to learn from other researcher",
-   "link": "https://x.com/OpenAI/status/2082516374010974228",
-   "time": "2026-07-29T17:19:29+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "We’re giving scientists, mathematicians, and engineers free access to our frontier models—starting with 10,000 researchers and expanding to 100,000 through 2027. ChatGPT for Academic Researchers is built to accelerate discovery across disciplines.",
-   "link": "https://x.com/OpenAI/status/2082516370949062989",
-   "time": "2026-07-29T17:19:28+00:00",
-   "rt": false
   },
   {
    "user": "GoogleDeepMind",
