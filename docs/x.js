@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-30T11:09:26.330727+00:00",
+ "updated": "2026-07-30T14:07:03.287297+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -178,20 +178,6 @@ window.RADAR_X = {
    "text": "wrong",
    "link": "https://x.com/sama/status/2081832600591892712",
    "time": "2026-07-27T20:02:25+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Korea’s AI moment came to San Francisco last week 🇰🇷 President Lee Jae Myung joined @JensenHuang and some of the biggest names in technology, industry and research to accelerate Korea’s full-stack AI ambitions.",
-   "link": "https://x.com/nvidia/status/2081730105454322151",
-   "time": "2026-07-27T13:15:08+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @JensenHuang: Catch up on the announcements shaping Korea's future: https://nvda.ws/4x2P6fN",
-   "link": "https://x.com/nvidia/status/2081730107060744553",
-   "time": "2026-07-27T13:15:08+00:00",
    "rt": false
   }
  ]
