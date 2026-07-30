@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-29T22:02:46.903800+00:00",
+ "updated": "2026-07-30T02:32:49.163130+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,41 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "so excited for this. very close to models that will significantly accelerate scientific discovery; the best way to do this is for us to empower scientists, not to try to figure out everything ourselves. we all deserve the benefits.",
+   "link": "https://x.com/sama/status/2082628413769003269",
+   "time": "2026-07-30T00:44:41+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "goblin-level blog post",
+   "link": "https://x.com/sama/status/2082627724040884667",
+   "time": "2026-07-30T00:41:57+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
+   "link": "https://x.com/OpenAI/status/2082616641834422740",
+   "time": "2026-07-29T23:57:55+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: We hope these experiments serve as a reminder that evals rarely measure models in isolation—they also measure a bundle of less visible choices about API settings, harness design, and prompting. If you’re an API developer trying to maximize performance, we recommend using the same settings that we deploy in our own products: - Use our Responses API, not our legacy Chat - Completions A",
+   "link": "https://x.com/OpenAI/status/2082616643394703682",
+   "time": "2026-07-29T23:57:55+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "GPT-5.6 Sol has been used to solve open problems in mathematics. So why was it struggling with ARC-AGI-3, a benchmark of 2D puzzle games? We investigated. The harness was not letting it remember what it had learned. We found that enabling two API settings tripled our scores with 6x fewer output tokens.",
+   "link": "https://x.com/OpenAI/status/2082616636989952217",
+   "time": "2026-07-29T23:57:54+00:00",
+   "rt": false
+  },
   {
    "user": "OpenAI",
    "text": "R to @OpenAI: These optimizations across our stack compound to unlock the most performant models at every point in the cost-intelligence curve. https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/",
@@ -80,27 +115,6 @@ window.RADAR_X = {
    "text": "Slowing down AI is a ultimately wishful thinking The genie is out of the bottle The most importan competition ever with potentially immeasurable benefits to the winner will not suddenly have people stop and sing kumbaya While many lab employees have signed, many more havent. Practically none at some labs less than 6 months behind have.",
    "link": "https://x.com/dylan522p/status/2082321388736581641",
    "time": "2026-07-29T04:24:41+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Source + docs: http://github.com/openai/codex-security",
-   "link": "https://x.com/OpenAI/status/2082263720777101505",
-   "time": "2026-07-29T00:35:32+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here... You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. This is an early release, and we're listening to your feedback as we continue improving it.",
-   "link": "https://x.com/OpenAI/status/2082263717916586117",
-   "time": "2026-07-29T00:35:31+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: http://npmjs.com/package/@openai/codex-security",
-   "link": "https://x.com/OpenAI/status/2082263719460094127",
-   "time": "2026-07-29T00:35:31+00:00",
    "rt": false
   },
   {
@@ -185,13 +199,6 @@ window.RADAR_X = {
    "text": "AI security advances when the industry builds in the open, together. We're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents. By sharing models, tooling and research in the open, we can broaden the community of defenders. Learn more about the founding members’ contributions: https://nvda.ws/4pD8Fc5",
    "link": "https://x.com/nvidia/status/2081666629264449730",
    "time": "2026-07-27T09:02:54+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "agreed feels big, i want a new kind of computer",
-   "link": "https://x.com/sama/status/2081513071135346814",
-   "time": "2026-07-26T22:52:43+00:00",
    "rt": false
   }
  ]
