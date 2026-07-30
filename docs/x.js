@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-30T08:29:58.428741+00:00",
+ "updated": "2026-07-30T11:09:26.330727+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -192,13 +192,6 @@ window.RADAR_X = {
    "text": "R to @JensenHuang: Catch up on the announcements shaping Korea's future: https://nvda.ws/4x2P6fN",
    "link": "https://x.com/nvidia/status/2081730107060744553",
    "time": "2026-07-27T13:15:08+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "AI security advances when the industry builds in the open, together. We're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents. By sharing models, tooling and research in the open, we can broaden the community of defenders. Learn more about the founding members’ contributions: https://nvda.ws/4pD8Fc5",
-   "link": "https://x.com/nvidia/status/2081666629264449730",
-   "time": "2026-07-27T09:02:54+00:00",
    "rt": false
   }
  ]
