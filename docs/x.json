@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T19:28:30.095988+00:00",
+ "updated": "2026-07-30T22:08:10.685631+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,27 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution. NVIDIA founder and CEO Jensen Huang outlines the full stack making it possible: Cosmos and Omniverse to develop physical AI in virtual worlds, Isaac and Newton where robots learn skills in physics-simulated gyms, and Jetson robotics computers where their intelligence runs. Together with Japan’s robotics a",
+   "link": "https://x.com/nvidia/status/2082934294180221043",
+   "time": "2026-07-30T21:00:09+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Learn More → https://nvda.ws/4xeuXUk",
+   "link": "https://x.com/nvidia/status/2082934295794974841",
+   "time": "2026-07-30T21:00:09+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Give a big welcome to the newest members of the Open Secure AI Alliance. 💚 http://nvda.ws/4pD8Fc5",
+   "link": "https://x.com/nvidia/status/2082911218734617015",
+   "time": "2026-07-30T19:28:27+00:00",
+   "rt": false
+  },
   {
    "user": "GoogleDeepMind",
    "text": "R to @GoogleDeepMind: To be truly useful, a robot needs the dexterity that humans take for granted. But asking AI models to coordinate these motions is incredibly complicated. In this demo, we pushed Apollo 2 to master fine motor skills and complete tricky kitchen chores ↓",
@@ -248,13 +269,6 @@
    "text": "There’s been a lot of speculation about where we stand on open-weights models. We’ve outlined our views in full here: https://www.anthropic.com/news/position-open-weights-models",
    "link": "https://x.com/AnthropicAI/status/2081864750296658008",
    "time": "2026-07-27T22:10:10+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "wrong",
-   "link": "https://x.com/sama/status/2081832600591892712",
-   "time": "2026-07-27T20:02:25+00:00",
    "rt": false
   }
  ]
