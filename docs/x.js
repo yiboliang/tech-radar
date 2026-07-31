@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-31T03:13:37.133906+00:00",
+ "updated": "2026-07-31T08:52:30.966716+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -255,13 +255,6 @@ window.RADAR_X = {
    "text": "R to @nvidia: The Open Secure AI Alliance is growing, with more organizations contributing expertise to help safeguard software and agents. http://nvda.ws/4pD8Fc5",
    "link": "https://x.com/nvidia/status/2082135368040886299",
    "time": "2026-07-28T16:05:30+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "I would wait in line for 8 hours to watch Shrek 2 in 70mm IMAX",
-   "link": "https://x.com/dylan522p/status/2081952370615812250",
-   "time": "2026-07-28T03:58:20+00:00",
    "rt": false
   }
  ]
