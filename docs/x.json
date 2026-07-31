@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T16:47:05.152061+00:00",
+ "updated": "2026-07-31T19:36:12.502551+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "dylan522p",
+   "text": "Love that all FinTwit people making fun of Leopold still get mogged by his returns this year. Leopold is a great guy and he's extremely in tune with where the world is headed.",
+   "link": "https://x.com/dylan522p/status/2083264806245843236",
+   "time": "2026-07-31T18:53:29+00:00",
+   "rt": false
+  },
   {
    "user": "sama",
    "text": "cool use case of chatgpt work i heard last night: connect your family calendars and explain your kids' interests. every morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc.",
@@ -241,27 +248,6 @@
    "text": "We support this petition, signed by our CEO, several co-founders, and senior staff. Our own research on recursive self-improvement, published last month, points to the need for tools to deliberately pace the frontier of AI development so society can prepare. We’re glad to see broad agreement across the field. https://www.pacingthefrontier.com/",
    "link": "https://x.com/AnthropicAI/status/2082228994653696371",
    "time": "2026-07-28T22:17:32+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: Full technical details of both attacks are provided in our new papers: On HAWK: https://anthropic.com/document/hawk_key_recovery.pdf On AES: https://anthropic.com/document/aes_mobius_bridge.pdf And the associated model chain-of-thought for AES: https://anthropic.com/document/aes_mobius_bridge_cot.pdf",
-   "link": "https://x.com/AnthropicAI/status/2082153309553463600",
-   "time": "2026-07-28T17:16:48+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "R to @AnthropicAI: We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities. https://arxiv.org/abs/2607.18538",
-   "link": "https://x.com/AnthropicAI/status/2082153311189225927",
-   "time": "2026-07-28T17:16:48+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "New Anthropic research: Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that are used to keep data private. Read more: https://anthropic.com/research/discovering-cryptographic-weaknesses",
-   "link": "https://x.com/AnthropicAI/status/2082153297670992134",
-   "time": "2026-07-28T17:16:45+00:00",
    "rt": false
   }
  ]
