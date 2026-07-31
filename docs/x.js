@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-31T14:11:44.718685+00:00",
+ "updated": "2026-07-31T16:47:05.152061+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,27 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "cool use case of chatgpt work i heard last night: connect your family calendars and explain your kids' interests. every morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc.",
+   "link": "https://x.com/sama/status/2083221585792762171",
+   "time": "2026-07-31T16:01:45+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "i see your moore's law and i raise you 20x",
+   "link": "https://x.com/sama/status/2083203642975502640",
+   "time": "2026-07-31T14:50:27+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "it could be faster",
+   "link": "https://x.com/sama/status/2083198135812383197",
+   "time": "2026-07-31T14:28:34+00:00",
+   "rt": false
+  },
   {
    "user": "GoogleDeepMind",
    "text": "RT by @GoogleDeepMind: Here’s a first look at Gemini Robotics 2 from @GoogleDeepMind on the FR3 Duo: 20 minutes of uninterrupted, real-time tool kitting. Notice the emergent recovery behaviours - generalized dexterity & precision at a whole new level. More demos dropping over the next days! Stay tuned!",
@@ -160,13 +181,6 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "sama",
-   "text": "goblin-level blog post",
-   "link": "https://x.com/sama/status/2082627724040884667",
-   "time": "2026-07-30T00:41:57+00:00",
-   "rt": false
-  },
-  {
    "user": "OpenAI",
    "text": "R to @OpenAI: A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
    "link": "https://x.com/OpenAI/status/2082616641834422740",
@@ -248,13 +262,6 @@ window.RADAR_X = {
    "text": "New Anthropic research: Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that are used to keep data private. Read more: https://anthropic.com/research/discovering-cryptographic-weaknesses",
    "link": "https://x.com/AnthropicAI/status/2082153297670992134",
    "time": "2026-07-28T17:16:45+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: The Open Secure AI Alliance is growing, with more organizations contributing expertise to help safeguard software and agents. http://nvda.ws/4pD8Fc5",
-   "link": "https://x.com/nvidia/status/2082135368040886299",
-   "time": "2026-07-28T16:05:30+00:00",
    "rt": false
   }
  ]
