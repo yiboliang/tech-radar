@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T19:36:12.502551+00:00",
+ "updated": "2026-07-31T22:07:52.701749+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices. The gains support voice tutoring, real-time personalization and a new agentic learning platform.",
+   "link": "https://x.com/nvidia/status/2083289093731934424",
+   "time": "2026-07-31T20:30:00+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @StudyFetch: Read more: https://nvda.ws/45wG6Ut",
+   "link": "https://x.com/nvidia/status/2083289096214941856",
+   "time": "2026-07-31T20:30:00+00:00",
+   "rt": false
+  },
   {
    "user": "dylan522p",
    "text": "Love that all FinTwit people making fun of Leopold still get mogged by his returns this year. Leopold is a great guy and he's extremely in tune with where the world is headed.",
