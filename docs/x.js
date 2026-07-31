@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-31T08:52:30.966716+00:00",
+ "updated": "2026-07-31T11:30:16.728995+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "GoogleDeepMind",
+   "text": "RT by @GoogleDeepMind: Here’s a first look at Gemini Robotics 2 from @GoogleDeepMind on the FR3 Duo: 20 minutes of uninterrupted, real-time tool kitting. Notice the emergent recovery behaviours - generalized dexterity & precision at a whole new level. More demos dropping over the next days! Stay tuned!",
+   "link": "https://x.com/bousmalis/status/2083138039954489528",
+   "time": "2026-07-31T10:29:46+00:00",
+   "rt": true
+  },
   {
    "user": "AnthropicAI",
    "text": "In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Our post describes what happened, how it happened, and what we’re changing. We encourage other AI developers to perfor",
@@ -206,13 +213,6 @@ window.RADAR_X = {
    "text": "RT by @dylan522p: on a mission to find the coolest people, companies & ideas in tech, money & culture... so naturally i had to see why @dylan522p, founder of @SemiAnalysis_, is so optimistic about AI turns out the future has more jobs and less \"permanent underclass\" than doomers think",
    "link": "https://x.com/jaiyagill/status/2082526248287523199",
    "time": "2026-07-29T17:58:43+00:00",
-   "rt": true
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "RT by @GoogleDeepMind: Meet Lyria 3.5, the newest music model from @GoogleDeepMind, now powering Flow Music: 🎤 Vocals: More expressive, dynamic singing 🎸 Musicality: Richer arrangements with tracks that flow naturally. 🎛️ Controls: Better at following creative directions - now featuring BPM control and exportable stems for full-length songs! Try it now at http://flowmusic.google! 🧵",
-   "link": "https://x.com/googleflowmusic/status/2082496617664413721",
-   "time": "2026-07-29T16:00:59+00:00",
    "rt": true
   },
   {
