@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-07-30T22:08:10.685631+00:00",
+ "updated": "2026-07-31T03:13:37.133906+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "AnthropicAI",
+   "text": "In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Our post describes what happened, how it happened, and what we’re changing. We encourage other AI developers to perfor",
+   "link": "https://x.com/AnthropicAI/status/2082965101083320543",
+   "time": "2026-07-30T23:02:34+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution. NVIDIA founder and CEO Jensen Huang outlines the full stack making it possible: Cosmos and Omniverse to develop physical AI in virtual worlds, Isaac and Newton where robots learn skills in physics-simulated gyms, and Jetson robotics computers where their intelligence runs. Together with Japan’s robotics a",
@@ -255,20 +262,6 @@ window.RADAR_X = {
    "text": "I would wait in line for 8 hours to watch Shrek 2 in 70mm IMAX",
    "link": "https://x.com/dylan522p/status/2081952370615812250",
    "time": "2026-07-28T03:58:20+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Translation queues and custom integrations can slow global launches. Our Digital Marketing team built an AI-powered localization platform with NVIDIA Nemotron Speech to change that. See the results ↓ https://nvda.ws/4wYUS22",
-   "link": "https://x.com/nvidia/status/2081884835715404071",
-   "time": "2026-07-27T23:29:59+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "There’s been a lot of speculation about where we stand on open-weights models. We’ve outlined our views in full here: https://www.anthropic.com/news/position-open-weights-models",
-   "link": "https://x.com/AnthropicAI/status/2081864750296658008",
-   "time": "2026-07-27T22:10:10+00:00",
    "rt": false
   }
  ]
