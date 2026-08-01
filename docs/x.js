@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-01T13:25:17.205584+00:00",
+ "updated": "2026-08-01T16:02:25.241665+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,27 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "team humanity",
+   "link": "https://x.com/sama/status/2083560847889023219",
+   "time": "2026-08-01T14:29:51+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: An internal version of Astra, @OpenAI’s next major model family, solved 10 major open problems in mathematics, quantum complexity, and theoretical computer science. We believe it will be a major step for scientific reasoning. https://openai.com/index/ten-advances-in-mathematics/",
+   "link": "https://x.com/polynoamial/status/2083467194663571701",
+   "time": "2026-08-01T08:17:42+00:00",
+   "rt": true
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: yes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model. We're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann algebras (disproof of Connes' Rigidity Conjecture) to better bounds for high dimensional sphere packing, for cir",
+   "link": "https://x.com/SebastienBubeck/status/2083456300692979886",
+   "time": "2026-08-01T07:34:25+00:00",
+   "rt": true
+  },
   {
    "user": "nvidia",
    "text": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices. The gains support voice tutoring, real-time personalization and a new agentic learning platform.",
@@ -119,13 +140,6 @@ window.RADAR_X = {
   },
   {
    "user": "sama",
-   "text": "R to @sama: we want to offer the best price/intelligence tradeoff at every level",
-   "link": "https://x.com/sama/status/2082880884525482061",
-   "time": "2026-07-30T17:27:55+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
    "text": "major price cuts today: *80% drop for GPT-5.6 Luna, now $0.20 per million input tokens and $1.20 per million output *20% drop for GPT-5.6 Terra, to $2/$12 *GPT-5.6 Sol gets Fast mode in the API, up to 2.5x the speed for 2x the price, same intelligence",
    "link": "https://x.com/sama/status/2082880720989532597",
    "time": "2026-07-30T17:27:16+00:00",
@@ -151,13 +165,6 @@ window.RADAR_X = {
    "link": "https://x.com/OpenAI/status/2082878156483219672",
    "time": "2026-07-30T17:17:05+00:00",
    "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "RT by @sama: one of the most beautiful things about OpenAI is that every employee really has a voice. i wanted to capture what it feels like to work here, what our mission means to me, and why you should join us. so i made this video with Codex, shared it with the team, and they felt it was worth producing and sharing with the world. this is our mission. and it’s why i’m here.",
-   "link": "https://x.com/jxnlco/status/2082855170296205719",
-   "time": "2026-07-30T15:45:44+00:00",
-   "rt": true
   },
   {
    "user": "OpenAI",
@@ -192,13 +199,6 @@ window.RADAR_X = {
    "text": "One brain. For any robot. 🤖 We’re launching Gemini Robotics 2: our next-generation physical AI bringing full body intelligence to humanoids, advanced dexterity, multi-robot teamwork and more.",
    "link": "https://x.com/GoogleDeepMind/status/2082844162928381956",
    "time": "2026-07-30T15:02:00+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "so excited for this. very close to models that will significantly accelerate scientific discovery; the best way to do this is for us to empower scientists, not to try to figure out everything ourselves. we all deserve the benefits.",
-   "link": "https://x.com/sama/status/2082628413769003269",
-   "time": "2026-07-30T00:44:41+00:00",
    "rt": false
   },
   {
