@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T16:02:25.241665+00:00",
+ "updated": "2026-08-01T19:11:04.053769+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -234,20 +234,6 @@
    "text": "RT by @nvidia: NVIDIA is proud to be part of the U.S. manufacturing progress made over the past 18 months alongside Secretary @howardlutnick, @CommerceGov, and partners across industry. We look forward to continuing this work together.",
    "link": "https://x.com/nvidianewsroom/status/2082569183104057775",
    "time": "2026-07-29T20:49:20+00:00",
-   "rt": true
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "Video",
-   "link": "https://x.com/GoogleDeepMind/status/2082541871612449180",
-   "time": "2026-07-29T19:00:48+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "RT by @dylan522p: on a mission to find the coolest people, companies & ideas in tech, money & culture... so naturally i had to see why @dylan522p, founder of @SemiAnalysis_, is so optimistic about AI turns out the future has more jobs and less \"permanent underclass\" than doomers think",
-   "link": "https://x.com/jaiyagill/status/2082526248287523199",
-   "time": "2026-07-29T17:58:43+00:00",
    "rt": true
   }
  ]
