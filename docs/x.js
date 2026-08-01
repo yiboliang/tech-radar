@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-01T19:11:04.053769+00:00",
+ "updated": "2026-08-01T21:58:41.087288+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -221,20 +221,6 @@ window.RADAR_X = {
    "link": "https://x.com/OpenAI/status/2082616636989952217",
    "time": "2026-07-29T23:57:54+00:00",
    "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. The results: - 20% lower serving costs from production GPU kernel improvements. - 15%+ better token-generation efficiency from improved speculative decoding.",
-   "link": "https://x.com/OpenAI/status/2082577277246972300",
-   "time": "2026-07-29T21:21:29+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "RT by @nvidia: NVIDIA is proud to be part of the U.S. manufacturing progress made over the past 18 months alongside Secretary @howardlutnick, @CommerceGov, and partners across industry. We look forward to continuing this work together.",
-   "link": "https://x.com/nvidianewsroom/status/2082569183104057775",
-   "time": "2026-07-29T20:49:20+00:00",
-   "rt": true
   }
  ]
 };
