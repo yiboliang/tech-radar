@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-02T13:25:25.636277+00:00",
+ "updated": "2026-08-02T16:01:48.144900+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -178,41 +178,6 @@ window.RADAR_X = {
    "text": "We are committed to pushing the model frontier across cost efficiency, capability, and speed. Starting today, we are reducing prices for GPT-5.6 Luna by 80% and GPT-5.6 Terra by 20% , and offering a faster option for GPT-5.6 Sol in the API. Luna and Terra’s lower prices are reflected in how usage is counted in Codex and ChatGPT Work, so your usage goes further.",
    "link": "https://x.com/OpenAI/status/2082878156483219672",
    "time": "2026-07-30T17:17:05+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "RT by @OpenAI: one of the most beautiful things about OpenAI is that every employee really has a voice. i wanted to capture what it feels like to work here, what our mission means to me, and why you should join us. so i made this video with Codex, shared it with the team, and they felt it was worth producing and sharing with the world. this is our mission. and it’s why i’m here.",
-   "link": "https://x.com/jxnlco/status/2082855170296205719",
-   "time": "2026-07-30T15:45:44+00:00",
-   "rt": true
-  },
-  {
-   "user": "nvidia",
-   "text": "Incredible to see the open model momentum continue. Seeing more than 230 organizations rally around open weights reinforces what’s possible when the ecosystem comes together. Thank you to @Microsoft for your partnership, and to everyone helping strengthen the open ecosystem. 🤝",
-   "link": "https://x.com/nvidia/status/2082850072438636908",
-   "time": "2026-07-30T15:25:29+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 equips different hardware platforms with high dexterity. It can control a five-fingered hand to tie a knot or screw in a lightbulb - while also managing parallel grippers for complex packing tasks. We’re additionally introducing multi-robot collaboration so completely different types of",
-   "link": "https://x.com/GoogleDeepMind/status/2082844170998182350",
-   "time": "2026-07-30T15:02:02+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: Gemini Robotics 2 moves physical AI beyond tabletop tasks, enabling intelligent whole-body control for humanoids. Watch @Apptronik's Apollo 2 process a single prompt to reach, bend, and pick up a watering can ↓",
-   "link": "https://x.com/GoogleDeepMind/status/2082844168154435957",
-   "time": "2026-07-30T15:02:01+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "One brain. For any robot. 🤖 We’re launching Gemini Robotics 2: our next-generation physical AI bringing full body intelligence to humanoids, advanced dexterity, multi-robot teamwork and more.",
-   "link": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-   "time": "2026-07-30T15:02:00+00:00",
    "rt": false
   }
  ]
