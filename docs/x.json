@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T16:01:48.144900+00:00",
+ "updated": "2026-08-02T19:13:03.455826+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "karpathy",
+   "text": "R to @karpathy: More on the pelican on the bicycle test from @simonw: https://simonwillison.net/2025/Jun/6/six-months-in-llms/ I uploaded the source here so it's playable in the browser, forkable etc. https://karpathy.ai/lotr-movie/ Look out for GTA Hobbiton dropping before GTA VI :)",
+   "link": "https://x.com/karpathy/status/2083948654377996480",
+   "time": "2026-08-02T16:10:51+00:00",
+   "rt": false
+  },
   {
    "user": "karpathy",
    "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's",
@@ -122,62 +129,6 @@
    "text": "R to @nvidia: Give a big welcome to the newest members of the Open Secure AI Alliance. 💚 http://nvda.ws/4pD8Fc5",
    "link": "https://x.com/nvidia/status/2082911218734617015",
    "time": "2026-07-30T19:28:27+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: To be truly useful, a robot needs the dexterity that humans take for granted. But asking AI models to coordinate these motions is incredibly complicated. In this demo, we pushed Apollo 2 to master fine motor skills and complete tricky kitchen chores ↓",
-   "link": "https://x.com/GoogleDeepMind/status/2082904278461469091",
-   "time": "2026-07-30T19:00:53+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: Teamwork makes the dream work. To test multi-robot collaboration with Gemini Robotics 2, we challenged our Apollo and Duo robots to tidy up a messy garage. The high-level reasoning model breaks down what to do, where to go, and identifies the exact moment to hand over control ↓ https://goo.gle/4h5N7CQ",
-   "link": "https://x.com/GoogleDeepMind/status/2082904281838227562",
-   "time": "2026-07-30T19:00:53+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "This is how Gemini Robotics 2 helps @Apptronik’s Apollo 2 use whole body intelligence to pack for a sports game ↓",
-   "link": "https://x.com/GoogleDeepMind/status/2082904276293062994",
-   "time": "2026-07-30T19:00:52+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "good job little bro",
-   "link": "https://x.com/sama/status/2082881262679642281",
-   "time": "2026-07-30T17:29:25+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "major price cuts today: *80% drop for GPT-5.6 Luna, now $0.20 per million input tokens and $1.20 per million output *20% drop for GPT-5.6 Terra, to $2/$12 *GPT-5.6 Sol gets Fast mode in the API, up to 2.5x the speed for 2x the price, same intelligence",
-   "link": "https://x.com/sama/status/2082880720989532597",
-   "time": "2026-07-30T17:27:16+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: openai.com/index/advancing-t…",
-   "link": "https://x.com/OpenAI/status/2082879614532370847",
-   "time": "2026-07-30T17:22:52+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Making advanced intelligence more abundant and affordable is central to our mission to ensure AGI benefits all of humanity. With the help of GPT-5.6 Sol, we have made leaps in efficiency. Today, we are passing those gains on in the API with lower prices for Luna and Terra, and providing faster performance to Sol. These updates help everyone get more useful work from every dollar and ",
-   "link": "https://x.com/OpenAI/status/2082878192390689147",
-   "time": "2026-07-30T17:17:13+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "We are committed to pushing the model frontier across cost efficiency, capability, and speed. Starting today, we are reducing prices for GPT-5.6 Luna by 80% and GPT-5.6 Terra by 20% , and offering a faster option for GPT-5.6 Sol in the API. Luna and Terra’s lower prices are reflected in how usage is counted in Codex and ChatGPT Work, so your usage goes further.",
-   "link": "https://x.com/OpenAI/status/2082878156483219672",
-   "time": "2026-07-30T17:17:05+00:00",
    "rt": false
   }
  ]
