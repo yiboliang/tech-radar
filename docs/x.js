@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-01T21:58:41.087288+00:00",
+ "updated": "2026-08-02T02:56:49.287935+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -31,6 +31,13 @@ window.RADAR_X = {
    "text": "RT by @sama: yes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model. We're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann algebras (disproof of Connes' Rigidity Conjecture) to better bounds for high dimensional sphere packing, for cir",
    "link": "https://x.com/SebastienBubeck/status/2083456300692979886",
    "time": "2026-08-01T07:34:25+00:00",
+   "rt": true
+  },
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: Banning open source model, will \"remove capabilities for the defenders\" When OpenAI's models breached Huggingface, a Chinese open model is what cleaned up the mess. Anthropic's Fable 5 refused, so Hugging Face turned to Nvidia's quantized GLM 5.2.",
+   "link": "https://x.com/rohanpaul_ai/status/2083449634819822043",
+   "time": "2026-08-01T07:07:56+00:00",
    "rt": true
   },
   {
@@ -199,27 +206,6 @@ window.RADAR_X = {
    "text": "One brain. For any robot. 🤖 We’re launching Gemini Robotics 2: our next-generation physical AI bringing full body intelligence to humanoids, advanced dexterity, multi-robot teamwork and more.",
    "link": "https://x.com/GoogleDeepMind/status/2082844162928381956",
    "time": "2026-07-30T15:02:00+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
-   "link": "https://x.com/OpenAI/status/2082616641834422740",
-   "time": "2026-07-29T23:57:55+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: We hope these experiments serve as a reminder that evals rarely measure models in isolation—they also measure a bundle of less visible choices about API settings, harness design, and prompting. If you’re an API developer trying to maximize performance, we recommend using the same settings that we deploy in our own products: - Use our Responses API, not our legacy Chat - Completions A",
-   "link": "https://x.com/OpenAI/status/2082616643394703682",
-   "time": "2026-07-29T23:57:55+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "GPT-5.6 Sol has been used to solve open problems in mathematics. So why was it struggling with ARC-AGI-3, a benchmark of 2D puzzle games? We investigated. The harness was not letting it remember what it had learned. We found that enabling two API settings tripled our scores with 6x fewer output tokens.",
-   "link": "https://x.com/OpenAI/status/2082616636989952217",
-   "time": "2026-07-29T23:57:54+00:00",
    "rt": false
   }
  ]
