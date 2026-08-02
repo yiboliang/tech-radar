@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-02T19:13:03.455826+00:00",
+ "updated": "2026-08-02T21:57:57.960705+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -108,27 +108,6 @@ window.RADAR_X = {
    "text": "In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Our post describes what happened, how it happened, and what we’re changing. We encourage other AI developers to perfor",
    "link": "https://x.com/AnthropicAI/status/2082965101083320543",
    "time": "2026-07-30T23:02:34+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution. NVIDIA founder and CEO Jensen Huang outlines the full stack making it possible: Cosmos and Omniverse to develop physical AI in virtual worlds, Isaac and Newton where robots learn skills in physics-simulated gyms, and Jetson robotics computers where their intelligence runs. Together with Japan’s robotics a",
-   "link": "https://x.com/nvidia/status/2082934294180221043",
-   "time": "2026-07-30T21:00:09+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Learn More → https://nvda.ws/4xeuXUk",
-   "link": "https://x.com/nvidia/status/2082934295794974841",
-   "time": "2026-07-30T21:00:09+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Give a big welcome to the newest members of the Open Secure AI Alliance. 💚 http://nvda.ws/4pD8Fc5",
-   "link": "https://x.com/nvidia/status/2082911218734617015",
-   "time": "2026-07-30T19:28:27+00:00",
    "rt": false
   }
  ]
