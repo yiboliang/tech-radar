@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-02T02:56:49.287935+00:00",
+ "updated": "2026-08-02T06:08:10.196872+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "karpathy",
+   "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's",
+   "link": "https://x.com/karpathy/status/2083749667410727319",
+   "time": "2026-08-02T03:00:09+00:00",
+   "rt": false
+  },
   {
    "user": "sama",
    "text": "team humanity",
