@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-03T06:31:17.982717+00:00",
+ "updated": "2026-08-03T12:26:23.701915+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -102,13 +102,6 @@ window.RADAR_X = {
    "link": "https://x.com/sama/status/2083198135812383197",
    "time": "2026-07-31T14:28:34+00:00",
    "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "RT by @GoogleDeepMind: Here’s a first look at Gemini Robotics 2 from @GoogleDeepMind on the FR3 Duo: 20 minutes of uninterrupted, real-time tool kitting. Notice the emergent recovery behaviours - generalized dexterity & precision at a whole new level. More demos dropping over the next days! Stay tuned!",
-   "link": "https://x.com/bousmalis/status/2083138039954489528",
-   "time": "2026-07-31T10:29:46+00:00",
-   "rt": true
   }
  ]
 };
