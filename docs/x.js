@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-03T19:40:09.453237+00:00",
+ "updated": "2026-08-03T22:10:45.186086+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,69 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. We also reduced voice-session startup from six network round trips to one.",
+   "link": "https://x.com/OpenAI/status/2084378417320141196",
+   "time": "2026-08-03T20:38:35+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
+   "link": "https://x.com/OpenAI/status/2084378418989379822",
+   "time": "2026-08-03T20:38:35+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "GPT-Live can listen while it speaks. To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. This new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.",
+   "link": "https://x.com/OpenAI/status/2084378415818579975",
+   "time": "2026-08-03T20:38:34+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: We’re releasing the manuscripts, formal Lean certificates, and reasoning walkthroughs so mathematicians can examine these results and build on their ideas. https://openai.com/index/ten-advances-in-mathematics/",
+   "link": "https://x.com/OpenAI/status/2084352165464903730",
+   "time": "2026-08-03T18:54:16+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "An internal version of our next major model produced 10 new results on long-standing open problems in mathematics and theoretical computer science, using roughly $2,000 worth of tokens at GPT-5.6 Sol API rates.",
+   "link": "https://x.com/OpenAI/status/2084352161404920316",
+   "time": "2026-08-03T18:54:15+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: The results span sphere packing, coding theory, group theory, quantum complexity, lattice cryptography, extremal combinatorics, and more. Among them: establishing the existence of non-sofic groups and exponential improvements to bounds on high dimensional sphere packing.",
+   "link": "https://x.com/OpenAI/status/2084352164156293460",
+   "time": "2026-08-03T18:54:15+00:00",
+   "rt": false
+  },
+  {
+   "user": "dylan522p",
+   "text": "The funny thing about Anthropic and OpenAI people saying they want to slow down AI progress is that this is what Anti Trust mechanisms were built for. It's illegal to collude and slow down AI progress.",
+   "link": "https://x.com/dylan522p/status/2084051253278208138",
+   "time": "2026-08-02T22:58:33+00:00",
+   "rt": false
+  },
+  {
+   "user": "karpathy",
+   "text": "R to @karpathy: More on the pelican on the bicycle test from @simonw: https://simonwillison.net/2025/Jun/6/six-months-in-llms/ I uploaded the source here so it's playable in the browser, forkable etc. https://karpathy.ai/lotr-movie/ Look out for GTA Hobbiton dropping before GTA VI :)",
+   "link": "https://x.com/karpathy/status/2083948654377996480",
+   "time": "2026-08-02T16:10:51+00:00",
+   "rt": false
+  },
+  {
+   "user": "karpathy",
+   "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's",
+   "link": "https://x.com/karpathy/status/2083749667410727319",
+   "time": "2026-08-02T03:00:09+00:00",
+   "rt": false
+  },
   {
    "user": "sama",
    "text": "team humanity",
@@ -31,6 +94,13 @@ window.RADAR_X = {
    "text": "RT by @sama: yes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model. We're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann algebras (disproof of Connes' Rigidity Conjecture) to better bounds for high dimensional sphere packing, for cir",
    "link": "https://x.com/SebastienBubeck/status/2083456300692979886",
    "time": "2026-08-01T07:34:25+00:00",
+   "rt": true
+  },
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: Banning open source model, will \"remove capabilities for the defenders\" When OpenAI's models breached Huggingface, a Chinese open model is what cleaned up the mess. Anthropic's Fable 5 refused, so Hugging Face turned to Nvidia's quantized GLM 5.2.",
+   "link": "https://x.com/rohanpaul_ai/status/2083449634819822043",
+   "time": "2026-08-01T07:07:56+00:00",
    "rt": true
   }
  ]
