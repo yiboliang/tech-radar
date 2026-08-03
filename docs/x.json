@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T21:57:57.960705+00:00",
+ "updated": "2026-08-03T02:58:09.627867+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "dylan522p",
+   "text": "The funny thing about Anthropic and OpenAI people saying they want to slow down AI progress is that this is what Anti Trust mechanisms were built for. It's illegal to collude and slow down AI progress.",
+   "link": "https://x.com/dylan522p/status/2084051253278208138",
+   "time": "2026-08-02T22:58:33+00:00",
+   "rt": false
+  },
   {
    "user": "karpathy",
    "text": "R to @karpathy: More on the pelican on the bicycle test from @simonw: https://simonwillison.net/2025/Jun/6/six-months-in-llms/ I uploaded the source here so it's playable in the browser, forkable etc. https://karpathy.ai/lotr-movie/ Look out for GTA Hobbiton dropping before GTA VI :)",
@@ -102,13 +109,6 @@
    "link": "https://x.com/bousmalis/status/2083138039954489528",
    "time": "2026-07-31T10:29:46+00:00",
    "rt": true
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Our post describes what happened, how it happened, and what we’re changing. We encourage other AI developers to perfor",
-   "link": "https://x.com/AnthropicAI/status/2082965101083320543",
-   "time": "2026-07-30T23:02:34+00:00",
-   "rt": false
   }
  ]
 }
