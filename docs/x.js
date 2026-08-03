@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-03T12:26:23.701915+00:00",
+ "updated": "2026-08-03T17:09:40.257417+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -80,27 +80,6 @@ window.RADAR_X = {
    "text": "Love that all FinTwit people making fun of Leopold still get mogged by his returns this year. Leopold is a great guy and he's extremely in tune with where the world is headed.",
    "link": "https://x.com/dylan522p/status/2083264806245843236",
    "time": "2026-07-31T18:53:29+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "cool use case of chatgpt work i heard last night: connect your family calendars and explain your kids' interests. every morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc.",
-   "link": "https://x.com/sama/status/2083221585792762171",
-   "time": "2026-07-31T16:01:45+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "i see your moore's law and i raise you 20x",
-   "link": "https://x.com/sama/status/2083203642975502640",
-   "time": "2026-07-31T14:50:27+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "it could be faster",
-   "link": "https://x.com/sama/status/2083198135812383197",
-   "time": "2026-07-31T14:28:34+00:00",
    "rt": false
   }
  ]
