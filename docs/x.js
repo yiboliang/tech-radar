@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-04T14:20:04.665487+00:00",
+ "updated": "2026-08-04T16:52:57.723969+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,34 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Meet Alpamayo 2 Super, now commercially available for robotaxis and autonomous vehicles. Built for complex real-world driving, this open reasoning model adds 360° awareness, high-level driving decisions and automated reasoning labels. We built it, so you can build on it.",
+   "link": "https://x.com/nvidia/status/2084663782018543841",
+   "time": "2026-08-04T15:32:31+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Read the blog → https://nvda.ws/4pRK2bU",
+   "link": "https://x.com/nvidia/status/2084663783364972732",
+   "time": "2026-08-04T15:32:31+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "i would rather be an optimist and work hard than a pessimist posting about why things won't work. it's much more difficult and the most likely path is failure, but society fails if people don't try. no amount of \"it will never work\" essays will drive society forward.",
+   "link": "https://x.com/sama/status/2084663673570971990",
+   "time": "2026-08-04T15:32:05+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: Today, we’re launching Alpamayo 2 Super, our frontier open reasoning model for autonomous vehicles. Beyond seeing, Alpamayo understands and reasons through the complex world - thinks before it acts. It’s a powerful backbone for robotaxis, trucks, shuttles, delivery vans, tractors and the long tail of mobile robots—billions of autonomous machines someday. We’re releasing it for comme",
+   "link": "https://x.com/JensenHuang/status/2084656303046332747",
+   "time": "2026-08-04T15:02:48+00:00",
+   "rt": true
+  },
   {
    "user": "nvidia",
    "text": "Security is strongest when organizations collaborate openly and move quickly. Now over 120 members strong, the Open Secure AI Alliance is sharing new open source security contributions, including new proposed SAFE guidelines, for turning confidential incident findings into stronger protection across the ecosystem.",
@@ -101,13 +129,6 @@ window.RADAR_X = {
    "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's",
    "link": "https://x.com/karpathy/status/2083749667410727319",
    "time": "2026-08-02T03:00:09+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "team humanity",
-   "link": "https://x.com/sama/status/2083560847889023219",
-   "time": "2026-08-01T14:29:51+00:00",
    "rt": false
   }
  ]
