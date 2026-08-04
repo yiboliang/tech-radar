@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-04T11:25:20.154370+00:00",
+ "updated": "2026-08-04T14:20:04.665487+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Security is strongest when organizations collaborate openly and move quickly. Now over 120 members strong, the Open Secure AI Alliance is sharing new open source security contributions, including new proposed SAFE guidelines, for turning confidential incident findings into stronger protection across the ecosystem.",
+   "link": "https://x.com/nvidia/status/2084625868173820144",
+   "time": "2026-08-04T13:01:52+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Learn more about the latest open source contributions from the newest members: @Akamai, @Amazon, @CapitalOne, @Cisco, @Cloudflare, @Cognition, @Crowdstrike, @LangChain, @Microsoft, @Okta, @PaloAltoNtwks, @perplexity_ai, @RedHat, @Uber, @Veeam, @Visa, @Wiz_io and other Alliance members. ➡️ https://nvda.ws/4hhQ57r",
+   "link": "https://x.com/nvidia/status/2084625871151779949",
+   "time": "2026-08-04T13:01:52+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "R to @nvidia: Explore more: https://nvda.ws/3SfpNs9",
