@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T19:39:53.793549+00:00",
+ "updated": "2026-08-04T22:14:32.196654+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,34 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "AnthropicAI",
+   "text": "The UK’s @AISecurityInst (AISI) has published a report on their recent cybersecurity evaluation of Anthropic’s Claude Mythos 5 and OpenAI’s GPT-5.6 Sol. The models attempted to complete an assignment in a setup where their normal safeguards were removed and they were deliberately given internet access. AISI reports that the models “engaged in sustained, potentially harmful activity directed at rea",
+   "link": "https://x.com/AnthropicAI/status/2084748111239344556",
+   "time": "2026-08-04T21:07:37+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "We're detailing two new incidents that occurred during external cyber evaluations conducted by independent evaluation partners. We outline what happened, how the activity was contained, and how we’re working with evaluators to strengthen our approach to third-party testing. https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+   "link": "https://x.com/OpenAI/status/2084747580693426555",
+   "time": "2026-08-04T21:05:30+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "AI compute is going to orbit. 🚀 @SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars. The next chapter of AI infrastructure boldly goes where no AI compute has gone before.",
+   "link": "https://x.com/nvidia/status/2084733460690903204",
+   "time": "2026-08-04T20:09:24+00:00",
+   "rt": false
+  },
+  {
+   "user": "dylan522p",
+   "text": "Learned about how Samsung does capacity planning. Most retarded organizational structure ever",
+   "link": "https://x.com/dylan522p/status/2084728715679023358",
+   "time": "2026-08-04T19:50:32+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "Read why AI agents need more than one model. 👇",
@@ -66,13 +94,6 @@
    "text": "R to @nvidia: Learn more about the latest open source contributions from the newest members: @Akamai, @Amazon, @CapitalOne, @Cisco, @Cloudflare, @Cognition, @Crowdstrike, @LangChain, @Microsoft, @Okta, @PaloAltoNtwks, @perplexity_ai, @RedHat, @Uber, @Veeam, @Visa, @Wiz_io and other Alliance members. ➡️ https://nvda.ws/4hhQ57r",
    "link": "https://x.com/nvidia/status/2084625871151779949",
    "time": "2026-08-04T13:01:52+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "AI is becoming a primary interface for product discovery, opening new revenue opportunities for retailers. See how NVIDIA is helping retailers prepare for agentic commerce, from product discovery to secure checkout, while maintaining control over pricing, payments and compliance.",
-   "link": "https://x.com/nvidia/status/2084420790036910459",
-   "time": "2026-08-03T23:26:57+00:00",
    "rt": false
   },
   {
