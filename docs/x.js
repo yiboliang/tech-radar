@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-03T22:10:45.186086+00:00",
+ "updated": "2026-08-04T02:43:03.979777+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Explore more: https://nvda.ws/3SfpNs9",
+   "link": "https://x.com/nvidia/status/2084420792788386232",
+   "time": "2026-08-03T23:26:58+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "AI is becoming a primary interface for product discovery, opening new revenue opportunities for retailers. See how NVIDIA is helping retailers prepare for agentic commerce, from product discovery to secure checkout, while maintaining control over pricing, payments and compliance.",
+   "link": "https://x.com/nvidia/status/2084420790036910459",
+   "time": "2026-08-03T23:26:57+00:00",
+   "rt": false
+  },
   {
    "user": "OpenAI",
    "text": "R to @OpenAI: Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. We also reduced voice-session startup from six network round trips to one.",
