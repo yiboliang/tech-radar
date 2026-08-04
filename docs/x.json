@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T16:52:57.723969+00:00",
+ "updated": "2026-08-04T19:39:53.793549+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Read why AI agents need more than one model. 👇",
+   "link": "https://x.com/nvidia/status/2084716722746253566",
+   "time": "2026-08-04T19:02:53+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Available on @huggingface : https://huggingface.co/nvidia/Alpamayo2-Super",
+   "link": "https://x.com/nvidia/status/2084708703505441119",
+   "time": "2026-08-04T18:31:01+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "Meet Alpamayo 2 Super, now commercially available for robotaxis and autonomous vehicles. Built for complex real-world driving, this open reasoning model adds 360° awareness, high-level driving decisions and automated reasoning labels. We built it, so you can build on it.",
@@ -52,13 +66,6 @@
    "text": "R to @nvidia: Learn more about the latest open source contributions from the newest members: @Akamai, @Amazon, @CapitalOne, @Cisco, @Cloudflare, @Cognition, @Crowdstrike, @LangChain, @Microsoft, @Okta, @PaloAltoNtwks, @perplexity_ai, @RedHat, @Uber, @Veeam, @Visa, @Wiz_io and other Alliance members. ➡️ https://nvda.ws/4hhQ57r",
    "link": "https://x.com/nvidia/status/2084625871151779949",
    "time": "2026-08-04T13:01:52+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Explore more: https://nvda.ws/3SfpNs9",
-   "link": "https://x.com/nvidia/status/2084420792788386232",
-   "time": "2026-08-03T23:26:58+00:00",
    "rt": false
   },
   {
