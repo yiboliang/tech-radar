@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-05T02:40:43.719758+00:00",
+ "updated": "2026-08-05T05:47:44.232030+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -150,13 +150,6 @@ window.RADAR_X = {
    "text": "R to @karpathy: More on the pelican on the bicycle test from @simonw: https://simonwillison.net/2025/Jun/6/six-months-in-llms/ I uploaded the source here so it's playable in the browser, forkable etc. https://karpathy.ai/lotr-movie/ Look out for GTA Hobbiton dropping before GTA VI :)",
    "link": "https://x.com/karpathy/status/2083948654377996480",
    "time": "2026-08-02T16:10:51+00:00",
-   "rt": false
-  },
-  {
-   "user": "karpathy",
-   "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's",
-   "link": "https://x.com/karpathy/status/2083749667410727319",
-   "time": "2026-08-02T03:00:09+00:00",
    "rt": false
   }
  ]
