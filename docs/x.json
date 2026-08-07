@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T15:57:40.764377+00:00",
+ "updated": "2026-08-07T18:59:47.871308+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "congrats to oklo for achieving criticality! (less than a year after groundbreaking) https://oklo.com/newsroom/news-details/2026/Oklos-Groves-Reactor-Achieves-First-Criticality-in-Under-a-Year/default.aspx",
+   "link": "https://x.com/sama/status/2085765236876046500",
+   "time": "2026-08-07T16:29:18+00:00",
+   "rt": false
+  },
   {
    "user": "sama",
    "text": "RT by @sama: Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more. https://www.youtube.com/watch?v=87DyyMV0kCY I hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!",
