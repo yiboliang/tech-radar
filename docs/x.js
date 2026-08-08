@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-08T12:52:04.351477+00:00",
+ "updated": "2026-08-08T15:31:23.850352+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -231,10 +231,10 @@ window.RADAR_X = {
   },
   {
    "user": "nvidia",
-   "text": "RT by @nvidia: Starting our speaker announcements with Jensen Huang (@JensenHuang), who will be on the main stage at the @TomorrowXSummit. We built TomorrowX so the FinX community and investors writing about these companies get to hear from management directly. Many more names coming over the next few weeks! November 17-18 at the Moody Center in Austin. Hosted with @GavinSBaker and @atreidesmgmt, ",
-   "link": "https://x.com/TomorrowXSummit/status/2084987334450151803",
-   "time": "2026-08-05T12:58:12+00:00",
-   "rt": true
+   "text": "How do you explain world models to your sibling? 🤖 NVIDIA Cosmos helps physical AI reason about real-world interactions and simulate possible futures before acting in the real world. Or, as they might put it, it teaches robots to dream. 💭",
+   "link": "https://x.com/nvidia/status/2085106911964242055",
+   "time": "2026-08-05T20:53:21+00:00",
+   "rt": false
   }
  ]
 };
