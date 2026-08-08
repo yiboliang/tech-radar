@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-08T09:39:51.049382+00:00",
+ "updated": "2026-08-08T12:52:04.351477+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Armenia and Kazakhstan with @FirebirdCloudAI are building the infrastructure to create intelligence at home, powered by the NVIDIA DSX platform. 📽️ Hear from @JensenHuang on this important milestone for the CIS region. https://nvda.ws/4wiOu58",
+   "link": "https://x.com/nvidia/status/2086040693596659932",
+   "time": "2026-08-08T10:43:52+00:00",
+   "rt": false
+  },
   {
    "user": "dylan522p",
    "text": "Everyone in SF is talking about OSL, but no one wanna talk about ISL and cache hit rates :(",
@@ -220,13 +227,6 @@ window.RADAR_X = {
    "text": "R to @Akamai: The Open Secure AI Alliance community, together at @BlackHatEvents’ #BHUSA. 📸 Members met in person to connect, share ideas and keep moving AI security forward. A great moment for a growing community.",
    "link": "https://x.com/nvidia/status/2085147268253138946",
    "time": "2026-08-05T23:33:43+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "How do you explain world models to your sibling? 🤖 NVIDIA Cosmos helps physical AI reason about real-world interactions and simulate possible futures before acting in the real world. Or, as they might put it, it teaches robots to dream. 💭",
-   "link": "https://x.com/nvidia/status/2085106911964242055",
-   "time": "2026-08-05T20:53:21+00:00",
    "rt": false
   },
   {
