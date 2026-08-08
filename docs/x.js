@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-07T21:40:38.988506+00:00",
+ "updated": "2026-08-08T01:46:46.440845+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "astra is a powerful model and we are working to make it generally available. we do not think it is a good strategy to keep powerful models to a chosen few. given its cyber capabilities, we need a little big longer to do do this safely. but hopefully not too long!",
+   "link": "https://x.com/sama/status/2085862292311396515",
+   "time": "2026-08-07T22:54:58+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: We’re entering a new era for cybersecurity. We’ll be working closely with our partners and the broader security community to ensure these capabilities reach defenders everywhere.",
+   "link": "https://x.com/fouadmatin/status/2085809572170866968",
+   "time": "2026-08-07T19:25:29+00:00",
+   "rt": true
+  },
   {
    "user": "sama",
    "text": "congrats to oklo for achieving criticality! (less than a year after groundbreaking) https://oklo.com/newsroom/news-details/2026/Oklos-Groves-Reactor-Achieves-First-Criticality-in-Under-a-Year/default.aspx",
