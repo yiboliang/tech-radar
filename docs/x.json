@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T18:40:04.081724+00:00",
+ "updated": "2026-08-08T21:32:10.600520+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "dylan522p",
+   "text": "RT by @dylan522p: best birthday gift ever?",
+   "link": "https://x.com/anikamirzaa/status/2086176349337919947",
+   "time": "2026-08-08T19:42:55+00:00",
+   "rt": true
+  },
+  {
+   "user": "dylan522p",
+   "text": "I was gifted this for my birthday a couple months ago but I have no clue who gave it to me. Does anyone know",
+   "link": "https://x.com/dylan522p/status/2086170813796118561",
+   "time": "2026-08-08T19:20:55+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "Armenia and Kazakhstan with @FirebirdCloudAI are building the infrastructure to create intelligence at home, powered by the NVIDIA DSX platform. 📽️ Hear from @JensenHuang on this important milestone for the CIS region. https://nvda.ws/4wiOu58",
@@ -213,20 +227,6 @@
    "text": "R to @nvidia: 🔗 Learn more at https://nvda.ws/4fRV1NM",
    "link": "https://x.com/nvidia/status/2085381085345501467",
    "time": "2026-08-06T15:02:49+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "\"Everytime Googlers leave, the TPU ecosystem grows stronger\" Deepmind friend coping so hard in my DMs rn",
-   "link": "https://x.com/dylan522p/status/2085203412040434079",
-   "time": "2026-08-06T03:16:49+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "IS JEFF DEAN LEAVING POSITIVE OR NEGATIVE FOR BMC",
-   "link": "https://x.com/dylan522p/status/2085196853373718752",
-   "time": "2026-08-06T02:50:45+00:00",
    "rt": false
   },
   {
