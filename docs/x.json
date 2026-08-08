@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T15:31:23.850352+00:00",
+ "updated": "2026-08-08T18:40:04.081724+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -18,6 +18,13 @@
    "link": "https://x.com/nvidia/status/2086040693596659932",
    "time": "2026-08-08T10:43:52+00:00",
    "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: Today in Armenia, @FirebirdCloudAI announced the launch of the CIS region's largest AI factory, designed to bring global demand for AI infrastructure, local development opportunities and new economic growth to the region. Powered by NVIDIA accelerated computing with @Dell and @SchneiderElec, the facility will provide developers, enterprises, universities and public institutions with",
+   "link": "https://x.com/nvidianewsroom/status/2086036542502384018",
+   "time": "2026-08-08T10:27:23+00:00",
+   "rt": true
   },
   {
    "user": "dylan522p",
@@ -227,13 +234,6 @@
    "text": "R to @Akamai: The Open Secure AI Alliance community, together at @BlackHatEvents’ #BHUSA. 📸 Members met in person to connect, share ideas and keep moving AI security forward. A great moment for a growing community.",
    "link": "https://x.com/nvidia/status/2085147268253138946",
    "time": "2026-08-05T23:33:43+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "How do you explain world models to your sibling? 🤖 NVIDIA Cosmos helps physical AI reason about real-world interactions and simulate possible futures before acting in the real world. Or, as they might put it, it teaches robots to dream. 💭",
-   "link": "https://x.com/nvidia/status/2085106911964242055",
-   "time": "2026-08-05T20:53:21+00:00",
    "rt": false
   }
  ]
