@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T12:54:32.622730+00:00",
+ "updated": "2026-08-09T15:33:07.888358+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -13,6 +13,27 @@
  ],
  "items": [
   {
+   "user": "sama",
+   "text": "lol another one of the things i like most about openai is tibo",
+   "link": "https://x.com/sama/status/2086470022772457950",
+   "time": "2026-08-09T15:09:52+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "R to @sama: i would be pretty impressed if the team just made magic intelligence in the sky but i am extra impressed that they do so with such a focus on making sure everyone wins (ranging from stuff like business privacy to low prices to predictable policies to more)",
+   "link": "https://x.com/sama/status/2086469875581755696",
+   "time": "2026-08-09T15:09:17+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "one of the things i like most about the openai team is how focused they are on our customers and users succeeding, and how much they celebrate it",
+   "link": "https://x.com/sama/status/2086468661670461671",
+   "time": "2026-08-09T15:04:28+00:00",
+   "rt": false
+  },
+  {
    "user": "dylan522p",
    "text": "RT by @dylan522p: best birthday gift ever?",
    "link": "https://x.com/anikamirzaa/status/2086176349337919947",
@@ -25,6 +46,13 @@
    "link": "https://x.com/dylan522p/status/2086170813796118561",
    "time": "2026-08-08T19:20:55+00:00",
    "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "RT by @sama: GPT-4 finished training four years ago today.",
+   "link": "https://x.com/gdb/status/2086092396023120286",
+   "time": "2026-08-08T14:09:19+00:00",
+   "rt": true
   },
   {
    "user": "nvidia",
@@ -139,13 +167,6 @@
    "rt": true
   },
   {
-   "user": "sama",
-   "text": "5.6 Sol much better in chat now and unlimited text chat for free users!",
-   "link": "https://x.com/sama/status/2085454964814753990",
-   "time": "2026-08-06T19:56:24+00:00",
-   "rt": false
-  },
-  {
    "user": "OpenAI",
    "text": "R to @OpenAI: Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slider starting today. This version of GPT-5.6 Sol is for everyday chats, so it will only be available in the Chat experience in ChatGPT. The version of GPT-5.6 Sol that powers Work and Codex is not changing as part of this release. https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
    "link": "https://x.com/OpenAI/status/2085434718393418101",
@@ -213,20 +234,6 @@
    "text": "Predicting cyclones accurately can help save lives - and every hour of lead time counts. Published in @Nature, our AI model WeatherNext achieves state-of-the-art accuracy in forecasting a storm’s track and intensity, giving us a critical extra 24 hours to prepare on average. 🧵",
    "link": "https://x.com/GoogleDeepMind/status/2085395442347524506",
    "time": "2026-08-06T15:59:52+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Network automation and autonomous networks aren't the same thing — and the gap between them is where the next generation of telco operations lives. In this video, Amogh Dendukuri breaks down what it takes to get there: agentic AI, closed-loop operations, and an ecosystem building on NVIDIA platforms to make it real.",
-   "link": "https://x.com/nvidia/status/2085381082539594007",
-   "time": "2026-08-06T15:02:49+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: 🔗 Learn more at https://nvda.ws/4fRV1NM",
-   "link": "https://x.com/nvidia/status/2085381085345501467",
-   "time": "2026-08-06T15:02:49+00:00",
    "rt": false
   }
  ]
