@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T15:33:07.888358+00:00",
+ "updated": "2026-08-09T18:43:00.506339+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -165,76 +165,6 @@
    "link": "https://x.com/Eric_Wallace_/status/2085473085399150817",
    "time": "2026-08-06T21:08:24+00:00",
    "rt": true
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slider starting today. This version of GPT-5.6 Sol is for everyday chats, so it will only be available in the Chat experience in ChatGPT. The version of GPT-5.6 Sol that powers Work and Codex is not changing as part of this release. https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-   "link": "https://x.com/OpenAI/status/2085434718393418101",
-   "time": "2026-08-06T18:35:57+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: In addition to the upgrade in intelligence with GPT-5.6 Luna, Free and Go users can now use the “Think” button for more reasoning on harder questions.",
-   "link": "https://x.com/OpenAI/status/2085434717051240642",
-   "time": "2026-08-06T18:35:56+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Plus and Pro users also now have a slider to choose how much reasoning effort ChatGPT puts into each response. We think it’s easier to use, and we’re listening to your feedback.",
-   "link": "https://x.com/OpenAI/status/2085434715675426889",
-   "time": "2026-08-06T18:35:56+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: The new GPT-5.6 Sol powers all chats for paid users, including Instant, creating one consistent experience. In our high-stakes factuality evaluation covering finance, medicine and law, the new GPT‑5.6 Sol produced 68% fewer responses with factual errors than GPT‑5.5 Instant.",
-   "link": "https://x.com/OpenAI/status/2085434713821565297",
-   "time": "2026-08-06T18:35:55+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "Pinned: We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus & Pro users, delivering more factual, focused responses. - Free & Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.",
-   "link": "https://x.com/OpenAI/status/2085434712429052386",
-   "time": "2026-08-06T18:35:55+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Every business has different data, workflows and standards. Its AI should reflect that. Watch to see how NVIDIA Nemotron open models help teams build specialized AI they can trust, control and customize, then improve against the outcomes that matter most.",
-   "link": "https://x.com/nvidia/status/2085418201848971501",
-   "time": "2026-08-06T17:30:19+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Learn more: https://nvda.ws/4fyJljZ",
-   "link": "https://x.com/nvidia/status/2085418203115597832",
-   "time": "2026-08-06T17:30:19+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: We’re open sourcing the code and model weights on @Github, making them freely available for anyone to build on. This could be for academic purposes, operational forecasting, or developing more specialized, localized models. Explore the research → https://goo.gle/3RRTSOo",
-   "link": "https://x.com/GoogleDeepMind/status/2085395452657049735",
-   "time": "2026-08-06T15:59:55+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: During Hurricane Melissa, WeatherNext gave forecasters early predictions of its Category 5 landfall 5 days in advance with 80% confidence. This year, we’re providing 1,000 probabilistic predictions per storm to support forecasters, now accessible via WeatherLab → https://goo.gle/4yXzyf6",
-   "link": "https://x.com/GoogleDeepMind/status/2085395450656428306",
-   "time": "2026-08-06T15:59:54+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "Predicting cyclones accurately can help save lives - and every hour of lead time counts. Published in @Nature, our AI model WeatherNext achieves state-of-the-art accuracy in forecasting a storm’s track and intensity, giving us a critical extra 24 hours to prepare on average. 🧵",
-   "link": "https://x.com/GoogleDeepMind/status/2085395442347524506",
-   "time": "2026-08-06T15:59:52+00:00",
-   "rt": false
   }
  ]
 }
