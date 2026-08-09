@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T18:43:00.506339+00:00",
+ "updated": "2026-08-09T21:34:07.557305+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -158,13 +158,6 @@
    "link": "https://x.com/dylan522p/status/2085480002917945449",
    "time": "2026-08-06T21:35:53+00:00",
    "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "RT by @sama: Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more. https://www.youtube.com/watch?v=87DyyMV0kCY I hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!",
-   "link": "https://x.com/Eric_Wallace_/status/2085473085399150817",
-   "time": "2026-08-06T21:08:24+00:00",
-   "rt": true
   }
  ]
 }
