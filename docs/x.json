@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T21:32:10.600520+00:00",
+ "updated": "2026-08-09T01:52:37.812836+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -227,13 +227,6 @@
    "text": "R to @nvidia: 🔗 Learn more at https://nvda.ws/4fRV1NM",
    "link": "https://x.com/nvidia/status/2085381085345501467",
    "time": "2026-08-06T15:02:49+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @Akamai: The Open Secure AI Alliance community, together at @BlackHatEvents’ #BHUSA. 📸 Members met in person to connect, share ideas and keep moving AI security forward. A great moment for a growing community.",
-   "link": "https://x.com/nvidia/status/2085147268253138946",
-   "time": "2026-08-05T23:33:43+00:00",
    "rt": false
   }
  ]
