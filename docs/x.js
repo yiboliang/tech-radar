@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-10T16:01:11.213508+00:00",
+ "updated": "2026-08-10T18:59:34.547733+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,41 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "sama",
+   "text": "please consider using our models to help defend your systems",
+   "link": "https://x.com/sama/status/2086881528282587524",
+   "time": "2026-08-10T18:25:03+00:00",
+   "rt": false
+  },
+  {
+   "user": "AnthropicAI",
+   "text": "We asked an unreleased research version of Claude to take a stab at the Riemann hypothesis. It didn’t solve it, but it did make strides on a related problem: it increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from 41.6% to 67.2%. https://www.anthropic.com/research/riemann-zeta",
+   "link": "https://x.com/AnthropicAI/status/2086867246073401655",
+   "time": "2026-08-10T17:28:18+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: We've used GPT-5.6-Cyber extensively in real-world vulnerability research, including work that uncovered previously unknown vulnerabilities in popular open-source software like Chrome’s v8 engine.",
+   "link": "https://x.com/OpenAI/status/2086864372500942906",
+   "time": "2026-08-10T17:16:53+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Advanced capabilities require strong safeguards. That’s why access is limited to approved defenders, with additional controls and monitoring for higher-risk cybersecurity work. https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+   "link": "https://x.com/OpenAI/status/2086864374837150108",
+   "time": "2026-08-10T17:16:53+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "We’re expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for advanced, authorized cybersecurity work. As the threat landscape evolves, we’re putting frontier intelligence in the hands of trusted defenders before attackers can deploy offensive AI at scale.",
+   "link": "https://x.com/OpenAI/status/2086864365379010729",
+   "time": "2026-08-10T17:16:51+00:00",
+   "rt": false
+  },
   {
    "user": "dylan522p",
    "text": "RT by @dylan522p: Ultra-High Interactivity on NVIDIA GPUs? TileRT InferenceX Can TileRT software on NVIDIA GPU compete with Cerebras, Groq LPU, SambaNova? Batch Size 1, Disaggregated engine, High throughput prefill engine, High interactivity decode engine https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia",
@@ -102,20 +137,6 @@ window.RADAR_X = {
    "link": "https://x.com/fouadmatin/status/2085809572170866968",
    "time": "2026-08-07T19:25:29+00:00",
    "rt": true
-  },
-  {
-   "user": "OpenAI",
-   "text": "After evaluating one of our upcoming models, Astra, we're treating it as our first \"critical\" model for cybersecurity under our Preparedness Framework. This is a scenario we've planned for, and we're putting additional controls in place to ensure Astra's further development happens safely and securely. We're working hard to make Astra broadly available, and get its advanced cyber capabilities into",
-   "link": "https://x.com/OpenAI/status/2085801349866729975",
-   "time": "2026-08-07T18:52:48+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "congrats to oklo for achieving criticality! (less than a year after groundbreaking) https://oklo.com/newsroom/news-details/2026/Oklos-Groves-Reactor-Achieves-First-Criticality-in-Under-a-Year/default.aspx",
-   "link": "https://x.com/sama/status/2085765236876046500",
-   "time": "2026-08-07T16:29:18+00:00",
-   "rt": false
   }
  ]
 };
