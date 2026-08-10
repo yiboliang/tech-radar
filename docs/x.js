@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-10T04:39:36.994284+00:00",
+ "updated": "2026-08-10T07:45:17.099173+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -122,13 +122,6 @@ window.RADAR_X = {
    "text": "We sat down with Apollo 2 to talk about what it's really like running on Gemini Robotics 2. 🤖",
    "link": "https://x.com/GoogleDeepMind/status/2085737848318124083",
    "time": "2026-08-07T14:40:28+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "Team just posted a note with the title \"I can make your Bedrock\" to discuss Amazon bedrock revenue mix to institional clients. Incredible title",
-   "link": "https://x.com/dylan522p/status/2085610927760511360",
-   "time": "2026-08-07T06:16:08+00:00",
    "rt": false
   }
  ]
