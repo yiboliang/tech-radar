@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-10T01:57:18.870031+00:00",
+ "updated": "2026-08-10T04:39:36.994284+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -129,13 +129,6 @@ window.RADAR_X = {
    "text": "Team just posted a note with the title \"I can make your Bedrock\" to discuss Amazon bedrock revenue mix to institional clients. Incredible title",
    "link": "https://x.com/dylan522p/status/2085610927760511360",
    "time": "2026-08-07T06:16:08+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "Her \"Do you know Thom Browne?\" Me \"The Anthropic cofounder? Ya he's a legend!\"",
-   "link": "https://x.com/dylan522p/status/2085553638525845640",
-   "time": "2026-08-07T02:28:29+00:00",
    "rt": false
   }
  ]
