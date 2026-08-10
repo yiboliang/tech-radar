@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-09T21:34:07.557305+00:00",
+ "updated": "2026-08-10T01:57:18.870031+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -136,27 +136,6 @@ window.RADAR_X = {
    "text": "Her \"Do you know Thom Browne?\" Me \"The Anthropic cofounder? Ya he's a legend!\"",
    "link": "https://x.com/dylan522p/status/2085553638525845640",
    "time": "2026-08-07T02:28:29+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "Shrek is love, Shrek is life",
-   "link": "https://x.com/dylan522p/status/2085527605609128266",
-   "time": "2026-08-07T00:45:03+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Vera Rubin NVL72 Compute Tray. Designed to scale. Assembled in 1 minute. 100% automated. No cables, no hoses, no fans. A revolutionary new design that means faster ramp and faster time to revenue.",
-   "link": "https://x.com/nvidia/status/2085485069226106891",
-   "time": "2026-08-06T21:56:01+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "YC mantra is \"talk to your users\" Yet every good AI or software founder I know secretly thinks their users are retards",
-   "link": "https://x.com/dylan522p/status/2085480002917945449",
-   "time": "2026-08-06T21:35:53+00:00",
    "rt": false
   }
  ]
