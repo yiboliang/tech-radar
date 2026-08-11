@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-10T21:42:57.417405+00:00",
+ "updated": "2026-08-11T01:52:59.259972+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Read the full announcement: https://nvda.ws/4wnPm8C",
+   "link": "https://x.com/nvidia/status/2086936432191705300",
+   "time": "2026-08-10T22:03:13+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "NVIDIA compute is a productive, investable asset. We’re partnering with six of the world’s leading long-term capital providers to establish independent financing platforms aimed at mobilizing over $500B of third-party capital — helping customers access AI compute at scale. Jensen shares more:",
+   "link": "https://x.com/nvidia/status/2086936400830861440",
+   "time": "2026-08-10T22:03:06+00:00",
+   "rt": false
+  },
   {
    "user": "sama",
    "text": "please consider using our models to help defend your systems",
@@ -109,20 +123,6 @@ window.RADAR_X = {
    "link": "https://x.com/nvidianewsroom/status/2086036542502384018",
    "time": "2026-08-08T10:27:23+00:00",
    "rt": true
-  },
-  {
-   "user": "dylan522p",
-   "text": "Everyone in SF is talking about OSL, but no one wanna talk about ISL and cache hit rates :(",
-   "link": "https://x.com/dylan522p/status/2085894617065734600",
-   "time": "2026-08-08T01:03:25+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "astra is a powerful model and we are working to make it generally available. we do not think it is a good strategy to keep powerful models to a chosen few. given its cyber capabilities, we need a little big longer to do do this safely. but hopefully not too long!",
-   "link": "https://x.com/sama/status/2085862292311396515",
-   "time": "2026-08-07T22:54:58+00:00",
-   "rt": false
   }
  ]
 };
