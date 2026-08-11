@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-11T13:09:33.295419+00:00",
+ "updated": "2026-08-11T16:01:41.015257+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Pinned: Today, NVIDIA announced NVIDIA Nemotron 3.5 Lightning, a customizable model for high-volume, specialized work, and NVIDIA NeMo Switchyard, which helps agents route each workflow step across the models they choose. ⚡",
+   "link": "https://x.com/nvidia/status/2087172614896988545",
+   "time": "2026-08-11T13:41:43+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "R to @nvidia: Read the full announcement: https://nvda.ws/4wnPm8C",
@@ -102,13 +109,6 @@ window.RADAR_X = {
    "link": "https://x.com/dylan522p/status/2086170813796118561",
    "time": "2026-08-08T19:20:55+00:00",
    "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "RT by @sama: GPT-4 finished training four years ago today.",
-   "link": "https://x.com/gdb/status/2086092396023120286",
-   "time": "2026-08-08T14:09:19+00:00",
-   "rt": true
   }
  ]
 };
