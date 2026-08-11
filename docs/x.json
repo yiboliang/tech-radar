@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T10:01:49.355616+00:00",
+ "updated": "2026-08-11T13:09:33.295419+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -108,20 +108,6 @@
    "text": "RT by @sama: GPT-4 finished training four years ago today.",
    "link": "https://x.com/gdb/status/2086092396023120286",
    "time": "2026-08-08T14:09:19+00:00",
-   "rt": true
-  },
-  {
-   "user": "nvidia",
-   "text": "Armenia and Kazakhstan with @FirebirdCloudAI are building the infrastructure to create intelligence at home, powered by the NVIDIA DSX platform. 📽️ Hear from @JensenHuang on this important milestone for the CIS region. https://nvda.ws/4wiOu58",
-   "link": "https://x.com/nvidia/status/2086040693596659932",
-   "time": "2026-08-08T10:43:52+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "RT by @nvidia: Today in Armenia, @FirebirdCloudAI announced the launch of the CIS region's largest AI factory, designed to bring global demand for AI infrastructure, local development opportunities and new economic growth to the region. Powered by NVIDIA accelerated computing with @Dell and @SchneiderElec, the facility will provide developers, enterprises, universities and public institutions with",
-   "link": "https://x.com/nvidianewsroom/status/2086036542502384018",
-   "time": "2026-08-08T10:27:23+00:00",
    "rt": true
   }
  ]
