@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11T16:01:41.015257+00:00",
+ "updated": "2026-08-11T19:03:44.679110+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,20 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: The ChatGPT desktop app is now available in preview for desktop variants of these Linux distributions: • Ubuntu 24.04 LTS and 26.04 LTS • Debian 13 • Fedora 43 and 44 Install with .deb or .rpm packages for x64 or ARM64. http://openai.com/codex",
+   "link": "https://x.com/OpenAI/status/2087248033906094175",
+   "time": "2026-08-11T18:41:25+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "Now in preview: The ChatGPT desktop app for Linux. Use ChatGPT, ChatGPT Work, and Codex where you already work and build, with your projects and browser workflows on supported Linux systems.",
+   "link": "https://x.com/OpenAI/status/2087231350134980830",
+   "time": "2026-08-11T17:35:07+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "Pinned: Today, NVIDIA announced NVIDIA Nemotron 3.5 Lightning, a customizable model for high-volume, specialized work, and NVIDIA NeMo Switchyard, which helps agents route each workflow step across the models they choose. ⚡",
