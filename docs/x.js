@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-12T04:48:29.190920+00:00",
+ "updated": "2026-08-12T07:27:11.652697+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "dylan522p",
+   "text": "If a bagel can have everything, so can I",
+   "link": "https://x.com/dylan522p/status/2087405029410103632",
+   "time": "2026-08-12T05:05:15+00:00",
+   "rt": false
+  },
   {
    "user": "OpenAI",
    "text": "R to @OpenAI: The ChatGPT desktop app is now available in preview for desktop variants of these Linux distributions: • Ubuntu 24.04 LTS and 26.04 LTS • Debian 13 • Fedora 43 and 44 Install with .deb or .rpm packages for x64 or ARM64. http://openai.com/codex",
