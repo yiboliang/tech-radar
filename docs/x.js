@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-12T15:59:47.833142+00:00",
+ "updated": "2026-08-12T19:03:26.072391+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Congrats to the @SpaceXAI team on the release of Grok 4.6. Grok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability and lowest token cost.",
+   "link": "https://x.com/nvidia/status/2087576824159297605",
+   "time": "2026-08-12T16:27:54+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "R to @nvidia: Read the story: https://nvda.ws/4gt2Ta0",
