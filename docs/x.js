@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-12T13:13:18.223824+00:00",
+ "updated": "2026-08-12T15:59:47.833142+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,41 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Read the story: https://nvda.ws/4gt2Ta0",
+   "link": "https://x.com/nvidia/status/2087549780209914136",
+   "time": "2026-08-12T14:40:27+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "We’re honored that Glassdoor has named our founder and CEO, @JensenHuang , No. 1 on its 2026 Best CEOs list. 🎉 A very meaningful recognition, grounded in feedback from the people who make NVIDIA what it is.",
+   "link": "https://x.com/nvidia/status/2087549663289422297",
+   "time": "2026-08-12T14:39:59+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "R to @GoogleDeepMind: We built SL2T with the Deaf community - guided by Deaf Googlers and our AI Sign Language Advisory Committee. Bringing ASL input to phones is just the beginning and we’re working to expand this technology to more sign languages and applications. Find out more → https://goo.gle/3RM3kmx",
+   "link": "https://x.com/GoogleDeepMind/status/2087541220494938537",
+   "time": "2026-08-12T14:06:26+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "R to @GoogleDeepMind: SL2T is state-of-the-art on academic benchmarks, plus it's optimized for real-world use like one-handed signing while holding a phone. To protect privacy, it tracks body poses on-device, while our servers translate them into text.",
+   "link": "https://x.com/GoogleDeepMind/status/2087541217965809850",
+   "time": "2026-08-12T14:06:25+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "SL2T is our breakthrough sign language-to-text model powering new features for Deaf and hard of hearing users on @Android. Starting with American Sign Language-to-English on Pixel 11, people can sign directly into Gboard and Live Transcribe instead of typing.",
+   "link": "https://x.com/GoogleDeepMind/status/2087541213284946191",
+   "time": "2026-08-12T14:06:24+00:00",
+   "rt": false
+  },
   {
    "user": "dylan522p",
    "text": "If a bagel can have everything, so can I",
@@ -95,27 +130,6 @@ window.RADAR_X = {
    "link": "https://x.com/SemiAnalysis_/status/2086697535549440370",
    "time": "2026-08-10T06:13:56+00:00",
    "rt": true
-  },
-  {
-   "user": "sama",
-   "text": "lol another one of the things i like most about openai is tibo",
-   "link": "https://x.com/sama/status/2086470022772457950",
-   "time": "2026-08-09T15:09:52+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "R to @sama: i would be pretty impressed if the team just made magic intelligence in the sky but i am extra impressed that they do so with such a focus on making sure everyone wins (ranging from stuff like business privacy to low prices to predictable policies to more)",
-   "link": "https://x.com/sama/status/2086469875581755696",
-   "time": "2026-08-09T15:09:17+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "one of the things i like most about the openai team is how focused they are on our customers and users succeeding, and how much they celebrate it",
-   "link": "https://x.com/sama/status/2086468661670461671",
-   "time": "2026-08-09T15:04:28+00:00",
-   "rt": false
   }
  ]
 };
