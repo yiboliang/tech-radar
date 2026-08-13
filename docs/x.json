@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T16:00:00.716879+00:00",
+ "updated": "2026-08-13T19:04:41.704907+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -14,9 +14,44 @@
  "items": [
   {
    "user": "nvidia",
-   "text": "R to @nvidia: That's how compute becomes revenue. Explore the NVIDIA AI Tokenomics Guide: https://nvda.ws/4cw5yx9",
-   "link": "https://x.com/nvidia/status/2087925547321999431",
-   "time": "2026-08-13T15:33:36+00:00",
+   "text": "R to @nvidia: That's how compute becomes revenue. Explore the NVIDIA AI Tokenomics Guide: https://nvda.ws/4zltqh6",
+   "link": "https://x.com/nvidia/status/2087952884130365712",
+   "time": "2026-08-13T17:22:14+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "R to @GoogleDeepMind: 🔵 It shows strong gains over 3.6 Flash in key coding tasks like debugging and issue resolution. 🔵 It’s better at designing more functional web layouts and apps using fewer prompts. 🔵 It delivers improved reasoning and accuracy when completing real-world business workflows. Try it now in @Antigravity, with API access in @GoogleAIStudio and @AndroidStudio. Google AI Pro and Ult",
+   "link": "https://x.com/GoogleDeepMind/status/2087948368957894859",
+   "time": "2026-08-13T17:04:18+00:00",
+   "rt": false
+  },
+  {
+   "user": "GoogleDeepMind",
+   "text": "Gemini 3.7 Flash is here. It’s stronger for coding, knowledge work, and web development. 🧵",
+   "link": "https://x.com/GoogleDeepMind/status/2087948366294515977",
+   "time": "2026-08-13T17:04:17+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Powered by @Cerebras, Ultrafast generates up to 750 tokens per second, bringing our most intelligent model to products and workflows where every second counts. Ultrafast is designed for businesses where faster frontier intelligence creates a measurable advantage, including real-time voice and customer support, commerce, coding and design, financial research, and security response. ht",
+   "link": "https://x.com/OpenAI/status/2087947724725665908",
+   "time": "2026-08-13T17:01:44+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: We’re working with an initial group of customers to understand where this speed makes the biggest difference, and how those learnings can inform our products over time. If your business requires frontier intelligence at the highest speed, you can request to be notified as capacity expands. https://openai.com/form/ultrafast/",
+   "link": "https://x.com/OpenAI/status/2087947726269169917",
+   "time": "2026-08-13T17:01:44+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed. Launching first in the OpenAI API to a select group of customers with expanded access to more businesses as capacity grows.",
+   "link": "https://x.com/OpenAI/status/2087947721936359705",
+   "time": "2026-08-13T17:01:43+00:00",
    "rt": false
   },
   {
@@ -122,41 +157,6 @@
    "text": "NVIDIA compute is a productive, investable asset. We’re partnering with six of the world’s leading long-term capital providers to establish independent financing platforms aimed at mobilizing over $500B of third-party capital — helping customers access AI compute at scale. Jensen shares more:",
    "link": "https://x.com/nvidia/status/2086936400830861440",
    "time": "2026-08-10T22:03:06+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "please consider using our models to help defend your systems",
-   "link": "https://x.com/sama/status/2086881528282587524",
-   "time": "2026-08-10T18:25:03+00:00",
-   "rt": false
-  },
-  {
-   "user": "AnthropicAI",
-   "text": "We asked an unreleased research version of Claude to take a stab at the Riemann hypothesis. It didn’t solve it, but it did make strides on a related problem: it increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from 41.6% to 67.2%. https://www.anthropic.com/research/riemann-zeta",
-   "link": "https://x.com/AnthropicAI/status/2086867246073401655",
-   "time": "2026-08-10T17:28:18+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: We've used GPT-5.6-Cyber extensively in real-world vulnerability research, including work that uncovered previously unknown vulnerabilities in popular open-source software like Chrome’s v8 engine.",
-   "link": "https://x.com/OpenAI/status/2086864372500942906",
-   "time": "2026-08-10T17:16:53+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Advanced capabilities require strong safeguards. That’s why access is limited to approved defenders, with additional controls and monitoring for higher-risk cybersecurity work. https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-   "link": "https://x.com/OpenAI/status/2086864374837150108",
-   "time": "2026-08-10T17:16:53+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "We’re expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for advanced, authorized cybersecurity work. As the threat landscape evolves, we’re putting frontier intelligence in the hands of trusted defenders before attackers can deploy offensive AI at scale.",
-   "link": "https://x.com/OpenAI/status/2086864365379010729",
-   "time": "2026-08-10T17:16:51+00:00",
    "rt": false
   }
  ]
