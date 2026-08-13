@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-13T13:15:56.035335+00:00",
+ "updated": "2026-08-13T16:00:00.716879+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,41 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: That's how compute becomes revenue. Explore the NVIDIA AI Tokenomics Guide: https://nvda.ws/4cw5yx9",
+   "link": "https://x.com/nvidia/status/2087925547321999431",
+   "time": "2026-08-13T15:33:36+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Maximize token monetization.",
+   "link": "https://x.com/nvidia/status/2087925395915944280",
+   "time": "2026-08-13T15:33:00+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "AI factories are the industrial infrastructure of the AI era. Tokens are the new commodity. How do you optimize AI token economics? 🧵",
+   "link": "https://x.com/nvidia/status/2087924679163965756",
+   "time": "2026-08-13T15:30:09+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: We examine how these orgs are putting AI to work, and how agentic workflows are expanding across industries and functions: https://openai.com/index/how-enterprises-put-ai-to-work",
+   "link": "https://x.com/OpenAI/status/2087912625581719835",
+   "time": "2026-08-13T14:42:16+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "The top 10% of enterprises use plugins twice as often and skills six times as often as typical firms. These frontier firms are not ahead by accident.",
+   "link": "https://x.com/OpenAI/status/2087912623883051300",
+   "time": "2026-08-13T14:42:15+00:00",
+   "rt": false
+  },
   {
    "user": "nvidia",
    "text": "Congrats to the @SpaceXAI team on the release of Grok 4.6. Grok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability and lowest token cost.",
@@ -80,13 +115,6 @@ window.RADAR_X = {
    "text": "Pinned: Today, NVIDIA announced NVIDIA Nemotron 3.5 Lightning, a customizable model for high-volume, specialized work, and NVIDIA NeMo Switchyard, which helps agents route each workflow step across the models they choose. ⚡",
    "link": "https://x.com/nvidia/status/2087172614896988545",
    "time": "2026-08-11T13:41:43+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Read the full announcement: https://nvda.ws/4wnPm8C",
-   "link": "https://x.com/nvidia/status/2086936432191705300",
-   "time": "2026-08-10T22:03:13+00:00",
    "rt": false
   },
   {
