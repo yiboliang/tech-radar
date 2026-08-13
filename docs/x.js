@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-13T04:51:57.622540+00:00",
+ "updated": "2026-08-13T07:37:11.483417+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -130,13 +130,6 @@ window.RADAR_X = {
    "link": "https://x.com/OpenAI/status/2086864365379010729",
    "time": "2026-08-10T17:16:51+00:00",
    "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "RT by @dylan522p: Ultra-High Interactivity on NVIDIA GPUs? TileRT InferenceX Can TileRT software on NVIDIA GPU compete with Cerebras, Groq LPU, SambaNova? Batch Size 1, Disaggregated engine, High throughput prefill engine, High interactivity decode engine https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia",
-   "link": "https://x.com/SemiAnalysis_/status/2086697535549440370",
-   "time": "2026-08-10T06:13:56+00:00",
-   "rt": true
   }
  ]
 };
