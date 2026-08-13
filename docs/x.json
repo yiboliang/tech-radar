@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T19:04:41.704907+00:00",
+ "updated": "2026-08-13T21:48:20.115858+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,48 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac. Rolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks.",
+   "link": "https://x.com/OpenAI/status/2087996499263369267",
+   "time": "2026-08-13T20:15:33+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "R to @OpenAI: Computer History builds on the Chronicle research preview with reduced token usage and more privacy controls. A new timeline view gives you the ability to look back on your work and build skills from your frequent tasks. From there or the menu bar, you can: - Clear all or parts of your history - Include or exclude apps and websites - Pause and resume Computer History https://learn.ch",
+   "link": "https://x.com/OpenAI/status/2087996497908609389",
+   "time": "2026-08-13T20:15:32+00:00",
+   "rt": false
+  },
+  {
+   "user": "OpenAI",
+   "text": "ChatGPT can now remember your activity across the apps and websites on your computer. With Computer History in the desktop app, future interactions feel more personalized and require less explanation.",
+   "link": "https://x.com/OpenAI/status/2087996496088297746",
+   "time": "2026-08-13T20:15:32+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "AI is becoming a new computing model for media and entertainment. At the 2026 Runway AI Summit, NVIDIA’s Richard Kerris explored how real-time generative AI can make creative production a live, artist-controlled process. Powered by NVIDIA Vera Rubin, Runway brought Gen-4.5 to its platform in one day, helping close the gap between imagining a scene and bringing it to life.",
+   "link": "https://x.com/nvidia/status/2087991151806521392",
+   "time": "2026-08-13T19:54:18+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "R to @nvidia: Discover why the story is becoming the interface: https://nvda.ws/4hwKjip",
+   "link": "https://x.com/nvidia/status/2087991153358418277",
+   "time": "2026-08-13T19:54:18+00:00",
+   "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: Happy 10th Birthday to #NVIDIADGX! 🎉 Over the last decade, DGX has transformed from a single system into the essential blueprint for the AI factory. The AI revolution was ignited the moment Jensen hand-delivered the first DGX-1 AI supercomputer to OpenAI. Thank you to everyone who's been with us on this journey. Here’s to the next 10 years! #DecadeOfDGX #TBT",
+   "link": "https://x.com/NVIDIAAIInfra/status/2087977606872461660",
+   "time": "2026-08-13T19:00:28+00:00",
+   "rt": true
+  },
   {
    "user": "nvidia",
    "text": "R to @nvidia: That's how compute becomes revenue. Explore the NVIDIA AI Tokenomics Guide: https://nvda.ws/4zltqh6",
@@ -91,13 +133,6 @@
   },
   {
    "user": "nvidia",
-   "text": "R to @nvidia: Read the story: https://nvda.ws/4gt2Ta0",
-   "link": "https://x.com/nvidia/status/2087549780209914136",
-   "time": "2026-08-12T14:40:27+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
    "text": "We’re honored that Glassdoor has named our founder and CEO, @JensenHuang , No. 1 on its 2026 Best CEOs list. 🎉 A very meaningful recognition, grounded in feedback from the people who make NVIDIA what it is.",
    "link": "https://x.com/nvidia/status/2087549663289422297",
    "time": "2026-08-12T14:39:59+00:00",
@@ -129,34 +164,6 @@
    "text": "If a bagel can have everything, so can I",
    "link": "https://x.com/dylan522p/status/2087405029410103632",
    "time": "2026-08-12T05:05:15+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: The ChatGPT desktop app is now available in preview for desktop variants of these Linux distributions: • Ubuntu 24.04 LTS and 26.04 LTS • Debian 13 • Fedora 43 and 44 Install with .deb or .rpm packages for x64 or ARM64. http://openai.com/codex",
-   "link": "https://x.com/OpenAI/status/2087248033906094175",
-   "time": "2026-08-11T18:41:25+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "Now in preview: The ChatGPT desktop app for Linux. Use ChatGPT, ChatGPT Work, and Codex where you already work and build, with your projects and browser workflows on supported Linux systems.",
-   "link": "https://x.com/OpenAI/status/2087231350134980830",
-   "time": "2026-08-11T17:35:07+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "Pinned: Today, NVIDIA announced NVIDIA Nemotron 3.5 Lightning, a customizable model for high-volume, specialized work, and NVIDIA NeMo Switchyard, which helps agents route each workflow step across the models they choose. ⚡",
-   "link": "https://x.com/nvidia/status/2087172614896988545",
-   "time": "2026-08-11T13:41:43+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "NVIDIA compute is a productive, investable asset. We’re partnering with six of the world’s leading long-term capital providers to establish independent financing platforms aimed at mobilizing over $500B of third-party capital — helping customers access AI compute at scale. Jensen shares more:",
-   "link": "https://x.com/nvidia/status/2086936400830861440",
-   "time": "2026-08-10T22:03:06+00:00",
    "rt": false
   }
  ]
