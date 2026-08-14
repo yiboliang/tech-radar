@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T15:53:36.115407+00:00",
+ "updated": "2026-08-14T18:56:43.408623+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "AnthropicAI",
+   "text": "As part of our Responsible Scaling Policy, we publish regular Risk Reports. These share detailed information on the risks of our systems and how prepared we are to address them. Our second Risk Report is now available: https://www.anthropic.com/aug-2026-risk-report",
+   "link": "https://x.com/AnthropicAI/status/2088324824863236248",
+   "time": "2026-08-14T18:00:12+00:00",
+   "rt": false
+  },
   {
    "user": "sama",
    "text": "/ultrafast",
