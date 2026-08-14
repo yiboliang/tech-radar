@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13T21:48:20.115858+00:00",
+ "updated": "2026-08-14T02:05:24.667487+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "nvidia",
+   "text": "Original then, original now at NVIDIA HQ. The @Jaguar Type 01, powered by NVIDIA DRIVE, joined a classic 1966 Jaguar E-Type at HQ, where the team caught up with @JensenHuang ahead of #MontereyCarWeek.",
+   "link": "https://x.com/nvidia/status/2088057386384916833",
+   "time": "2026-08-14T00:17:29+00:00",
+   "rt": false
+  },
   {
    "user": "OpenAI",
    "text": "R to @OpenAI: To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac. Rolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks.",
@@ -125,17 +132,17 @@
    "rt": false
   },
   {
+   "user": "sama",
+   "text": "RT by @sama: The OpenAI Foundation is launching AI for Civil Society and Philanthropy to help nonprofits, community organizations, and other trusted partners put advanced AI to work on urgent challenges, develop practical solutions and scale what works. The first effort is a $100 million commitment with Common Health Coalition to launch Breakthroughs to Follow-through to help care teams use AI to ",
+   "link": "https://x.com/FoundationOAI/status/2087911509997531178",
+   "time": "2026-08-13T14:37:50+00:00",
+   "rt": true
+  },
+  {
    "user": "nvidia",
    "text": "Congrats to the @SpaceXAI team on the release of Grok 4.6. Grok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability and lowest token cost.",
    "link": "https://x.com/nvidia/status/2087576824159297605",
    "time": "2026-08-12T16:27:54+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "We’re honored that Glassdoor has named our founder and CEO, @JensenHuang , No. 1 on its 2026 Best CEOs list. 🎉 A very meaningful recognition, grounded in feedback from the people who make NVIDIA what it is.",
-   "link": "https://x.com/nvidia/status/2087549663289422297",
-   "time": "2026-08-12T14:39:59+00:00",
    "rt": false
   },
   {
