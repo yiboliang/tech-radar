@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T04:49:26.845730+00:00",
+ "updated": "2026-08-14T07:27:04.394308+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -49,15 +49,15 @@
   },
   {
    "user": "OpenAI",
-   "text": "R to @OpenAI: Computer History builds on the Chronicle research preview with reduced token usage and more privacy controls. A new timeline view gives you the ability to look back on your work and build skills from your frequent tasks. From there or the menu bar, you can: - Clear all or parts of your history - Include or exclude apps and websites - Pause and resume Computer History https://learn.ch",
-   "link": "https://x.com/OpenAI/status/2087996497908609389",
+   "text": "ChatGPT can now remember your activity across the apps and websites on your computer. With Computer History in the desktop app, future interactions feel more personalized and require less explanation.",
+   "link": "https://x.com/OpenAI/status/2087996496088297746",
    "time": "2026-08-13T20:15:32+00:00",
    "rt": false
   },
   {
    "user": "OpenAI",
-   "text": "ChatGPT can now remember your activity across the apps and websites on your computer. With Computer History in the desktop app, future interactions feel more personalized and require less explanation.",
-   "link": "https://x.com/OpenAI/status/2087996496088297746",
+   "text": "R to @OpenAI: Computer History builds on the Chronicle research preview with reduced token usage and more privacy controls. A new timeline view gives you the ability to look back on your work and build skills from your frequent tasks. From there or the menu bar, you can: - Clear all or parts of your history - Include or exclude apps and websites - Pause and resume Computer History https://learn.ch",
+   "link": "https://x.com/OpenAI/status/2087996497908609389",
    "time": "2026-08-13T20:15:32+00:00",
    "rt": false
   },
