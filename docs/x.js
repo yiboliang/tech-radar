@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-15T12:40:17.195692+00:00",
+ "updated": "2026-08-15T15:22:04.455509+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -172,27 +172,6 @@ window.RADAR_X = {
    "link": "https://x.com/FoundationOAI/status/2087911509997531178",
    "time": "2026-08-13T14:37:50+00:00",
    "rt": true
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: We built SL2T with the Deaf community - guided by Deaf Googlers and our AI Sign Language Advisory Committee. Bringing ASL input to phones is just the beginning and we’re working to expand this technology to more sign languages and applications. Find out more → https://goo.gle/3RM3kmx",
-   "link": "https://x.com/GoogleDeepMind/status/2087541220494938537",
-   "time": "2026-08-12T14:06:26+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: SL2T is state-of-the-art on academic benchmarks, plus it's optimized for real-world use like one-handed signing while holding a phone. To protect privacy, it tracks body poses on-device, while our servers translate them into text.",
-   "link": "https://x.com/GoogleDeepMind/status/2087541217965809850",
-   "time": "2026-08-12T14:06:25+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "SL2T is our breakthrough sign language-to-text model powering new features for Deaf and hard of hearing users on @Android. Starting with American Sign Language-to-English on Pixel 11, people can sign directly into Gboard and Live Transcribe instead of typing.",
-   "link": "https://x.com/GoogleDeepMind/status/2087541213284946191",
-   "time": "2026-08-12T14:06:24+00:00",
-   "rt": false
   }
  ]
 };
