@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-15T03:40:26.336981+00:00",
+ "updated": "2026-08-15T06:40:47.169567+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -192,13 +192,6 @@ window.RADAR_X = {
    "text": "SL2T is our breakthrough sign language-to-text model powering new features for Deaf and hard of hearing users on @Android. Starting with American Sign Language-to-English on Pixel 11, people can sign directly into Gboard and Live Transcribe instead of typing.",
    "link": "https://x.com/GoogleDeepMind/status/2087541213284946191",
    "time": "2026-08-12T14:06:24+00:00",
-   "rt": false
-  },
-  {
-   "user": "dylan522p",
-   "text": "If a bagel can have everything, so can I",
-   "link": "https://x.com/dylan522p/status/2087405029410103632",
-   "time": "2026-08-12T05:05:15+00:00",
    "rt": false
   }
  ]
