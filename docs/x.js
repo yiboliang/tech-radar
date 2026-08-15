@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-14T21:26:51.310071+00:00",
+ "updated": "2026-08-15T01:19:42.349302+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -28,6 +28,13 @@ window.RADAR_X = {
   },
   {
    "user": "nvidia",
+   "text": "RT by @nvidia: NVIDIA interns. This is an incredible time to be in technology. Loved having you for the summer. Come back and do your life’s work at @NVIDIA.",
+   "link": "https://x.com/JensenHuang/status/2088350155758313875",
+   "time": "2026-08-14T19:40:51+00:00",
+   "rt": true
+  },
+  {
+   "user": "nvidia",
    "text": "This summer, NVIDIA interns brought their curiosity, creativity and energy to teams across the company - learning, building and helping shape what’s next. To our 2026 interns: thank you for spending your summer with us. 💚",
    "link": "https://x.com/nvidia/status/2088346841469379033",
    "time": "2026-08-14T19:27:41+00:00",
@@ -39,6 +46,13 @@ window.RADAR_X = {
    "link": "https://x.com/AnthropicAI/status/2088343978873966687",
    "time": "2026-08-14T19:16:18+00:00",
    "rt": false
+  },
+  {
+   "user": "nvidia",
+   "text": "RT by @nvidia: It's been an amazing week for open models running on NVIDIA Local AI systems! 👀 Here's a few you’ll want to know about, all ready to run locally on NVIDIA RTX, DGX Spark, DGX Station, and Jetson.",
+   "link": "https://x.com/NVIDIARTXSpark/status/2088339875304984672",
+   "time": "2026-08-14T19:00:00+00:00",
+   "rt": true
   },
   {
    "user": "GoogleDeepMind",
@@ -102,20 +116,6 @@ window.RADAR_X = {
    "link": "https://x.com/OpenAI/status/2087996497908609389",
    "time": "2026-08-13T20:15:32+00:00",
    "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "AI is becoming a new computing model for media and entertainment. At the 2026 Runway AI Summit, NVIDIA’s Richard Kerris explored how real-time generative AI can make creative production a live, artist-controlled process. Powered by NVIDIA Vera Rubin, Runway brought Gen-4.5 to its platform in one day, helping close the gap between imagining a scene and bringing it to life.",
-   "link": "https://x.com/nvidia/status/2087991151806521392",
-   "time": "2026-08-13T19:54:18+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "RT by @nvidia: Happy 10th Birthday to #NVIDIADGX! 🎉 Over the last decade, DGX has transformed from a single system into the essential blueprint for the AI factory. The AI revolution was ignited the moment Jensen hand-delivered the first DGX-1 AI supercomputer to OpenAI. Thank you to everyone who's been with us on this journey. Here’s to the next 10 years! #DecadeOfDGX #TBT",
-   "link": "https://x.com/NVIDIAAIInfra/status/2087977606872461660",
-   "time": "2026-08-13T19:00:28+00:00",
-   "rt": true
   },
   {
    "user": "GoogleDeepMind",
