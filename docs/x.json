@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T12:41:42.173092+00:00",
+ "updated": "2026-08-16T15:23:40.367629+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -151,27 +151,6 @@
    "link": "https://x.com/OpenAI/status/2087947721936359705",
    "time": "2026-08-13T17:01:43+00:00",
    "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: We examine how these orgs are putting AI to work, and how agentic workflows are expanding across industries and functions: https://openai.com/index/how-enterprises-put-ai-to-work",
-   "link": "https://x.com/OpenAI/status/2087912625581719835",
-   "time": "2026-08-13T14:42:16+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "The top 10% of enterprises use plugins twice as often and skills six times as often as typical firms. These frontier firms are not ahead by accident.",
-   "link": "https://x.com/OpenAI/status/2087912623883051300",
-   "time": "2026-08-13T14:42:15+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "RT by @sama: The OpenAI Foundation is launching AI for Civil Society and Philanthropy to help nonprofits, community organizations, and other trusted partners put advanced AI to work on urgent challenges, develop practical solutions and scale what works. The first effort is a $100 million commitment with Common Health Coalition to launch Breakthroughs to Follow-through to help care teams use AI to ",
-   "link": "https://x.com/FoundationOAI/status/2087911509997531178",
-   "time": "2026-08-13T14:37:50+00:00",
-   "rt": true
   }
  ]
 }
