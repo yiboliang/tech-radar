@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-16T18:31:16.527315+00:00",
+ "updated": "2026-08-16T21:21:44.344384+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -94,27 +94,6 @@ window.RADAR_X = {
    "text": "Original then, original now at NVIDIA HQ. The @Jaguar Type 01, powered by NVIDIA DRIVE, joined a classic 1966 Jaguar E-Type at HQ, where the team caught up with @JensenHuang ahead of #MontereyCarWeek.",
    "link": "https://x.com/nvidia/status/2088057386384916833",
    "time": "2026-08-14T00:17:29+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: To use Computer History, opt in under Settings → Integrations in the ChatGPT desktop app on Mac. Rolling out globally now to Pro, Business, and Enterprise users, with access in the EEA, UK, and Switzerland to follow in the coming weeks.",
-   "link": "https://x.com/OpenAI/status/2087996499263369267",
-   "time": "2026-08-13T20:15:33+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "ChatGPT can now remember your activity across the apps and websites on your computer. With Computer History in the desktop app, future interactions feel more personalized and require less explanation.",
-   "link": "https://x.com/OpenAI/status/2087996496088297746",
-   "time": "2026-08-13T20:15:32+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Computer History builds on the Chronicle research preview with reduced token usage and more privacy controls. A new timeline view gives you the ability to look back on your work and build skills from your frequent tasks. From there or the menu bar, you can: - Clear all or parts of your history - Include or exclude apps and websites - Pause and resume Computer History https://learn.ch",
-   "link": "https://x.com/OpenAI/status/2087996497908609389",
-   "time": "2026-08-13T20:15:32+00:00",
    "rt": false
   }
  ]
