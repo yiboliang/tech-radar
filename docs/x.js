@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-16T15:23:40.367629+00:00",
+ "updated": "2026-08-16T18:31:16.527315+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -115,41 +115,6 @@ window.RADAR_X = {
    "text": "R to @OpenAI: Computer History builds on the Chronicle research preview with reduced token usage and more privacy controls. A new timeline view gives you the ability to look back on your work and build skills from your frequent tasks. From there or the menu bar, you can: - Clear all or parts of your history - Include or exclude apps and websites - Pause and resume Computer History https://learn.ch",
    "link": "https://x.com/OpenAI/status/2087996497908609389",
    "time": "2026-08-13T20:15:32+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "R to @GoogleDeepMind: 🔵 It shows strong gains over 3.6 Flash in key coding tasks like debugging and issue resolution. 🔵 It’s better at designing more functional web layouts and apps using fewer prompts. 🔵 It delivers improved reasoning and accuracy when completing real-world business workflows. Try it now in @Antigravity, with API access in @GoogleAIStudio and @AndroidStudio. Google AI Pro and Ult",
-   "link": "https://x.com/GoogleDeepMind/status/2087948368957894859",
-   "time": "2026-08-13T17:04:18+00:00",
-   "rt": false
-  },
-  {
-   "user": "GoogleDeepMind",
-   "text": "Gemini 3.7 Flash is here. It’s stronger for coding, knowledge work, and web development. 🧵",
-   "link": "https://x.com/GoogleDeepMind/status/2087948366294515977",
-   "time": "2026-08-13T17:04:17+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: Powered by @Cerebras, Ultrafast generates up to 750 tokens per second, bringing our most intelligent model to products and workflows where every second counts. Ultrafast is designed for businesses where faster frontier intelligence creates a measurable advantage, including real-time voice and customer support, commerce, coding and design, financial research, and security response. ht",
-   "link": "https://x.com/OpenAI/status/2087947724725665908",
-   "time": "2026-08-13T17:01:44+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "R to @OpenAI: We’re working with an initial group of customers to understand where this speed makes the biggest difference, and how those learnings can inform our products over time. If your business requires frontier intelligence at the highest speed, you can request to be notified as capacity expands. https://openai.com/form/ultrafast/",
-   "link": "https://x.com/OpenAI/status/2087947726269169917",
-   "time": "2026-08-13T17:01:44+00:00",
-   "rt": false
-  },
-  {
-   "user": "OpenAI",
-   "text": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed. Launching first in the OpenAI API to a select group of customers with expanded access to more businesses as capacity grows.",
-   "link": "https://x.com/OpenAI/status/2087947721936359705",
-   "time": "2026-08-13T17:01:43+00:00",
    "rt": false
   }
  ]
