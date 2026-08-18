@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-18T12:50:11.396874+00:00",
+ "updated": "2026-08-18T15:33:33.896634+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "GoogleDeepMind",
+   "text": "RT by @GoogleDeepMind: Matrix multiplication is the basic computational operation that powers modern computing (including AI). Yet, the theoretical fastest speed at which computers can multiply matrices (omega ω) is still unknown and has been a longstanding challenge for complexity theory and computer science. Today, we announce a new record for omega (ω<2.371177). This is the result of a great te",
+   "link": "https://x.com/pushmeet/status/2089717134129565763",
+   "time": "2026-08-18T14:12:44+00:00",
+   "rt": true
+  },
   {
    "user": "nvidia",
    "text": "R to @nvidia: Learn more about the news: https://nvda.ws/4gAetQC",
