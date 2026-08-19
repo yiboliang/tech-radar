@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-19T18:37:49.952805+00:00",
+ "updated": "2026-08-19T21:26:38.576741+00:00",
  "new_stars": [
   {
    "name": "deepseek-ai/deepseek-harness",
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "desc": "DeepSeek Harness: Everything is a Plugin.",
-   "stars": 166525,
+   "stars": 166874,
    "lang": "TypeScript",
    "created": "2026-08-13T11:56:32Z",
    "pushed": "2026-08-19T15:37:57Z"
@@ -14,7 +14,7 @@
    "name": "anywhere-labs/deepseek-harness-desktop",
    "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
    "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-   "stars": 15058,
+   "stars": 15100,
    "lang": "TypeScript",
    "created": "2026-08-13T16:30:50Z",
    "pushed": "2026-08-19T17:49:57Z"
@@ -23,7 +23,7 @@
    "name": "awesome-dsh-plugin/awesome-dsh-plugin",
    "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
    "desc": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-   "stars": 10010,
+   "stars": 10024,
    "lang": "Python",
    "created": "2026-08-13T13:55:31Z",
    "pushed": "2026-08-19T18:03:57Z"
@@ -32,7 +32,7 @@
    "name": "yjh051108/dsh-routing-suite",
    "url": "https://github.com/yjh051108/dsh-routing-suite",
    "desc": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
-   "stars": 6283,
+   "stars": 6295,
    "lang": "PowerShell",
    "created": "2026-08-14T21:20:55Z",
    "pushed": "2026-08-17T16:58:53Z"
@@ -41,7 +41,7 @@
    "name": "xiaobright/dsh-anchored-standard",
    "url": "https://github.com/xiaobright/dsh-anchored-standard",
    "desc": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-   "stars": 3634,
+   "stars": 3637,
    "lang": "JavaScript",
    "created": "2026-08-14T14:06:39Z",
    "pushed": "2026-08-17T06:19:58Z"
@@ -50,16 +50,16 @@
    "name": "yetone/cumora",
    "url": "https://github.com/yetone/cumora",
    "desc": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-   "stars": 2673,
+   "stars": 2676,
    "lang": "TypeScript",
    "created": "2026-08-17T09:13:52Z",
-   "pushed": "2026-08-19T12:20:35Z"
+   "pushed": "2026-08-19T20:02:50Z"
   },
   {
    "name": "cordiverse/paper",
    "url": "https://github.com/cordiverse/paper",
    "desc": "A Programming Paradigm for Spatiotemporal Composability",
-   "stars": 2383,
+   "stars": 2387,
    "lang": "",
    "created": "2026-08-13T09:53:33Z",
    "pushed": "2026-08-13T12:54:03Z"
@@ -68,16 +68,16 @@
    "name": "ccch1mneyyy/dsh-TUI",
    "url": "https://github.com/ccch1mneyyy/dsh-TUI",
    "desc": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rol",
-   "stars": 2074,
+   "stars": 2076,
    "lang": "TypeScript",
    "created": "2026-08-13T12:49:31Z",
-   "pushed": "2026-08-19T18:29:56Z"
+   "pushed": "2026-08-19T21:23:34Z"
   },
   {
    "name": "s1dashu/ip-as-logo-skill",
    "url": "https://github.com/s1dashu/ip-as-logo-skill",
    "desc": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-   "stars": 1977,
+   "stars": 2025,
    "lang": "",
    "created": "2026-08-18T13:59:23Z",
    "pushed": "2026-08-19T17:17:10Z"
@@ -86,7 +86,7 @@
    "name": "xoreaxeaxeax/skitter-creek-bath-salts",
    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
    "desc": "Unlocking _everything_ on the CPU with DRAM scrambling",
-   "stars": 1847,
+   "stars": 1850,
    "lang": "C",
    "created": "2026-08-13T13:50:42Z",
    "pushed": "2026-08-13T16:59:41Z"
@@ -95,7 +95,7 @@
    "name": "Small-tailqwq/dsh-deep-whale",
    "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
    "desc": "Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。",
-   "stars": 1456,
+   "stars": 1458,
    "lang": "TypeScript",
    "created": "2026-08-13T13:02:14Z",
    "pushed": "2026-08-19T15:30:56Z"
@@ -104,7 +104,7 @@
    "name": "dsh-market/dsh-market",
    "url": "https://github.com/dsh-market/dsh-market",
    "desc": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
-   "stars": 1235,
+   "stars": 1240,
    "lang": "TypeScript",
    "created": "2026-08-14T04:58:15Z",
    "pushed": "2026-08-19T18:02:19Z"
@@ -113,7 +113,7 @@
    "name": "Leutenegger/book-to-skill",
    "url": "https://github.com/Leutenegger/book-to-skill",
    "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-   "stars": 1201,
+   "stars": 1202,
    "lang": "Python",
    "created": "2026-08-13T13:15:23Z",
    "pushed": "2026-08-14T11:41:40Z"
@@ -122,7 +122,7 @@
    "name": "cinderline/northcinder",
    "url": "https://github.com/cinderline/northcinder",
    "desc": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-   "stars": 1190,
+   "stars": 1193,
    "lang": "JavaScript",
    "created": "2026-08-17T11:42:31Z",
    "pushed": "2026-08-19T06:08:22Z"
@@ -131,7 +131,7 @@
    "name": "dataelement/dsh-desktop",
    "url": "https://github.com/dataelement/dsh-desktop",
    "desc": "DeepSeek Harness Desktop",
-   "stars": 1088,
+   "stars": 1092,
    "lang": "TypeScript",
    "created": "2026-08-13T13:45:50Z",
    "pushed": "2026-08-19T18:35:05Z"
@@ -140,7 +140,7 @@
    "name": "alchaincyf/deepseek-harness-orange-book",
    "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
    "desc": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
-   "stars": 1069,
+   "stars": 1070,
    "lang": "HTML",
    "created": "2026-08-14T03:14:33Z",
    "pushed": "2026-08-17T13:09:21Z"
@@ -149,7 +149,7 @@
    "name": "ZSvirt/zsvirt",
    "url": "https://github.com/ZSvirt/zsvirt",
    "desc": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
-   "stars": 1049,
+   "stars": 1057,
    "lang": "Java",
    "created": "2026-08-14T06:47:26Z",
    "pushed": "2026-08-18T02:38:16Z"
@@ -167,7 +167,7 @@
    "name": "zouyuxuan122/Deepseek-Harness-EAC",
    "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
    "desc": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
-   "stars": 951,
+   "stars": 954,
    "lang": "JavaScript",
    "created": "2026-08-14T16:29:54Z",
    "pushed": "2026-08-19T15:21:06Z"
@@ -176,25 +176,34 @@
    "name": "elie222/rakazo",
    "url": "https://github.com/elie222/rakazo",
    "desc": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-   "stars": 883,
+   "stars": 892,
    "lang": "TypeScript",
    "created": "2026-08-13T06:28:56Z",
-   "pushed": "2026-08-19T18:08:39Z"
+   "pushed": "2026-08-19T21:26:22Z"
+  },
+  {
+   "name": "Leutenegger/watermarks-remover",
+   "url": "https://github.com/Leutenegger/watermarks-remover",
+   "desc": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+   "stars": 874,
+   "lang": "Python",
+   "created": "2026-08-19T15:20:24Z",
+   "pushed": "2026-08-19T15:23:40Z"
   },
   {
    "name": "ysr666/dsh-vision-router",
    "url": "https://github.com/ysr666/dsh-vision-router",
    "desc": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command ",
-   "stars": 841,
+   "stars": 844,
    "lang": "JavaScript",
    "created": "2026-08-13T18:57:47Z",
-   "pushed": "2026-08-19T18:37:46Z"
+   "pushed": "2026-08-19T20:19:28Z"
   },
   {
    "name": "Anionex/dsh-vision-toolkit",
    "url": "https://github.com/Anionex/dsh-vision-toolkit",
    "desc": "[dsh]为纯文本模型设计更强大的视觉工具箱：安装免费使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts",
-   "stars": 749,
+   "stars": 750,
    "lang": "TypeScript",
    "created": "2026-08-13T12:36:34Z",
    "pushed": "2026-08-19T18:01:17Z"
@@ -212,19 +221,10 @@
    "name": "hairyf/deepseek-harness-desktop",
    "url": "https://github.com/hairyf/deepseek-harness-desktop",
    "desc": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
-   "stars": 599,
+   "stars": 601,
    "lang": "Rust",
    "created": "2026-08-14T02:36:29Z",
    "pushed": "2026-08-19T09:40:02Z"
-  },
-  {
-   "name": "Alain00/blobatar",
-   "url": "https://github.com/Alain00/blobatar",
-   "desc": "",
-   "stars": 565,
-   "lang": "TypeScript",
-   "created": "2026-08-15T11:51:19Z",
-   "pushed": "2026-08-19T18:13:01Z"
   }
  ],
  "ai_active": [
@@ -232,7 +232,7 @@
    "name": "affaan-m/ECC",
    "url": "https://github.com/affaan-m/ECC",
    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-   "stars": 241138,
+   "stars": 241160,
    "lang": "JavaScript",
    "created": "2026-01-18T00:51:51Z",
    "pushed": "2026-08-18T20:07:38Z"
@@ -241,43 +241,43 @@
    "name": "NousResearch/hermes-agent",
    "url": "https://github.com/NousResearch/hermes-agent",
    "desc": "The agent that grows with you",
-   "stars": 232984,
+   "stars": 233014,
    "lang": "Python",
    "created": "2025-07-22T22:22:28Z",
-   "pushed": "2026-08-19T18:33:51Z"
+   "pushed": "2026-08-19T20:54:40Z"
   },
   {
    "name": "Significant-Gravitas/AutoGPT",
    "url": "https://github.com/Significant-Gravitas/AutoGPT",
    "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-   "stars": 186687,
+   "stars": 186689,
    "lang": "Python",
    "created": "2023-03-16T09:21:07Z",
-   "pushed": "2026-08-19T18:24:34Z"
+   "pushed": "2026-08-19T21:02:05Z"
   },
   {
    "name": "ollama/ollama",
    "url": "https://github.com/ollama/ollama",
    "desc": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-   "stars": 178973,
+   "stars": 178978,
    "lang": "Go",
    "created": "2023-06-26T19:39:32Z",
-   "pushed": "2026-08-19T16:06:10Z"
+   "pushed": "2026-08-19T20:24:15Z"
   },
   {
    "name": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
    "desc": "The context API to search, scrape, and interact with the web at scale. 🔥",
-   "stars": 169555,
+   "stars": 169605,
    "lang": "TypeScript",
    "created": "2024-04-15T21:02:29Z",
-   "pushed": "2026-08-19T15:29:13Z"
+   "pushed": "2026-08-19T21:24:46Z"
   },
   {
    "name": "f/prompts.chat",
    "url": "https://github.com/f/prompts.chat",
    "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-   "stars": 167579,
+   "stars": 167589,
    "lang": "HTML",
    "created": "2022-12-05T13:54:13Z",
    "pushed": "2026-08-19T03:21:13Z"
@@ -286,25 +286,25 @@
    "name": "huggingface/transformers",
    "url": "https://github.com/huggingface/transformers",
    "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-   "stars": 164265,
+   "stars": 164269,
    "lang": "Python",
    "created": "2018-10-29T13:56:00Z",
-   "pushed": "2026-08-19T18:21:47Z"
+   "pushed": "2026-08-19T21:04:49Z"
   },
   {
    "name": "langgenius/dify",
    "url": "https://github.com/langgenius/dify",
    "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb",
-   "stars": 152913,
+   "stars": 152917,
    "lang": "TypeScript",
    "created": "2023-04-12T07:40:24Z",
-   "pushed": "2026-08-19T17:46:18Z"
+   "pushed": "2026-08-19T19:09:40Z"
   },
   {
    "name": "open-webui/open-webui",
    "url": "https://github.com/open-webui/open-webui",
    "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-   "stars": 149253,
+   "stars": 149264,
    "lang": "Python",
    "created": "2023-10-06T22:08:27Z",
    "pushed": "2026-08-19T18:16:29Z"
@@ -313,16 +313,16 @@
    "name": "langchain-ai/langchain",
    "url": "https://github.com/langchain-ai/langchain",
    "desc": "The agent engineering platform.",
-   "stars": 144575,
+   "stars": 144576,
    "lang": "Python",
    "created": "2022-10-17T02:58:36Z",
-   "pushed": "2026-08-19T17:44:31Z"
+   "pushed": "2026-08-19T21:12:45Z"
   },
   {
    "name": "harry0703/MoneyPrinterTurbo",
    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
    "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-   "stars": 110268,
+   "stars": 110438,
    "lang": "Python",
    "created": "2024-03-11T02:57:34Z",
    "pushed": "2026-08-19T08:30:15Z"
@@ -331,7 +331,7 @@
    "name": "browser-use/browser-use",
    "url": "https://github.com/browser-use/browser-use",
    "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-   "stars": 109763,
+   "stars": 109775,
    "lang": "Python",
    "created": "2024-10-31T16:00:56Z",
    "pushed": "2026-08-19T17:35:21Z"
@@ -340,7 +340,7 @@
    "name": "Graphify-Labs/graphify",
    "url": "https://github.com/Graphify-Labs/graphify",
    "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
-   "stars": 108279,
+   "stars": 108325,
    "lang": "Python",
    "created": "2026-04-03T15:49:07Z",
    "pushed": "2026-08-19T13:37:02Z"
@@ -349,7 +349,7 @@
    "name": "JuliusBrussee/caveman",
    "url": "https://github.com/JuliusBrussee/caveman",
    "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-   "stars": 99203,
+   "stars": 99223,
    "lang": "Go",
    "created": "2026-04-04T10:03:00Z",
    "pushed": "2026-08-19T16:22:16Z"
@@ -358,25 +358,25 @@
    "name": "vllm-project/vllm",
    "url": "https://github.com/vllm-project/vllm",
    "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-   "stars": 89460,
+   "stars": 89468,
    "lang": "Python",
    "created": "2023-02-09T11:23:20Z",
-   "pushed": "2026-08-19T18:37:50Z"
+   "pushed": "2026-08-19T21:25:24Z"
   },
   {
    "name": "OpenHands/OpenHands",
    "url": "https://github.com/OpenHands/OpenHands",
    "desc": "🙌 OpenHands: AI-Driven Development",
-   "stars": 84490,
+   "stars": 84499,
    "lang": "TypeScript",
    "created": "2024-03-13T03:33:31Z",
-   "pushed": "2026-08-19T18:19:01Z"
+   "pushed": "2026-08-19T20:40:19Z"
   },
   {
    "name": "bytedance/deer-flow",
    "url": "https://github.com/bytedance/deer-flow",
    "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
-   "stars": 80328,
+   "stars": 80336,
    "lang": "Python",
    "created": "2025-05-07T02:50:19Z",
    "pushed": "2026-08-19T14:06:17Z"
@@ -385,7 +385,7 @@
    "name": "rtk-ai/rtk",
    "url": "https://github.com/rtk-ai/rtk",
    "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-   "stars": 76670,
+   "stars": 76680,
    "lang": "Rust",
    "created": "2026-01-22T16:54:16Z",
    "pushed": "2026-08-19T16:34:01Z"
@@ -394,7 +394,7 @@
    "name": "shareAI-lab/learn-claude-code",
    "url": "https://github.com/shareAI-lab/learn-claude-code",
    "desc": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
-   "stars": 74675,
+   "stars": 74676,
    "lang": "Python",
    "created": "2025-06-29T15:34:15Z",
    "pushed": "2026-08-18T17:42:28Z"
@@ -403,7 +403,7 @@
    "name": "hiyouga/LlamaFactory",
    "url": "https://github.com/hiyouga/LlamaFactory",
    "desc": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
-   "stars": 74233,
+   "stars": 74232,
    "lang": "Python",
    "created": "2023-05-28T10:09:12Z",
    "pushed": "2026-08-18T11:49:47Z"
@@ -412,16 +412,16 @@
    "name": "unslothai/unsloth",
    "url": "https://github.com/unslothai/unsloth",
    "desc": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-   "stars": 73798,
+   "stars": 73828,
    "lang": "Python",
    "created": "2023-11-29T16:50:09Z",
-   "pushed": "2026-08-19T18:34:39Z"
+   "pushed": "2026-08-19T21:26:37Z"
   },
   {
    "name": "datawhalechina/hello-agents",
    "url": "https://github.com/datawhalechina/hello-agents",
    "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-   "stars": 73775,
+   "stars": 73777,
    "lang": "Python",
    "created": "2025-09-07T09:50:24Z",
    "pushed": "2026-08-18T06:51:35Z"
@@ -430,25 +430,25 @@
    "name": "headroomlabs-ai/headroom",
    "url": "https://github.com/headroomlabs-ai/headroom",
    "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-   "stars": 66882,
+   "stars": 66893,
    "lang": "Python",
    "created": "2026-01-07T19:58:51Z",
-   "pushed": "2026-08-19T16:35:39Z"
+   "pushed": "2026-08-19T21:22:01Z"
   },
   {
    "name": "Mintplex-Labs/anything-llm",
    "url": "https://github.com/Mintplex-Labs/anything-llm",
    "desc": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
-   "stars": 64918,
+   "stars": 64926,
    "lang": "JavaScript",
    "created": "2023-06-04T02:29:14Z",
-   "pushed": "2026-08-19T16:01:31Z"
+   "pushed": "2026-08-19T19:45:46Z"
   },
   {
    "name": "mem0ai/mem0",
    "url": "https://github.com/mem0ai/mem0",
    "desc": "Universal memory layer for AI Agents",
-   "stars": 63608,
+   "stars": 63614,
    "lang": "Python",
    "created": "2023-06-20T08:58:36Z",
    "pushed": "2026-08-18T15:51:45Z"
