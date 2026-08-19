@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-19T06:46:41.669171+00:00",
+ "updated": "2026-08-19T09:35:34.482943+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -12,6 +12,13 @@ window.RADAR_X = {
   "IntelNews"
  ],
  "items": [
+  {
+   "user": "dylan522p",
+   "text": "Holy shit have y'all seen Anthropic ARR? As measured by last 1 hour at 2PM times 8760",
+   "link": "https://x.com/dylan522p/status/2089933933203075349",
+   "time": "2026-08-19T04:34:13+00:00",
+   "rt": false
+  },
   {
    "user": "AnthropicAI",
    "text": "R to @AnthropicAI: We're also publishing a technical report: https://www-cdn.anthropic.com/30bf50e22a01388bb29bf077ee3f244531594b7a.pdf And open-sourcing our prompts and data here: https://huggingface.co/datasets/Anthropic/claude-protein-binder-design/tree/main",
@@ -116,6 +123,13 @@ window.RADAR_X = {
    "link": "https://x.com/gdb/status/2089326994714763665",
    "time": "2026-08-17T12:22:28+00:00",
    "rt": true
+  },
+  {
+   "user": "dylan522p",
+   "text": "Incompetence in grid modeling is causing US ratepayers to pay $12B more than necessary. The auction system of PJM is damaging to building more capacity. The US needs market based reforms.",
+   "link": "https://x.com/dylan522p/status/2089143804695916646",
+   "time": "2026-08-17T00:14:32+00:00",
+   "rt": false
   }
  ]
 };
