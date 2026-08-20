@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-20T01:19:38.122627+00:00",
+ "updated": "2026-08-20T03:48:26.695281+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -13,13 +13,6 @@ window.RADAR_X = {
  ],
  "items": [
   {
-   "user": "nvidia",
-   "text": "RT by @nvidia: 10x more tokens/second per megawatt as measured by @CoreWeave on NVIDIA Vera Rubin platform. That performance reflects a bigger shift in AI infrastructure economics: building AI factories that efficiently turn compute into tokens, and tokens into revenue. It takes extreme co-design across the full stack, combined with an open ecosystem built to innovate and scale. Dion Harris connec",
-   "link": "https://x.com/NVIDIAAIInfra/status/2090192599868928297",
-   "time": "2026-08-19T21:42:04+00:00",
-   "rt": true
-  },
-  {
    "user": "OpenAI",
    "text": "We will continue to offer Zero Data Retention for frontier models. As AI takes on longer, more autonomous work and delivers greater value to businesses, safety systems also need to identify risks across related interactions. To help address those risks, we're previewing Private Safety Processing, which is designed to improve safety without giving OpenAI personnel access to the underlying content.",
    "link": "https://x.com/OpenAI/status/2090165328290701800",
@@ -31,6 +24,13 @@ window.RADAR_X = {
    "text": "R to @OpenAI: openai.com/index/offering-ze…",
    "link": "https://x.com/OpenAI/status/2090165329867743501",
    "time": "2026-08-19T19:53:42+00:00",
+   "rt": false
+  },
+  {
+   "user": "sama",
+   "text": "we support business privacy! https://openai.com/index/offering-zero-data-retention-for-frontier-models/",
+   "link": "https://x.com/sama/status/2090163991234453611",
+   "time": "2026-08-19T19:48:23+00:00",
    "rt": false
   },
   {
@@ -69,17 +69,17 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "nvidia",
-   "text": "R to @nvidia: Learn more: https://nvda.ws/3SFVsTO",
-   "link": "https://x.com/nvidia/status/2089804530628059547",
-   "time": "2026-08-18T20:00:01+00:00",
+   "user": "sama",
+   "text": "R to @sama: (We still expect to ship great new models soon; this impacts further-out releases.)",
+   "link": "https://x.com/sama/status/2089805495783813196",
+   "time": "2026-08-18T20:03:51+00:00",
    "rt": false
   },
   {
-   "user": "nvidia",
-   "text": "Creator Crafted. Game Ready. NVIDIA RTX Spark brings together creative workflows, local AI tools and RTX gaming in one PC.",
-   "link": "https://x.com/nvidia/status/2089804526970642920",
-   "time": "2026-08-18T20:00:00+00:00",
+   "user": "sama",
+   "text": "We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitoring standards for the new level of capabilities in front of us. Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment. We care very deeply about AI safety. We believe the ent",
+   "link": "https://x.com/sama/status/2089787807611195475",
+   "time": "2026-08-18T18:53:34+00:00",
    "rt": false
   },
   {
@@ -97,11 +97,11 @@ window.RADAR_X = {
    "rt": false
   },
   {
-   "user": "nvidia",
-   "text": "RT by @nvidia: Everyone argues about whether AI replaces physicians. @kpowgerade of @NVIDIAHealth has a different way into the question. AI automates tasks, but the task is not the job. And the more AI we deploy, the more disease we find to treat, so demand for clinicians is going up, not down. The only way to meet it is automation. We covered a lot this week on Lifers: (00:00) Lead In (00:44) Int",
-   "link": "https://x.com/chrissyfarr/status/2089762512174797251",
-   "time": "2026-08-18T17:13:03+00:00",
-   "rt": true
+   "user": "sama",
+   "text": "excited to work together on this. thank you jensen!",
+   "link": "https://x.com/sama/status/2089758522678657212",
+   "time": "2026-08-18T16:57:12+00:00",
+   "rt": false
   },
   {
    "user": "GoogleDeepMind",
@@ -109,20 +109,6 @@ window.RADAR_X = {
    "link": "https://x.com/pushmeet/status/2089717134129565763",
    "time": "2026-08-18T14:12:44+00:00",
    "rt": true
-  },
-  {
-   "user": "nvidia",
-   "text": "R to @nvidia: Learn more about the news: https://nvda.ws/4gAetQC",
-   "link": "https://x.com/nvidia/status/2089332080194806236",
-   "time": "2026-08-17T12:42:40+00:00",
-   "rt": false
-  },
-  {
-   "user": "nvidia",
-   "text": "From accelerating scientific discovery to advancing healthcare, AI can transform every industry — but the infrastructure behind it must keep pace. At SB Energy’s PORTS-Pike Technology Campus in Southern Ohio, NVIDIA will be the exclusive AI compute infrastructure provider, with OpenAI as the customer. The campus project will create tens of thousands of Ohio jobs and invest hundreds of millions in ",
-   "link": "https://x.com/nvidia/status/2089331953585607127",
-   "time": "2026-08-17T12:42:10+00:00",
-   "rt": false
   },
   {
    "user": "OpenAI",
