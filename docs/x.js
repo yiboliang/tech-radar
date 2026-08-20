@@ -1,5 +1,5 @@
 window.RADAR_X = {
- "updated": "2026-08-20T06:49:27.665470+00:00",
+ "updated": "2026-08-20T09:36:34.761102+00:00",
  "accounts": [
   "sama",
   "karpathy",
@@ -11,34 +11,5 @@ window.RADAR_X = {
   "TSMC",
   "IntelNews"
  ],
- "items": [
-  {
-   "user": "sama",
-   "text": "we support business privacy! https://openai.com/index/offering-zero-data-retention-for-frontier-models/",
-   "link": "https://x.com/sama/status/2090163991234453611",
-   "time": "2026-08-19T19:48:23+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "R to @sama: (We still expect to ship great new models soon; this impacts further-out releases.)",
-   "link": "https://x.com/sama/status/2089805495783813196",
-   "time": "2026-08-18T20:03:51+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitoring standards for the new level of capabilities in front of us. Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment. We care very deeply about AI safety. We believe the ent",
-   "link": "https://x.com/sama/status/2089787807611195475",
-   "time": "2026-08-18T18:53:34+00:00",
-   "rt": false
-  },
-  {
-   "user": "sama",
-   "text": "excited to work together on this. thank you jensen!",
-   "link": "https://x.com/sama/status/2089758522678657212",
-   "time": "2026-08-18T16:57:12+00:00",
-   "rt": false
-  }
- ]
+ "items": []
 };
