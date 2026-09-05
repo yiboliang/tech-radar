@@ -1,5 +1,5 @@
 window.RADAR_DATA = {
- "updated": "2026-09-05T10:09:08.206943+00:00",
+ "updated": "2026-09-05T14:47:20.670510+00:00",
  "topics": [
   "AI",
   "光互联",
@@ -10,54 +10,661 @@ window.RADAR_DATA = {
  ],
  "items": [
   {
-   "title": "海信科技版图里，市占仅4%的光通信公司最能打？ - 新浪财经",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcGhmVUktQjRyNm5YU3RtOHF6VVc1eW5SR2FvTXU1eE4tVDJDQ1FtTWFJVEpPWHhXbzg4akQ1R0R1aTJDZVhQTkVUSWpqVmRFQUJoeC1hWkNJU0MxOE5XWWEtYkowY1JoVUhpbkpVRXNGZlNSY0NjWlZKRWpjZW84bkhYekliRWM5Vld3TTk5R0pPdFdQelpHd2d0bEw4SWpUS3N4VTZaVkhCeWh3NGxSVFpn?oc=5",
-   "source": "新浪财经",
-   "published": "2026-09-05T10:02:49+00:00",
-   "summary": "海信科技版图里，市占仅4%的光通信公司最能打？ 新浪财经",
+   "title": "GPT-6 Astra 模型发布，OpenAI 总裁布罗克曼自信放话“欢迎来到 AGI 时代”",
+   "link": "https://www.ithome.com/0/998/833.htm",
+   "source": "IT之家",
+   "published": "2026-09-05T14:46:46+00:00",
+   "summary": "IT之家 9 月 5 日消息，据《商业内幕》报道，OpenAI 宣布，新推出的 Astra 模型已经达到 AI 行业最为追求的一个里程碑。当地时间周四，OpenAI 总裁格雷格 · 布罗克曼在宣布 Astra 模型推出的媒体电话会议结束时自信喊话：“欢迎来到 AGI 时代。”OpenAI 将 AGI 定义为在大多数具有经济价值的工作中，表现超过人类的高度自主系统。在其看来，Astra 是一项重大研究突破，意味着人们能够交给 AI 完成的工作范围发生了变化。布罗克曼此前认为，实现 AGI 并非一个突然发生的时刻，而是一个渐进过程。而这次在新模型发布后，他是这样说的：“未来人们回过头看，可能会认为",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "Anthropic's IPO Could Value It at 30 Times Revenue. Here's Why I'm Still Interested Anyway. - The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdEdLWFlpNHVkVmRMUDM1a1lidkdPZzF6b3VZVFJ0bmE0ODc3bzgwbXVEWU8zX3FwdWQ2UGtuTXN4ejcyaVZzTFNfMF9VUWtnQVVMbFh2d1FuaXVMcEdfZHNsektNVUJVS2ttX0w3ZWtmTDVCSWhSN1ZvMzZVaXJ0TTVhZHk4aGxWT1JZWFJTYlJTNVJGVFFSNGxwVHhRcnJtcUYzNk9sV2JLaDl2QjNpVlh0dm54WFpnR2d6ZUV5cjhUNGRicXpWdWEybE4?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-09-05T14:26:31+00:00",
+   "summary": "Anthropic's IPO Could Value It at 30 Times Revenue. Here's Why I'm Still Interested Anyway. The Motley Fool",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "OpenAI Astra用了10万张NVIDIA显卡：需100亿美元费用 国产大模型太难追了 - 驱动之家",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UTEJ4a2hrWE52X3RoUERpYmU1b01IWXlXSTAwSV9WWnFBTWNJaDJWMEFma0tfdGdZR2tHX2lza3dySXUyeG1heHBFektWc0ZaVnEyYV83ZVc?oc=5",
+   "source": "驱动之家",
+   "published": "2026-09-05T14:23:00+00:00",
+   "summary": "OpenAI Astra用了10万张NVIDIA显卡：需100亿美元费用 国产大模型太难追了 驱动之家",
+   "topics": [
+    "AI",
+    "GPU/算力集群"
+   ]
+  },
+  {
+   "title": "MIKE DAVIS: The Trump DOJ should withdraw its statement of interest in the OpenAI lawsuit - Fox News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSW81RF9HQkZRM0R4Q3NCMEpHWmV3QkRMLTRaQkdUTUl3LVpRaUZOS0haNi1OZy1fRXM3YjZ3cGxsN1VEZXVZaWQ2UGlvWUVNaFMyUzZWTHV1S2RWNERFdGRlWXN0bnJqWU9qOUdyR0VMZTQ5YWM4SXkyeWp4eU9SZGt0MllkbjdRY2pfRlJydWpCTmN5Q21GWUdKTdIBoAFBVV95cUxPUUR4cnVtd2lGNFFiS1o4UDZuMnZuTVplbTFLekZGMmlLRThkRnZ4aUVLQUZFbF9iazdwUG5fNTFReUljMVpzSHl1SVF2VFFwVFBCWFVCS1RibTlrc3NHWExwQ3BnSGQ0cXJrS2xxM3d2Q1BjcEZaVjBfZnRxbEYxR3hqclBFUTBhd3g1UVJSUy1ZOC1FWlNBb2hCcDNNM3k1?oc=5",
+   "source": "Fox News",
+   "published": "2026-09-05T14:19:18+00:00",
+   "summary": "MIKE DAVIS: The Trump DOJ should withdraw its statement of interest in the OpenAI lawsuit Fox News",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "389家机构扎堆调研这家芯片设备龙头 - 同花顺财经",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01aXBka3lJd0VYNXJ2MV9vZURsVTdua3RNX3RSdHZOWGl6QngyaVRjaDZZX2tKX3NKUXRIeHdzOUU2b2xPempEYmRCeFhXdmtpUDFybWcwMFBJWTB5dHFnZF93?oc=5",
+   "source": "同花顺财经",
+   "published": "2026-09-05T14:03:45+00:00",
+   "summary": "389家机构扎堆调研这家芯片设备龙头 同花顺财经",
+   "topics": [
+    "半导体"
+   ]
+  },
+  {
+   "title": "消息称某厂骁龙旗舰机电池确定 8400mAh，预计为 iQOO 16",
+   "link": "https://www.ithome.com/0/998/830.htm",
+   "source": "IT之家",
+   "published": "2026-09-05T14:00:42+00:00",
+   "summary": "IT之家 9 月 5 日消息，博主 @数码闲聊站 今日爆料，骁龙 8EE6 旗舰机电池确定 8400mAh。结合该博主此前的爆料习惯，预计该机为 iQOO 16。IT之家注意到，目前，高通两款骁龙 2nm 旗舰芯片正式命名已经曝光，该博主所说的骁龙 8EE6 预计为第六代骁龙 8 超级至尊版：SM8950—Snapdragon 8 Elite Gen6—— 第六代骁龙 8 至尊版SM8975——Snapdragon 8 Elite Extreme Gen6—— 第六代骁龙 8 超级至尊版本月早些时候，该博主爆料某厂子系新机部分配置，被外界推测为 iQOO 16。该机预计搭载 6.85 英寸 2",
+   "topics": [
+    "半导体"
+   ]
+  },
+  {
+   "title": "Dell’s Monster Quarter Just Confirmed Micron’s Biggest Opportunity Is Not Just HBM - Barchart.com",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckVOVlZIS3dPZzdIQ3BGX3pCelhjVnFlX0ozcElLYVdGem5xOE1pMnJlZUEtZGVMY2VkSmw2SXVlUF9SRVd2Uk5sVUJQV1FTbHNVaDk0MzY3V0RQbWk4eElvZzllandsSUJRN0NmTUQzNlQ0d1pxaFI1cGlmRGVWblFwZElFd0d2Y2FqcVJGdjBod3BpNkRDMjk1UTYzU2NmdEJ5dTNFNGlaUU1vb0hMV0lHTWJaYzhOci1MSE5qenVIZw?oc=5",
+   "source": "Barchart.com",
+   "published": "2026-09-05T14:00:02+00:00",
+   "summary": "Dell’s Monster Quarter Just Confirmed Micron’s Biggest Opportunity Is Not Just HBM Barchart.com",
+   "topics": [
+    "HBM/先进封装"
+   ]
+  },
+  {
+   "title": "吉利星越 L PLUS 首发亮相：定位中大型旗舰智混 SUV，近期上市",
+   "link": "https://www.ithome.com/0/998/829.htm",
+   "source": "IT之家",
+   "published": "2026-09-05T13:57:38+00:00",
+   "summary": "IT之家 9 月 5 日消息，吉利全新车型 —— 星越 L PLUS 今天（5 日）晚间正式亮相，新车尺寸比现款星越 L 更大，并运用双拼色、大饼轮毂来强调豪华、精致的气息，将于近期正式上市。新车延续星越 L 的家族设计，通过大面积镀铬来营造豪华风格，长宽高分别为 4955/1960/1769mm，轴距达到 2900mm，车顶配备了激光雷达，支持千里浩瀚 H5 等高阶辅助驾驶功能。新车座舱采用中控 + 副驾双联屏方案，形成 30 英寸一体式天际屏，并配有 17.3 英寸二排娱乐屏；车机搭载高通骁龙 8295 芯片、Flyme Auto 智能座舱，内置超级 Eva 智能体。根据介绍，星越 L P",
+   "topics": [
+    "AI",
+    "半导体"
+   ]
+  },
+  {
+   "title": "HTC 黄昭颖：手机发展至今很难再找到新的创新突破，眼下资源转向 AI 眼镜",
+   "link": "https://www.ithome.com/0/998/828.htm",
+   "source": "IT之家",
+   "published": "2026-09-05T13:46:34+00:00",
+   "summary": "IT之家 9 月 5 日消息，9 月 3 日，HTC 宣布为旗下 AI 智能眼镜 VIVE Eagle 新增全新圆框款式，同步升级多项软件功能；同时登陆欧洲、北美和澳大利亚市场，主打时尚设计、AI 功能和隐私保护。在同日的媒体采访中，HTC 高级副总裁黄昭颖表示，智能手机发展至今，很难再找到新的创新突破；现有 U24 Pro 预计今年底逐步进入产品周期尾声，接下来手机将暂退二线。不过，黄昭颖并未完全排除重启手机业务的可能。他表示，若未来市场出现新的突破技术，HTC 仍可能重新评估；只是眼前资源已有更明确的去处，AI 眼镜正是其中之一。IT之家注意到，自 2025 年推出 AI 眼镜 VIVE ",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "联想推出 EY130 头戴式电竞耳机：7.1 虚拟环绕音效，到手价 99 元",
+   "link": "https://www.ithome.com/0/998/827.htm",
+   "source": "IT之家",
+   "published": "2026-09-05T13:41:35+00:00",
+   "summary": "IT之家 9 月 5 日消息，联想于今日推出联想 EY130 头戴式电竞耳机，定价为 99 元。该耳机主打特调电竞级 FPS 音效，搭载专业声学芯片模组，支持虚拟环绕 7.1 音效，针对脚步声、枪声、飞机轰鸣声、坦克声等游戏常见音效进行增强，可实现坐标级听声辨位，帮助玩家在游戏中抢占先机；同时针对脚步声方位进行低频增强，针对枪声、爆炸声进行低频增强，进一步提升游戏听音辨别体验。它配备 50mm 电竞级复合振膜单元，采用双磁复合声学单元 + PU+ 纤维纸振膜设计，支持 SSOVP 数字增强、ACAVITY 声学结构腔体技术，能够模拟人耳鼓膜振动发声，细腻还原低 / 中 / 高频细节，实现低音澎",
+   "topics": [
+    "半导体"
+   ]
+  },
+  {
+   "title": "系统级追赶：大摩看中国AI芯片的破局之路 | VIP洞察周报 - Sohu",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQWpId0kzcHBabXRaR2hrSUk2RThwWHVadHZfQXRUaEVxQ1VNbDRyUXBYaDBNME5lUVVQZjdRZjRidWhlQk5WQ0x3YkdubW5TSDRPSnpZeWFwZ2tOOXdDaEhBY3QyMERBTldJem1PNVNEWGhLRXlQRzFfMkZyYWIzN0xjYV9qUnNB?oc=5",
+   "source": "Sohu",
+   "published": "2026-09-05T13:40:00+00:00",
+   "summary": "系统级追赶：大摩看中国AI芯片的破局之路 | VIP洞察周报 Sohu",
+   "topics": [
+    "AI",
+    "GPU/算力集群",
+    "半导体"
+   ]
+  },
+  {
+   "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words - the-decoder.com",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnNTQk0taXNVSlJ1QUZmUEtfUktlbTFCZndZRzZ0bkZPamUyTWxhNWd2dFYybWtiY1NpMWhSbVFZSi1iT0VqaUFCRDBNUjBZdVRMSE1Nd3RkUFBSMjVZQlJuZGotWlMyb3o0MmxSQ0t1eXFTLXhHdzVlSjZqWWEyTEM2WFl1QmZEY1dQN1pNMWJHc185Q29sNTNhVWhaLWtiS3VwX043YVE?oc=5",
+   "source": "the-decoder.com",
+   "published": "2026-09-05T13:37:30+00:00",
+   "summary": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words the-decoder.com",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "刚刚，Claude 11天验完费马大定理！清华姚班大牛带队，用AI拿下大结果|Anthropic|Agent|数学|数学家|工程_手机新浪网 - finance.sina.cn",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa3k5dVFaTFdxYkE3RHgwMWtLZDRfdlM3Z0JJTVVFSEFyOFR6Mmg5U0tqSFlnVkd6V1FOMldiOW9uQVdVNmEyZFJNVlZCWHR2M1RONlJlWEpaZUhJam11LXlRc284WE5vbXdJY3lZQlYtRF9PWHQ3SkwzSW5uX1A5SEFEQ2J1RktwWTYzdzY2WnJpZ3p0R25BQy1zRVV5RkFZMlRabi1pZw?oc=5",
+   "source": "finance.sina.cn",
+   "published": "2026-09-05T13:30:01+00:00",
+   "summary": "刚刚，Claude 11天验完费马大定理！清华姚班大牛带队，用AI拿下大结果|Anthropic|Agent|数学|数学家|工程_手机新浪网 finance.sina.cn",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "Alaya Lab：为AGI构建下一代游戏工程|Eve|OpenAI|AlphaGo|DeepMind|世界模型_手机新浪网 - finance.sina.cn",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoY2ZZUHE5aHp5b1ltTkJtX3hoODgyVVZKUWxuWnA5dTdaY0hqaUZGTjV3MjhhRlNyMUhxYU1oVDh2a3ZzbWVOdFR2dVZXM29YTl9IYVlDVE1Tam0zUXhlQm4tNEZWMFFjQW8yR1dGUDBWYVc3SlpReFZVY3l4T0U?oc=5",
+   "source": "finance.sina.cn",
+   "published": "2026-09-05T13:30:00+00:00",
+   "summary": "Alaya Lab：为AGI构建下一代游戏工程|Eve|OpenAI|AlphaGo|DeepMind|世界模型_手机新浪网 finance.sina.cn",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "商业化进程加速，AI企业为机器人装上“聪明的大脑” - Sohu",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV09ta01pZHppZVZZenUxMGxFNy1tbXhTSkUyZUd2T1lod2stMHc0dVNDaTdBbmQ0NEtyWFN5VlpWWWMzSkoxWmxveHJ1eF93VmdFalduX3h2dkQzYUhyUGpRVHVVaXNfSzl2S1ZZVXlFSWlDRkxkTXdxZkZvc1J2Vlc1NEhDRkJj?oc=5",
+   "source": "Sohu",
+   "published": "2026-09-05T13:28:42+00:00",
+   "summary": "商业化进程加速，AI企业为机器人装上“聪明的大脑” Sohu",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "Second Rogue OpenAI Agent Swarm Found After Company Allegedly Withheld Details - Northeast Times",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVEZkaVU1M1RrTkxqZWhpZzlzaF8tSzdSYWNfc1ZGenZ6OWlaeUxMNUN1enlDMXhuaVE3d0NwUEJISGs0ZS1ObTdzSE9PTGZwMHp1ZW9PTzVYa21QNi1RTF9iTWhydmd1aUlPU0dKdHJjckNtMkVYbVI2RV9IYmtzcmpBMkk5QmR0NjBORUV2SG9NeG9yTVpfRnpDQ0FBLXljSEswSVE2dnBtVzBxUVEzel9JMFdqWnR5?oc=5",
+   "source": "Northeast Times",
+   "published": "2026-09-05T13:19:47+00:00",
+   "summary": "Second Rogue OpenAI Agent Swarm Found After Company Allegedly Withheld Details Northeast Times",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "DeepSeek被曝将采购16万颗华为芯片 推动国产AI算力部署 - 中华网",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2YVY3RmJXZzFFRGtZM19CMlVVM3h1M1V1eUpjMUQ4Z3dsSHpCYmZKN3Ztd01pbGhmNUxoV2dJSlJmRHcyWDdFN0Y1ZTdpNC1ucTRka1F5dDRXQTZhSV84bjBVUG11d1E0UHpBYWVvemo?oc=5",
+   "source": "中华网",
+   "published": "2026-09-05T13:17:53+00:00",
+   "summary": "DeepSeek被曝将采购16万颗华为芯片 推动国产AI算力部署 中华网",
+   "topics": [
+    "AI",
+    "GPU/算力集群",
+    "半导体"
+   ]
+  },
+  {
+   "title": "全球首例：我国完成人工智能超声机器人引导下先天性心脏病封堵术",
+   "link": "https://www.ithome.com/0/998/823.htm",
+   "source": "IT之家",
+   "published": "2026-09-05T13:11:10+00:00",
+   "summary": "IT之家 9 月 5 日消息，9 月 5 日上午，解放军总医院第六医学中心心血管病医学部成功完成人工智能超声机器人引导下先天性心脏病介入封堵术。经权威机构科技查新，该手术为全球首例同类智能技术临床应用，标志着智能影像机器人在结构性心脏病微创介入领域取得突破性进展。据介绍，本次手术患者为 48 岁男性，确诊房间隔缺损。因其缺损边缘解剖条件较差，多家医院评估建议外科开胸治疗，患者希望接受微创介入手术，遂转诊至该中心心血管病医学部。该类复杂病例手术难点集中，传统手术高度依赖超声医师手持超声扫查，即便经验丰富的超声医师配合手术，依靠传统手持超声操作，也会面临探头稳定性受限、复杂解剖靶点识别难度高的客观",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "AMD reportedly prepping Ryzen 5 7500 (non-F) CPU with integrated graphics at double the price — Six-core Zen 4 chip rumored to share identical specs with its F-moniker cousin",
+   "link": "https://www.tomshardware.com/pc-components/cpus/amd-reportedly-prepping-ryzen-5-7500-non-f-cpu-with-integrated-graphics-at-double-the-price-six-core-zen-4-chip-rumored-to-share-identical-specs-with-its-f-moniker-cousin",
+   "source": "Tom's Hardware",
+   "published": "2026-09-05T13:09:23+00:00",
+   "summary": "A new report suggests AMD is preparing a non-F version of the Ryzen 5 7500F with integrated graphics. It would cost 230 Euros, or $267, which would put it above even the 7600X3D in terms of pricing, despite sharing identical specs with the 7500F.",
+   "topics": [
+    "GPU/算力集群"
+   ]
+  },
+  {
+   "title": "北水抛售港股100.21亿港元，净卖出腾讯21.02亿、中芯国际9.03亿 - 新浪网",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQajdtM0xKNk5Fa0JES0tqWk1yVnh1RFd5NElSSHVwcmxwNTc4MkdBcmRZNG9zZFhwc216bDhkZ2ZoZXFEUmlLSjhmdGoxRnpOM2ZTS2lmdzloVXRHRjRwUGYteEZVYm1NQ0NCSzdiYUVwUkMxSEc2NEduSUZfM09VNFp3?oc=5",
+   "source": "新浪网",
+   "published": "2026-09-05T13:00:33+00:00",
+   "summary": "北水抛售港股100.21亿港元，净卖出腾讯21.02亿、中芯国际9.03亿 新浪网",
+   "topics": [
+    "半导体"
+   ]
+  },
+  {
+   "title": "云顶国际下载网址联袂发布新一代AI大模型，多项基准超越GPT-4o - 体坛",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UODZaemtVTERMeDVTWXZraFVaakdCWG1nY0p3SEQ2czZvWEtpWGQzeEx4S3FoRGtMNy0yaUdkbjJaSzBVRDQ4WlJ3dw?oc=5",
+   "source": "体坛",
+   "published": "2026-09-05T12:59:07+00:00",
+   "summary": "云顶国际下载网址联袂发布新一代AI大模型，多项基准超越GPT-4o 体坛",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "大摩闭门会-AI大模型和互联网大厂更新 - 新浪网",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5TGZMbzFKVHo5Wk5EUzlMWWpSaVdjaVN1NFdLVTFCTHQ2NkVkOTdJR0lPUHd3WDZaX2VabG5HeVpBZDBwcmI1aXR4b1hrNVFZZ0F1cEFDdG1DcThfUkNYSV9zdVlGWEFYV1gwaGdDc0taMlNaclRZWkEzRFZ2NE0?oc=5",
+   "source": "新浪网",
+   "published": "2026-09-05T12:53:33+00:00",
+   "summary": "大摩闭门会-AI大模型和互联网大厂更新 新浪网",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "大模型厂商纷纷“卖 Token”，消息称 Kimi、MiniMax 等即将在天猫开店",
+   "link": "https://www.ithome.com/0/998/822.htm",
+   "source": "IT之家",
+   "published": "2026-09-05T12:52:13+00:00",
+   "summary": "IT之家 9 月 5 日消息，上海证券报今天（5 日）独家获悉，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售 Token 订阅套餐产品。本月 2 日，国产 AI 大模型厂商智谱正式入驻天猫，开设“智谱旗舰店”。用户可在淘宝 App 搜索“智谱旗舰店”进店下单。店铺目前已上架智谱 GLM Coding Plan 订阅套餐，基于 GLM-5.3 模型，并适配 ZCode、Claude Code、Codex 等 20 余款主流 Agent。IT之家注：此前大模型厂商主要通过官网等自有渠道销售订阅产品。智谱此次入驻天猫，意味着大模型订阅服务开",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "Chey Tae-won Bets on Global Footprint to Shape the AI Memory Era - 이코노미트리뷴",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZeFhUQnRUcDdBOHZ2M2ZMTEpYUlRfTXgyaThZT29MYXlnaGVEYXUwdUluOU5Ra1FLRTR3QXpENXRXcDluSmZlcjRneUstWFU5RlBNNkZrb0doNEVjbkxBM0N6eFg2ZVRCcDMwbjRCVFdtZXFkazBz?oc=5",
+   "source": "이코노미트리뷴",
+   "published": "2026-09-05T12:44:55+00:00",
+   "summary": "Chey Tae-won Bets on Global Footprint to Shape the AI Memory Era 이코노미트리뷴",
+   "topics": [
+    "AI",
+    "HBM/先进封装"
+   ]
+  },
+  {
+   "title": "半导体设备市场杀疯了！Q2出货2746亿元连破纪录：全年上看1.12万亿元 - 驱动之家",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10ODZScmp0V1pnNWJ2Yi1EX1liTGZVcVhfbjdydEdBQnR0LTlVYmQ4Nk1rTXIyOGMtZmhKSVFwZGtKbjQ0dEZYQV9LUHdhcWcwU2dfa0Fqc3Y?oc=5",
+   "source": "驱动之家",
+   "published": "2026-09-05T12:35:00+00:00",
+   "summary": "半导体设备市场杀疯了！Q2出货2746亿元连破纪录：全年上看1.12万亿元 驱动之家",
+   "topics": [
+    "半导体"
+   ]
+  },
+  {
+   "title": "OCS thumps Haynesville in anticipated Top 2 showdown - hannapub.com",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT3VRWjZ4SVFRQ0I0VnBBZjhXUVFsU0h0R1VUWElZcUREVnBlRXpNWkVxNWU5b01PWDR3dVYwOVBCeWlfc0tpaFlTRU15aXJRVU1jc1RuY1V1MVdWemNwQUlkaGFQc0wxZ0I2dVJiZUszNVkwWUd6aUZqRk4xeUlYV3VLVGZWUDVJa2VTeUNGVGVhQk5YU3B5aXZHTFVQZFVoaWNONnV5eklSdDdwUGRvQUdpR1p5bzJQQlc5ck5TSlZSdmdrOVoxWFFmUGF1TkhwT0FTSzFET0xmYXlGcUdXMmRjMkU?oc=5",
+   "source": "hannapub.com",
+   "published": "2026-09-05T12:33:00+00:00",
+   "summary": "OCS thumps Haynesville in anticipated Top 2 showdown hannapub.com",
    "topics": [
     "CPO/OCS/光模块",
     "光互联"
    ]
   },
   {
-   "title": "Japan to mass-procure 3D-printed rocket-powered drone interceptor — Terra B1 capable of countering one-way attack platforms",
-   "link": "https://www.tomshardware.com/tech-industry/drones/japan-to-mass-procure-3d-printed-rocket-powered-drone-interceptor-terra-b1-capable-of-countering-one-way-attack-platforms",
-   "source": "Tom's Hardware",
-   "published": "2026-09-05T10:00:00+00:00",
-   "summary": "Japan’s military has decided to mass-procure Terra B1 interceptor drones. These drones are made using 3D printers and are based on the tried and tested A1 model from Terra Drone, which began to be deployed by Ukraine earlier this year.",
+   "title": "趋势丨Gartner观察：中国AI五大关键领域的进展与下一步 - 电子工程专辑",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53RkpaNFhMNXBYamV4NFFDYU9wZXZMdUZsWFlFUjBNdWtqNmx5eFhwMFYyNFpQN213WXBpLUZ1WDBreG5fTkViamlUTGh6RUdfRVo4?oc=5",
+   "source": "电子工程专辑",
+   "published": "2026-09-05T12:30:00+00:00",
+   "summary": "趋势丨Gartner观察：中国AI五大关键领域的进展与下一步 电子工程专辑",
    "topics": [
     "AI"
    ]
   },
   {
-   "title": "Anthropic发布零售业AI代理蓝图，助力假日购物季 - Sohu",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY3kzVTBsNU80ME0yMzZ5MWJOMlJQS242a3IyRkZyYlhCQW1xaS1kU1UyUFQtUEU3eEt0VDdzVzN5S2tDRnNXSXVMM1NKMGpPZUF6TnlldU9NQmZwMkg2amdEQTV3a2V5cTI2am9aTUZzTlpSS1JoQVYyUGp4RWVkVm9GRU9EX0hh?oc=5",
+   "title": "OpenAI’s $1 Billion Cyber Push Backs Cloudflare and SentinelOne. Which Has the Better AI Security Model? - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ2hDdGZuRTFvS2RaNnJUbk8tWXZlRzRsblFZd0pvc29QNjZzWmw4LW5sTnB1bWp0RjM3NFV5QTZ6NFM3NFcyUWRqQk02c1ZBWlJoR0VfWGRBdHBCXzdaUWtiU0l6R0NuMXg1Y3ZHTmREYk8tRkpvR0hmNDltRV9PdC1QTHpYVmo1cDFlWlNJZEtiajk1Q3c?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-09-05T12:26:09+00:00",
+   "summary": "OpenAI’s $1 Billion Cyber Push Backs Cloudflare and SentinelOne. Which Has the Better AI Security Model? Yahoo Finance",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "Anthropic IPO launch pushed toward mid-October (ANTHRO:Private) - Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNREZZZ0o5aXMycHZnNVdValhvSnNqbWxMckhIX3k2SERQWWpJYWNadUhod2hTUV9MVzhiYjlOVWFVaFNJbmdNMzVTMXZRakNTZGtTSHlmaVNaN2I5NjVxNGNzU2ZhUXhfdnhIbDFsRE5nRnZmamFrNGpmRHVvcEdMMXZwRmVqNjRRYmJvNg?oc=5",
+   "source": "Seeking Alpha",
+   "published": "2026-09-05T12:21:04+00:00",
+   "summary": "Anthropic IPO launch pushed toward mid-October (ANTHRO:Private) Seeking Alpha",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "华沿机器人新一代HRC平台发布：为AI“大脑”打造无可匹敌的可靠“小脑” - 中华网",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mREV2ZjhXZHlsT1RiQXJDZlF2ZU1EV0RsbE9xLVVRRThFU0M0SVd1d3dPVEZqYS1NWFBTdG5NeElwUE5lTFNoWjJfZEIyekV1ZUFQM2FsbFQweWk1UzJDR1FacDYwOWJhZm44cA?oc=5",
+   "source": "中华网",
+   "published": "2026-09-05T12:20:37+00:00",
+   "summary": "华沿机器人新一代HRC平台发布：为AI“大脑”打造无可匹敌的可靠“小脑” 中华网",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "OpenAI在立法阻力下扩充政策团队，聘用三人负责州级政策事务 - video.sina.com.cn",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdW9aTy1QajRlYU1IUmsxWE1hSFhtUlM1QzFoaXZFRm1CUWpPQkM5V1Q5aUlwWFZES2xLWVd0dWxadldlQ3k0ZEthRmllRTBsbDFLblNpYkRPbHZXRTE3MklSOVNwNFlJZnhJUGc0eEVDRGNjeE1rdzFwQlVlcnQxQXl3?oc=5",
+   "source": "video.sina.com.cn",
+   "published": "2026-09-05T12:18:34+00:00",
+   "summary": "OpenAI在立法阻力下扩充政策团队，聘用三人负责州级政策事务 video.sina.com.cn",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "研究称OpenAI智能体劫持网站，一批AI智能体劫持网站秘密协作 - Sohu",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUM1OW5JZnpFd0pZbTl3cC1VaWwwblRTSm8yMm95aVFVNWVvQlFxOFVuNkZia3F5RVU4N3M1bFM1bzNQSURPMVd1ckNvSE42Z3lTbTVBM21aczlmZUtVYll4T3RMQTRHdk5PM0dFMzA3MHVrdWNVc1JBcEVKODBXRzJDcTdBQ21VWnNaNQ?oc=5",
    "source": "Sohu",
-   "published": "2026-09-05T09:51:24+00:00",
-   "summary": "Anthropic发布零售业AI代理蓝图，助力假日购物季 Sohu",
+   "published": "2026-09-05T12:10:00+00:00",
+   "summary": "研究称OpenAI智能体劫持网站，一批AI智能体劫持网站秘密协作 Sohu",
    "topics": [
     "AI"
    ]
   },
   {
-   "title": "奥尔特曼自曝是“超级果粉”，为苹果起诉OpenAI而感到难过 - t.cj.sina.cn",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VWWtvdVd1TWI0bEN6ZnNYY2ZqcFZ6SnR1UHR6STNBcHo2N3M5d05IMTJDYTc1Q1lMV2Y3WXoxeUtrZWRuNnIzMkdLbUU5TlZEYUdfWGxybzRqOE1vcjA0c0kzNU5mcFNzSHBiQXZLR20?oc=5",
-   "source": "t.cj.sina.cn",
-   "published": "2026-09-05T09:49:56+00:00",
-   "summary": "奥尔特曼自曝是“超级果粉”，为苹果起诉OpenAI而感到难过 t.cj.sina.cn",
+   "title": "Exclusive: OpenAI expands policy team amid legislative headwinds - Axios",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWcTFucDF6RzNEZ1ZrT1BoajJyZkVlM0FDRDF3dlNwQUtvamFuR3hJOU1QZkcwMlltS3l4V1NTT055dDFramZqbzJVWk1tSHNOWV9nY1dacjh0a3BlaGQxc0JWRG4wcy1x?oc=5",
+   "source": "Axios",
+   "published": "2026-09-05T12:03:01+00:00",
+   "summary": "Exclusive: OpenAI expands policy team amid legislative headwinds Axios",
    "topics": [
     "AI"
    ]
   },
   {
-   "title": "奥尔特曼自曝是“超级果粉”，为苹果起诉 OpenAI 而感到难过",
-   "link": "https://www.ithome.com/0/998/790.htm",
+   "title": "Anthropic Launches Claude Fable 5.1 and Restricted Mythos 5.1 for Advanced Coding, Cybersecurity and Scientific Research - LinkedIn",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOczZLQWhJUjZVdEs0cnFXVmktX2JTaDFVVEFVX3hQLU8zcmtTQjJzd1Y1cHZVVmNsenBIWDRIOW4zbndpZGZMaEJWVlJQN1FBeWNMck9ObDlEQW5GSmVBSU4zRTIyRWdDSUhiMDV3aGUxd1BGcXRRajJLUldMOWlJOUtEUDBzTjBQRko2MEFyVjNKcDA?oc=5",
+   "source": "LinkedIn",
+   "published": "2026-09-05T12:00:07+00:00",
+   "summary": "Anthropic Launches Claude Fable 5.1 and Restricted Mythos 5.1 for Advanced Coding, Cybersecurity and Scientific Research LinkedIn",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "Meet the CISO: A new front line star in the AI cybersecurity war - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpNHNHQUFyRkhTcXhsMDVFaFpsVnJjR0hVTlB0VUQ3aHpPVk1ucGdGbUhDZnExLXJCZG05cXFmTnVwMUg1M3FuOFBPSlFJUk16MU92N1pYN0FscHB2a3hOdkhpTThwSmwwTnphbHUzZnF5Slhyc3I40gF8QVVfeXFMTVB3VEJaN2p3RV83VzZ1RjZRSm56cXlqa2pmWjVMQ1FUMllJVlBtakd4UXBORWNpeE5OeVFGYUJjSS05SFZHazlGOFBGVFFGUXZJY1EwOElGakxiR3c1Q0IyQ2g4aEFQVE1Tb1pHc055YnV2S3BpdU9qcFBhUQ?oc=5",
+   "source": "CNBC",
+   "published": "2026-09-05T12:00:01+00:00",
+   "summary": "Meet the CISO: A new front line star in the AI cybersecurity war CNBC",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "Modder gets Nvidia's DLSS 5 working on AMD's RDNA 4 GPUs — RX 9070 XT only manages 30 FPS at 1080p right now, but 5070 Ti-level performance is the eventual goal",
+   "link": "https://www.tomshardware.com/pc-components/gpus/modder-gets-nvidias-dlss-5-working-on-amds-rdna-4-gpus-rx-9070-xt-only-manages-30-fps-at-1080p-right-now-but-5070-ti-level-performance-is-the-eventual-goal",
+   "source": "Tom's Hardware",
+   "published": "2026-09-05T12:00:00+00:00",
+   "summary": "If you have an RX 9000 series GPU, you can try out DLSS 5 on your PC right now and absolutely destroy the stable performance you were getting before.",
+   "topics": [
+    "GPU/算力集群"
+   ]
+  },
+  {
+   "title": "赌博网上游戏连续三年位居数字开户市场第一，大模型技术加速场景落地 - 体坛",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qbTg0R21OYTFKUGtRdjVCTjQ1T2NhQTNkSDlXdUZ0TTNVZDh2eGVPX3lzdFhPMnBSYlUzblR0cjFEeERvdGtSbEZzV2x1ektvcUxUaHBOc2xwdlBtYWc?oc=5",
+   "source": "体坛",
+   "published": "2026-09-05T11:58:40+00:00",
+   "summary": "赌博网上游戏连续三年位居数字开户市场第一，大模型技术加速场景落地 体坛",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "OpenAI承认智能体劫持德语维基事件并承诺建立披露新框架 - DoNews",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yYm1fZWhuSTFrN2s1Y0JVWEhiUUxPQWNkMXBzazNpZnNKdWhRRlhWM1Bpa2NWUkpFMm52MmRvM2VCMElIcGR1bm9QV3dWZDdYMFluN1FlMDItalBUZEE?oc=5",
+   "source": "DoNews",
+   "published": "2026-09-05T11:49:03+00:00",
+   "summary": "OpenAI承认智能体劫持德语维基事件并承诺建立披露新框架 DoNews",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "OpenAI 自研「辣椒芯片」首测超英伟达，会让 ChatGPT 更便宜吗？ - 爱范儿",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBnUDJMYW9jWl9KS19ERDZPX3lDdEVqVDBkZHJJdVVFMDJNWHFxbkJDdGFsUzB5VnpNX2UyZlYxVjh3Q2M?oc=5",
+   "source": "爱范儿",
+   "published": "2026-09-05T11:47:27+00:00",
+   "summary": "OpenAI 自研「辣椒芯片」首测超英伟达，会让 ChatGPT 更便宜吗？ 爱范儿",
+   "topics": [
+    "AI",
+    "GPU/算力集群",
+    "半导体"
+   ]
+  },
+  {
+   "title": "比亚迪：超级智能体迪迪虾暨腾势 N8L 纯电上市发布会定档 9 月 14 日",
+   "link": "https://www.ithome.com/0/998/815.htm",
    "source": "IT之家",
-   "published": "2026-09-05T09:49:56+00:00",
-   "summary": "IT之家 9 月 5 日消息，据《商业内幕》今天（5 日）报道，OpenAI CEO 萨姆 · 奥尔特曼一直是苹果的超级拥趸，但苹果起诉 OpenAI，让他的这份喜爱受到了“一次考验”。奥尔特曼在接受科技记者亚历克斯 · 希思采访时坦言：“我算是苹果的超级铁粉，所以这件事让我很难过。”今年 7 月，苹果对 OpenAI 提起诉讼，指控 OpenAI 为窃取苹果严密保护的商业秘密，在机构层面有组织地实施了一系列不当行为。OpenAI 否认对其他公司的商业秘密感兴趣，并称这起诉讼有负苹果“对最细微之处都反复推敲”的一贯声誉。奥尔特曼表示，自己最初听说苹果起诉 OpenAI 时，还以为肯定出了非常严",
+   "published": "2026-09-05T11:45:37+00:00",
+   "summary": "IT之家 9 月 5 日消息，比亚迪旗下腾势品牌今日宣布，超级智能体迪迪虾暨腾势 N8L 纯电上市发布会定档 9 月 14 日。在今年 5 月底的比亚迪“敢为”智能化战略发布会上，比亚迪发布了超级智能体“迪迪虾”，实现全舱记忆，跨域互动，端云协同，快慢思考。比亚迪官方表示，随着 AI 大模型与整车智能深度融合，汽车正在从传统的功能型工具向具备主动服务能力的“智能体”演进。“迪迪虾”的核心目标是让车辆具备更自然的人机交互、主动服务和复杂任务处理能力。比亚迪称，其全面升级了中央大脑与整车智能体的情感架构，使其能够围绕用户需求提供更具个性化的服务体验。今年 6 月，“迪迪虾”确认将登陆腾势 N8L ",
    "topics": [
     "AI"
+   ]
+  },
+  {
+   "title": "OpenAI回应旗下智能体攻进德国网站：将彻底改革事件披露机制 - 凤凰网科技",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YN2tDTkdudS1hSnNTcWVYV2xXNF9qTEczbTUxMGg4aVFNcFZFTzBxUHNnZkJWdWkwSDBJSFRzTzJ3cFNRcXF0R1F3Z1A?oc=5",
+   "source": "凤凰网科技",
+   "published": "2026-09-05T11:44:07+00:00",
+   "summary": "OpenAI回应旗下智能体攻进德国网站：将彻底改革事件披露机制 凤凰网科技",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "OpenAI 回应旗下智能体攻进德国网站：将彻底改革“AI 模型攻击”事件披露机制",
+   "link": "https://www.ithome.com/0/998/814.htm",
+   "source": "IT之家",
+   "published": "2026-09-05T11:43:16+00:00",
+   "summary": "IT之家 9 月 5 日消息，昨天晚间路透社报道称，一群失控的 OpenAI 智能体劫持了一个德语维基网站，由此引发外界对 OpenAI 的质疑。对此，OpenAI 回应称，需要彻底改革 AI 模型攻击现实世界目标后，企业应在何时以及以何种方式对外披露此类事件。OpenAI 今天（5 日）在 X 平台发文表示：“关于‘维基事件’，也就是我们的智能体向多个互联网网站写入内容一事，我们早就应该制定标准，明确何时以及如何披露‘误对齐’事件，而不仅仅是披露模型本身的误对齐属性。”OpenAI 指出，过去通常把 AI 智能体出现非预期行为视为一个“研究问题”，但近期多起事件已经涉及现实世界目标，尤其是 ",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "实测GPT-6 Astra：曾经的那个OpenAI，回来了。 - 新浪财经",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yRHh3TW9ibmxvLWJQRUNrZVduTFdxOVRrMml5ekRTVm0waEQ0OG9fREJDS0Z2MTdUZlZWZlhUT0djSDhNeVRzX0RfYXJLRmhYdTNYWE1DSGJISTFjc08tRDJ5c2RZSDJnWXp0T1YtNlVIZnJzaFE?oc=5",
+   "source": "新浪财经",
+   "published": "2026-09-05T11:39:52+00:00",
+   "summary": "实测GPT-6 Astra：曾经的那个OpenAI，回来了。 新浪财经",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "国产半导体设备重大突破！北方华创宣布3D DRAM刻蚀突破：没有EUV也能造先进存储 - 驱动之家",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84OFFJb0doMXJXcUNuNjZXM3huVFFrWkduZmJZU3NVNHpTUFdtbzN4U1VHVkpkcmNsa3JWWDRzV1N4MFdSLXJsN3JvMG9kNjMzWnpnSVUwMWI?oc=5",
+   "source": "驱动之家",
+   "published": "2026-09-05T11:33:00+00:00",
+   "summary": "国产半导体设备重大突破！北方华创宣布3D DRAM刻蚀突破：没有EUV也能造先进存储 驱动之家",
+   "topics": [
+    "半导体"
+   ]
+  },
+  {
+   "title": "【投融资动态】上光通信股权转让融资 - Sohu",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMnRrUVZEcGNUNjRZZTc5LTNnUjZBN24yTjViWXRKdjVld3BzYnE5MW51RXFscXRsTGswNnFtcnZ6d0JGa0ozUl9EdUQ0d1VWeVhTN1dLMi1rS3EzdWVhQnpacFJ2aDR6RC02aWdDdmV4dmUzWkZIQ256TXBqTW44SExJVGdVSi1hVFhDVw?oc=5",
+   "source": "Sohu",
+   "published": "2026-09-05T11:32:02+00:00",
+   "summary": "【投融资动态】上光通信股权转让融资 Sohu",
+   "topics": [
+    "光互联"
+   ]
+  },
+  {
+   "title": "Dodge the RAMpocalypse with 20% discounts on Corsair RAM — hundreds off on 32GB and 64GB DDR5-6400 kits",
+   "link": "https://www.tomshardware.com/pc-components/dodge-the-rampocalypse-with-20-percent-discounts-on-corsair-ram-hundreds-off-on-32gb-and-64gb-ddr5-6400-kits",
+   "source": "Tom's Hardware",
+   "published": "2026-09-05T11:30:00+00:00",
+   "summary": "Enjoy limited-time discounts of up to 23% on select Corsair DDR5 memory kits.",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "史上最大IPO，或将易主！时间有变→ - Sohu",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXJpMkkxVjcxY2FLVkxaS3owZzF2ZTUxbzNnZkJ3VEE0YnNkVllNLUYtUmFmVFY1V2dxOFo0MWxjbTFjSnJQVzFiRzZZZVVBOW5sN014eVpNbXZVX3ZTNU9qR3lRZE15TUlNMUQ5Y0VFaFFqamg2WVZaRFI3UnRzbUczcV9jNGwyaXgwZA?oc=5",
+   "source": "Sohu",
+   "published": "2026-09-05T11:28:18+00:00",
+   "summary": "史上最大IPO，或将易主！时间有变→ Sohu",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "OpenAI admits to German wiki ‘incident’ - The Verge",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbXNMTnVsWjBSNmhxZWlUanFZYlk3a2QyRG5CVjhKVllWYmdDeEh5UmVfS0MyLVhZMlRKbmU5RjRzVWdVNE96b0VvVkx1UlV0Z0IxM3F6UnZqMXZDUENvRVkzQWlkUU56bF9FUG8yRHF2WVRXUkh6Ni1zSjNNWGlHWWhqMVBoMmlqcVQwVFVaNA?oc=5",
+   "source": "The Verge",
+   "published": "2026-09-05T11:15:55+00:00",
+   "summary": "OpenAI admits to German wiki ‘incident’ The Verge",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident - BleepingComputer",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZlpqaVRmQ29qQUtNWUtSZ3g3TTJLUlpKY0VZZGJRTmNuLVVJNjV3VjFIc3ZLUEE5SlNxNV80SjdMNEg2SlFSV2RLeDhPcUlZakwzRlotN3BudzdhSGhqZTRlbGlTRWhnam05U0tmbElkVEREcnlndHBoai1fQlZoUndTaC1UT2ZkSXZJWUYwdUFHNXgxdWxaQndBV2xXVVBobnVSNFF4Qnl5enFiNDBaRjZn0gG3AUFVX3lxTE9rdGZwVlloWl9HMy00NE9ZY1hvUE02Y3pob2lmb1FONE9UZVRuR0lONDdtS0JwZ0daMmpYV21uTkd3XzdqT3hqcHlGMlVWVTkzSTQzUXpaZmdiN3hqZV9Wckg0cHlHZGJQS250a1FrZTdSRXoyMHc3RXNOcFIxeTh6dTdGZVMwN29SWHlvT3NkUFp3QVBTdUFXbzJIRWFYT3l4VWp1d241WndDajFpSmtfODZHMEh3VQ?oc=5",
+   "source": "BleepingComputer",
+   "published": "2026-09-05T11:11:50+00:00",
+   "summary": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident BleepingComputer",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "OpenAI产品负责人：你熬夜写的50页文档，已经不值钱了 - Sohu",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON25qOTZ6NEpZaHBqVGxEUnBVQWs3YVprV0FTVksybnBFNHljMzZmLXVlUHNTaWhPRFFsUTYwYXpVY3p5dVNrMzNRaEJTY1JBSWd5bmQtNE9RV2w0c0U3YTVSWjFoNURpTzJkWVFRcDNGQUg1M2FtVG9qZGN3VndsNmViSlhKTHpD?oc=5",
+   "source": "Sohu",
+   "published": "2026-09-05T11:11:43+00:00",
+   "summary": "OpenAI产品负责人：你熬夜写的50页文档，已经不值钱了 Sohu",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "一个人，一只鼠标！他击退了3103个OpenAI智能体42天集体猛攻 - Sohu",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjhYQTg2eWdKbjRHY1FSUGhaWHlrQUN4anhtU20zdDB4UVFReVNtb2VHNzdWd2VZTnNTSzh2d09sMWtpZVpweEdtWGRTcG9TYm9ObER1QjBPZDhQS3Y5SzR3MUdUbjhtMFZydHNmQVRtTjQ0ZEJRZy03NkVoM25iX29wZjBCV05y?oc=5",
+   "source": "Sohu",
+   "published": "2026-09-05T11:11:43+00:00",
+   "summary": "一个人，一只鼠标！他击退了3103个OpenAI智能体42天集体猛攻 Sohu",
+   "topics": [
+    "AI"
+   ]
+  },
+  {
+   "title": "塔塔咨询将在印度海得拉巴建设 1GW AI 数据中心，预计投资 7000 亿卢比",
+   "link": "https://www.ithome.com/0/998/810.htm",
+   "source": "IT之家",
+   "published": "2026-09-05T11:07:31+00:00",
+   "summary": "IT之家 9 月 5 日消息，塔塔咨询服务公司今日宣布，旗下子公司 HyperVault 已取得 264 英亩（约 106.9 公顷）土地，计划在印度海得拉巴打造规划容量高达 1 吉瓦（1GW）的大规模 AI 数据中心园区。官方表示，该数据中心可支持面向 AI 模型训练、推理以及复杂高性能计算工作负载的高密度 GPU 部署。建设将采取分期推进策略，密切匹配客户算力需求与底层技术迭代要求。全面建成后，该园区预计将跻身印度规模最大、技术最先进的 AI 基础设施园区之列。项目落地后，预计将在当地创造数千个直接与间接就业岗位。HyperVault 及其合作伙伴预计将投资高达 7,000 亿印度卢比（I",
+   "topics": [
+    "AI",
+    "GPU/算力集群"
+   ]
+  },
+  {
+   "title": "We tested DLSS 5 in NBA 2K27 with every RTX 50-series GPU — first official release comes with a big performance hit, but almost every Blackwell card can run it at 1080p",
+   "link": "https://www.tomshardware.com/video-games/pc-gaming/we-tested-dlss-5-in-nba-2k27-with-every-rtx-50-series-gpu-first-official-release-comes-with-a-big-performance-hit-but-almost-every-blackwell-card-can-run-it-at-1080p",
+   "source": "Tom's Hardware",
+   "published": "2026-09-05T11:00:00+00:00",
+   "summary": "We tested Nvidia's DLSS 5 in NBA 2K27 across every RTX 50-series graphics card at 1080p, 1440p, and 4K to see just how much performance it costs to explore the frontiers of neural rendering.",
+   "topics": [
+    "GPU/算力集群"
+   ]
+  },
+  {
+   "title": "台积电市场份额超七成不可替代，分析师认为当前回调提供买入良机 - NAI500",
+   "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNVGJicHNSOWFUa1dQemphNW9qdDNhRHoxRFdTMktrb0lDTnRzTWtoZTJmSG1mX0JPZGxVOU9uTHc3NXAtVmVwelQ1bERES2piNm5MVTVHZnFzb1Y0WDB2Njk4VVpqa2ZJeVU0akhGTXYxbm9kMTczRUJlZzZrS1h6NUwwX2Rfa1hYU3MzbWVadVlUSVJoMDJ0UGI0aVdDOEdUNEpWeVJFV2Y2dEkwME9uWW5aTkFRYXkyUnJraEJBR2tFc1JiRy03QXZ6S1IyWmZlNnJnOHFvd3JZc2VBNlJxVmtOcms0dUZfM01xRTEwNVZJZ0Faa2xqQ1NQb3o2Vl9NeUd2M0NvYW82MDRuOF9NNFdyZHZYQzRyaHJtQmdlWUo1N2MzVEpxOW1OQkpId0hZemtUclVzYzAzT3liWU1xTDc2SlhidUZjdDA0YVp0TFdKYVlVeEVmM1I0cw?oc=5",
+   "source": "NAI500",
+   "published": "2026-09-05T10:59:44+00:00",
+   "summary": "台积电市场份额超七成不可替代，分析师认为当前回调提供买入良机 NAI500",
+   "topics": [
+    "AI",
+    "半导体"
+   ]
+  },
+  {
+   "title": "美欧日砸810亿围堵中国芯片 - 中关村在线",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YeUdOclYzTG9waUk1WFU5VGFLMHFZTThGYzVubWU5d3c1OFhWeVMtZ09zYk9GU2tyUWYzMU5tVHpJdS0wMWp0d2ZOQ1FRcC1GSlVrXw?oc=5",
+   "source": "中关村在线",
+   "published": "2026-09-05T10:39:48+00:00",
+   "summary": "美欧日砸810亿围堵中国芯片 中关村在线",
+   "topics": [
+    "半导体"
+   ]
+  },
+  {
+   "title": "长安汽车：“天枢领航”海外高速 NCA 方案计划 2027 年落地",
+   "link": "https://www.ithome.com/0/998/808.htm",
+   "source": "IT之家",
+   "published": "2026-09-05T10:32:27+00:00",
+   "summary": "IT之家 9 月 5 日消息，9 月 4 日，长安汽车在科技生态大会上发布全栈自研智能辅助驾驶方案“天枢领航”，目前已覆盖高速 NCA、城市 NCA 和全场景泊车三大核心功能域。据财联社今日消息，长安汽车管理层透露，公司计划于明年在海外率先落地“天枢领航”的高速 NCA 方案，城市 NCA 会晚一些。对于海外市场，公司也将建立算力中心，在当地数据闭环，并依据法律法规进行相关智能驾驶辅助落地。据IT之家此前报道，9 月 1 日，长安汽车公布了 8 月的交付成绩单：8 月交付 21.88 万辆，其中海外交付 9.24 万辆、同比增长 78.6%，官方称海外交付连续 7 个月同比大涨。",
+   "topics": [
+    "GPU/算力集群"
+   ]
+  },
+  {
+   "title": "腾讯又押中一家芯片IPO：真正赚钱的一级市场投资，往往要等很多年 - Sohu",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd2llU3gxQmxDb0hBY3NnWGdNMDNyWU1Qb0x1Nzd4TDIxd0ZodjluWWVGMzVvSEVzVWtVdFZLYS1SY1Q1NWtQVGtFYzhtMHBvQkVDZGgyNVZ5YVh1RTRHMlhLRnIxN1dUbFZpV3cycjhzSjlzNndmUG5TbEpheUYyMEJYSVZFTy1uVjV0Zg?oc=5",
+   "source": "Sohu",
+   "published": "2026-09-05T10:18:39+00:00",
+   "summary": "腾讯又押中一家芯片IPO：真正赚钱的一级市场投资，往往要等很多年 Sohu",
+   "topics": [
+    "AI",
+    "半导体"
+   ]
+  },
+  {
+   "title": "台积电连续称霸：连续两季拿下73%市场份额！ - 电子工程专辑",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yc0NyM2l4SW96RDRwWmhmblRRVTFzalNZeE1BTXZVS1VvWjliMWFmd3hRY2wzMFduLTJWZUZtNi1CanBPUkZGaGd0T2FVTHpCeFZN?oc=5",
+   "source": "电子工程专辑",
+   "published": "2026-09-05T10:10:00+00:00",
+   "summary": "台积电连续称霸：连续两季拿下73%市场份额！ 电子工程专辑",
+   "topics": [
+    "半导体"
+   ]
+  },
+  {
+   "title": "前印度储备银行行长：为什么制造？直接走私不就行了？印度芯片推广计划，遭印网反击 - 风闻",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsN05vRndqNzJnWUhCcXN5aktyMWM2QnFOcUpPVTR1aEx3SWJkU0RBQVMtak85eGRHcTBWcVdTTHU2NnlVNjdTR3lFU2t0Zk9tdTZYdXhFdU1rLVU?oc=5",
+   "source": "风闻",
+   "published": "2026-09-05T10:02:51+00:00",
+   "summary": "前印度储备银行行长：为什么制造？直接走私不就行了？印度芯片推广计划，遭印网反击 风闻",
+   "topics": [
+    "半导体"
+   ]
+  },
+  {
+   "title": "海信科技版图里，市占仅4%的光通信公司最能打？ - finance.sina.cn",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcGhmVUktQjRyNm5YU3RtOHF6VVc1eW5SR2FvTXU1eE4tVDJDQ1FtTWFJVEpPWHhXbzg4akQ1R0R1aTJDZVhQTkVUSWpqVmRFQUJoeC1hWkNJU0MxOE5XWWEtYkowY1JoVUhpbkpVRXNGZlNSY0NjWlZKRWpjZW84bkhYekliRWM5Vld3TTk5R0pPdFdQelpHd2d0bEw4SWpUS3N4VTZaVkhCeWh3NGxSVFpn?oc=5",
+   "source": "finance.sina.cn",
+   "published": "2026-09-05T10:02:49+00:00",
+   "summary": "海信科技版图里，市占仅4%的光通信公司最能打？ finance.sina.cn",
+   "topics": [
+    "CPO/OCS/光模块",
+    "光互联"
+   ]
+  },
+  {
+   "title": "消息称美光HBM月产能2026年底有望达10万片，较去年翻倍 - finance.sina.cn",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXc4SXdfMjN5TU9pb3VJUllBbm9MaU9CSkhwaUdETC1qQzNkM0lnNjNDQUpMSTUtY2NmcFdEYjlXdi0tczJUSnkxMWtkMmlWZDE4eHBFcmwtVlV6bDl0c0ZZUTlHNjN0ZG9tWHZBTVQyMHgwZmxzZ0JNaGtDYXQxUTlNNk1zUlR4bzV1a1JPcUIxODJieVRjaXFHdnV0YWRFRi1Gc2h1aXhnU1VzeTBST0xR?oc=5",
+   "source": "finance.sina.cn",
+   "published": "2026-09-05T10:02:46+00:00",
+   "summary": "消息称美光HBM月产能2026年底有望达10万片，较去年翻倍 finance.sina.cn",
+   "topics": [
+    "HBM/先进封装"
+   ]
+  },
+  {
+   "title": "【光电通信】AI 算力的传输底座，深度拆解光模块全产业链 - 电子工程专辑",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rdEdsQXl0T3F0QXVubTlnZDBqeGhaZmhrdFNIRFNGamY1TWlGa2hLMmY0WHBMZVZNdE0tYkRVWm1CUVI1V3BQTERuUm1LUnZLYV9F?oc=5",
+   "source": "电子工程专辑",
+   "published": "2026-09-05T10:00:00+00:00",
+   "summary": "【光电通信】AI 算力的传输底座，深度拆解光模块全产业链 电子工程专辑",
+   "topics": [
+    "AI",
+    "CPO/OCS/光模块",
+    "GPU/算力集群",
+    "光互联"
+   ]
+  },
+  {
+   "title": "OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛” - 华尔街见闻",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9URmwzWXBoSFBEbHRHOTY2OFcwbjNmMkJ3RWtUNmxHVnYyQUxuM3pRdlotME9GNUNmbXExanh5UEJHczBMRVJ2d3JPdkgzb09GMXpR?oc=5",
+   "source": "华尔街见闻",
+   "published": "2026-09-05T09:55:47+00:00",
+   "summary": "OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛” 华尔街见闻",
+   "topics": [
+    "AI",
+    "GPU/算力集群"
+   ]
+  },
+  {
+   "title": "初体验一K8营收破60亿欧元，车规芯片龙头启动120亿欧元IPO - 体坛",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ya3V4WXhQeTFrZThGTUU2LTIzYUVUOU81OU9rU0loZ1pmM0oyeFh3a1JsRk5xYjhvUkN4WHhoSGstdnJPeUJra0Z2b09rU09xc0E?oc=5",
+   "source": "体坛",
+   "published": "2026-09-05T09:51:26+00:00",
+   "summary": "初体验一K8营收破60亿欧元，车规芯片龙头启动120亿欧元IPO 体坛",
+   "topics": [
+    "半导体"
    ]
   },
   {
@@ -68,27 +675,6 @@ window.RADAR_DATA = {
    "summary": "IT之家 9 月 5 日消息，9 月 4 日，广汽集团发文谈到了参投长鑫科技。早在 2021 年，广汽集团便通过旗下资本运营与投融资平台广汽资本，前瞻参与投资长鑫科技，打通了整车应用场景与上游芯片研发的协同通道，迈出了汽车芯片领域产业布局的关键一步。IT之家从文章获悉，时间回拨到 2021 年，全球汽车行业正遭遇“缺芯”阵痛，芯片供给波动直接制约整车生产，供应链自主可控成为全行业共同面对的课题。面对挑战，广汽一方面全力克服芯片短缺影响，实现产销稳步增长；另一方面明确提出：加强芯片领域投资与产业链上下游合作，助力供应链自主可控，增强综合竞争力。2021 年，广汽资本参投长鑫科技，正是这一战略思路",
    "topics": [
     "半导体"
-   ]
-  },
-  {
-   "title": "研究称OpenAI智能体劫持德国网站，发布万条信息协作 - k.sina.com.cn",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ca2tDTnR4RHJkUXdyUEJYS3hCZ0xkeWpWVnpOWFVLSThqeTBtUUxJMmprYmRyRkN4UzBqb3d3TkNvcF8wN21wT3VnTXI1SGZUdmdvUkNrYXJpWkRsOVBaWHQzek93UC1SdEVac0pDU09DMEhpV2lxNGYtOUU2Zw?oc=5",
-   "source": "k.sina.com.cn",
-   "published": "2026-09-05T09:37:45+00:00",
-   "summary": "研究称OpenAI智能体劫持德国网站，发布万条信息协作 k.sina.com.cn",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "AMD发布Ryzen AI Max PRO 400：192GB显存赋能本地大模型 - t.cj.sina.cn",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVUDRNUmxoY21EZzY2eTlXc19idUhiTDZRV2tmWUJuNXZ6bE56MlBjVXpRZkJUZFJsbDJpVDE2NDVjSDFPQlplSEU4SVFob3ZTNC1DQVlFYXNYVFpzRC1abTRYVkkxY182ZDFZekpPYUY?oc=5",
-   "source": "t.cj.sina.cn",
-   "published": "2026-09-05T09:36:28+00:00",
-   "summary": "AMD发布Ryzen AI Max PRO 400：192GB显存赋能本地大模型 t.cj.sina.cn",
-   "topics": [
-    "AI",
-    "GPU/算力集群"
    ]
   },
   {
@@ -125,16 +711,6 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "9月2日Anthropic改写API规则：切断套壳蒸馏后路，开发者成本降、响应快！ - blog.csdn.net",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16TDVfRzNrNldmdkxaQnB2OU5zV18zN1lGNVExZXJDSEtSUHRtbmhqZlJsRUpJN21FTFphRVhIdTk4RjRGTTFxQ1pIdk9zYjJZSDcwdTVCSFJjd19lZnpwb1hkbHc5c2h4akZJ?oc=5",
-   "source": "blog.csdn.net",
-   "published": "2026-09-05T09:16:43+00:00",
-   "summary": "9月2日Anthropic改写API规则：切断套壳蒸馏后路，开发者成本降、响应快！ blog.csdn.net",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
    "title": "首批授信近 20 亿元，北京经开区在全市率先落地 Token 词元算力贷",
    "link": "https://www.ithome.com/0/998/784.htm",
    "source": "IT之家",
@@ -146,53 +722,24 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "上海浦东新区首创“视频电子封签”，扫码即看制作全过程",
-   "link": "https://www.ithome.com/0/998/783.htm",
-   "source": "IT之家",
-   "published": "2026-09-05T09:03:53+00:00",
-   "summary": "IT之家 9 月 5 日消息，据中央广电总台中国之声今日报道，上海浦东新区在全国首创的外卖“视频电子封签”试点满两个月。这枚小小的一次性封签，能够提供商家制作餐食的完整视频。一旦出现纠纷，到底是哪一方的责任，一目了然。报道称，外卖“视频电子封签”首个试点位于上海浦东新区陆家嘴胜康廖氏大厦的星选闪电厨房。这是一个典型的无堂食外卖集聚区，近 20 个档口，一天出餐上千单。商户接到订单后按下启动键，后厨摄像头就开始录制：切菜、下锅、翻炒、出锅、打包，每个步骤都被一一记录。餐食制作完成后，再按下“出餐”按钮，整段视频通过“互联网 + 明厨亮灶”系统和 AI 技术，同步上传云端；同时，一张一次性封签被打",
+   "title": "YB体育送彩金斩获2026 CES BIG创新大奖中国AI芯片全球话语权再上一阶-体坛网_体坛+ - 体坛",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VQTF2aE8yeEF0RGR2aFZ4a3pPQmxGeV8yczFyeUcySzBzaVRTZlNMSlpCRGx4YXV4Xzl0dkFDcmZPU1dHNk9kV0dLejVpcTRpVEE?oc=5",
+   "source": "体坛",
+   "published": "2026-09-05T09:12:04+00:00",
+   "summary": "YB体育送彩金斩获2026 CES BIG创新大奖中国AI芯片全球话语权再上一阶-体坛网_体坛+ 体坛",
    "topics": [
-    "AI"
+    "AI",
+    "半导体"
    ]
   },
   {
-   "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement - nytimes.com",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0JCcDFiX0pScndEQWkwM1FBYXpPVEhPVVBhTFJoVV9JTW4xZllRX2MzLUI3UVJuTGdaZEROM2FPcXhPWGgxTm9WbFJpVkJXMmtMbzFUakpuVWZqRG5KY25GZzZNdlZpT1hweHZ3b3FJZVBtUUpVSTJINUUyMFhSM1AtMEpvaklaaFJKWXVn?oc=5",
-   "source": "nytimes.com",
-   "published": "2026-09-05T09:03:10+00:00",
-   "summary": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement nytimes.com",
+   "title": "先进封装(BK1565)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
+   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9lTDdlNm1maFZmRmY4SGI2NDVyZHFNZlRkSkUzZ0pUeFJCRDRqNFdwQk1kelpDUU5nWThfV3RtTDU?oc=5",
+   "source": "雪球",
+   "published": "2026-09-05T09:08:08+00:00",
+   "summary": "先进封装(BK1565)股票股价_股价行情_讨论_资讯_财报_数据报告 雪球",
    "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "Denée Benton Wants to Come Back as ‘a Detached, Chaotic Gemini’ - nytimes.com",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUkRGbWRMOGgzQ3JvMGpSMG5PSy1jR0ZvVnVzYWxjY3h4bWJySTNLREUyUmIxWjJQUTRvdEc1NzVlbHQ1dzljYUpGMEFSeWRaQ1BNamNfOGY0THcyWnZvaHRfdms1b2FFazVMQThJVTY5WHNXMFlJVkVpQnZxTS15NU9vakNfZENRejFr?oc=5",
-   "source": "nytimes.com",
-   "published": "2026-09-05T09:00:30+00:00",
-   "summary": "Denée Benton Wants to Come Back as ‘a Detached, Chaotic Gemini’ nytimes.com",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "Why pick one? Own ChatGPT, Claude, and Gemini for just $69.97 with this Labor Day sale. - Mashable",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVFRXbEllSDd3cFhDRVU0OTROaW5DMzlVN2sxbkcwTGFFQ0VlNnRrQ1Q5cTBjNksyU003ZEUzU3ZneUdZdlZ4MFJGTnZQRm1sUHI2MEhLWXduVkZTM1BJeFJHTTRtcVJLNEprZXE1czlUTXZFcUgwSkFWeUZXZnQ1VG84R3M1UW9wcGMw?oc=5",
-   "source": "Mashable",
-   "published": "2026-09-05T09:00:00+00:00",
-   "summary": "Why pick one? Own ChatGPT, Claude, and Gemini for just $69.97 with this Labor Day sale. Mashable",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "全球市场：美股三大指数收跌存储、光通信板块走强特斯拉跌近6%_证券要闻 - 中金在线",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqMzhtdnNLZkJtTHdEWkVOOFlCcElONTh4akFlZ1EweklxTlNGTzFYWW9IeVpMeS1Ja3dhUnV3WGtsdVJxbWN2UHdHUGNTTVhOV2F0bHBMbmUwWWNBeUgzOXczQWhPemhGMHE1SDRB?oc=5",
-   "source": "中金在线",
-   "published": "2026-09-05T08:55:01+00:00",
-   "summary": "全球市场：美股三大指数收跌存储、光通信板块走强特斯拉跌近6%_证券要闻 中金在线",
-   "topics": [
-    "光互联"
+    "HBM/先进封装"
    ]
   },
   {
@@ -218,43 +765,25 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的” - 华尔街见闻",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53YkUyYmlrYk5YSnI4NTRBWDlpV0FNX1Q1M2k3WS1ERWVqMnR1XzNEbDgtLVJkTWViVE9DWU1zYUN1eUJNTUtuWGpaNnNrTmt0S2xj?oc=5",
-   "source": "华尔街见闻",
-   "published": "2026-09-05T08:47:35+00:00",
-   "summary": "高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的” 华尔街见闻",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞 - 财联社",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XYnVMZDRzeUwzU3gyM3d5cUJIdmc0T3pIRDM4VUx2MGkyeU1MbDE1Q1BXUWZpRDlFSm5qSDN4QWxqZi1EQ1JKNA?oc=5",
+   "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案” - 财联社",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw?oc=5",
    "source": "财联社",
-   "published": "2026-09-05T08:40:17+00:00",
-   "summary": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞 财联社",
+   "published": "2026-09-05T08:49:37+00:00",
+   "summary": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案” 财联社",
    "topics": [
-    "AI"
+    "AI",
+    "GPU/算力集群"
    ]
   },
   {
-   "title": "OpenAI 发布 GPT-6 Astra AI：\"终结者\"版本 - notebookcheck-cn.com",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNmgxZUpqX3JRQldlbTFQeVFPR1dlbjk2SFVRNHVJbG1rQl9waWt4anlhSUpkTHZlQXVCdzA2SzByUEN4VXllVVVTUk1YbFlqNS0tRGhUWHh1VTMxa3RKeHFHZmNmUXo0VVZJOVkzTGg2NGRrQndScWJqeUdYcWtDU29lNTNXZw?oc=5",
-   "source": "notebookcheck-cn.com",
-   "published": "2026-09-05T08:39:00+00:00",
-   "summary": "OpenAI 发布 GPT-6 Astra AI：\"终结者\"版本 notebookcheck-cn.com",
+   "title": "2026智能温控空调有哪些？三档价位+三大技术路线+分人群推荐+FAQ|AI|美的|毫米波|ai芯片|性价比_新浪新闻 - 新浪财经",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RT29QNUNLMHVVTkNKVm9JczZTNUllSlVsb1lIUVFacExCQUY1aDNHcU5zYzRaVWJLOXNMNk55ODZ5cXlDQjJneTQ2SGNUZ3NnN2V1bTN2OG1UQlBaQlZFbWp5dG9PTEtMNmFfVUpvX3E1eGJwU0s2WW1IcjlWUQ?oc=5",
+   "source": "新浪财经",
+   "published": "2026-09-05T08:41:44+00:00",
+   "summary": "2026智能温控空调有哪些？三档价位+三大技术路线+分人群推荐+FAQ|AI|美的|毫米波|ai芯片|性价比_新浪新闻 新浪财经",
    "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "OpenAI数千AI代理曾入侵德国网站并“交换作业” - 联合早报",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0SEpUdThaQmVwaVpOekZJNllTdEZXdzJad0tzdXZJTFhkTmtnUTV4dk0yUU5uRS1rempwMEF2a3B3bUpKaEZCcldxTU9xaWpxanpkYkxILUtpLUJkM05OaGhSRGdoZFMzenc?oc=5",
-   "source": "联合早报",
-   "published": "2026-09-05T08:38:41+00:00",
-   "summary": "OpenAI数千AI代理曾入侵德国网站并“交换作业” 联合早报",
-   "topics": [
-    "AI"
+    "AI",
+    "半导体"
    ]
   },
   {
@@ -286,16 +815,6 @@ window.RADAR_DATA = {
    "summary": "2027年下半年Nscale与Figure在美达成初始35亿美元算力合作 维度网",
    "topics": [
     "GPU/算力集群"
-   ]
-  },
-  {
-   "title": "给AI打分的AI，怎么才能打得准|Sora 2|Veo 3|可灵|强化学习|Qwen_手机新浪网 - 新浪财经",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNkk0MDR6NENKdEMtOTJnY3VhR1liRUQ4RjJ3b1FmQjNsZHJaRmNJR2ludTd3YnFkLW9JdGkyWC1TS21pZkdfZlFaNWxWdy1GZFFTRTFnU2RELVdJZjliX3JWTUR4WVhQRmtPMWY4Um9vVE53Y2l3eHAtTENpYmV1S0Voc1BONENQN1prVFRtQUZQd21mbk11M0E1MjFxMGJVRktiSTBnQQ?oc=5",
-   "source": "新浪财经",
-   "published": "2026-09-05T08:32:26+00:00",
-   "summary": "给AI打分的AI，怎么才能打得准|Sora 2|Veo 3|可灵|强化学习|Qwen_手机新浪网 新浪财经",
-   "topics": [
-    "AI"
    ]
   },
   {
@@ -331,93 +850,47 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "Anthropic推遲IPO 估值或達2萬億美元 - epochtimes.com",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPYTN2VlV6RW9LXy1RanFIdjBzUzJpUUE5XzlWTHpndm5jRms4OVZ0ZWdkemgwSFlqeGlYbDJaNW1wT3hZank2bm1qR05OVEF1UmJ2ckJRSEVFU2dIQTFJ0gFkQVVfeXFMTlFuV3BjTGx5Nm1jbS0tNzZBU2MxYXJTYWpVeUtqcUdoZTF6X3Y3MW8wUjRPUXZla2xCNWczcEtSZVlfTEdFYW5KS2liblkzQWVyQkUwVWszOWRQMkNKbzk5WklVNQ?oc=5",
-   "source": "epochtimes.com",
-   "published": "2026-09-05T08:21:00+00:00",
-   "summary": "Anthropic推遲IPO 估值或達2萬億美元 epochtimes.com",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "谁将赢得“史上最大IPO”投行竞赛？Anthropic接近选择大摩和高盛 - 富途牛牛",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUkFldkpveFRfQ0hTbTJVMDFudnZabjRIdk9WaFRXamVXWWtkbUhVSHozTURRTFRCRzUxQ2RBYVdaVDhDWklzUjRRa3B1V1NsUGV3TDM1RjFpQXRPdVFCNjFoS1dzRDRPSlJYcnZ0b2J1VkRscEdheEh3cXBUemRuNXgwSWF6REV4TklV?oc=5",
-   "source": "富途牛牛",
-   "published": "2026-09-05T08:18:28+00:00",
-   "summary": "谁将赢得“史上最大IPO”投行竞赛？Anthropic接近选择大摩和高盛 富途牛牛",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "大模型套餐上架天猫，AI厂商争夺谁的付费订单？|DeepSeek|Minimax|Kimi|Token|阿里云_手机新浪网 - 新浪财经",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcnVqVlgtMGg5Y2k0SUxVU3c3Y2dFUDUtblVqMnVCZkIydlpmYUY5TVppaWJxYVpKUExEYVBZemoySHBSWURxd2pMNTBXXzFTR3ZVT1hiZDlEb0NHemh4eFVxdmloaFpOcVZqbndVSmVCUWNhc1lzazBDZy1QZWthc2lMeDZZSnIyMzdWMV92YU81Q3Uyc0R5dzRvU3g0UTJZamM1aDhxbVVzcFIyT2x2MkJ3?oc=5",
-   "source": "新浪财经",
-   "published": "2026-09-05T08:16:23+00:00",
-   "summary": "大模型套餐上架天猫，AI厂商争夺谁的付费订单？|DeepSeek|Minimax|Kimi|Token|阿里云_手机新浪网 新浪财经",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "收入、估值全面落后，OpenAI高层内讧？总裁和CEO公开“掐架”！总裁高调宣布“AGI时代来了”，奥尔特曼却“唱反调”：无关紧要的营销术语 - mrjjxw.com",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pcGJPZjFKR1AyUlEtY1NUaUJBd1c4MExNNTRHQUZORTZwVl9pSWNWWkdJdFJlSmdOblhmZXMzNnFMcGo3ZnprX3JNWjRCX0F0YVltYUpDVVJkdDBZSTRfTEtLaDFqUQ?oc=5",
-   "source": "mrjjxw.com",
-   "published": "2026-09-05T08:16:00+00:00",
-   "summary": "收入、估值全面落后，OpenAI高层内讧？总裁和CEO公开“掐架”！总裁高调宣布“AGI时代来了”，奥尔特曼却“唱反调”：无关紧要的营销术语 mrjjxw.com",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "沙特人工智能公司推出中企开发的阿拉伯语大模型 - 见道网",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lcXJDQW5DTU9aWlFWc3NaZzNia3czQXJDSlI0NEd0Wkh2aTgtRE91SU5lWThZY3FrM1hMNmlUZDFGU2VCZ1Q1Yk5LYW9KSy1JSWptZQ?oc=5",
-   "source": "见道网",
-   "published": "2026-09-05T08:15:00+00:00",
-   "summary": "沙特人工智能公司推出中企开发的阿拉伯语大模型 见道网",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "《美国医学会杂志》一论文称 AI 已超越人类医生，引发行业反对",
-   "link": "https://www.ithome.com/0/998/771.htm",
-   "source": "IT之家",
-   "published": "2026-09-05T08:08:48+00:00",
-   "summary": "IT之家 9 月 5 日消息，本月发表于《美国医学会杂志》的一篇新论文在梳理数百项 AI 医疗研究后提出，AI 不仅已经成为医生不可或缺的辅助工具，在许多方面甚至开始超过医生，未来不久可能独立照护患者，而且表现优于人类医生。论文作者、知名生命伦理学家埃泽基尔 · 伊曼纽尔和风险投资家维诺德 · 科斯拉断言：“在认知性医疗工作中，由 AI 独立提供医疗服务，很可能比医生单独诊疗或医生与 AI 共同诊疗效果更好。”据《连线》报道，不少医生并不接受这一结论。美国医学会 CEO 约翰 · 怀特指出，论文引用的部分研究只是模拟实验，并非医学研究中被视为金标准的盲法实验，一些研究甚至与作者的结论相矛盾。他",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
    "title": "美光计划年底前将HBM月产能提升至10万片！ - Sohu",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSm90V0JWQkV4aUJyNDhFVklDdVRSNGZSblN0UkVoelg2X05uVXlXOWdsRE1mcjhWUzNzck9vRkl3NGpWYjAzd1hZV1ByZDdIMFFpU1ZzVFJnR0FhVU9qVVBpUGJ4S3pfSHZqMEZxZUt0Z1VSLXAtMUtWQ3B4UVZhek5RbGdUVkNF?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVDV6OXFSMWo0V2doN1hxMm9ZcEFZU3FoNUI0cHc0a3ZacWkybmVlN1l3NTBzeGJCNmkzbk5PZVlMSUdtd1JSZTRUMUpLVWFBdWNqclN4dWFacDZ4enAwMUZBR3VGaDd2c1pYNUlPTElZMUdFa1BLYWFOOGV6cTEySWxBSk5sOW4yM1VkYQ?oc=5",
    "source": "Sohu",
-   "published": "2026-09-05T08:08:47+00:00",
+   "published": "2026-09-05T08:15:00+00:00",
    "summary": "美光计划年底前将HBM月产能提升至10万片！ Sohu",
    "topics": [
     "HBM/先进封装"
    ]
   },
   {
-   "title": "AI应用+短剧游戏，热门高增的10家公司 - k.sina.com.cn",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NY1NhOVd6SC13R2o5RGVfVVhPanFQNU9EcWt5aWpydFpLWkVlanl4YUNHeXhvMGpuR2dub0k5U0g1ckxYOEFqaXY3VWVPS19uYTVtN0dpdzFVdmpBRmo0U0pwYmRlb1dqb0hJS1VNN3A3TU1xc200c2hsTHdUdkk?oc=5",
-   "source": "k.sina.com.cn",
-   "published": "2026-09-05T08:07:01+00:00",
-   "summary": "AI应用+短剧游戏，热门高增的10家公司 k.sina.com.cn",
+   "title": "累销破千万与营收超500亿：老快三彩票在线登陆双雄领跑AI芯片赛道 - 体坛",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16REgya2NxQl82NjRQUGV1eXBKSUpTUXRkS1RVX1dWNEhCOERhc2VfNkxtcDF3cWZzNGcwdFcxeXdiQ0RJblp5OXJHZERmajNLUWc?oc=5",
+   "source": "体坛",
+   "published": "2026-09-05T08:13:09+00:00",
+   "summary": "累销破千万与营收超500亿：老快三彩票在线登陆双雄领跑AI芯片赛道 体坛",
    "topics": [
-    "AI"
+    "AI",
+    "半导体"
    ]
   },
   {
-   "title": "OpenAI官宣将自研人形机器人，但目前正被苹果起诉 - t.cj.sina.cn",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY2Fia1c5SnBUNERiZXJJRW8wbFAtV1dqeWxOWHBldGlJQXlHaEZra25JMGJRLVREVG5aUVdCODJOWGphbEd4ZlVtY3FNT201OGxtU3o2anZINzd1ZGoyWDZHV1JKMk16Mzd6WVl3LXQzTFlFZUhIaEl1MER1WTNXbVdJWU9Rdw?oc=5",
-   "source": "t.cj.sina.cn",
-   "published": "2026-09-05T07:57:54+00:00",
-   "summary": "OpenAI官宣将自研人形机器人，但目前正被苹果起诉 t.cj.sina.cn",
+   "title": "CPO Futures Likely To See Profit-taking Next Week Amid High Stock Levels - BernamaBiz",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMmVuSGN4al9RU05lel9pTkd5b3VwS1BfSEFCeWdnQUNTVVBVUHF0VzFxZUstVmFUOHJmSHJDR0hJdkE0c0Yxczc2MFdIdWZFTVlXb3lCbG5KZw?oc=5",
+   "source": "BernamaBiz",
+   "published": "2026-09-05T08:05:55+00:00",
+   "summary": "CPO Futures Likely To See Profit-taking Next Week Amid High Stock Levels BernamaBiz",
    "topics": [
-    "AI"
+    "CPO/OCS/光模块",
+    "光互联"
+   ]
+  },
+  {
+   "title": "AI算力存储瓶颈难解 bet9官方手机版以高带宽内存锚定国产替代确定性 - 体坛",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Jd3haY0pqdjkzY2FoWURJVVpiXy0xY0JnRzcyQzZuNTJQX2VtSE5lc3k3ZGZ0QVAxd2lJTFdzeUZEVVExZkxoeEpobE8zVHYxaGtZ?oc=5",
+   "source": "体坛",
+   "published": "2026-09-05T08:01:45+00:00",
+   "summary": "AI算力存储瓶颈难解 bet9官方手机版以高带宽内存锚定国产替代确定性 体坛",
+   "topics": [
+    "AI",
+    "GPU/算力集群",
+    "HBM/先进封装"
    ]
   },
   {
@@ -432,46 +905,6 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel - The Hacker News",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05RjMyVHJhdDZZR1dwZ1JKT2M3akdOQTh4c0w2aU8xRzR2MmR0N2tIWFpIUGVCVjFFUGFQZlJCWDVXcllQQXRWMFdOdGlzbTJXTEc3OHFJWHNuRVlkWUNqS2hza2tkUW1DcmZfNWdlVDdRM0E0eFU3cl9ObEs5UQ?oc=5",
-   "source": "The Hacker News",
-   "published": "2026-09-05T07:55:00+00:00",
-   "summary": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel The Hacker News",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "全新一代智己 LS6 大五座 SUV 四色首秀，9 月 10 日预售",
-   "link": "https://www.ithome.com/0/998/760.htm",
-   "source": "IT之家",
-   "published": "2026-09-05T07:54:51+00:00",
-   "summary": "IT之家 9 月 5 日消息，智己汽车今日带来全新一代智己 LS6 四款外观车色首秀，包括拉斐尔茶、集米银、穆夏绿、戈雅黑，全国展车已陆续到店。全新一代智己 LS6 预售发布会定档 9 月 10 日，定位“全线控大五座 SUV”，该车宣称搭载下一代全线控底盘、下一代舒享座舱，号称“陆上 A320”。据介绍，该车是航空同源理念打造的家庭 SUV，率先进入航空级安全时代。全系标配 NEO 三电架构、全线控底盘、IM CLAW 智能体、超级头等舱。IT之家注意到，目前在售的新一代智己 LS6 车型于去年 9 月上市，纯电版上市权益价 19.79 万元起，增程版上市权益价 20.29 万元起。在售的新",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "ChatGPT 卷入校园枪击案，OpenAI 面临诉讼数量已超 50 起",
-   "link": "https://www.ithome.com/0/998/758.htm",
-   "source": "IT之家",
-   "published": "2026-09-05T07:53:01+00:00",
-   "summary": "IT之家 9 月 5 日消息，据外媒 Futurism 当地时间 4 日报道，OpenAI 正面临 30 起新的诉讼，原告均为加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的受害者。他们指控 OpenAI 向枪手提供了“实质性协助和鼓励”，并在枪击案发生前，没有就枪手与 ChatGPT 之间令人警觉的互动向警方示警。目前，针对 OpenAI 的诉讼已经超过 50 起，原告指控，大量使用 ChatGPT 后，用户本人或身边的人出现心理伤害、身体伤害，甚至死亡。这 30 起新诉讼由今年 2 月塔姆布勒岭枪击案的幸存教师和学生提起。枪击案发生在加拿大一座偏远矿业小镇，共造成 8 名成年人和儿童死亡，另有",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
-   "title": "小米平板 9 Pro Max 首发澎湃 OS 4：一键生成脑图、至高支持 6 分屏",
-   "link": "https://www.ithome.com/0/998/757.htm",
-   "source": "IT之家",
-   "published": "2026-09-05T07:46:32+00:00",
-   "summary": "IT之家 9 月 5 日消息，小米平板 9 Pro Max 将于 9 月 7 日 19 点发布，首发小米澎湃 OS 4。据官方预热，新品搭载的澎湃 OS 4 带来全新文件管理，来源有迹可循；全新文档阅读器，可手写批注；支持特殊字体导入，高级打印。新品搭载 PC 级浏览器，专业插件协作，支持网页翻译、三方 AI 插件，支持标签页竖排、分组，深度适配 Top500 高频网站。全新小米笔记支持一键生成脑图，支持语音速记，音频、图片导入，零散表达一键生成结构化脑图。小米平板 9 Pro Max 带来多分屏模式，至高支持 6 分屏。双分屏，自由调节显示比例；三分屏，一屏三应用并行；六分屏，复杂任务，全景",
-   "topics": [
-    "AI"
-   ]
-  },
-  {
    "title": "星耀科技斩获2026年AI芯片创新奖，成就乐博现金网登录级技术标杆 - 体坛",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCMjJydk0ybnJrejRXYVBIR2ZNMklKSG5iOWJnMlBGLUZuSzU0bEdibUZQcWRHbm1hNDI1cmpYSy1YMnIxLTh3aURvb0Q?oc=5",
    "source": "体坛",
@@ -483,43 +916,49 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "深圳工信局：海清智元(01392)“智元起源大模型”拟入库深圳官方名单！可享模型券政策红利 - 新浪财经",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdF90SVQycFBCaTJhdVBaWXNhNk1ZTmxsUjBVTHA5NHYtbTNHWDNVRXRhb0tmbTFRaTUzTUVUZGs3aDBZenFIenNzclpmRWd2SV9VQ0pFalZnWUxwRmlrSUxxeDJsQTlwdzRzNVJISTRyZjNDcVdKRHRyWjZMdHJlS2xRVkY0cWpZdnc?oc=5",
-   "source": "新浪财经",
-   "published": "2026-09-05T07:44:10+00:00",
-   "summary": "深圳工信局：海清智元(01392)“智元起源大模型”拟入库深圳官方名单！可享模型券政策红利 新浪财经",
+   "title": "中科通信高速光模块（400G/800G/1.6T）300万只新线体正式启用 - iccsz.com",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZQklCQ24tQmdkT01jZG5oWXBvRDI2d09ERXNCdXJObTdxSUlqTDltX29zWVpncmVaN0t1VWV6RXo1TDA5Z1FjME9YSUdnajZGWTdNcmstRldiNjFfNWlOUllWOE9fRno5b1lzUWsxX1pvU2YyZ2VJZQ?oc=5",
+   "source": "iccsz.com",
+   "published": "2026-09-05T07:39:10+00:00",
+   "summary": "中科通信高速光模块（400G/800G/1.6T）300万只新线体正式启用 iccsz.com",
    "topics": [
-    "AI"
+    "CPO/OCS/光模块",
+    "光互联"
    ]
   },
   {
-   "title": "2026年千元AI手机实测：这3款端侧大模型不输旗舰，闭眼入+FAQ - k.sina.com.cn",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHhKNFJnUHRTcldqdFc3VzZ5T1Z3anBaS2g1aFNYbVFyV1ZNNlFSR3hvZjVQSV8weEpiZ2d1dklhd2ZvUVZPQUY3Z0s2TGxjeE5JaU1JSTVpcThzLTRHY1JDOWJHYnhabFYySk1idmEwM2dtUVRlczBWek1CVDhjeQ?oc=5",
-   "source": "k.sina.com.cn",
-   "published": "2026-09-05T07:43:19+00:00",
-   "summary": "2026年千元AI手机实测：这3款端侧大模型不输旗舰，闭眼入+FAQ k.sina.com.cn",
+   "title": "Agoda CPO Ittai Chorev on the push into real-time travel updates and AI search - webintravel.com",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlJGbnNtVVpidlg1d3FFQXZwa0RmVjk3ZXh0bFpSanJMNnJCQ3dBbFQyRHJDbVVKV0oyenoyN3FvOUNwM085V1FfN0J5LVpFSVlUNHkyRi1PR1ZMbEJ5MHN0NGZueDZ0TEs3c0tkd3dRN0RkTFh5dkcxWlZqSDA4TlNJS3NQM2tuMVNaMGttQ216Mk55VUVRUkJTaWhrLU5rd081TURLRkJsQWs?oc=5",
+   "source": "webintravel.com",
+   "published": "2026-09-05T07:31:12+00:00",
+   "summary": "Agoda CPO Ittai Chorev on the push into real-time travel updates and AI search webintravel.com",
    "topics": [
-    "AI"
+    "AI",
+    "CPO/OCS/光模块",
+    "光互联"
    ]
   },
   {
-   "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol - the-decoder.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcTJoZTEybW1fd0JJN1dXaFJMclJWTlh4R1lUTlZ5QURISmxaZGhaeVpfd1RRNW1jdUhSUDRKU1g3d045amdRUWsxdGNFaWY1V1ZFSFBvTmZ6T05VMWRTWEY4djRsbEgxV3FMMzUyYlVUeWpMbjk4QThadUlMeWlLLVd0ZEJHWDJyZjZnOWEyVGhxZnNXNzdwRWFfakVrOWs4ZEpxNFBoUGhzZi1JLUJhcg?oc=5",
-   "source": "the-decoder.com",
-   "published": "2026-09-05T07:41:33+00:00",
-   "summary": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol the-decoder.com",
+   "title": "DeepSeek将在内蒙古打造AI大数据中心 部署16万片华为最先进芯片 - global.hk01.com",
+   "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOSnE4dUFsbXc4djY3eldYdHdGQS04ZVRiSXA0NU5rTzl0bXl2YjRUMGJCY2wtajVXckk4Mm91dDUtZW1wMzNESkRCcmJEem1MQTBTbFJjNmxJUnpPUjZmVW1pRkt3MkhMdWhoSlFLTU5mLWt0aG5hZV9NQmV2OEZ5RGJ4RTdfVTFWYTJfQ05qTk1NOXJ3Y2hoX0tJdmFIazI1VnhwVG5lb25BRkNfeTdMa20wbHpIOGlab0lhT3BpWU9ZRDlGeVBQVDNyYWdMUmFQQ2lKMlFFUkQtcmtGdGpUN2dON1h2WEo1VkY2elFndThHQVhyZDVKN0JDaEwyalNkRHNSQmNFakIzZEFTemJ0TDZBd0dEY0dLblU2a09EMFVKaW9tU19UMllEeWJsSHZnNzY4bFRnMHYyVkVWZzdqRU5KdkUtQVZDMlRBNm01QXpwVHJfZ2luaUZ3VHJTQ1ByWVV4a3BMOEQxMTFlSzByRXdRNHV4UzU2dFNuU01lUEdGeDBxV2hXUjhwYlMwUEM0dVREakRQYlZMVS03RFIw?oc=5",
+   "source": "global.hk01.com",
+   "published": "2026-09-05T07:30:00+00:00",
+   "summary": "DeepSeek将在内蒙古打造AI大数据中心 部署16万片华为最先进芯片 global.hk01.com",
    "topics": [
-    "AI"
+    "AI",
+    "GPU/算力集群",
+    "半导体"
    ]
   },
   {
-   "title": "40年前电脑，被GPT-6复活！OpenAI下一代突然曝光 - Sohu",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcndqbUluUzJ5by1GcWo2cHR0Y0JGY3ZxaU5vcmR1dVI2el9sV3o5VE9aQ0g1bHBKbnExdWxOV1hJX1JKVUZScEFVc2t2QlEzSmJ1dGNNdmxtWkNkbnFpS1NwUXJSbUc2SXZJbWJrdHM5OUFBYkVaTDBNTzhGLWhfTjBMSXVuZDEy?oc=5",
-   "source": "Sohu",
-   "published": "2026-09-05T07:33:38+00:00",
-   "summary": "40年前电脑，被GPT-6复活！OpenAI下一代突然曝光 Sohu",
+   "title": "美股成交额前20：美光科技涨超6% 存储芯片全线爆发 - 东方财富",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56dXlXUmhsNENZa05YdUU4RHY1WXlGMExZbUczUzNJMzVkN0ZES2ZtZF80MnhvQXpaMDlDbExVQ1ZXaU1FMUlsS3N0NnBEMDM5VTNocndocmJIM2dfaGJ3dVhENA?oc=5",
+   "source": "东方财富",
+   "published": "2026-09-05T07:15:34+00:00",
+   "summary": "美股成交额前20：美光科技涨超6% 存储芯片全线爆发 东方财富",
    "topics": [
-    "AI"
+    "HBM/先进封装",
+    "半导体"
    ]
   },
   {
@@ -554,35 +993,25 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "从电网到算力：东芝的功率半导体新版图 - 芯师爷",
+   "title": "从电网到算力：东芝的功率半导体新版图 - gsi24.com",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45NUkxeVI4S1YtNHVEMW43TW5Kd081akg5aGZVRGVTanRFSWNSRkxMRHFlYnBGMTRRZG1zRHJ2YjlKTUxSbGV3Mw?oc=5",
-   "source": "芯师爷",
+   "source": "gsi24.com",
    "published": "2026-09-05T06:51:54+00:00",
-   "summary": "从电网到算力：东芝的功率半导体新版图 芯师爷",
+   "summary": "从电网到算力：东芝的功率半导体新版图 gsi24.com",
    "topics": [
     "GPU/算力集群",
     "半导体"
    ]
   },
   {
-   "title": "何庭波再发“韬定律”论文，回应外界质疑 - 智东西",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkblBZLWJ5X1ZWVndHTWhTWUVIR3NvaHBOZWE5N2V6VnJzN0ZKUHJzUXNEXzlRZ2ltejVtT2FoZV9KZHZMS1E?oc=5",
-   "source": "智东西",
-   "published": "2026-09-05T06:45:28+00:00",
-   "summary": "何庭波再发“韬定律”论文，回应外界质疑 智东西",
+   "title": "昨夜今晨：百家乐网投APP网页版发布AI芯片与车企合作自动驾驶- 体坛网_体坛+ - 体坛",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hQVRfUjdRWTg1SGNSWGdHdm5aYlBVZU11MTVtNmFCVTM0alFaX0NMdlZfRnBUNC1SWmZHS1RvTkw5UndRVUxhSFJqSU13QzQ?oc=5",
+   "source": "体坛",
+   "published": "2026-09-05T06:41:10+00:00",
+   "summary": "昨夜今晨：百家乐网投APP网页版发布AI芯片与车企合作自动驾驶- 体坛网_体坛+ 体坛",
    "topics": [
     "AI",
     "半导体"
-   ]
-  },
-  {
-   "title": "英伟达870亿收购开源模型社区“抱抱脸”，如何保证中立性？ - ZAKER新闻",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3TjRsS3NScGljV0U5S0ozM0xqOTlUMGlveWpBTl9vVEgtQ19ueDVlYkpKMVhzdjk3b1ZlMlpoaklMaWI4aWNBRXVFZk00Y1dqeFdtdHhDTVlpZlBKelRnQlJuQkJDb1YycU12WFV6LTlTYVBzQ1JicHVsd00?oc=5",
-   "source": "ZAKER新闻",
-   "published": "2026-09-05T06:37:15+00:00",
-   "summary": "英伟达870亿收购开源模型社区“抱抱脸”，如何保证中立性？ ZAKER新闻",
-   "topics": [
-    "GPU/算力集群"
    ]
   },
   {
@@ -597,16 +1026,6 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "高通第六代骁龙 8 超级至尊版芯片样品曝光：主频冲至 5068MHz",
-   "link": "https://www.ithome.com/0/998/741.htm",
-   "source": "IT之家",
-   "published": "2026-09-05T06:24:59+00:00",
-   "summary": "IT之家 9 月 5 日消息，消息源 @Nonx_Official 昨日（9 月 4 日）在 B 站发帖，分享了一组截图，展示了基于 SM8975 的 QRD 测试单元的设备信息硬件。IT之家曾于 8 月 21 日报道，SM8975 对应高通 Snapdragon 8 Elite Extreme Gen6，上市后预估名为“第六代骁龙 8 超级至尊版”。根据曝光的信息显示，高通第六代骁龙 8 超级至尊版芯片采用 2+3+3 集群的 8 核设计，最高频率达 5,068MHz：第 1 组的 3 个核心频率范围为 288MHz 至 3,744MHz第 2 组的 3 个核心频率范围为 288MHz 至 ",
-   "topics": [
-    "半导体"
-   ]
-  },
-  {
    "title": "比芯片难度更高！美日全都垄断，中国企业却连山寨版的都造不出 - Sohu",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbTNBQ3ZsZzdLSzM5U2laS0J2dEtVU2NfWmc0Zk0wb1dmMk1TMC16SXd3OUFqMHM0U1I1YndWWUp5Sk4xZUxjYVFGMzV5Rks3T3FVTjRQM25KTFh2bEE1WG94Q1Y4OWE0aF9fTUhqZExCQmFUSmZMRWR1RzdVUDZBMkRndDZ0WWl2NUtzUQ?oc=5",
    "source": "Sohu",
@@ -617,18 +1036,8 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "消息称美光HBM月产能2026年底有望达10万片，较去年翻倍 - 新浪财经",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2tKaU4zc3lzNHZiZ1Q5ZzNFVTk3VGNlSDZlamlLMVFlTTBLVW4zMmdpenZFaEZxdWNLV2cwYVpCY1JCR3R1YktjZWl3ZmdTa1dqNDY5RkExb3RueVczZ3VzUHlKYzI1ZGEzMmVjYmc5NUlSUldFamhPR0ZZeVhhYjFpOUNBTVdkNlFzV0pxaHloYjdFM0RQc3RLLUw1QlFoSGRjaDc5dw?oc=5",
-   "source": "新浪财经",
-   "published": "2026-09-05T06:24:03+00:00",
-   "summary": "消息称美光HBM月产能2026年底有望达10万片，较去年翻倍 新浪财经",
-   "topics": [
-    "HBM/先进封装"
-   ]
-  },
-  {
    "title": "H-1B擬加費10萬 台積電外派有解 多透過E-2簽證等赴美 - 世界新聞網",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcThuNUI0LTNLS1lUY2xEM1J5bnlKSzRyS3RsSjVOMFdFcFhRNGl4RFhocDFZM1ZoSzZnUW81a3NwdlI0VEtxNWxXVmZZMFpBczIxYmJZTXA5Rmo3XzVJVTVEUFlxNWRvdVF0T3dwLW11eWhTR2dBM1QyYUFpOUZDX3FZcTlzOEnSAWdBVV95cUxQbXRiV3AwZEEyaEthYUhVTlgyRXJEc3RrTmlIeDV0QXZ2cW95MnQ2aTlWRU1BQnRpS09IOEFhZ3V2VTh3UnlEWWI4NUlZUUZnQ19PWGprVHloYWVzb0RFbE56SXhCeHpN?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBybUZVYk9VRTVsREtzTEJ4Z3FxS2dyT2R5NkFWT2NhaU1MS19iajdFWXQwY2R5M0h5V1dfeFNnUjF5cWptcG9DNHItYk50aldla2dmVVRhR0VMUUhadEpYcTgtcGF4MDdnUmfSAWdBVV95cUxQbXRiV3AwZEEyaEthYUhVTlgyRXJEc3RrTmlIeDV0QXZ2cW95MnQ2aTlWRU1BQnRpS09IOEFhZ3V2VTh3UnlEWWI4NUlZUUZnQ19PWGprVHloYWVzb0RFbE56SXhCeHpN?oc=5",
    "source": "世界新聞網",
    "published": "2026-09-05T06:18:00+00:00",
    "summary": "H-1B擬加費10萬 台積電外派有解 多透過E-2簽證等赴美 世界新聞網",
@@ -658,35 +1067,46 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "Hot Chips 2026释放新信号：英伟达之下正在长出一个多元芯片市场 - 新浪财经",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VUEhEejc5STl6T05kb1g1MldaY2JuOVdFTkZxN3pudVh4Vzljel95cFFFM1ozM2V2c2szbkpndEtpdzR0dG56QzNpb1pTTGdoTlE1LXZiLVVHRjdBTjlHU3BSN3VSSHBqXzk5NVh2cjY4V2RBNkZCM1M2UzRLM28?oc=5",
-   "source": "新浪财经",
-   "published": "2026-09-05T05:42:00+00:00",
-   "summary": "Hot Chips 2026释放新信号：英伟达之下正在长出一个多元芯片市场 新浪财经",
+   "title": "139彩首页疾行，但芯片断供在即 - 体坛",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjcHNVV1AwZ3A0T3hHUEJxdWxCbWpTX1lsbnh1ZkhGeFVzYWlEclREMzlLbGY0a1YzYVphNHZDM1pJNnhGSVFIbElLR3A?oc=5",
+   "source": "体坛",
+   "published": "2026-09-05T05:45:15+00:00",
+   "summary": "139彩首页疾行，但芯片断供在即 体坛",
    "topics": [
-    "GPU/算力集群",
+    "AI",
     "半导体"
    ]
   },
   {
-   "title": "史上最大IPO来袭？英伟达、OpenAI，也有大动作 - 凤凰网",
+   "title": "皇冠电竞是真的吗皇冠电竞投注：2026世界人工智能大会揽三项全球第一，首款全栈自研智算芯片与开放生态平台同步首发 - 体坛",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Sb0dtajcwYmVqODhQSDlrUGRjc0J1RE1HX0ktejhkbEtDTGk4enJKeU9SckxEWmlsZkVnSm9NT2prcG94Nkc1V3FCb0hYZGJn?oc=5",
+   "source": "体坛",
+   "published": "2026-09-05T05:35:20+00:00",
+   "summary": "皇冠电竞是真的吗皇冠电竞投注：2026世界人工智能大会揽三项全球第一，首款全栈自研智算芯片与开放生态平台同步首发 体坛",
+   "topics": [
+    "AI",
+    "半导体"
+   ]
+  },
+  {
+   "title": "史上最大IPO来袭？英伟达、OpenAI，也有大动作 - 凤凰网财经",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrdlZyaW1hRXRmbDVQVnc2ajhYSnd2b1VzUmRJSkRxWEFVVFJPdWk1Y0tfZERrNHZ1eUY2aHg1X3FOdHJQOWdYYXg4RXZCN255?oc=5",
-   "source": "凤凰网",
+   "source": "凤凰网财经",
    "published": "2026-09-05T05:30:06+00:00",
-   "summary": "史上最大IPO来袭？英伟达、OpenAI，也有大动作 凤凰网",
+   "summary": "史上最大IPO来袭？英伟达、OpenAI，也有大动作 凤凰网财经",
    "topics": [
     "AI",
     "GPU/算力集群"
    ]
   },
   {
-   "title": "三星 Galaxy S27 手机首发：Exynos 2700 芯片跑分曝光，10 核 CPU 设计",
-   "link": "https://www.ithome.com/0/998/735.htm",
-   "source": "IT之家",
-   "published": "2026-09-05T05:27:25+00:00",
-   "summary": "IT之家 9 月 5 日消息，科技媒体 sammyfans 昨日（9 月 4 日）发布博文，报道称三星 Exynos 2,700 工程样片 GeekBench 跑分曝光，6.7.1 版本单核成绩为 4,328 分，多核成绩为 14,700 分。IT之家注：上述跑分来自内部 Geekbench 6 跑分列表，在公开数据库中仅有 1 条 4 月上传的记录，6.6.0 版本单核成绩为 2,603 分，多核成绩为 10,350，由于版本差异，两条记录无法直接对比。今年 4 月曝光的跑分数据，显示 CPU 时钟频率存在差异根据最新跑分页面信息，基本符合此前曝光的 Exynos 2,700 Die Sho",
+   "title": "全球市场：美股三大指数收跌 存储、光通信板块走强 特斯拉跌近6% - 东方财富",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TX2xmU0Y2VFFteUdJNElUT0twVDRQMFZKT2o2SFRMdmk2dHBzM1ZNNDJleE1hUzZqbS13UDZpajlWVm1oZ1k1eHA2LUNXLW9Yb0FBajlQNDlOajNIbUVQZg?oc=5",
+   "source": "东方财富",
+   "published": "2026-09-05T05:25:46+00:00",
+   "summary": "全球市场：美股三大指数收跌 存储、光通信板块走强 特斯拉跌近6% 东方财富",
    "topics": [
-    "半导体"
+    "光互联"
    ]
   },
   {
@@ -700,22 +1120,43 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "收购Hugging Face，巩固英伟达AI行业造王者地位 - 新浪财经",
+   "title": "半导体巨头，拟大手笔扩产 - 凤凰网财经",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tZUVsd3VTdERKZ01DSEt1cU1ON1ZycjlhNWNYRUlReTZZRmtlem1IZlpPVW9EekNaMS1rZmJTcmd1SDQzSUNMYm9NNlg4bTlV?oc=5",
+   "source": "凤凰网财经",
+   "published": "2026-09-05T04:57:42+00:00",
+   "summary": "半导体巨头，拟大手笔扩产 凤凰网财经",
+   "topics": [
+    "半导体"
+   ]
+  },
+  {
+   "title": "HBM，生变 - 光通信Pro",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLRkRHdFlNWENsNm9rTVlQVlBDQ1h2d0dsdlQ3dkl4YU94MWFHdkpKUVZIbXJJZ2ZfSHlmcUpCR2x0M095MmdJN1dvWFN5cHI3U2tyeFkzYw?oc=5",
+   "source": "光通信Pro",
+   "published": "2026-09-05T04:51:59+00:00",
+   "summary": "HBM，生变 光通信Pro",
+   "topics": [
+    "HBM/先进封装",
+    "光互联"
+   ]
+  },
+  {
+   "title": "收购Hugging Face，巩固英伟达AI行业造王者地位 - finance.sina.cn",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORFBOdk9hZjVWQUphTzlKUjhmVERaeEg3OE9hVGJCRzhpWnNEUXV2LVl6OWZoTjZGZlJyQU5YR3A0RXpMbFdQakdZbExPVU1qb3M3UnRKQTJtRkpmQzRYOV93MGx2a3RMd2ZVcHc0NThLQWtkYjdvbnNfNEIyUmozb08wcVdua1lCV1E?oc=5",
-   "source": "新浪财经",
+   "source": "finance.sina.cn",
    "published": "2026-09-05T04:41:26+00:00",
-   "summary": "收购Hugging Face，巩固英伟达AI行业造王者地位 新浪财经",
+   "summary": "收购Hugging Face，巩固英伟达AI行业造王者地位 finance.sina.cn",
    "topics": [
     "AI",
     "GPU/算力集群"
    ]
   },
   {
-   "title": "长安汽车：智驾行业 2028 年完成首轮洗牌，我们和引望会留下来",
-   "link": "https://www.ithome.com/0/998/728.htm",
-   "source": "IT之家",
-   "published": "2026-09-05T04:12:31+00:00",
-   "summary": "IT之家 9 月 5 日消息，长安汽车副总裁贺刚今日在接受《每日经济新闻》采访时表示，智能驾驶行业将在 2028 年左右完成首轮洗牌，届时中国市场上具备竞争力的智驾解决方案商可能仅剩五六家。贺刚表示：“我们和引望会留下来。”长安汽车有着全栈自研的“天枢领航”智能驾驶辅助技术。该技术分为 Pro、Max、Ultra、Ultimate 四个梯度，全系标配激光雷达，全部采用一段式端到端技术架构。其中，Pro 版算力超过 100 TOPS；Max 版算力超过 200 TOPS；Ultra 版算力达 560 TOPS，搭载 256 线激光雷达；Ultimate 版算力最高可达 1000 TOPS。天枢领",
+   "title": "NVIDIA’S GAME-CHANGING RTX SPARK LAPTOPS ARE COMING IN OCTOBER | Techlife News - technology - Magzter",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOHJoU1RLMklQQXp4Z3JnUzNDZ2x4WVZUUndHOUdWQXhQak5IXzBmX3BmRi1xbENvUUh3TnB5NGJOWElPOGw5bXpDY1MydE1vRnNBeURyeHpMY1o2cGxNdmthM1VzRzVXRHQybG9yZms2R01rSkJzMzN1MXNMdFhTODQxaDNXdll3WWxycnVZZ3k0UXhVQjJQWlJzal85NGEwSkp4Z0VPenhHanBWS1JIQVVJbTM4UDNH?oc=5",
+   "source": "Magzter",
+   "published": "2026-09-05T04:40:07+00:00",
+   "summary": "NVIDIA’S GAME-CHANGING RTX SPARK LAPTOPS ARE COMING IN OCTOBER | Techlife News - technology Magzter",
    "topics": [
     "GPU/算力集群"
    ]
@@ -731,11 +1172,23 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "英伟达抛千亿收购，中国会出手吗？ - 新浪财经",
+   "title": "最新星力九代注册送500发布2026年第三代AI推理芯片单模块算力达500TOPS - 体坛",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JU3ppcGVaakEwaE80dDNNZ3M4cEtBeFNNZkdSMkYtVnlKT2czWlozU1JOMWc2YlIxUHFJazRKdjVtUXQ4ZnlBOXdRNUI1QWt2bXc?oc=5",
+   "source": "体坛",
+   "published": "2026-09-05T04:07:49+00:00",
+   "summary": "最新星力九代注册送500发布2026年第三代AI推理芯片单模块算力达500TOPS 体坛",
+   "topics": [
+    "AI",
+    "GPU/算力集群",
+    "半导体"
+   ]
+  },
+  {
+   "title": "英伟达抛千亿收购，中国会出手吗？ - finance.sina.cn",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2NFREl6bGhtOU1xZXY5ejRiLVU4SWY2ZWNuemN3M05XOHFxR2t2SXVleWphdUNCWFhyWlkwNFlmTXNVQ2hLckdfZ0NVaHhNMG44N09xU0tGQmZwT2kyaG40UGpfQmszYndrejUzM19ZUHJlTXVvdmxDTVQ0Ym5tVXZlTVJmckkxeHB3UUcwVUdvSVZlZ1dxLVdIazRJTEhrRmdXV053QQ?oc=5",
-   "source": "新浪财经",
+   "source": "finance.sina.cn",
    "published": "2026-09-05T04:05:14+00:00",
-   "summary": "英伟达抛千亿收购，中国会出手吗？ 新浪财经",
+   "summary": "英伟达抛千亿收购，中国会出手吗？ finance.sina.cn",
    "topics": [
     "AI",
     "GPU/算力集群"
@@ -763,55 +1216,25 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "年初至今表现最好的美股杠杆ETF都有哪些？存储芯片产品领跑涨幅榜，它们值得投资吗？ - TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ0tqNldxa182RTNvRWJXTDloLTY0QTJlY1JHWFN5VGtCY19rNW9vQTA4MXdTRWNDZ2xZRUpJZjdtMGhfc2I5ZC1LTlJQenJYRDJPU3o4clRhNWw4SVZoUWczaXpLN2pQdGRxTDRkbWdiMlBKV3VYYXE0ZmRIT052dWNpdWxOQ1FNLUFRTFhvLUxybUt3eGR0bm5GV1Q4WEg2b1U4?oc=5",
-   "source": "TradingKey",
-   "published": "2026-09-05T03:36:14+00:00",
-   "summary": "年初至今表现最好的美股杠杆ETF都有哪些？存储芯片产品领跑涨幅榜，它们值得投资吗？ TradingKey",
-   "topics": [
-    "半导体"
-   ]
-  },
-  {
-   "title": "美股收盘：指数跌存储光通信涨|美股|闪迪|迈威尔科技|特斯拉|存储芯片|光通信|sk海力士|美光科技|lululemon_新浪新闻 - sina.cn",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wTzlMVGFra0dJUWVhMW5SU19va1dYWHU2SUItMldfMzhrZC1NVkl6MzFXOTNNeXZYQ0E4SG5KMV9jYUtMeFRmUXdBU2tMRXJpSkFEVFZ5TGZHZGtXSEtGQ2xvVQ?oc=5",
-   "source": "sina.cn",
-   "published": "2026-09-05T03:34:00+00:00",
-   "summary": "美股收盘：指数跌存储光通信涨|美股|闪迪|迈威尔科技|特斯拉|存储芯片|光通信|sk海力士|美光科技|lululemon_新浪新闻 sina.cn",
-   "topics": [
-    "HBM/先进封装",
-    "光互联",
-    "半导体"
-   ]
-  },
-  {
-   "title": "芯片断供危机背后，美高梅网站登录地址成国产替代压舱石-体坛网_体坛+ - 体坛",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9naFlLYTR1ZG1ZRnlhMklLcGd2S2V4QS1Ua292VVMwOGFackpzYXoyM3NjZXlIWDlEQlQ2bExUZG9VMW9Fb2V5Z0xoY2QyNGpp?oc=5",
+   "title": "昨夜今晨：澳门打揽庄庄闲升级社交竞技 华为鸿蒙4.0推送 字节跳动AI芯片流片 宁德时代固态电池量产 比亚迪仰望U9纽北圈速 - 体坛",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IT2pqaWNkSk9icHVVZzUxMm56V1YtMVF4ZGppMzRLRDlzckMzXzJsclR4ZmNiVGRRRkZtaUpQckVFbDZvaUs1eHdyZW0xWnVIb3lJ?oc=5",
    "source": "体坛",
-   "published": "2026-09-05T03:33:55+00:00",
-   "summary": "芯片断供危机背后，美高梅网站登录地址成国产替代压舱石-体坛网_体坛+ 体坛",
+   "published": "2026-09-05T03:59:15+00:00",
+   "summary": "昨夜今晨：澳门打揽庄庄闲升级社交竞技 华为鸿蒙4.0推送 字节跳动AI芯片流片 宁德时代固态电池量产 比亚迪仰望U9纽北圈速 体坛",
    "topics": [
     "AI",
     "半导体"
    ]
   },
   {
-   "title": "鸿蒙座舱车机芯片阶段性短缺，华境汽车就华境 S 交付延期而道歉",
-   "link": "https://www.ithome.com/0/998/701.htm",
-   "source": "IT之家",
-   "published": "2026-09-05T03:32:33+00:00",
-   "summary": "IT之家 9 月 5 日消息，华境汽车今日发布官方说明，就旗下首款车型华境 S 的交付周期调整向用户作出解释。华境汽车表示，由于行业芯片供应链波动，华境 S 鸿蒙座舱配套车机芯片出现阶段性供货紧缺，导致部分用户订单交付周期有所延长。针对此次交付延长的原因，华境汽车在说明中表示，生产制造能力已全面就绪，但对行业整体芯片供给挑战的预判和预案不够充分。目前华境 S 已启动专项保供工作，包括与核心合作伙伴沟通拓展芯片供给渠道，以及推进多元化供应方案。对于已锁单但尚未提车的用户，专属顾问将持续跟进，排产动态与订单进度也会通过官方 App 同步更新。华境汽车强调，在加速交付的同时将坚守丝米级智造水准与严苛",
+   "title": "美股收盘：指数跌存储光通信涨|美股|闪迪|迈威尔科技|特斯拉|存储芯片|光通信|sk海力士|美光科技|lululemon_新浪新闻 - 新浪网",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wTzlMVGFra0dJUWVhMW5SU19va1dYWHU2SUItMldfMzhrZC1NVkl6MzFXOTNNeXZYQ0E4SG5KMV9jYUtMeFRmUXdBU2tMRXJpSkFEVFZ5TGZHZGtXSEtGQ2xvVQ?oc=5",
+   "source": "新浪网",
+   "published": "2026-09-05T03:34:00+00:00",
+   "summary": "美股收盘：指数跌存储光通信涨|美股|闪迪|迈威尔科技|特斯拉|存储芯片|光通信|sk海力士|美光科技|lululemon_新浪新闻 新浪网",
    "topics": [
-    "半导体"
-   ]
-  },
-  {
-   "title": "芯片设备，同比增长 23% - Sohu",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYlpVbjM5MmcxSC1PMWwxTHJfMnNfczdOd2xaLWFnR3ZldTg0WDBGMlVDSjl4cjV3ckd6YXVyZmQ5X0NwbVRlWS1ueGZxUHpjczA3MDVRQVB6NjdiU2lONS03WEpjdDhRSWhwLUotdGttR2FwWGdtbnlBYW5TLThTZExyeXJOTlZlVExmdQ?oc=5",
-   "source": "Sohu",
-   "published": "2026-09-05T03:32:00+00:00",
-   "summary": "芯片设备，同比增长 23% Sohu",
-   "topics": [
+    "HBM/先进封装",
+    "光互联",
     "半导体"
    ]
   },
@@ -827,117 +1250,34 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣 - 财联社",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUlBkNVdaVGxNUG1fbEJ0YjhMYjZHZ3hleHY2aXI3MkRsNTNqVlZyWFJ6ZUMxcTBUT3Qyb3JRblZqTEdudzlWbQ?oc=5",
-   "source": "财联社",
-   "published": "2026-09-05T03:24:17+00:00",
-   "summary": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣 财联社",
-   "topics": [
-    "半导体"
-   ]
-  },
-  {
-   "title": "“智”造黔程丨当AI深入工厂，贵州制造正在经历怎样的变革？|实施方案|贵州省|大模型|芯片|数据_手机新浪网 - 新浪财经",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsV2FHbFgxbWdlbldqWGl2RC1lM1JqbnhTc0I2ZkNEUGZ5dE91MVBoVGlaaV93c1lHS2Z1alBwazdPQWlDWDdEckd2S3FkTlRDanRNQVF1SmlWaUlyaGhPd3QxOHFtMDdlaGYzTV9XdjM4UTJLRG53UQ?oc=5",
-   "source": "新浪财经",
-   "published": "2026-09-05T03:21:59+00:00",
-   "summary": "“智”造黔程丨当AI深入工厂，贵州制造正在经历怎样的变革？|实施方案|贵州省|大模型|芯片|数据_手机新浪网 新浪财经",
-   "topics": [
-    "AI",
-    "半导体"
-   ]
-  },
-  {
-   "title": "美股半导体、存储芯片股，盘前集体上涨 - 新浪财经",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT0F6aHBhbUxzOVF6WGc5RFBrLTR4REJfUV9HVG5KdFIxWTVqaFpOVjR0cXVmaEZMTlp5X3l5UFRUVWhnUVJtVlI4VEZocWJGVmdVZHF5Y3ZhUklHNjF6NjFnV1d0Rjd4QThsLUlYVkFkQ1k1bWZQR3RycjVaN0l0emFnaTEzZmhVRXlRZU1DTG9YUnZkM1h4VE1OLS1vT01lYWtSZmVFUQ?oc=5",
-   "source": "新浪财经",
-   "published": "2026-09-05T03:21:58+00:00",
-   "summary": "美股半导体、存储芯片股，盘前集体上涨 新浪财经",
-   "topics": [
-    "半导体"
-   ]
-  },
-  {
-   "title": "小米玄戒O3芯片成功：一是要感谢ARM，二是要感谢台积电！ - Sohu",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNk5ZcC1VY0tjSnhwbEI3LWtDa25CZjBCaDNJQ3hNVVlUMzZEdnRqbG1IZ2I2dWdRWC1USEhsa2JwdjREZFQtNVZ4Y1l4Q3A1OVVYY09NUEp5X2ZhRUJGb3FSMjJwakR4U0ozNnlhS3Z0Z3NIRDhWbndYdGdXS1hvSElDeWhmT2hVSExEXw?oc=5",
-   "source": "Sohu",
-   "published": "2026-09-05T03:15:49+00:00",
-   "summary": "小米玄戒O3芯片成功：一是要感谢ARM，二是要感谢台积电！ Sohu",
-   "topics": [
-    "半导体"
-   ]
-  },
-  {
-   "title": "疯狂买买买，英伟达的野心何在？ - user.guancha.cn",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyTy1TSHlmM01DUU1KVlB0LUxpNzBXdmRIUGtBQ3dEQlZkMGwxTzlzSlhsbVYzdXU5Z3VodUlXMnM2cDU1aWVDRUZ6TUV5RHcwd3RWUkh2emdtYXpzZ3JVdjdpLUNxdE5vYkxWTmQyaHlYNWlN?oc=5",
-   "source": "user.guancha.cn",
-   "published": "2026-09-05T03:13:54+00:00",
-   "summary": "疯狂买买买，英伟达的野心何在？ user.guancha.cn",
+   "title": "国泰海通证券:《应用需求持续释放，AI硬件景气延续-广发创业板算力基础设施ETF投资价值分析》 - 发现报告",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14eG85Z3cyT01zaDlmZVo4dzRoaU9JaWpVU0Q1a2VFalFtWm1ZNndzY1ZSdU95RkRHd04tRENLSXRTOVc2dnFsblFmRUJjS0Va?oc=5",
+   "source": "发现报告",
+   "published": "2026-09-05T03:20:45+00:00",
+   "summary": "国泰海通证券:《应用需求持续释放，AI硬件景气延续-广发创业板算力基础设施ETF投资价值分析》 发现报告",
    "topics": [
     "AI",
     "GPU/算力集群"
    ]
   },
   {
-   "title": "美存储芯片光通信集体暴涨|存储芯片|光通信|半导体 - sina.cn",
+   "title": "疯狂买买买，英伟达的野心何在？ - Sohu",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQmU4bEpwd2w0d0FhRmY0ejlITUFLRTVOc1FwVXRsdnl3SWQ1ZzFWQmlPVjBJM2xNVTFmVURTR0pkbHo0cFozbE9YLXhoU2dVM0p4d19Va0dGdWhVM2xNQ1JJbDVrY0VnblhrZHNTeHpsZktKaWl3UktfTFhnbnBpaTFXT3d1eWRMNE5naA?oc=5",
+   "source": "Sohu",
+   "published": "2026-09-05T03:14:05+00:00",
+   "summary": "疯狂买买买，英伟达的野心何在？ Sohu",
+   "topics": [
+    "GPU/算力集群"
+   ]
+  },
+  {
+   "title": "美存储芯片光通信集体暴涨|存储芯片|光通信|半导体 - 新浪网",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xUlM2aTBzdDFmWUxRY2N2WWxubF84UjNyV3lFSGxIMU95bmprS3c4bUdhX3ZPb004SmNrUGVwZUstQm4tSlU5LTNraGFqbzhrV0JOck9ZaXoyNkQ5a3hCZ0o1NA?oc=5",
-   "source": "sina.cn",
+   "source": "新浪网",
    "published": "2026-09-05T03:00:00+00:00",
-   "summary": "美存储芯片光通信集体暴涨|存储芯片|光通信|半导体 sina.cn",
+   "summary": "美存储芯片光通信集体暴涨|存储芯片|光通信|半导体 新浪网",
    "topics": [
     "光互联",
-    "半导体"
-   ]
-  },
-  {
-   "title": "东方晶源亮相IDAS 2026：以AI重构先进制程光刻热点检测体系|EDA|芯片|形貌|模型|版图_手机新浪网 - 新浪财经",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVdERHB0dk9GS3RHSzZvWVpVWk9xdEVnaVY0Nmg1UldDekxmX3k1NjNiVGhubXhjTEl4UHFZWERzNTNvei1udjVHNGZYRWdFM3dIT0hERVBnXzBwMWp3WFl4NEkzRnNranJLVi1SOTk3NTVERjI2VmQ2Yjh5OURueWdEN0ZicXMtV2V6MmppcVZCYXF0SlBwMTY1d3VjSkZVNm9MbkNBNnowcXJyeFJza3Zn?oc=5",
-   "source": "新浪财经",
-   "published": "2026-09-05T02:53:49+00:00",
-   "summary": "东方晶源亮相IDAS 2026：以AI重构先进制程光刻热点检测体系|EDA|芯片|形貌|模型|版图_手机新浪网 新浪财经",
-   "topics": [
-    "AI",
-    "半导体"
-   ]
-  },
-  {
-   "title": "亚博体育软件芯片量产里程碑昨日晚间 - 体坛",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DZ0YwTDM0X0pBSm82SDBkUldMSnpleWFVQWNhVmZqd1dwUE1uZU9meEJYcEViWWdvTUpqZEE1R1JENzVoWUVhODU4VHg?oc=5",
-   "source": "体坛",
-   "published": "2026-09-05T02:37:56+00:00",
-   "summary": "亚博体育软件芯片量产里程碑昨日晚间 体坛",
-   "topics": [
-    "AI",
-    "半导体"
-   ]
-  },
-  {
-   "title": "欧盟曾宣称制裁中国半导体，如今却自行暂缓是为何？ - 汽车之家",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mOG5nZkFnNnZNa1dHNXBVSFlIY0hFbWpSVjVGMU9ERV9SZmtQU3l0Q052cW1SUHVUcTNrZ0NDUHBEbVFQVnRBcXhTUGtEUHRRMnl6TjVHSkNneGNPa2c?oc=5",
-   "source": "汽车之家",
-   "published": "2026-09-05T02:36:23+00:00",
-   "summary": "欧盟曾宣称制裁中国半导体，如今却自行暂缓是为何？ 汽车之家",
-   "topics": [
-    "半导体"
-   ]
-  },
-  {
-   "title": "华为何庭波更新韬定律论文：“τ芯片”本该过热烧毁？ - 华尔街见闻",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qQWlfNUpoLXBOQlVEdkZkS0tONUJQa1FhV19Od0RTeDBsUXBFLXI0dW1hdlNmRmozLThmQmZ0UFJQR2VtbnA3RmEyd1pBOTkwSG5j?oc=5",
-   "source": "华尔街见闻",
-   "published": "2026-09-05T02:31:09+00:00",
-   "summary": "华为何庭波更新韬定律论文：“τ芯片”本该过热烧毁？ 华尔街见闻",
-   "topics": [
-    "半导体"
-   ]
-  },
-  {
-   "title": "何庭波最新论文：华为无法获得EUV光刻机，必须另寻出路 - guancha.cn",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TX21jRl93dVppOEc3SnJGRnRGVXhHRUEtSW5QbzFQdDc2SEo4UEo3cVY5N2RVb0hkQVhSODFZR0V3Mm1LZWNISlFqMHQ1S0ZOck5rUHEzYjUySjlQcjlqeWRJUUQ?oc=5",
-   "source": "guancha.cn",
-   "published": "2026-09-05T02:27:00+00:00",
-   "summary": "何庭波最新论文：华为无法获得EUV光刻机，必须另寻出路 guancha.cn",
-   "topics": [
     "半导体"
    ]
   },
@@ -947,6 +1287,16 @@ window.RADAR_DATA = {
    "source": "同花顺财经",
    "published": "2026-09-05T02:24:45+00:00",
    "summary": "特斯拉跌近6%，美股光通信、存储股大涨 同花顺财经",
+   "topics": [
+    "光互联"
+   ]
+  },
+  {
+   "title": "Why Penn State DB Collins is the ‘arch nemesis’ of OC’s, including his own - The Bradford Era",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORVgxTWJlWUJ3cmJVSTNLNDNuQXp1N0JXSEVVS3AtNk1BTzB0RXhZNm9DS0xrb2NFbzctakw3SFRTeWxYdmxvbGdKQ2JsNkItalBUbEZ0VG5BcXBJeWpva0RnbXFQSHBrU1Q2cVV0SzM5dmo1WmswSEVRM3lwZG40d0JldFdFcW11RThieXEtZm4zQQ?oc=5",
+   "source": "The Bradford Era",
+   "published": "2026-09-05T02:20:36+00:00",
+   "summary": "Why Penn State DB Collins is the ‘arch nemesis’ of OC’s, including his own The Bradford Era",
    "topics": [
     "光互联"
    ]
@@ -962,21 +1312,11 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "华为何庭波发布韬定律最新论文：华为的τ芯片本该熔化？ - user.guancha.cn",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwdVM5VE9mbjdoTVpaa1d3Z2ZJWXdnZFo0eUVkZnljLWZTMDVwZ29hOGExM3d3cjhQaDV0di1MOGIwRE1pUkU0NjJ1R0taUlJVenlUWHZuTXVELTFTWVItVVlqOTNoTXBQcVE?oc=5",
-   "source": "user.guancha.cn",
-   "published": "2026-09-05T02:05:50+00:00",
-   "summary": "华为何庭波发布韬定律最新论文：华为的τ芯片本该熔化？ user.guancha.cn",
-   "topics": [
-    "半导体"
-   ]
-  },
-  {
-   "title": "今夜！存储芯片、光通信，集体暴涨！特朗普：降息！降息！ - 新浪财经",
+   "title": "今夜！存储芯片、光通信，集体暴涨！特朗普：降息！降息！ - finance.sina.cn",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLXFhMzhUZmtWUmFFWmNibGhxQklfY0FXSjhJZlpYOV84Vi1IMDVlcy1GV1g4NTE4dEZ2Nm9nektxYmhPYzBSejhWM2ZoNEYyWlBld0R3eVJpTElBRC1hcUhwa2ZrOHBlM1Mwa21nYllqYW5uNHdVWmFoWnZqRnZ0VGt5RU9RZFZVUFNV?oc=5",
-   "source": "新浪财经",
+   "source": "finance.sina.cn",
    "published": "2026-09-05T01:52:42+00:00",
-   "summary": "今夜！存储芯片、光通信，集体暴涨！特朗普：降息！降息！ 新浪财经",
+   "summary": "今夜！存储芯片、光通信，集体暴涨！特朗普：降息！降息！ finance.sina.cn",
    "topics": [
     "光互联",
     "半导体"
@@ -1037,21 +1377,31 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "半导体周期更新：从超高速增长阶段过渡，首选存储与半导体设备 - Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ja2NhT0JNTHhxaXNpWTBpZUlkS1hhelQ1cHhGS3ZMUFFKLTJQR3N2b0ZVWjdXeUphNmhTeW5EZU5sYV9XS1RrOU5IZHlxelpmZmVaRGJSa3hWdw?oc=5",
-   "source": "Moomoo",
-   "published": "2026-09-05T01:01:45+00:00",
-   "summary": "半导体周期更新：从超高速增长阶段过渡，首选存储与半导体设备 Moomoo",
+   "title": "致尚科技：终止并购轻装上阵 公司光通信业务驶入快车道 - 东方财富",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxUGNZM0tWeFdacVViRnJ6dDFuMXMySUwyT3dpSTVHRU0tay1nVmNZUlZja3VMUUtsamN6a09BVUFDakRsZHRILXJtQ3lxX2ZXQWpUTF9mbWtVcmNxQ0xLRw?oc=5",
+   "source": "东方财富",
+   "published": "2026-09-05T01:02:17+00:00",
+   "summary": "致尚科技：终止并购轻装上阵 公司光通信业务驶入快车道 东方财富",
    "topics": [
-    "半导体"
+    "光互联"
    ]
   },
   {
-   "title": "费城半导体指数收盘涨了3.37%。主要的贡献还是存储和光通信。 下周一看大A的表现了。 #美存储芯片光通信集体暴涨# ​ - sina.cn",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FeGgyZE01cHRva2pLNXN3a0RXSWhlS29LWHRSSVZYUjFDWkEwYURwRmlfRDVobHJSSkpVajdsc1FDdzJ6a0dJNEJkdGlYSU5LaXhWUUt1LW0zamd0ckxjcmY2bw?oc=5",
-   "source": "sina.cn",
+   "title": "美存储、光通信板块大涨！黄金、白银下挫，美联储加息预期突变！ - 新浪财经",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUdjcVNPZUFkZUxuTkY5empCNE85YkVqRE9HSW5iZVYtVWJKMm5tZFhJR0N4OWtkMTNaUFBTWURrUHJpTVloRGEzNUFUV0pwYWg0bG1Dc1dmZDdRZC1sd0ZrbEpRQzR0ZlZlaEwyMkFyR0pUUXg0MUNMeUVPZTNfMHgydXVfRGRhb2N6WWVkQQ?oc=5",
+   "source": "新浪财经",
    "published": "2026-09-05T00:53:00+00:00",
-   "summary": "费城半导体指数收盘涨了3.37%。主要的贡献还是存储和光通信。 下周一看大A的表现了。 #美存储芯片光通信集体暴涨# ​ sina.cn",
+   "summary": "美存储、光通信板块大涨！黄金、白银下挫，美联储加息预期突变！ 新浪财经",
+   "topics": [
+    "光互联"
+   ]
+  },
+  {
+   "title": "费城半导体指数收盘涨了3.37%。主要的贡献还是存储和光通信。 下周一看大A的表现了。 #美存储芯片光通信集体暴涨# ​ - 新浪网",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FeGgyZE01cHRva2pLNXN3a0RXSWhlS29LWHRSSVZYUjFDWkEwYURwRmlfRDVobHJSSkpVajdsc1FDdzJ6a0dJNEJkdGlYSU5LaXhWUUt1LW0zamd0ckxjcmY2bw?oc=5",
+   "source": "新浪网",
+   "published": "2026-09-05T00:53:00+00:00",
+   "summary": "费城半导体指数收盘涨了3.37%。主要的贡献还是存储和光通信。 下周一看大A的表现了。 #美存储芯片光通信集体暴涨# ​ 新浪网",
    "topics": [
     "光互联",
     "半导体"
@@ -1063,26 +1413,6 @@ window.RADAR_DATA = {
    "source": "Sohu",
    "published": "2026-09-05T00:50:00+00:00",
    "summary": "非农数据意外“飙升”！美股存储、光通信板块却逆势狂涨！特朗普再次呼吁美联储降息 Sohu",
-   "topics": [
-    "光互联"
-   ]
-  },
-  {
-   "title": "2026年09月05日美国专利局新申请AR/VR专利摘选 - Nweon",
-   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE40aVhYdDhTNTlXOUhkcDVXWW1tX0lWUkJvMTd2aVJKUGxEX1NQa2NsMlJUOGtBa3NZZEZUZWN6ZC1ialE?oc=5",
-   "source": "Nweon",
-   "published": "2026-09-05T00:40:09+00:00",
-   "summary": "2026年09月05日美国专利局新申请AR/VR专利摘选 Nweon",
-   "topics": [
-    "半导体"
-   ]
-  },
-  {
-   "title": "美存储、光通信板块大涨！黄金、白银下挫，美联储加息预期突变 - 新浪财经",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MTnNtUkl0VHBmR29XQ01KQ2QxZDRnbkRzYVN4UnUxZm03emRfbjhmNEwtNVpWQTl6em5oYTNmenVTSHVUUHN0bkt3Tnl5dGttU3FMSlRfUi1tYlEydGwySlA5OG45RlFSOUNtZDFvclAweVJobWQ1QQ?oc=5",
-   "source": "新浪财经",
-   "published": "2026-09-05T00:35:00+00:00",
-   "summary": "美存储、光通信板块大涨！黄金、白银下挫，美联储加息预期突变 新浪财经",
    "topics": [
     "光互联"
    ]
@@ -1100,22 +1430,22 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "美股三大股指|非农数据|光通信|ai概念股_新浪新闻 - sina.cn",
+   "title": "美股三大股指|非农数据|光通信|ai概念股_新浪新闻 - 新浪网",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lTlNlVTVXUE5QRjg4RURPR1JUWHpGZ0J6UTM3VnRZckwxRHZzeGo3Y2lwYkZYVjhKT0p0RG5ZSHpkRUE3bTJTMDlIenFFbURiQTFabEFNOVhYVFB6UHg3WGJ2MA?oc=5",
-   "source": "sina.cn",
+   "source": "新浪网",
    "published": "2026-09-05T00:06:00+00:00",
-   "summary": "美股三大股指|非农数据|光通信|ai概念股_新浪新闻 sina.cn",
+   "summary": "美股三大股指|非农数据|光通信|ai概念股_新浪新闻 新浪网",
    "topics": [
     "AI",
     "光互联"
    ]
   },
   {
-   "title": "美光高管：存储供需将比2026年更吃紧，美股存储芯片板块11日逆势走强丨美股复盘 - k.sina.com.cn",
+   "title": "美光高管：存储供需将比2026年更吃紧，美股存储芯片板块11日逆势走强丨美股复盘 - 新浪网",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYXB4RVp1ejdnbFhFZGVfMGcxbFFJaXEydkFVeUR6aXY0VmRHbjM4THZDdFUwMFZTRDJSRVZGcE1hbWRqZmMwa2JuT2szcllJYWxSSnBVU0hiVjlTcE5OazVUSkl6NDJyQU9lbXpiTGtYUVo0ZlVfSjlLRnpzTXVidlJuNA?oc=5",
-   "source": "k.sina.com.cn",
+   "source": "新浪网",
    "published": "2026-09-05T00:04:29+00:00",
-   "summary": "美光高管：存储供需将比2026年更吃紧，美股存储芯片板块11日逆势走强丨美股复盘 k.sina.com.cn",
+   "summary": "美光高管：存储供需将比2026年更吃紧，美股存储芯片板块11日逆势走强丨美股复盘 新浪网",
    "topics": [
     "HBM/先进封装",
     "半导体"
@@ -1132,6 +1462,18 @@ window.RADAR_DATA = {
    ]
   },
   {
+   "title": "美国禁止进口中国光模块，卡了本国AI基建的脖子 - 风闻",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DME1TSUZScE9wVTJaMU5FTjdQRzdnUUVoejhha2Y3WDBtUDdXZGJLWWtnRHExVTZ0WHA1TEF2YkdqN1FNU0pqWWtoS1RIZkE0eXEyMjh3Ul9qcWc?oc=5",
+   "source": "风闻",
+   "published": "2026-09-04T23:55:29+00:00",
+   "summary": "美国禁止进口中国光模块，卡了本国AI基建的脖子 风闻",
+   "topics": [
+    "AI",
+    "CPO/OCS/光模块",
+    "光互联"
+   ]
+  },
+  {
    "title": "美股收盘：非农压制市场情绪 存储、光通信等AI概念股逆势爆发 - 财联社",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WVXJoVVV6Ry0zWDcybmxQZVNMS1ZWXzBpYzMwWWpYOTVvRW9yUlpkZ0FKclFQNVp2OWtTZEJiak9UN21kSUhqYQ?oc=5",
    "source": "财联社",
@@ -1143,22 +1485,22 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "#美存储芯片光通信集体暴涨# 还行吧不算太爆海力士2027才4倍市盈率 - sina.cn",
+   "title": "#美存储芯片光通信集体暴涨# 还行吧不算太爆海力士2027才4倍市盈率 - 新浪网",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1walY1aDgyRUI5eC1zQ21TMEthS1lCR1dXcFpjWF95NTF1TTF5VGVVVTlnOTFmTk5kbUwwaDhkTDJObXQtcVR0NUdzd3lkSW1VcFJRclBBZF9QV2t6X05tc2k3RQ?oc=5",
-   "source": "sina.cn",
+   "source": "新浪网",
    "published": "2026-09-04T23:40:00+00:00",
-   "summary": "#美存储芯片光通信集体暴涨# 还行吧不算太爆海力士2027才4倍市盈率 sina.cn",
+   "summary": "#美存储芯片光通信集体暴涨# 还行吧不算太爆海力士2027才4倍市盈率 新浪网",
    "topics": [
     "光互联",
     "半导体"
    ]
   },
   {
-   "title": "美光|存储芯片|光通信 - hbm|sk海力士|费城半导体指数_新浪新闻 - sina.cn",
+   "title": "美光|存储芯片|光通信 - hbm|sk海力士|费城半导体指数_新浪新闻 - 新浪网",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zTEFGVWtzNnZSMWY2Rko4YjROZlo3ZlpDcXZiYjJkb1B1TUY4cTM2UzFNV2tCaDVXVDJMRXNTbDN4eEk5VFdqcHBqZGdzRjdTZnJiRG1NbGlKR2pNVVRNUmZ3OA?oc=5",
-   "source": "sina.cn",
+   "source": "新浪网",
    "published": "2026-09-04T23:39:00+00:00",
-   "summary": "美光|存储芯片|光通信 - hbm|sk海力士|费城半导体指数_新浪新闻 sina.cn",
+   "summary": "美光|存储芯片|光通信 - hbm|sk海力士|费城半导体指数_新浪新闻 新浪网",
    "topics": [
     "HBM/先进封装",
     "光互联",
@@ -1177,11 +1519,11 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "新浪网· - sina.cn",
+   "title": "新浪网· - 新浪网",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iZUtxWF9VUUNiUkNFN3Z1UkplaWRuYlNQX0g3UTJ2QmloUGlDT1pweTdkeUVFZ3NHb2phUzRGTmRSRDkwbU9LSUZJcnVjbHc3dW0zT1FLTzY5amwzTXBGSFFGTQ?oc=5",
-   "source": "sina.cn",
+   "source": "新浪网",
    "published": "2026-09-04T23:29:00+00:00",
-   "summary": "新浪网· sina.cn",
+   "summary": "新浪网· 新浪网",
    "topics": [
     "HBM/先进封装",
     "光互联"
@@ -1195,17 +1537,6 @@ window.RADAR_DATA = {
    "summary": "Why Is Hudbay Minerals (TSX:HBM) Making Headlines? Kalkine Media",
    "topics": [
     "HBM/先进封装"
-   ]
-  },
-  {
-   "title": "联想集团携手英伟达，将千亿参数大模型装进笔记本！｜新经济观察 - 新浪财经",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNblpxNzFySHYwMjBUX3hCMDhGQ3BiYUFBT21IYlZJeThTN1IxcVFPS0tWLThwTHJFRjR0YUM1OUtrdUZyNlJoeVhKRENWc1pTV2tydGhuaGFid2d5enlQTXRPallodmpZRjZCQzFabXEyQmN1eWVfNHZlSVAwejhYcFdSVGJxN0dKTXBCcHJpR0g3VmI2Y0VpU0dQNHFBUUVSWHhXWmpMWk5PWU4tZm1XZUJ3?oc=5",
-   "source": "新浪财经",
-   "published": "2026-09-04T23:11:35+00:00",
-   "summary": "联想集团携手英伟达，将千亿参数大模型装进笔记本！｜新经济观察 新浪财经",
-   "topics": [
-    "AI",
-    "GPU/算力集群"
    ]
   },
   {
@@ -1243,11 +1574,43 @@ window.RADAR_DATA = {
    ]
   },
   {
+   "title": "航天电器9月4日回应光通信话题：NPO光引擎Socket产品已实现送样及小批量交付_公司新闻 - 证券之星",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZMWdjLXFyVXVVREF0bHFJWGl4MUczNE9QR3JjUFRhaHIzT0Q1SGQ0RVoydDNHclQxWDdlSVczMUxNbEVTRnV1MjNmU1lkNjR0OGJOeHRRcUVzRE9NVm1LYkJ3?oc=5",
+   "source": "证券之星",
+   "published": "2026-09-04T23:06:14+00:00",
+   "summary": "航天电器9月4日回应光通信话题：NPO光引擎Socket产品已实现送样及小批量交付_公司新闻 证券之星",
+   "topics": [
+    "光互联"
+   ]
+  },
+  {
    "title": "奇精机械9月4日回应光模块话题：子公司拓展光模块零部件结构件新业务，尚处初期_公司新闻 - 证券之星",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwS25sZHcyS2JoMVYtcmF0cGdOcnlKcEo1TEp4RndyeFppSHJmWmZHX3F6SVUyeVFfY2Z6QTV3Y1V0MjdMUDB5Q3lVaGdyU2x5b0JHWU1GN1JCZWtLQTFwenV3?oc=5",
    "source": "证券之星",
    "published": "2026-09-04T23:05:22+00:00",
    "summary": "奇精机械9月4日回应光模块话题：子公司拓展光模块零部件结构件新业务，尚处初期_公司新闻 证券之星",
+   "topics": [
+    "CPO/OCS/光模块",
+    "光互联"
+   ]
+  },
+  {
+   "title": "泰晶科技9月4日回应光模块话题：高端晶振规模化量产，差分振荡器已批量供应800G/1.6T光模块 - 证券之星",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kNi1uMlc3aEtlNGNwTk0teEFUMVFvanNMWVIzVWFxWlJZRlF3WENTcHB3M2FrMG9IMTVDN3lMRUJHQjZJWE9ub3JpckYtMmRUM2s5NkFKbEp3OC1mTDRfczJB?oc=5",
+   "source": "证券之星",
+   "published": "2026-09-04T23:05:21+00:00",
+   "summary": "泰晶科技9月4日回应光模块话题：高端晶振规模化量产，差分振荡器已批量供应800G/1.6T光模块 证券之星",
+   "topics": [
+    "CPO/OCS/光模块",
+    "光互联"
+   ]
+  },
+  {
+   "title": "Alexandre Vandermoten takes commanding lead at the Longwy Alps Open - OCS Software",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1RGaU1VTUU2Rkx0Zy0wSm5rQnNpaVZlVVo2R1JubXhQMzBFR1dFZzZXR2E2bC0xaU1qZVhUWW04TG9UMk9TZkRQRnp2Q08tbE13THFtc1ppVFBodkZuWHhzODBENmp6MFdyUE1MMVRxZkdfMGxCWUU5YTJOMGhrWGFoMlM0czJfdG1YY2VONXdJUWRGczlzSzBjTE9VNkpGbHF4QXpR?oc=5",
+   "source": "OCS Software",
+   "published": "2026-09-04T22:55:15+00:00",
+   "summary": "Alexandre Vandermoten takes commanding lead at the Longwy Alps Open OCS Software",
    "topics": [
     "CPO/OCS/光模块",
     "光互联"
@@ -1275,16 +1638,6 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "全球市场：美股三大指数收跌 存储、光通信板块走强 特斯拉跌近6% ​ - sina.cn",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85eFQ3bFdqRnJLNkx2alNsZVRZejRmcjZJS3Vlb0FaR1VfQWRHSE5UTmc3U2xKRWc2anB4RWhBWENfaVhzVHdPb0xnWHExd0JWeDhnN2JudGtfM0I0QVpJbWFTOA?oc=5",
-   "source": "sina.cn",
-   "published": "2026-09-04T22:25:00+00:00",
-   "summary": "全球市场：美股三大指数收跌 存储、光通信板块走强 特斯拉跌近6% ​ sina.cn",
-   "topics": [
-    "光互联"
-   ]
-  },
-  {
    "title": "Otis Worldwide EVP & CPO Kimberly Shannon Gosk Reports RSU Vesting and Share Withholding on September 2, 2026 - Kalkine Media",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQME8xUHJsUkZna2ZvLUxHNUcwRkhjWGJvcDNLazNqeXVCTGR6cWFvZ0JEcjBjV3c5U05XMFg4b0lCdUZ5UEJaN2ZQRWRadk91UmNMYU1DV0I4c2lfYVJuM2ppejNRc2JqNXJFQjU1Z091aTRyNFM0RUJtM0pzVkdTVG9rbVdhSGtJTXE5VlJFSzlDaWhKaUdQYzlmZ3ZMaGo2QWpyNzFKbGY0T1N3ZWpjT09UdzhCVEZGNWJRbzJSejd0RXpzZGZ5M29mMHhpdFBFc0FYd3FPVEpsNVU5M0pOdWxJYXhwWnBh?oc=5",
    "source": "Kalkine Media",
@@ -1296,21 +1649,11 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "非农爆表提振加息预期，美股指下挫，存储与光通信逆势走强，黄金跌近1% - 华尔街见闻",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyNWlKejNIamRoaUpGTWZ6akxxUHdjNGZfTlY1bGhjcXdIWXpyV1RuLWZtdjJPamVvUExmdnVZQ1lsOGpuVjZNaVp3d1JGYmV6a0dN?oc=5",
-   "source": "华尔街见闻",
-   "published": "2026-09-04T22:03:33+00:00",
-   "summary": "非农爆表提振加息预期，美股指下挫，存储与光通信逆势走强，黄金跌近1% 华尔街见闻",
-   "topics": [
-    "光互联"
-   ]
-  },
-  {
-   "title": "CPO先进测试战线前移设备链组队抢|供应链|晶圆|业者|客户|光子_手机新浪网 - 新浪财经",
+   "title": "CPO先进测试战线前移设备链组队抢|供应链|晶圆|业者|客户|光子_手机新浪网 - finance.sina.cn",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uYnBZV3h2R0FKNnNoTm9xbjdaTXB6SU9oVFc4dXl4NEdPZDNXQURiX1Zya1NhTF8wbmFYaENTZEpFRk0tRmNac1FwVUtqOFJSSE5pcG9sV1JuaXZwNlBRN0ZVWC1vb05MVTlJbUF5M2dadUZoMWFaLTFrUjNPVjA?oc=5",
-   "source": "新浪财经",
+   "source": "finance.sina.cn",
    "published": "2026-09-04T21:54:15+00:00",
-   "summary": "CPO先进测试战线前移设备链组队抢|供应链|晶圆|业者|客户|光子_手机新浪网 新浪财经",
+   "summary": "CPO先进测试战线前移设备链组队抢|供应链|晶圆|业者|客户|光子_手机新浪网 finance.sina.cn",
    "topics": [
     "CPO/OCS/光模块",
     "光互联",
@@ -1318,22 +1661,22 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "美股三大指数集体走弱 存储、光模块涨幅居前 - 东方财富",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JWlR0MkljUkZUTmtqMTBwS25seURGQ1E4X1BKbW9XOEZHUFVHdU5uLUxEVm5Oemoxbk5CVjdkdWd3SE9QNFpOMlZnQTh0WEFoRERkYThvbzdDcVlaMmtSNQ?oc=5",
+   "title": "美股三大指数震荡整理 存储、光模块涨幅居前 - 东方财富",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tcklLSHZZYTVyR1RpWXRZLWdKY1RYSEx1WUxIb0xpLVpucUxFZGZhZ2RLZ1JVd0JtRzFJb0xZVTRDNWlqSnJHSTVTU19ENEFGQW1fZUZxRXRqanFvdENfZHZqTQ?oc=5",
    "source": "东方财富",
-   "published": "2026-09-04T21:33:45+00:00",
-   "summary": "美股三大指数集体走弱 存储、光模块涨幅居前 东方财富",
+   "published": "2026-09-04T21:44:52+00:00",
+   "summary": "美股三大指数震荡整理 存储、光模块涨幅居前 东方财富",
    "topics": [
     "CPO/OCS/光模块",
     "光互联"
    ]
   },
   {
-   "title": "OpenAI史上最强模型GPT-6 Astra发布：百万级上下文自主操作电脑|AI模型|GPU|大模型|美国|Token_手机新浪网 - 新浪财经",
+   "title": "OpenAI史上最强模型GPT-6 Astra发布：百万级上下文自主操作电脑|AI模型|GPU|大模型|美国|Token_手机新浪网 - finance.sina.cn",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWFo3MjE5UkRHa2VDQkNkcDg1SUoxR0ZoZ0U5S3VnajVVMVRNUzFFSXJNVzJ5TWJyYzAxTWZiMHJ5aU5DVXptZmduZnRGUWhRQkdOQ3owRXpDZWRkVFpibUpPQWFfUlNZR0ZZZ0IyMGhEOWU2XzZmMGN1bDd3eVFGWFNZQ04zTW9Ka0EwQTZkVXFRUQ?oc=5",
-   "source": "新浪财经",
+   "source": "finance.sina.cn",
    "published": "2026-09-04T21:15:18+00:00",
-   "summary": "OpenAI史上最强模型GPT-6 Astra发布：百万级上下文自主操作电脑|AI模型|GPU|大模型|美国|Token_手机新浪网 新浪财经",
+   "summary": "OpenAI史上最强模型GPT-6 Astra发布：百万级上下文自主操作电脑|AI模型|GPU|大模型|美国|Token_手机新浪网 finance.sina.cn",
    "topics": [
     "AI",
     "GPU/算力集群"
@@ -1372,58 +1715,38 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "美股三大指数集体收跌 存储、光通信板块大涨 - 东方财富",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oM3p5c1pDOWVUR0FNUjJZUG1UajhOajAxalA4ODhFb2FiODhLLVlBM245WndmZ2ZJeEM1eEhLX2x2SWRRc3c0LWcxeEhrV1lKbTNkOHhpU215bEFLRmVxdA?oc=5",
+   "title": "费城半导体指数涨幅扩大至3% 存储、光模块涨幅居前 - 东方财富",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iMkxIeXJCZnplODZtNXFlOXBselVRRUpvOG9sbjBycm9rVFF3b2VJbTJJTlBJTWJRWmNaandyYkprN0JrZldXQnN2YmIzQUVrNmV6cVlhdGhzaDgzSW5ESg?oc=5",
    "source": "东方财富",
-   "published": "2026-09-04T20:09:51+00:00",
-   "summary": "美股三大指数集体收跌 存储、光通信板块大涨 东方财富",
+   "published": "2026-09-04T20:19:27+00:00",
+   "summary": "费城半导体指数涨幅扩大至3% 存储、光模块涨幅居前 东方财富",
    "topics": [
-    "光互联"
-   ]
-  },
-  {
-   "title": "DeepSeek据称采购16万颗华为昇腾950DT芯片英伟达在华市场前景再受质疑- Huawei 华为 - cnBeta.COM",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sQ21TTVRlZklEYW4wZ3kyUFQ1WDY3V1d4RzB0cVdRQkkzeElMUUhtYjRyY2JtYTIxVmJBc1ZtOGpvZVlWcE9UMUpOa0h4Nm1RM2s4VjNoVDlPT19FWDloMw?oc=5",
-   "source": "cnBeta.COM",
-   "published": "2026-09-04T19:20:00+00:00",
-   "summary": "DeepSeek据称采购16万颗华为昇腾950DT芯片英伟达在华市场前景再受质疑- Huawei 华为 cnBeta.COM",
-   "topics": [
-    "GPU/算力集群",
+    "CPO/OCS/光模块",
+    "光互联",
     "半导体"
    ]
   },
   {
-   "title": "跨界拓新！美格智能7000万元设光芯合资公司 强势切入AI光通信赛道 - 东方财富",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xQ3BLWnQ5RUhlZi16WGRUQlFmdjNYMUV2eG9wLUwwUUFTRVhibE9GMEY3VmJKR2dwdWFqckJpOE5ZdE5kTURFQ0tQZXQ2WjBJU3RIay1tcWxjVEY1MlBYTw?oc=5",
-   "source": "东方财富",
-   "published": "2026-09-04T19:06:07+00:00",
-   "summary": "跨界拓新！美格智能7000万元设光芯合资公司 强势切入AI光通信赛道 东方财富",
+   "title": "AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets",
+   "link": "https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616",
+   "source": "The Register",
+   "published": "2026-09-04T20:12:11+00:00",
+   "summary": "AI workstation promises to put up to 576 GB of HBM3e and 16 TB/s of memory bandwidth on your desk",
    "topics": [
     "AI",
-    "光互联"
+    "GPU/算力集群",
+    "HBM/先进封装"
    ]
   },
   {
-   "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案” - 财联社",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw?oc=5",
-   "source": "财联社",
-   "published": "2026-09-04T18:49:36+00:00",
-   "summary": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案” 财联社",
+   "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors. - MarketWatch",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORmRMZGlCdVBRbTJfSUc0dUlXLTM4WlNlTll3NmNVSVA0Ylo1b1FKVWItRjYzYWVZVTFPMnpHSm44YVdGdVpwNVlBMHR1ZmUyLUplQnpnVHh4UUJDdU5LLWtRanZyVkZrSHlUSDlmYU10aE8zQk5uMDYxMkpqSGlnR3ZMOGtzSXdiY3IzWnI0eUVONjFYSHJVQnpmbWV2UnVpZVYySFVRQzZPb3FRblN0UlY5Z0xqVFBpTkZUOGJ1WHN2Rjg1N0E?oc=5",
+   "source": "MarketWatch",
+   "published": "2026-09-04T20:12:00+00:00",
+   "summary": "Micron is doubling down on AI memory chips. That could pay off big time for investors. MarketWatch",
    "topics": [
     "AI",
-    "GPU/算力集群"
-   ]
-  },
-  {
-   "title": "华工科技：华工正源100G SFP112光模块即将亮相CIOE 2026_财经_24H快讯 - bihainews.com",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iNHAyb192YW1jZmY4Y0k3cDJOVkxqS0Z1bmV0WTRzdHNUd21ab3hNYlkxVFg1UmYwVW1tdWJlYU5MNVpnUXU2LS1MRFdndS1jbXdyaC1PeXdDZGlWN3hBcnluMkI4dw?oc=5",
-   "source": "bihainews.com",
-   "published": "2026-09-04T18:31:02+00:00",
-   "summary": "华工科技：华工正源100G SFP112光模块即将亮相CIOE 2026_财经_24H快讯 bihainews.com",
-   "topics": [
-    "AI",
-    "CPO/OCS/光模块",
-    "光互联"
+    "HBM/先进封装"
    ]
   },
   {
@@ -1434,27 +1757,6 @@ window.RADAR_DATA = {
    "summary": "CPO Futures Mostly Higher As Soybean Oil Prices Strengthen BernamaBiz",
    "topics": [
     "CPO/OCS/光模块",
-    "光互联"
-   ]
-  },
-  {
-   "title": "300209，签算力大单！芯片大厂，第三轮涨价（附股） - 新浪财经",
-   "link": "https://news.google.com/rss/articles/CBMitgRBVV95cUxOVVpPdE5HZW44OHpGWmlydzBWdXI1WE10VWROSG5nX3lndWh5b0ZnNXdGcUR2WFRFRmQtLUk1dmlIcFFROFlnTHFGYzZDc0s5ZF9UckFvQmo5cHNUelViS0xEQktUTVhNREpoTU11aVBiaEhNRTF2cEhrNUJhN2JoUVNpVWQwQlFlN0VkRVYyOVpPUmJPbFhTeGp6VHh2MldkUExSekFtb1NoLTQzRVY2Rk82MV9ZOE1hNGtBQ012UDRXVE5DQ0QxdUtVUVRmYlQtY0hHMzFhaGhrOS0yTDVzTmQ3MkVtb1JaLXRyMGd1bWg0czhvTTRucmpmOEdOZURpaDRCMF9BZXdfWlRiVVpFNHlIMHEzNUw5dVVYemQyeGdIbmNoSnQ0UmNtMUVpTXJfMjZQRjRTeVlwX2dQYWhEVXNyaGRzTXBKekZtY2dHaGx5OHY3MDFuallEOWtEZ0hrdjhCenJrMXozZ0pqVHFIdDNfM3RHZU1vbnNVYkttbGtMeW5oOXdzMW5YaHM5N0FodTlfV2xsdkxvTWQxWUk2WHhBbXJ2MlEzN1lfV1pGdU5BYklYWGtnZEg2VzEzeld2a3Y0ZjREOWNGX1Nkc1MwOURQZFlZTWVLdzlJVkw0NUptMUNZeFR3LWZSWExRekdZemRHaWdnZHdfR0ZFQVV0X2FqUWpjQ0Vta3ZLbVdzMXhIeWdSNF9qY2JYUWsyaENEa0ZKV3dsRFg4dzVaaDJDSmNRc05mdw?oc=5",
-   "source": "新浪财经",
-   "published": "2026-09-04T18:09:05+00:00",
-   "summary": "300209，签算力大单！芯片大厂，第三轮涨价（附股） 新浪财经",
-   "topics": [
-    "GPU/算力集群",
-    "半导体"
-   ]
-  },
-  {
-   "title": "What Makes a Great NFL Offensive Coordinator? - BetUS",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOelptRGthd1F4WUZPSVpMclhveXZ2c0VrSk9EbmhudTVHVlVyNWxnV2tvY1lrdTF0dGJCM2wwSHVVNms0UExZbkRzdWczMGp3di1PZTRzVzZIWkxJZFBkcm5WVHEwM2Y4NHhBUS1xaktYODJhNWp1UnBUQjFXMkI1WV9HM2ZSZw?oc=5",
-   "source": "BetUS",
-   "published": "2026-09-04T18:05:00+00:00",
-   "summary": "What Makes a Great NFL Offensive Coordinator? BetUS",
-   "topics": [
     "光互联"
    ]
   },
@@ -1470,11 +1772,22 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "特斯拉大涨6%，市值一夜增加超5300亿元，美股芯片半导体股下挫，博通跌超6%，SK海力士跌近4% - k.sina.com.cn",
+   "title": "A-share CPO concept stocks rose across the board, with Tianfu Communication up more than 4% and Eoptolink Technology up more than 2%. - 富途牛牛",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzJJQkJhaThUMHdpZzRESm9YTlBKeE1GcEE1a0VqdXFObUFzTGJWSmxkSzJZdlZlamN5WjNfaVIycnNReFhPRGI4MmF5WWtlQWU2b28xSHBJcEVSX3ZfVkZLZHY0emwyR3NybURlWldncEc0RGJFN2ZwdXk0T0pDWHJROTRkNXpaMEc2QUJ5MnRGYW1GRy1pVmtB?oc=5",
+   "source": "富途牛牛",
+   "published": "2026-09-04T17:42:21+00:00",
+   "summary": "A-share CPO concept stocks rose across the board, with Tianfu Communication up more than 4% and Eoptolink Technology up more than 2%. 富途牛牛",
+   "topics": [
+    "CPO/OCS/光模块",
+    "光互联"
+   ]
+  },
+  {
+   "title": "特斯拉大涨6%，市值一夜增加超5300亿元，美股芯片半导体股下挫，博通跌超6%，SK海力士跌近4% - 新浪网",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YTDRaMklXOVNiU0kzOUJWSEFRY1dXUE00U1RtdDZ1UjNhRXRKdi1BbUhibDQ4aDhBNXVCT3hoM0ZwZXpibFg5R09uMndldFpfVnZUSGFrMEdoRVVVR2dqWFZSbGxyU2pVSHVkRWhVZVlkUQ?oc=5",
-   "source": "k.sina.com.cn",
+   "source": "新浪网",
    "published": "2026-09-04T17:05:00+00:00",
-   "summary": "特斯拉大涨6%，市值一夜增加超5300亿元，美股芯片半导体股下挫，博通跌超6%，SK海力士跌近4% k.sina.com.cn",
+   "summary": "特斯拉大涨6%，市值一夜增加超5300亿元，美股芯片半导体股下挫，博通跌超6%，SK海力士跌近4% 新浪网",
    "topics": [
     "HBM/先进封装",
     "半导体"
@@ -1503,29 +1816,6 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "方块娱乐怎么注册代理：AI算力时代的芯片基石 - 体坛",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByZVpkZlpjR2dJTFM4MDcwTHNlV0J3eHFKbjlUdEVDVTFOellBTDhyeUp2OW54MXVhTEZJdFFPc3doR1FIa2JvbVVJZXBWVHhMa3gtM3pnZm5OZ2txTTN1S2djNUVodk1wT3lz?oc=5",
-   "source": "体坛",
-   "published": "2026-09-04T16:23:29+00:00",
-   "summary": "方块娱乐怎么注册代理：AI算力时代的芯片基石 体坛",
-   "topics": [
-    "AI",
-    "GPU/算力集群",
-    "半导体"
-   ]
-  },
-  {
-   "title": "Minisforum launches local AI solutions at IFA 2026 — AI Agent NAS N5 and AI Mini Workstation MS-S1 use AMD Ryzen AI Max+ Pro 495 processors designed to run models locally",
-   "link": "https://www.tomshardware.com/pc-components/nas/minisforum-launches-local-ai-solutions-at-ifa-2026-ai-agent-nas-n5-and-ai-mini-workstation-ms-s1-use-amd-ryzen-ai-max-pro-495-processors-designed-to-run-models-locally",
-   "source": "Tom's Hardware",
-   "published": "2026-09-04T16:15:00+00:00",
-   "summary": "Minisforum unveiled the NAS N5 Max-P495 and MS-S1 Max-P945 at IFA 2026. The NAS and mini-PC are powered by the AMD Ryzen AI Max+ Pro 495, which can be configured with up to 192GB of unified memory and packs a Radeon 8065S integrated GPU.",
-   "topics": [
-    "AI",
-    "GPU/算力集群"
-   ]
-  },
-  {
    "title": "USBC Appoints Ex-JPMorgan & Coinbase Leader Richa Pareek as CPO - FF News",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNld3RWQ5VGZYSkhYR2c5LTVkQ1JsME1kSHV3VzFBWjhhLWZ0V3lvWnhma2NpU3FuamNueU03RmpsaFM2aEJHenhNaVZkZnJHeGZwN2lNRVRmbVZLZHRfdXFHVWhVeWJuZDdYV3B6UE9pbUs0WDMydDE0WkU4WERjTGVtZWRQUG5fWFU1QTBtRHg1OTZ5YmpzcGoxS1VfLWlaQWVtZFpjcC1pOVVCc3E0M3BPZw?oc=5",
    "source": "FF News",
@@ -1533,18 +1823,6 @@ window.RADAR_DATA = {
    "summary": "USBC Appoints Ex-JPMorgan & Coinbase Leader Richa Pareek as CPO FF News",
    "topics": [
     "CPO/OCS/光模块",
-    "光互联"
-   ]
-  },
-  {
-   "title": "AI数据中心光互联公司iPronics完成1.25亿美元B轮融资，英伟达参投 - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tWGhUMTVFbjdBajRObnBsVVBXdUZfc3pfODBJeWNKLUtzOFZXMXNHSEFER1hUZ245U205eEtRWlpSbzFucVF0RjBuNFV1c21YZlhleHY4RWlubHplTE1yb2FuUUxvQQ?oc=5",
-   "source": "TradingView",
-   "published": "2026-09-04T16:05:00+00:00",
-   "summary": "AI数据中心光互联公司iPronics完成1.25亿美元B轮融资，英伟达参投 TradingView",
-   "topics": [
-    "AI",
-    "GPU/算力集群",
     "光互联"
    ]
   },
@@ -1559,56 +1837,25 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "一年暴增超十倍！英伟达股权投资升至990亿美元，背后不只是“买公司” - 富途牛牛",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVA3VC1WWnpVejg0LTZZaERwVUlnbXZtUk9GRVdjLWJkVFZJNGZ5dFh0cEtfODB2ak8zeW1tWnpzYXNvMkVxcDJqcnJnTTVNTHh1QlR0cjN2eG0xTVRIb1czVExieHhzS1NWeXA1eHZSTE9oTXczbDI0Uzg3TmNaSlVOXzJzc1N3SENaWEp6aktfOFE?oc=5",
-   "source": "富途牛牛",
-   "published": "2026-09-04T15:17:09+00:00",
-   "summary": "一年暴增超十倍！英伟达股权投资升至990亿美元，背后不只是“买公司” 富途牛牛",
+   "title": "Micron Targets 100k Monthly HBM Wafers to Supply Next Gen AI Chips - technetbooks.com",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaEFFNWFVaGtIQWktX3lSb2FiQ3gwT0dWcEZKOWdnVmYyQ29pVjY2cE1kVHI5bVAwak80TEhIaGNoX0NsQkd4cmpYV1FLLWVRb1RMdXdRZ1FGR29aNExZV2xuc2pGYUdnT3E4WjItSjZlSjhjQlhyUlIwbnVEaUtDRWdFbklmTkE?oc=5",
+   "source": "technetbooks.com",
+   "published": "2026-09-04T15:31:00+00:00",
+   "summary": "Micron Targets 100k Monthly HBM Wafers to Supply Next Gen AI Chips technetbooks.com",
    "topics": [
-    "GPU/算力集群"
-   ]
-  },
-  {
-   "title": "美光据称计划HBM月产能年底翻倍HBM4占比提至五成美光科技资讯2026-09 - 财富号",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWENhb0ZzbmFGcmhNdVNFdkFUUUt3T2FhRHVJakVHNGhibzZJMEluOWkyX3MtWmFGek5QcS1CTzc5U2FySzQ2NGc2Sjl0UnFlYnNVUUt0Vldzb2d6ai1Qb2tEaUc3Y3ZtSnJ6NE02RkZMd2U5NmJKVjFTcFIwUTNqcmc5emdHcEw5eFBxbE9FdEdPQ3RsMkJoQ1ZWaklCdTNIbkoyNzM5cUlDeXFKZnVOU1o5YkdvQmFBNjRLamw5dWdaVnppSmlINEZXRHRqTEc3SmN1YUdWdVVLT1pZOXM1Q0VhMUs4MUExOTRiV0Y3X25qZWM3SzB5V0dwV0FhQ1dxN2xaWjZZcVlVLXdO?oc=5",
-   "source": "财富号",
-   "published": "2026-09-04T15:07:00+00:00",
-   "summary": "美光据称计划HBM月产能年底翻倍HBM4占比提至五成美光科技资讯2026-09 财富号",
-   "topics": [
+    "AI",
     "HBM/先进封装"
    ]
   },
   {
-   "title": "Hot Chips 2026聚焦AI成本、芯片格局与未来走向-芯片 - 至顶网",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZT0d6WjBEYVNHRVJFbm84OE5hOVlnX2VnSGFRSWtSbHhlN0xLX1Z0QkQydmhKb2lPckN0dktvc2xDcjhVZ0hOOFhJR2cwdjViTHRLWEZEbkdXVnQ1MDE1N3h3?oc=5",
-   "source": "至顶网",
-   "published": "2026-09-04T15:04:17+00:00",
-   "summary": "Hot Chips 2026聚焦AI成本、芯片格局与未来走向-芯片 至顶网",
+   "title": "美光据称计划HBM月产能年底翻倍HBM4占比提至五成美光科技资讯2026-09 - caifuhao.eastmoney.com",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWENhb0ZzbmFGcmhNdVNFdkFUUUt3T2FhRHVJakVHNGhibzZJMEluOWkyX3MtWmFGek5QcS1CTzc5U2FySzQ2NGc2Sjl0UnFlYnNVUUt0Vldzb2d6ai1Qb2tEaUc3Y3ZtSnJ6NE02RkZMd2U5NmJKVjFTcFIwUTNqcmc5emdHcEw5eFBxbE9FdEdPQ3RsMkJoQ1ZWaklCdTNIbkoyNzM5cUlDeXFKZnVOU1o5YkdvQmFBNjRLamw5dWdaVnppSmlINEZXRHRqTEc3SmN1YUdWdVVLT1pZOXM1Q0VhMUs4MUExOTRiV0Y3X25qZWM3SzB5V0dwV0FhQ1dxN2xaWjZZcVlVLXdO?oc=5",
+   "source": "caifuhao.eastmoney.com",
+   "published": "2026-09-04T15:07:00+00:00",
+   "summary": "美光据称计划HBM月产能年底翻倍HBM4占比提至五成美光科技资讯2026-09 caifuhao.eastmoney.com",
    "topics": [
     "AI",
-    "GPU/算力集群",
-    "半导体"
-   ]
-  },
-  {
-   "title": "Nvidia app update fails to block unofficial DLSS multi-frame generation mod on RTX 40 series gaming GPUs — modders restore support across multiple games within hours",
-   "link": "https://www.tomshardware.com/video-games/pc-gaming/nvidia-app-update-fails-to-block-unofficial-dlss-multi-frame-generation-on-rtx-40-series-modders-restore-support-across-multiple-games-within-hours",
-   "source": "Tom's Hardware",
-   "published": "2026-09-04T14:56:38+00:00",
-   "summary": "When NVIDIA launched the GeForce RTX 50 series, a major part of the hype surrounding the new GPU family was its support for DLSS Multi-Frame Generation. This feature was officially locked to the new RTX 50 \"Blackwell\" GPUs, but modders have been working on unlocking it for RTX 40-series cards for a ",
-   "topics": [
-    "AI",
-    "GPU/算力集群"
-   ]
-  },
-  {
-   "title": "Get this stunning MSI RTX 5060 Ti 16G deal at Walmart for $200 less than anywhere else — only $569.99 for the solid mid-range Shadow 2x OC Plus gaming GPU is a steal by anyone's standards",
-   "link": "https://www.tomshardware.com/pc-components/get-this-stunning-msi-rtx-5060-ti-16g-deal-at-walmart-for-usd200-less-than-anywhere-else-only-usd569-99-for-the-solid-mid-range-shadow-2x-oc-plus-gaming-gpu-is-a-steal-by-anyones-standards",
-   "source": "Tom's Hardware",
-   "published": "2026-09-04T14:38:41+00:00",
-   "summary": "Snag an MSI RTX 5060 Ti 16G Shadow 2x OC Plus at Walmart for an awesome $200 less than anywhere else - $569 price is the best we've found by a longshot",
-   "topics": [
-    "GPU/算力集群"
+    "HBM/先进封装"
    ]
   },
   {
@@ -1632,18 +1879,6 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "美股AI芯片股集体上涨，英特尔、AMD涨超3% - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xX21LUV9razA3Yjg5bmtCUWNYazJ5QVpmZ0M1dHY0X0Q2LWNwTUFQeEJla3NyenBsa3F5cHk1STRGNHJ3R0JoWTZXT0t5NmE5d0Z1Vi1kSDcyTlAwZXdXZnU1TTB4bjJTZ29v?oc=5",
-   "source": "TradingView",
-   "published": "2026-09-04T14:11:22+00:00",
-   "summary": "美股AI芯片股集体上涨，英特尔、AMD涨超3% TradingView",
-   "topics": [
-    "AI",
-    "GPU/算力集群",
-    "半导体"
-   ]
-  },
-  {
    "title": "迎AI晶片散热与应力挑战 汉高深化在台研发扩建实验室 - CTIMES",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZMG5hZ0ZwUUZoQ2RpWm5WSVhaQ0lLdXotWDloVnAxMTI1LThIN0lsRjZLTmNfZDVRamtuazBZaW5YaHRTV3B2a0xTZzNKekFadkpibUlOWkF4bkVya0toRlRtSS1YV2RI?oc=5",
    "source": "CTIMES",
@@ -1652,51 +1887,6 @@ window.RADAR_DATA = {
    "topics": [
     "AI",
     "HBM/先进封装"
-   ]
-  },
-  {
-   "title": "费城半导体指数涨幅扩大至3% 存储、光模块涨幅居前 - 金融界",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yQk9HTVE1cS1GSEN6N0dzR1VCT0hyU09MekZMZWE4VUpyc1VGdW9Ed3g4akVkaDNUYlZYU2xLV1dkeDU4T3ZuVWZjbTR3UF9UcUhlRWNBalFwcTJRRTV1Nng2RQ?oc=5",
-   "source": "金融界",
-   "published": "2026-09-04T13:51:36+00:00",
-   "summary": "费城半导体指数涨幅扩大至3% 存储、光模块涨幅居前 金融界",
-   "topics": [
-    "CPO/OCS/光模块",
-    "光互联",
-    "半导体"
-   ]
-  },
-  {
-   "title": "21:50:27【费城半导体指数涨幅扩大至3% 存储、光模块涨幅居前】 - 财联社",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBieGZsSXNNaEU3MjZ1WUtmZlBudEt4a2NwVWJJT3Q3c3lkTjNBc3prSHpyQUQ5NkQySUw1RE9TNkRkeXhhbGZIYg?oc=5",
-   "source": "财联社",
-   "published": "2026-09-04T13:50:27+00:00",
-   "summary": "21:50:27【费城半导体指数涨幅扩大至3% 存储、光模块涨幅居前】 财联社",
-   "topics": [
-    "CPO/OCS/光模块",
-    "光互联",
-    "半导体"
-   ]
-  },
-  {
-   "title": "千亿封测龙头长电科技拟定增募资不超65亿元，加码先进封装和存储封测等 - k.sina.com.cn",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JQWRBcExHSE94dnRaS0d3VktDNGRxSFBUWWExRFZhMzdaaTJQSndPRVV3RlE4cUFuNHg1MU5VWUs2WEE5OUpkeGdDT3lPNHlUejhONEc2ZlJZNlhBS2xaMUxmZHRNSW5CMDJQVlNOb1oxZw?oc=5",
-   "source": "k.sina.com.cn",
-   "published": "2026-09-04T13:48:00+00:00",
-   "summary": "千亿封测龙头长电科技拟定增募资不超65亿元，加码先进封装和存储封测等 k.sina.com.cn",
-   "topics": [
-    "HBM/先进封装"
-   ]
-  },
-  {
-   "title": "美股光通信板块盘初走高 Coherent涨近4% - 东方财富",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyTUJyanJCVXVZSDljUXV6TkllNm01cWs0VXRZS3JmV1c1WGoxT1RrSjQzbEUzSnBFaEh2enpWcDhqdU9LMmJ1a1NXVlVJNTVzX3B5ZkRTY0JaZV9PcEVUdkh2azBTYUdRdDhHM0g4SE5aMUlmOWJYem9tVDBvQQ?oc=5",
-   "source": "东方财富",
-   "published": "2026-09-04T13:41:13+00:00",
-   "summary": "美股光通信板块盘初走高 Coherent涨近4% 东方财富",
-   "topics": [
-    "CPO/OCS/光模块",
-    "光互联"
    ]
   },
   {
@@ -1712,18 +1902,6 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "美股开盘：三大指数涨跌不一，存储芯片、光通信普涨，闪迪、美光科技涨超2% - 新浪财经",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sejlUalkyckc4NkdZb3FkUDRtSUlmZmxXaENTSTJGa3ZJRERWaDFaSHNqLXFVZUhsX0xxN2Y1OUJUdUxSRm5MaFhfRzBDNlhVUS1LSF8zbm5CVXN5Zkw0Ul9qLTF6Ny13WUJBZUZ4NA?oc=5",
-   "source": "新浪财经",
-   "published": "2026-09-04T13:33:36+00:00",
-   "summary": "美股开盘：三大指数涨跌不一，存储芯片、光通信普涨，闪迪、美光科技涨超2% 新浪财经",
-   "topics": [
-    "HBM/先进封装",
-    "光互联",
-    "半导体"
-   ]
-  },
-  {
    "title": "中石科技：依托全栈热管理体系，推进高性能TIM、一体式VC及液冷产品在CPO/NPO架构下验证与应用 - 东方财富",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WZnkyd0J6M09yckxGOVlGYk9FUHRrVHhaakd3TXA3VGZ5SDA3Qm5rUXFDVkViVVVycnhJZkhiMUR3ODJndkJ6d2s2Q05CUmMyVHM5V3Nnb1M2dkVacnhTWg?oc=5",
    "source": "东方财富",
@@ -1735,35 +1913,13 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "ETFs Investing in Cemex SAB de CV Cert Part Ord Repr 2 ShsA & 1 ShsB Stocks - TradingView",
+   "title": "ETFs Investing in Cemex SAB de CV Cert Part Ord Repr 2 ShsA & 1 ShsB Stocks - tradingview.com",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54ZG1rNVF6SDBmZHVsOU5aWXh3RTlUbUd4TGVoalF0d0FrTVl2bENTY3VxN3k5d3FxcnVDdXRRX0YyWWQwT3FsUG1JWWpHOVBYY2U3SlZQQlhPYXhKUDQxc1V1a0RSZw?oc=5",
-   "source": "TradingView",
+   "source": "tradingview.com",
    "published": "2026-09-04T13:29:03+00:00",
-   "summary": "ETFs Investing in Cemex SAB de CV Cert Part Ord Repr 2 ShsA & 1 ShsB Stocks TradingView",
+   "summary": "ETFs Investing in Cemex SAB de CV Cert Part Ord Repr 2 ShsA & 1 ShsB Stocks tradingview.com",
    "topics": [
     "CPO/OCS/光模块"
-   ]
-  },
-  {
-   "title": "锐翔智能：近期已接到索尔思公司首条光模块自动化组装设备生产线订单 - 东方财富",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nWENUaVBCTGphaWU0R3I3RDZwYVE0STMyMWRKNnd1ZHJQODU5am1IQms2NVdCbjNldWx3c2w5S0N4di1QSTBKYkhlclA3bFdzOGlxVkNDaFJLbWt1Tnd3UkNIZWQ?oc=5",
-   "source": "东方财富",
-   "published": "2026-09-04T13:01:41+00:00",
-   "summary": "锐翔智能：近期已接到索尔思公司首条光模块自动化组装设备生产线订单 东方财富",
-   "topics": [
-    "CPO/OCS/光模块",
-    "光互联"
-   ]
-  },
-  {
-   "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores and dual liquid-cooled MI350P accelerators — 'the most powerful workstation in the world' can run trillion-parameter models, says AMD",
-   "link": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
-   "source": "Tom's Hardware",
-   "published": "2026-09-04T12:58:37+00:00",
-   "summary": "AMD's Threadripper Halo Station packs a 96-core Zen 5 Threadripper, dual MI350P accelerators with support for four, and 2TB of DDR5.",
-   "topics": [
-    "AI",
-    "GPU/算力集群"
    ]
   },
   {
@@ -1777,14 +1933,14 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "Discrete graphics card sales hit four-year record despite soaring memory prices — AMD gains market share as notebook graphics carry the market",
-   "link": "https://www.tomshardware.com/pc-components/gpus/discrete-graphics-card-sales-hit-four-year-record-despite-high-prices-shipments-reach-13-24-million-units-as-market-defies-pc-slump",
-   "source": "Tom's Hardware",
-   "published": "2026-09-04T12:45:23+00:00",
-   "summary": "Shipments of standalone graphics processors for PCs grow sequentially and year-over-year amid shortage of components and increased prices.",
+   "title": "锐翔智能：近期已接到索尔思公司首条光模块自动化组装设备生产线订单 - 东方财富",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nWENUaVBCTGphaWU0R3I3RDZwYVE0STMyMWRKNnd1ZHJQODU5am1IQms2NVdCbjNldWx3c2w5S0N4di1QSTBKYkhlclA3bFdzOGlxVkNDaFJLbWt1Tnd3UkNIZWQ?oc=5",
+   "source": "东方财富",
+   "published": "2026-09-04T12:47:51+00:00",
+   "summary": "锐翔智能：近期已接到索尔思公司首条光模块自动化组装设备生产线订单 东方财富",
    "topics": [
-    "AI",
-    "GPU/算力集群"
+    "CPO/OCS/光模块",
+    "光互联"
    ]
   },
   {
@@ -1810,23 +1966,11 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "CPO Review: Soloist Leo Gevisser, conducted by Daniel Raiskin - WeekendSpecial",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGNDb3FxSm5pbE9XUnBHY3JPMkJjZFNnNFJuMFVlYjFyNXNBa1IyeGdNUWpjcHZzTnZ1N3hZUnNWWDJ5N0FvR2QyaTIta2V2NWdoSmlobmExSndTaHlfa1dEUU1vMzZSZm9UOElhamg0ZkxUZ2FLd0lrc3RSUFNmdm00M0J5S25UdlFBUEpSSnBGaDA?oc=5",
-   "source": "WeekendSpecial",
-   "published": "2026-09-04T12:05:31+00:00",
-   "summary": "CPO Review: Soloist Leo Gevisser, conducted by Daniel Raiskin WeekendSpecial",
-   "topics": [
-    "AI",
-    "CPO/OCS/光模块",
-    "光互联"
-   ]
-  },
-  {
-   "title": "Apex Group appoints Nick Tomadakis as new CPO - FinTech Futures",
+   "title": "Apex Group appoints Nick Tomadakis as new CPO - fintechfutures.com",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3hQaWM5YVNLdWVMNTdpTlh2RHh2ZWctUWVFb2lNdHlfdVZUZ0lWTGp0bEMyaXBHMGVwdi1pOHQxUVEwUXJKMHU3dnAtYi1pNUxHR0ZLMngxWWItMDAzVlRORU9DQ1pOV19UYzdvYUtheHg5WjhfTXlmOEY3STBDdWNaeVRiY0pfakFyTjJoZ05KUnhzbUZESU9DUGgxVDlfbU84YkhFcmNhSGt0SEE?oc=5",
-   "source": "FinTech Futures",
+   "source": "fintechfutures.com",
    "published": "2026-09-04T12:02:18+00:00",
-   "summary": "Apex Group appoints Nick Tomadakis as new CPO FinTech Futures",
+   "summary": "Apex Group appoints Nick Tomadakis as new CPO fintechfutures.com",
    "topics": [
     "CPO/OCS/光模块",
     "光互联"
@@ -1845,11 +1989,11 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "长电科技65亿定增押注先进封装：华润加持定增，仍待跨越两道回报关 - 潮新闻客户端",
+   "title": "长电科技65亿定增押注先进封装：华润加持定增，仍待跨越两道回报关 - tidenews.com.cn",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DNHhtNi1vaFYtcllOaGhvalNsbmpKWXR6RTktV04xbDFzRXlfcHd4T19lY1BZQzJtNWhoUThIX2NpN0hOX0NNenlPSVktd0lQWnFvWTh4TGIweVBBRk9Fc05fYXFRWXE2Zkdabm1MX1pMSlE?oc=5",
-   "source": "潮新闻客户端",
+   "source": "tidenews.com.cn",
    "published": "2026-09-04T11:52:25+00:00",
-   "summary": "长电科技65亿定增押注先进封装：华润加持定增，仍待跨越两道回报关 潮新闻客户端",
+   "summary": "长电科技65亿定增押注先进封装：华润加持定增，仍待跨越两道回报关 tidenews.com.cn",
    "topics": [
     "HBM/先进封装"
    ]
@@ -1862,6 +2006,18 @@ window.RADAR_DATA = {
    "summary": "沃尔核材：未来可能光模块、铜缆等多种方案并存 Sohu",
    "topics": [
     "CPO/OCS/光模块",
+    "光互联"
+   ]
+  },
+  {
+   "title": "协创数据：目前公司自建算力集群已有使用光为科技生产的光模块 - 新浪财经",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HeEFRbjQ1cURNVzBJSnBqYWRoMGt1RXh0dUpHT0FBYmxJUVk3ZkFCUzlBb1BEM3pUczZ3UnIxT0pmRVVHTXdYOXNLU0dlUGFsclJxemN5bTZzWVBnelhMdlJVOWc2anBaZEI3VGd3?oc=5",
+   "source": "新浪财经",
+   "published": "2026-09-04T11:30:17+00:00",
+   "summary": "协创数据：目前公司自建算力集群已有使用光为科技生产的光模块 新浪财经",
+   "topics": [
+    "CPO/OCS/光模块",
+    "GPU/算力集群",
     "光互联"
    ]
   },
@@ -1890,7 +2046,7 @@ window.RADAR_DATA = {
   },
   {
    "title": "Price-Driven Insight from (HBM) for Rule-Based Strategy - Stock Traders Daily",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd1BGQkFISjViRUVNc3NjQWtRYkYwNXRHUE1UTG4zd0JPa3BMcWp4LTRwMVhXX2prT2tYZTNQVWFBazJhR2E5MElXU2dhZjhRTE5JQUxQb2pTaG5xOTNtZXl2R3F6R1B6dldXX0VydFl5VkFPd0dQMWtXbm5RdzNmaG5sbW9qeEVXbk5DSDZRMko1cjRmUmpaVGN2bUlWMnVMLWJNenhhb0s4WDk5OGprTjBRRmpnN3FVZkduTENsdnlVUnJVUUM1X0pEOHBsQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOejU0Q1pDb0gtM0tiMjg1aWd6aVlYamVSOEF3MEc3bjV3RjJrVTVtc01Nclc2QmZoR19nTHFFbVEzdm9TTHBmY3UxeUV5MXR2elQyRXRQdlgwQ0Vya2U1eXFpdWtIa1BQeUhVbndvLS1oT1ptYW5md2E1M0RTUmVwY240OFdmR1czY3VoMGVLR0pVNWRnTEwtVWRTVWN1S1puVXdzaUVoQkxxZXdqWU80ZE9pblhrMzdqNlRPb3ZGaWNSUHdyRW9ES0tRRnU?oc=5",
    "source": "Stock Traders Daily",
    "published": "2026-09-04T11:08:01+00:00",
    "summary": "Price-Driven Insight from (HBM) for Rule-Based Strategy Stock Traders Daily",
@@ -1943,18 +2099,6 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "协创数据：目前公司自建算力集群已有使用光为科技生产的光模块 - 富途牛牛",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4X1VfVnltMEh5TjN0aDJwbmVQVlhfdzh0cGtxMkVQcnVYdDAxRUlfaGtiMGRTWGNyaWpER2hXeXVpLWhGeERuTlVsVlY2S01neVE?oc=5",
-   "source": "富途牛牛",
-   "published": "2026-09-04T10:28:17+00:00",
-   "summary": "协创数据：目前公司自建算力集群已有使用光为科技生产的光模块 富途牛牛",
-   "topics": [
-    "CPO/OCS/光模块",
-    "GPU/算力集群",
-    "光互联"
-   ]
-  },
-  {
    "title": "LITE's AI Optics Push Boosts Growth Prospects Against MRVL & NVDA - qz.com",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdWVnUjFLdThobjctOG5ScHpSN2FSRE5QUmpUTHZVdzYxVE9CX0x4dFB6V1hGQ1ZodGUwWXhkb2JhbzRDdXZ2SE5GZ0hxTlNJVVRTLXhDNUhVbk9mSFBrcno2d0t6S0lFOGphNnU4dmxieGhSdzhCZlJjZ2QxekFRVGg4WkY?oc=5",
    "source": "qz.com",
@@ -1964,47 +2108,6 @@ window.RADAR_DATA = {
     "AI",
     "CPO/OCS/光模块",
     "光互联"
-   ]
-  },
-  {
-   "title": "美光加快HBM产能扩张步伐计划月产能增加6万片晶圆，HBM4占比也将提高至50% - Sohu",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlRmbXRkSndwUE5pbFgtX2FXWWJObE5MMFBFX3hlcnd0b21MLUFWUjFYa2c2UGlpM25qUU8xbG1ZTnMwVjEzdXZMZG4yMm5SbTJMV25pTnFNUGlGMlBMYmVHOGlSeXZrWmNKME5tS1dtQTVKTU9leHd5WWYzckJJTURqaDh6T1ZiOTdRYg?oc=5",
-   "source": "Sohu",
-   "published": "2026-09-04T10:08:25+00:00",
-   "summary": "美光加快HBM产能扩张步伐计划月产能增加6万片晶圆，HBM4占比也将提高至50% Sohu",
-   "topics": [
-    "HBM/先进封装",
-    "半导体"
-   ]
-  },
-  {
-   "title": "美光吹响反击号角！HBM4产能翻倍直追三星海力士：年底10万片 - 驱动之家",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqODRwZmZiaFFxcFJSSEVlcWxqN0dmQjdDQUYtN2JsaENpeE9aaVdDQ0hGbWx1MXR6U0ZINjVLbG9MSmxuVklfYkRrMldGNUZkd2NzRVA5RFM?oc=5",
-   "source": "驱动之家",
-   "published": "2026-09-04T10:03:00+00:00",
-   "summary": "美光吹响反击号角！HBM4产能翻倍直追三星海力士：年底10万片 驱动之家",
-   "topics": [
-    "HBM/先进封装"
-   ]
-  },
-  {
-   "title": "头部企业再投50亿！加码先进封装 - 电子工程专辑",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56MzFNTVRQY3JkNWJQSFdOTGhwWV9xSUlxY0EwZ3VsWXZnY0JiazNTUVJ2SlNqMC1FQ0pZQU4zVktyZnk5TzN4XzBqeVRhOWxLdC1B?oc=5",
-   "source": "电子工程专辑",
-   "published": "2026-09-04T10:00:00+00:00",
-   "summary": "头部企业再投50亿！加码先进封装 电子工程专辑",
-   "topics": [
-    "HBM/先进封装"
-   ]
-  },
-  {
-   "title": "韩国双雄拿下83%的HBM市场，都在这个ETF里了 - 财富号",
-   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQM05PWjFreW9TT0ZWdnVvcnlOeVVCdUV1OE5hWUJmamN1eE9aSkJSX2hFeVRpV3VoTzdUWkx3dmZ5dHVOX09lZ2tyZVRWYzRtN3hGd3h0a0kxT0h0eHF3OG54WDE2dFFDYVhlUU5aNzV5S20yYTFWX29WUG5GdHlUSk05OTN3Rm5qU0hUdmNJb2F5TFdmRG45czlCbm1VVl9xWkZTRDh6Q3Z0YzlVNlZKd1VDUzJjTDlhT05HbXpiNzg4bzNKTGZONlRSbWNFd19IZXRFUDhjZmZ1UnRUV3RFdTdXOVBBY1NmSUIyeVM1TUdJekpjaHE5YlZPQjRSSDJCakxkUVdEdnpnN0pVUl9VV29JdTYtbmZmWkRGMUNZZ3A5cWNKT0VIXzlOQVhVdw?oc=5",
-   "source": "财富号",
-   "published": "2026-09-04T09:48:00+00:00",
-   "summary": "韩国双雄拿下83%的HBM市场，都在这个ETF里了 财富号",
-   "topics": [
-    "HBM/先进封装"
    ]
   },
   {
@@ -2020,98 +2123,11 @@ window.RADAR_DATA = {
    ]
   },
   {
-   "title": "【惠科股份先进封装双基地推进：成都项目进度44.01%，绍兴12寸项目落地】PjTime.COM 财经新闻 - 投影时代",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wc1duTnBiU1B1Qm4tVTVTTDBsVlREd3RRZk5rLUFSYTRNQ1YwMFZIUDNwWXBLeGFXeVJqejIwRUFQb3ZOdk9HRTJBRHIwWXVNcjJPd3dJdzZGTG8?oc=5",
-   "source": "投影时代",
-   "published": "2026-09-04T09:27:59+00:00",
-   "summary": "【惠科股份先进封装双基地推进：成都项目进度44.01%，绍兴12寸项目落地】PjTime.COM 财经新闻 投影时代",
-   "topics": [
-    "HBM/先进封装"
-   ]
-  },
-  {
-   "title": "芯粒Chiplet板块9月4日跌3.07%，和顺石油领跌，主力资金净流出37.45亿元 - Sohu",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUW8wR3Qwb2JvQWNCYjhHbXJYNXIwczc3ZDJSMzBrazBnVGFrZmdmaXdDX1Fnand2UlAyRjJRYUtIZTV5cExxTXpyc0FNYzREWktTdDJzS2x1MW95UDd2cTVrc0cxYk5Mek1oX0NxcXR4Y010OFVoQXY0Q29wTDg2R0Jac216Z01iZnB5aQ?oc=5",
-   "source": "Sohu",
-   "published": "2026-09-04T09:16:49+00:00",
-   "summary": "芯粒Chiplet板块9月4日跌3.07%，和顺石油领跌，主力资金净流出37.45亿元 Sohu",
-   "topics": [
-    "HBM/先进封装"
-   ]
-  },
-  {
-   "title": "苏高新金控办先进封装行业培训 2024年全球市场规模460亿美元 - 观点网",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2Z0lWYjU1REpSeEZOWmhuVl9COXJENEtyakNpTEM3d1FfdVdObkZzdm5NOTFVUUVmTHhRVmtsa0VzQ09hejFzd3BDbzRDZw?oc=5",
-   "source": "观点网",
-   "published": "2026-09-04T09:06:58+00:00",
-   "summary": "苏高新金控办先进封装行业培训 2024年全球市场规模460亿美元 观点网",
-   "topics": [
-    "HBM/先进封装"
-   ]
-  },
-  {
    "title": "达瑞电子：1.6T光模块线端项目进入量产 机端配合客户打样送样 - 观点网",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nWkFmeXBrcE04SDloU0ZYbDAwUVJkbVdlbkRRQjFiSDRHY0Vfekc0dzVBa25wTmtmMGtXMm1LWlRpemFaUlVGMXFRTGd4dw?oc=5",
    "source": "观点网",
    "published": "2026-09-04T08:36:45+00:00",
    "summary": "达瑞电子：1.6T光模块线端项目进入量产 机端配合客户打样送样 观点网",
-   "topics": [
-    "CPO/OCS/光模块",
-    "光互联"
-   ]
-  },
-  {
-   "title": "前瞻布局光互联新技术，华鑫证券：维持剑桥科技“买入”评级 - Sohu",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRm5GLWQ4eXp2WFo2T1RrTXhCZEFKZ3lYODJTcGFzTkZNVFZGbDdpTlc5S1QxMXVRTXRRN1lMa0FoOS1odVU3UVczbWRYX2oxS0hPZkhDaGpFYThoeXJDYnhLX1BDeDVRZW9fWVA3QTJhNER5WHVGQldVejZIMWpKZWlaTU9JRlh2X1Y5Mw?oc=5",
-   "source": "Sohu",
-   "published": "2026-09-04T07:38:00+00:00",
-   "summary": "前瞻布局光互联新技术，华鑫证券：维持剑桥科技“买入”评级 Sohu",
-   "topics": [
-    "CPO/OCS/光模块",
-    "光互联"
-   ]
-  },
-  {
-   "title": "达瑞电子：配合客户在1.6T光模块线端已有项目进入量产 - 腾讯新闻",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WdktDS0VKcGZSVzN2MU5rbURPNUZVZGh1U0FHMXBQMU1ESzZ4MkZWeWFOaG5JZS0zekVfdERnTnZLb2xtQ3hFQTdvSnBQdHp1Q0dMLWR3?oc=5",
-   "source": "腾讯新闻",
-   "published": "2026-09-04T07:26:00+00:00",
-   "summary": "达瑞电子：配合客户在1.6T光模块线端已有项目进入量产 腾讯新闻",
-   "topics": [
-    "CPO/OCS/光模块",
-    "光互联"
-   ]
-  },
-  {
-   "title": "从EML到CW，光安伦三款激光器新品补齐下一代AI数据中心光互联关键拼图 - iccsz.com",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VTE9iOFg5ajRDUE4wOXluRk9MeF9lN25uZzFVVmotOFRBaWtVYXRYaTdUMXpXSXN2WTAxdFhoS2ZRaHhoWlpkalZkbEhOdFJRdEJWMXZRLS1JenNhRVM1SGxHVEYxVi1XZ1gzWGw1d2pBX25WWmpDaA?oc=5",
-   "source": "iccsz.com",
-   "published": "2026-09-04T07:25:58+00:00",
-   "summary": "从EML到CW，光安伦三款激光器新品补齐下一代AI数据中心光互联关键拼图 iccsz.com",
-   "topics": [
-    "AI",
-    "CPO/OCS/光模块",
-    "GPU/算力集群",
-    "光互联"
-   ]
-  },
-  {
-   "title": "财中ETF风向标｜光模块产业链回调，科创成长ETF万家(588070)跌3.16% - 财中社",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QWHlPUEcyTDduY1p6NHNZRWVYOV9IX1YtX3NWajAtUUdDYUMwT19TMm9KR1dNSDQ2MzFlYXNUdjBncG1xMHBCZ1F2bk13VXBMQkNoX3ItckJKRzU1SW5MN242Ukk?oc=5",
-   "source": "财中社",
-   "published": "2026-09-04T07:24:00+00:00",
-   "summary": "财中ETF风向标｜光模块产业链回调，科创成长ETF万家(588070)跌3.16% 财中社",
-   "topics": [
-    "CPO/OCS/光模块",
-    "光互联"
-   ]
-  },
-  {
-   "title": "公司收购的东莞运宏是否有1.6T光模块散热业务？达瑞电子回应 - Sohu",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2x3QVY0MEM4QkdXVXJIZTNuaHRLaHJTVUVyLVU2cTEyUmFfYUlrWWxzRkN0RjdaU3J1Q0NDVDZMSXNpSTJWaWdFNlAwX2RZZm5TRG1PTFB3OFBmTVo2bWIwcVAzbjk4a3laLVA3QV9yX3hUYkRYbDRPTldvT0tSbTR6NmV5c3BaOHVFNQ?oc=5",
-   "source": "Sohu",
-   "published": "2026-09-04T07:18:00+00:00",
-   "summary": "公司收购的东莞运宏是否有1.6T光模块散热业务？达瑞电子回应 Sohu",
    "topics": [
     "CPO/OCS/光模块",
     "光互联"
