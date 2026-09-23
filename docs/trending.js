@@ -1,38 +1,38 @@
 window.RADAR_TRENDING = {
- "updated": "2026-09-23T16:20:45.845269+00:00",
+ "updated": "2026-09-23T21:14:48.487748+00:00",
  "new_stars": [
   {
    "name": "NandhaKishorM/laya",
    "url": "https://github.com/NandhaKishorM/laya",
    "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque",
-   "stars": 19646,
+   "stars": 20207,
    "lang": "Python",
    "created": "2026-09-18T04:46:33Z",
-   "pushed": "2026-09-23T16:14:10Z"
-  },
-  {
-   "name": "zai-org/ZCode",
-   "url": "https://github.com/zai-org/ZCode",
-   "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-   "stars": 6506,
-   "lang": "TypeScript",
-   "created": "2026-09-20T12:01:16Z",
-   "pushed": "2026-09-23T13:25:04Z"
+   "pushed": "2026-09-23T18:05:00Z"
   },
   {
    "name": "tamaratran/fast-jev-compaction",
    "url": "https://github.com/tamaratran/fast-jev-compaction",
    "desc": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbati",
-   "stars": 6504,
+   "stars": 6548,
    "lang": "TypeScript",
    "created": "2026-09-17T05:57:20Z",
    "pushed": "2026-09-18T04:45:31Z"
   },
   {
+   "name": "zai-org/ZCode",
+   "url": "https://github.com/zai-org/ZCode",
+   "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+   "stars": 6525,
+   "lang": "TypeScript",
+   "created": "2026-09-20T12:01:16Z",
+   "pushed": "2026-09-23T13:25:04Z"
+  },
+  {
    "name": "mizorewww/laya-mlx",
    "url": "https://github.com/mizorewww/laya-mlx",
    "desc": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-   "stars": 5849,
+   "stars": 5918,
    "lang": "Python",
    "created": "2026-09-19T13:50:26Z",
    "pushed": "2026-09-22T05:34:51Z"
@@ -41,52 +41,52 @@ window.RADAR_TRENDING = {
    "name": "jaredpalmer/kev",
    "url": "https://github.com/jaredpalmer/kev",
    "desc": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
-   "stars": 5569,
+   "stars": 5877,
    "lang": "Python",
    "created": "2026-09-17T20:49:39Z",
-   "pushed": "2026-09-23T12:40:23Z"
+   "pushed": "2026-09-23T21:13:40Z"
   },
   {
    "name": "jev-chat/jev-chat-jarvis",
    "url": "https://github.com/jev-chat/jev-chat-jarvis",
    "desc": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-   "stars": 5144,
+   "stars": 5196,
    "lang": "Kotlin",
    "created": "2026-09-21T11:12:53Z",
-   "pushed": "2026-09-23T12:47:49Z"
+   "pushed": "2026-09-23T21:01:43Z"
   },
   {
    "name": "TianyuCodings/NanoJev",
    "url": "https://github.com/TianyuCodings/NanoJev",
    "desc": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-   "stars": 2095,
+   "stars": 2109,
    "lang": "Python",
    "created": "2026-09-17T16:08:30Z",
    "pushed": "2026-09-21T09:58:28Z"
   },
   {
-   "name": "bespokelabsai/nimble",
-   "url": "https://github.com/bespokelabsai/nimble",
-   "desc": "Local typed decisions, contrastive data curation, and model evaluation.",
-   "stars": 1675,
-   "lang": "Python",
-   "created": "2026-09-18T09:07:48Z",
-   "pushed": "2026-09-23T05:22:26Z"
-  },
-  {
    "name": "unreallabsai/unreal-agent",
    "url": "https://github.com/unreallabsai/unreal-agent",
    "desc": "Async-first agent harness",
-   "stars": 1580,
+   "stars": 1686,
    "lang": "Go",
    "created": "2026-09-21T23:14:02Z",
-   "pushed": "2026-09-23T14:24:44Z"
+   "pushed": "2026-09-23T19:08:26Z"
+  },
+  {
+   "name": "bespokelabsai/nimble",
+   "url": "https://github.com/bespokelabsai/nimble",
+   "desc": "Local typed decisions, contrastive data curation, and model evaluation.",
+   "stars": 1678,
+   "lang": "Python",
+   "created": "2026-09-18T09:07:48Z",
+   "pushed": "2026-09-23T18:49:37Z"
   },
   {
    "name": "hydra-db/open-glean",
    "url": "https://github.com/hydra-db/open-glean",
    "desc": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
-   "stars": 1472,
+   "stars": 1504,
    "lang": "TypeScript",
    "created": "2026-09-17T05:22:08Z",
    "pushed": "2026-09-17T05:46:34Z"
@@ -95,16 +95,16 @@ window.RADAR_TRENDING = {
    "name": "yibie/awesome-jev",
    "url": "https://github.com/yibie/awesome-jev",
    "desc": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
-   "stars": 1448,
+   "stars": 1472,
    "lang": "Python",
    "created": "2026-09-17T14:23:21Z",
-   "pushed": "2026-09-23T12:41:47Z"
+   "pushed": "2026-09-23T16:28:57Z"
   },
   {
    "name": "mizorewww/laya-coreml",
    "url": "https://github.com/mizorewww/laya-coreml",
    "desc": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
-   "stars": 1378,
+   "stars": 1391,
    "lang": "Python",
    "created": "2026-09-19T23:14:13Z",
    "pushed": "2026-09-22T06:33:09Z"
@@ -113,7 +113,7 @@ window.RADAR_TRENDING = {
    "name": "newliver666/apk-reverse",
    "url": "https://github.com/newliver666/apk-reverse",
    "desc": "Suitable for Android APK reverse engineering analysis",
-   "stars": 1228,
+   "stars": 1260,
    "lang": "Python",
    "created": "2026-09-19T13:12:54Z",
    "pushed": "2026-09-22T12:57:12Z"
@@ -122,7 +122,7 @@ window.RADAR_TRENDING = {
    "name": "Lumid-Off/AirCard-Windows",
    "url": "https://github.com/Lumid-Off/AirCard-Windows",
    "desc": "",
-   "stars": 766,
+   "stars": 775,
    "lang": "Rust",
    "created": "2026-09-18T14:27:48Z",
    "pushed": "2026-09-22T04:45:03Z"
@@ -131,25 +131,34 @@ window.RADAR_TRENDING = {
    "name": "heyjunpenn/awesome-jev",
    "url": "https://github.com/heyjunpenn/awesome-jev",
    "desc": "A verified, community-maintained catalog of 834 open-source projects built with Jev.",
-   "stars": 735,
+   "stars": 762,
    "lang": "Astro",
    "created": "2026-09-19T05:14:36Z",
-   "pushed": "2026-09-23T10:25:54Z"
+   "pushed": "2026-09-23T19:01:59Z"
   },
   {
    "name": "githubnext/localjev",
    "url": "https://github.com/githubnext/localjev",
    "desc": "",
-   "stars": 734,
+   "stars": 735,
    "lang": "TypeScript",
    "created": "2026-09-18T16:59:55Z",
    "pushed": "2026-09-18T20:19:02Z"
   },
   {
+   "name": "SewCabinSpout/cleanupper",
+   "url": "https://github.com/SewCabinSpout/cleanupper",
+   "desc": "🧹 Free, open-source macOS disk cleanup CLI. Scan & safely remove caches, logs, Xcode DerivedData, npm/Homebrew/pip junk and stale node_modules from your terminal. Trash-first, zero telemetry the termi",
+   "stars": 723,
+   "lang": "JavaScript",
+   "created": "2026-09-23T17:19:45Z",
+   "pushed": "2026-09-23T17:45:50Z"
+  },
+  {
    "name": "volotat/mini-AGI",
    "url": "https://github.com/volotat/mini-AGI",
    "desc": "Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data.",
-   "stars": 689,
+   "stars": 712,
    "lang": "Python",
    "created": "2026-09-19T00:25:59Z",
    "pushed": "2026-09-23T09:46:04Z"
@@ -158,16 +167,16 @@ window.RADAR_TRENDING = {
    "name": "kerpopule/hermes-jev-skills",
    "url": "https://github.com/kerpopule/hermes-jev-skills",
    "desc": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
-   "stars": 689,
+   "stars": 698,
    "lang": "Python",
    "created": "2026-09-18T20:01:29Z",
-   "pushed": "2026-09-22T22:22:36Z"
+   "pushed": "2026-09-23T19:49:40Z"
   },
   {
    "name": "v-modal/awesome-jev-tools",
    "url": "https://github.com/v-modal/awesome-jev-tools",
    "desc": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
-   "stars": 680,
+   "stars": 692,
    "lang": "",
    "created": "2026-09-19T16:48:59Z",
    "pushed": "2026-09-19T17:02:33Z"
@@ -176,7 +185,7 @@ window.RADAR_TRENDING = {
    "name": "incoai/splash",
    "url": "https://github.com/incoai/splash",
    "desc": "A local inference engine for Apple silicon, built around the model.",
-   "stars": 671,
+   "stars": 680,
    "lang": "Python",
    "created": "2026-09-18T20:01:48Z",
    "pushed": "2026-09-23T08:57:30Z"
@@ -185,7 +194,7 @@ window.RADAR_TRENDING = {
    "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
    "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
    "desc": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-   "stars": 632,
+   "stars": 636,
    "lang": "Markdown",
    "created": "2026-09-19T04:14:43Z",
    "pushed": "2026-09-19T10:40:41Z"
@@ -194,7 +203,7 @@ window.RADAR_TRENDING = {
    "name": "ethanplusai/astra-flash-orchestrator",
    "url": "https://github.com/ethanplusai/astra-flash-orchestrator",
    "desc": "Astra plans and reviews; DeepSeek Flash builds. A native Codex workflow with phased tasks, verification, safe installation and reversible setup.",
-   "stars": 621,
+   "stars": 622,
    "lang": "Python",
    "created": "2026-09-17T05:42:31Z",
    "pushed": "2026-09-20T22:08:28Z"
@@ -203,25 +212,16 @@ window.RADAR_TRENDING = {
    "name": "gylive/ccodex-sleep-state",
    "url": "https://github.com/gylive/ccodex-sleep-state",
    "desc": "尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或提升模型质量。",
-   "stars": 608,
+   "stars": 609,
    "lang": "Go",
    "created": "2026-09-18T09:02:44Z",
    "pushed": "2026-09-20T16:33:30Z"
   },
   {
-   "name": "yynxxxxx/gpt_sub_analysis",
-   "url": "https://github.com/yynxxxxx/gpt_sub_analysis",
-   "desc": "Security analysis of the ChatGPT iOS subscription / entitlement flow (internal draft, coordinated disclosure WIP)",
-   "stars": 600,
-   "lang": "",
-   "created": "2026-09-17T13:43:00Z",
-   "pushed": "2026-09-18T12:00:04Z"
-  },
-  {
    "name": "Mak5er/AirCard-iOS",
    "url": "https://github.com/Mak5er/AirCard-iOS",
    "desc": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
-   "stars": 594,
+   "stars": 603,
    "lang": "Swift",
    "created": "2026-09-19T09:22:23Z",
    "pushed": "2026-09-20T21:01:12Z"
@@ -232,7 +232,7 @@ window.RADAR_TRENDING = {
    "name": "affaan-m/ECC",
    "url": "https://github.com/affaan-m/ECC",
    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-   "stars": 265992,
+   "stars": 266124,
    "lang": "JavaScript",
    "created": "2026-01-18T00:51:51Z",
    "pushed": "2026-09-22T23:09:59Z"
@@ -241,61 +241,61 @@ window.RADAR_TRENDING = {
    "name": "NousResearch/hermes-agent",
    "url": "https://github.com/NousResearch/hermes-agent",
    "desc": "The agent that grows with you",
-   "stars": 248317,
+   "stars": 248371,
    "lang": "Python",
    "created": "2025-07-22T22:22:28Z",
-   "pushed": "2026-09-23T16:20:08Z"
+   "pushed": "2026-09-23T21:10:40Z"
   },
   {
    "name": "Significant-Gravitas/AutoGPT",
    "url": "https://github.com/Significant-Gravitas/AutoGPT",
    "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-   "stars": 187512,
+   "stars": 187515,
    "lang": "Python",
    "created": "2023-03-16T09:21:07Z",
-   "pushed": "2026-09-23T16:19:13Z"
+   "pushed": "2026-09-23T20:53:55Z"
   },
   {
    "name": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
    "desc": "The web data API to search, scrape, and interact at scale. 🔥",
-   "stars": 183726,
+   "stars": 183823,
    "lang": "TypeScript",
    "created": "2024-04-15T21:02:29Z",
-   "pushed": "2026-09-23T15:51:25Z"
+   "pushed": "2026-09-23T20:14:06Z"
   },
   {
    "name": "ollama/ollama",
    "url": "https://github.com/ollama/ollama",
    "desc": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-   "stars": 181522,
+   "stars": 181528,
    "lang": "Go",
    "created": "2023-06-26T19:39:32Z",
-   "pushed": "2026-09-23T07:56:56Z"
+   "pushed": "2026-09-23T20:45:27Z"
   },
   {
    "name": "huggingface/transformers",
    "url": "https://github.com/huggingface/transformers",
    "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-   "stars": 166562,
+   "stars": 166570,
    "lang": "Python",
    "created": "2018-10-29T13:56:00Z",
-   "pushed": "2026-09-23T16:11:14Z"
+   "pushed": "2026-09-23T21:11:38Z"
   },
   {
    "name": "langgenius/dify",
    "url": "https://github.com/langgenius/dify",
    "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb",
-   "stars": 156977,
+   "stars": 156991,
    "lang": "TypeScript",
    "created": "2023-04-12T07:40:24Z",
-   "pushed": "2026-09-23T14:13:24Z"
+   "pushed": "2026-09-23T20:26:33Z"
   },
   {
    "name": "open-webui/open-webui",
    "url": "https://github.com/open-webui/open-webui",
    "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-   "stars": 152919,
+   "stars": 152932,
    "lang": "Python",
    "created": "2023-10-06T22:08:27Z",
    "pushed": "2026-09-23T13:47:04Z"
@@ -304,16 +304,16 @@ window.RADAR_TRENDING = {
    "name": "langchain-ai/langchain",
    "url": "https://github.com/langchain-ai/langchain",
    "desc": "The agent engineering platform.",
-   "stars": 146931,
+   "stars": 146939,
    "lang": "Python",
    "created": "2022-10-17T02:58:36Z",
-   "pushed": "2026-09-23T15:31:52Z"
+   "pushed": "2026-09-23T19:47:18Z"
   },
   {
    "name": "harry0703/MoneyPrinterTurbo",
    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
    "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-   "stars": 125314,
+   "stars": 125370,
    "lang": "Python",
    "created": "2024-03-11T02:57:34Z",
    "pushed": "2026-09-21T12:52:09Z"
@@ -322,16 +322,25 @@ window.RADAR_TRENDING = {
    "name": "Graphify-Labs/graphify",
    "url": "https://github.com/Graphify-Labs/graphify",
    "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
-   "stars": 120814,
+   "stars": 120882,
    "lang": "Python",
    "created": "2026-04-03T15:49:07Z",
-   "pushed": "2026-09-22T21:40:05Z"
+   "pushed": "2026-09-23T19:25:20Z"
+  },
+  {
+   "name": "TauricResearch/TradingAgents",
+   "url": "https://github.com/TauricResearch/TradingAgents",
+   "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+   "stars": 108306,
+   "lang": "Python",
+   "created": "2024-12-28T03:31:08Z",
+   "pushed": "2026-09-23T20:11:28Z"
   },
   {
    "name": "JuliusBrussee/caveman",
    "url": "https://github.com/JuliusBrussee/caveman",
    "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-   "stars": 107514,
+   "stars": 107545,
    "lang": "Go",
    "created": "2026-04-04T10:03:00Z",
    "pushed": "2026-09-23T07:28:08Z"
@@ -340,7 +349,7 @@ window.RADAR_TRENDING = {
    "name": "rasbt/LLMs-from-scratch",
    "url": "https://github.com/rasbt/LLMs-from-scratch",
    "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-   "stars": 105462,
+   "stars": 105465,
    "lang": "Jupyter Notebook",
    "created": "2023-07-23T18:15:57Z",
    "pushed": "2026-09-22T13:58:26Z"
@@ -349,25 +358,25 @@ window.RADAR_TRENDING = {
    "name": "vllm-project/vllm",
    "url": "https://github.com/vllm-project/vllm",
    "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-   "stars": 92527,
+   "stars": 92535,
    "lang": "Python",
    "created": "2023-02-09T11:23:20Z",
-   "pushed": "2026-09-23T16:16:31Z"
+   "pushed": "2026-09-23T21:02:33Z"
   },
   {
    "name": "OpenHands/OpenHands",
    "url": "https://github.com/OpenHands/OpenHands",
    "desc": "🙌 OpenHands: AI-Driven Development",
-   "stars": 88975,
+   "stars": 88991,
    "lang": "TypeScript",
    "created": "2024-03-13T03:33:31Z",
-   "pushed": "2026-09-23T16:11:30Z"
+   "pushed": "2026-09-23T20:49:36Z"
   },
   {
    "name": "bytedance/deer-flow",
    "url": "https://github.com/bytedance/deer-flow",
    "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
-   "stars": 82903,
+   "stars": 82907,
    "lang": "Python",
    "created": "2025-05-07T02:50:19Z",
    "pushed": "2026-09-23T15:26:40Z"
@@ -376,16 +385,16 @@ window.RADAR_TRENDING = {
    "name": "rtk-ai/rtk",
    "url": "https://github.com/rtk-ai/rtk",
    "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-   "stars": 81552,
+   "stars": 81578,
    "lang": "Rust",
    "created": "2026-01-22T16:54:16Z",
-   "pushed": "2026-09-21T15:06:25Z"
+   "pushed": "2026-09-23T20:15:39Z"
   },
   {
    "name": "datawhalechina/hello-agents",
    "url": "https://github.com/datawhalechina/hello-agents",
    "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-   "stars": 80633,
+   "stars": 80642,
    "lang": "Python",
    "created": "2025-09-07T09:50:24Z",
    "pushed": "2026-09-22T11:42:57Z"
@@ -394,25 +403,25 @@ window.RADAR_TRENDING = {
    "name": "unslothai/unsloth",
    "url": "https://github.com/unslothai/unsloth",
    "desc": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
-   "stars": 76631,
+   "stars": 76647,
    "lang": "Python",
    "created": "2023-11-29T16:50:09Z",
-   "pushed": "2026-09-23T16:00:29Z"
+   "pushed": "2026-09-23T21:10:34Z"
   },
   {
    "name": "headroomlabs-ai/headroom",
    "url": "https://github.com/headroomlabs-ai/headroom",
    "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-   "stars": 73613,
+   "stars": 73641,
    "lang": "Python",
    "created": "2026-01-07T19:58:51Z",
-   "pushed": "2026-09-23T13:46:15Z"
+   "pushed": "2026-09-23T21:14:07Z"
   },
   {
    "name": "asgeirtj/system_prompts_leaks",
    "url": "https://github.com/asgeirtj/system_prompts_leaks",
    "desc": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro",
-   "stars": 68146,
+   "stars": 68156,
    "lang": "JavaScript",
    "created": "2025-05-03T02:43:56Z",
    "pushed": "2026-09-22T20:10:09Z"
@@ -421,7 +430,7 @@ window.RADAR_TRENDING = {
    "name": "Mintplex-Labs/anything-llm",
    "url": "https://github.com/Mintplex-Labs/anything-llm",
    "desc": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
-   "stars": 66367,
+   "stars": 66374,
    "lang": "JavaScript",
    "created": "2023-06-04T02:29:14Z",
    "pushed": "2026-09-22T19:06:03Z"
@@ -430,28 +439,19 @@ window.RADAR_TRENDING = {
    "name": "mem0ai/mem0",
    "url": "https://github.com/mem0ai/mem0",
    "desc": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
-   "stars": 65889,
+   "stars": 65901,
    "lang": "Python",
    "created": "2023-06-20T08:58:36Z",
-   "pushed": "2026-09-23T14:23:49Z"
+   "pushed": "2026-09-23T19:13:42Z"
   },
   {
    "name": "upstash/context7",
    "url": "https://github.com/upstash/context7",
    "desc": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
-   "stars": 62359,
+   "stars": 62367,
    "lang": "TypeScript",
    "created": "2025-03-26T23:40:39Z",
    "pushed": "2026-09-23T14:10:55Z"
-  },
-  {
-   "name": "BerriAI/litellm",
-   "url": "https://github.com/BerriAI/litellm",
-   "desc": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi",
-   "stars": 59480,
-   "lang": "Python",
-   "created": "2023-07-27T00:09:52Z",
-   "pushed": "2026-09-23T16:15:32Z"
   }
  ]
 };
