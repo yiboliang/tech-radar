@@ -1,173 +1,92 @@
 window.RADAR_TRENDING = {
- "updated": "2026-10-14T23:45:00.433088+00:00",
+ "updated": "2026-10-15T03:42:40.758194+00:00",
  "new_stars": [
-  {
-   "name": "wheresryan22/anatomy",
-   "url": "https://github.com/wheresryan22/anatomy",
-   "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-   "stars": 9976,
-   "lang": "JavaScript",
-   "created": "2026-10-08T10:12:49Z",
-   "pushed": "2026-10-14T22:24:32Z"
-  },
-  {
-   "name": "mhtsec/ARTEX",
-   "url": "https://github.com/mhtsec/ARTEX",
-   "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-   "stars": 4074,
-   "lang": "Go",
-   "created": "2026-10-08T05:33:06Z",
-   "pushed": "2026-10-10T09:16:20Z"
-  },
-  {
-   "name": "ARahim3/DigUp",
-   "url": "https://github.com/ARahim3/DigUp",
-   "desc": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
-   "stars": 3619,
-   "lang": "Swift",
-   "created": "2026-10-08T20:37:51Z",
-   "pushed": "2026-10-14T18:25:46Z"
-  },
-  {
-   "name": "t4t5/omdrop-owl",
-   "url": "https://github.com/t4t5/omdrop-owl",
-   "desc": "airdrop for non-apple devices",
-   "stars": 2678,
-   "lang": "Shell",
-   "created": "2026-10-08T06:38:33Z",
-   "pushed": "2026-10-14T15:25:32Z"
-  },
   {
    "name": "storytold/craft-launcher",
    "url": "https://github.com/storytold/craft-launcher",
    "desc": "The Craft App Launcher",
-   "stars": 2645,
+   "stars": 2682,
    "lang": "Rust",
    "created": "2026-10-09T23:21:59Z",
-   "pushed": "2026-10-14T05:40:50Z"
-  },
-  {
-   "name": "liseami/CCBaga",
-   "url": "https://github.com/liseami/CCBaga",
-   "desc": "",
-   "stars": 2247,
-   "lang": "Rust",
-   "created": "2026-10-11T03:47:06Z",
-   "pushed": "2026-10-14T11:26:23Z"
+   "pushed": "2026-10-15T03:40:31Z"
   },
   {
    "name": "jhaizhou-ops/d2r-mobile",
    "url": "https://github.com/jhaizhou-ops/d2r-mobile",
    "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
-   "stars": 2092,
+   "stars": 2302,
    "lang": "C",
    "created": "2026-10-12T08:41:19Z",
    "pushed": "2026-10-14T20:32:46Z"
   },
   {
+   "name": "liseami/CCBaga",
+   "url": "https://github.com/liseami/CCBaga",
+   "desc": "",
+   "stars": 2268,
+   "lang": "Rust",
+   "created": "2026-10-11T03:47:06Z",
+   "pushed": "2026-10-14T11:26:23Z"
+  },
+  {
    "name": "onehumanbeing/esp32-iphone-agent",
    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
    "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-   "stars": 2069,
-   "lang": "Python",
+   "stars": 2136,
+   "lang": "C",
    "created": "2026-10-11T19:10:25Z",
-   "pushed": "2026-10-14T20:51:31Z"
-  },
-  {
-   "name": "noahdunnagan/fsearch",
-   "url": "https://github.com/noahdunnagan/fsearch",
-   "desc": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
-   "stars": 2052,
-   "lang": "Rust",
-   "created": "2026-10-08T17:50:33Z",
-   "pushed": "2026-10-12T18:33:47Z"
-  },
-  {
-   "name": "T-Auto/dsh-ops",
-   "url": "https://github.com/T-Auto/dsh-ops",
-   "desc": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
-   "stars": 1541,
-   "lang": "JavaScript",
-   "created": "2026-10-08T07:09:25Z",
-   "pushed": "2026-10-14T15:04:32Z"
-  },
-  {
-   "name": "NVIDIA-Omniverse/usd-brep",
-   "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
-   "desc": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
-   "stars": 1392,
-   "lang": "C++",
-   "created": "2026-10-08T17:27:36Z",
-   "pushed": "2026-10-09T03:01:23Z"
+   "pushed": "2026-10-15T03:31:58Z"
   },
   {
    "name": "Arekejoker/qwen21-nsfw-pose-skill",
    "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
    "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-   "stars": 1244,
+   "stars": 1342,
    "lang": "Python",
    "created": "2026-10-13T03:09:42Z",
    "pushed": "2026-10-14T09:03:56Z"
   },
   {
-   "name": "trhhubsd/ARTEXX",
-   "url": "https://github.com/trhhubsd/ARTEXX",
-   "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
-   "stars": 1200,
-   "lang": "Go",
-   "created": "2026-10-08T20:35:22Z",
-   "pushed": "2026-10-09T12:43:45Z"
-  },
-  {
    "name": "shaongitbd/doory",
    "url": "https://github.com/shaongitbd/doory",
    "desc": "Open source canva alternative",
-   "stars": 1195,
+   "stars": 1212,
    "lang": "TypeScript",
    "created": "2026-10-10T00:03:25Z",
    "pushed": "2026-10-14T22:21:13Z"
   },
   {
-   "name": "wesbos/photo-frame-dashboard",
-   "url": "https://github.com/wesbos/photo-frame-dashboard",
-   "desc": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-   "stars": 1150,
-   "lang": "Python",
-   "created": "2026-10-08T18:22:19Z",
-   "pushed": "2026-10-14T12:21:51Z"
-  },
-  {
    "name": "opengeos/RustGIS",
    "url": "https://github.com/opengeos/RustGIS",
    "desc": "A fast, free and open-source GIS in pure Rust.",
-   "stars": 1048,
+   "stars": 1081,
    "lang": "Rust",
    "created": "2026-10-10T18:45:41Z",
-   "pushed": "2026-10-14T23:09:11Z"
-  },
-  {
-   "name": "anthropics/oss-scanner",
-   "url": "https://github.com/anthropics/oss-scanner",
-   "desc": "",
-   "stars": 1009,
-   "lang": "Dockerfile",
-   "created": "2026-10-08T17:25:19Z",
-   "pushed": "2026-10-14T23:08:30Z"
+   "pushed": "2026-10-15T03:40:13Z"
   },
   {
    "name": "rociiu/talorys",
    "url": "https://github.com/rociiu/talorys",
    "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no tel",
-   "stars": 998,
+   "stars": 1004,
    "lang": "TypeScript",
    "created": "2026-10-10T09:46:56Z",
-   "pushed": "2026-10-14T06:47:05Z"
+   "pushed": "2026-10-15T00:47:32Z"
+  },
+  {
+   "name": "storytold/figcraft",
+   "url": "https://github.com/storytold/figcraft",
+   "desc": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+   "stars": 999,
+   "lang": "Rust",
+   "created": "2026-10-09T16:02:13Z",
+   "pushed": "2026-10-15T03:15:58Z"
   },
   {
    "name": "zhuyansen/new-term-radar",
    "url": "https://github.com/zhuyansen/new-term-radar",
    "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-   "stars": 951,
+   "stars": 970,
    "lang": "Python",
    "created": "2026-10-12T07:11:01Z",
    "pushed": "2026-10-14T14:31:39Z"
@@ -176,37 +95,10 @@ window.RADAR_TRENDING = {
    "name": "marclou/mailcheap",
    "url": "https://github.com/marclou/mailcheap",
    "desc": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
-   "stars": 929,
+   "stars": 933,
    "lang": "JavaScript",
    "created": "2026-10-10T12:55:36Z",
-   "pushed": "2026-10-14T19:21:49Z"
-  },
-  {
-   "name": "storytold/figcraft",
-   "url": "https://github.com/storytold/figcraft",
-   "desc": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
-   "stars": 896,
-   "lang": "Rust",
-   "created": "2026-10-09T16:02:13Z",
-   "pushed": "2026-10-14T19:10:08Z"
-  },
-  {
-   "name": "snuri00/ps2-web-recomp",
-   "url": "https://github.com/snuri00/ps2-web-recomp",
-   "desc": "PS2 games in the browser: static recompilation to WebAssembly with a native runtime",
-   "stars": 854,
-   "lang": "C++",
-   "created": "2026-10-08T07:06:56Z",
-   "pushed": "2026-10-14T12:29:58Z"
-  },
-  {
-   "name": "ToiCF/CF-Workers-TGProxy",
-   "url": "https://github.com/ToiCF/CF-Workers-TGProxy",
-   "desc": "基于 Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继，支持 bridge 鉴权、bootstrap/session 令牌、多 lane WS 复用、AES-CTR 加密、自定义帧、流控与严格 CSP。",
-   "stars": 825,
-   "lang": "",
-   "created": "2026-10-08T16:38:51Z",
-   "pushed": "2026-10-11T05:21:14Z"
+   "pushed": "2026-10-15T03:39:17Z"
   },
   {
    "name": "jwuthri-cloud/Tracely-ai",
@@ -218,111 +110,210 @@ window.RADAR_TRENDING = {
    "pushed": "2026-10-12T19:53:54Z"
   },
   {
-   "name": "ThariqS/ai-newtab",
-   "url": "https://github.com/ThariqS/ai-newtab",
-   "desc": "Claude generates a daily new tab page based on your browser history.",
-   "stars": 796,
+   "name": "HeyPuter/everything",
+   "url": "https://github.com/HeyPuter/everything",
+   "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
+   "stars": 790,
+   "lang": "JavaScript",
+   "created": "2026-10-13T16:18:22Z",
+   "pushed": "2026-10-15T03:30:12Z"
+  },
+  {
+   "name": "YeonwooSung/my-claude-code-mods",
+   "url": "https://github.com/YeonwooSung/my-claude-code-mods",
+   "desc": "Custom Claude Code Mods that I need",
+   "stars": 779,
    "lang": "TypeScript",
-   "created": "2026-10-08T17:44:43Z",
-   "pushed": "2026-10-10T04:20:03Z"
+   "created": "2026-10-09T13:09:11Z",
+   "pushed": "2026-10-14T09:52:58Z"
+  },
+  {
+   "name": "CoolkHz/gptibo",
+   "url": "https://github.com/CoolkHz/gptibo",
+   "desc": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+   "stars": 766,
+   "lang": "TypeScript",
+   "created": "2026-10-13T15:57:19Z",
+   "pushed": "2026-10-14T02:40:46Z"
+  },
+  {
+   "name": "h0m3us3r/w1700k-sdr",
+   "url": "https://github.com/h0m3us3r/w1700k-sdr",
+   "desc": "",
+   "stars": 755,
+   "lang": "C",
+   "created": "2026-10-11T23:21:22Z",
+   "pushed": "2026-10-13T03:25:43Z"
+  },
+  {
+   "name": "n1tr00-10/tiktok-web-signature",
+   "url": "https://github.com/n1tr00-10/tiktok-web-signature",
+   "desc": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+   "stars": 710,
+   "lang": "Python",
+   "created": "2026-10-09T19:30:14Z",
+   "pushed": "2026-10-09T20:00:33Z"
+  },
+  {
+   "name": "deeplethe/solid-glass",
+   "url": "https://github.com/deeplethe/solid-glass",
+   "desc": "A design system for AI applications. Material, physical, tactile, technical.",
+   "stars": 707,
+   "lang": "TypeScript",
+   "created": "2026-10-12T09:19:02Z",
+   "pushed": "2026-10-14T14:01:43Z"
+  },
+  {
+   "name": "outcrawlai/scout",
+   "url": "https://github.com/outcrawlai/scout",
+   "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+   "stars": 679,
+   "lang": "TypeScript",
+   "created": "2026-10-13T09:18:55Z",
+   "pushed": "2026-10-15T00:44:38Z"
+  },
+  {
+   "name": "SubmitGame/awesome-decomp-games",
+   "url": "https://github.com/SubmitGame/awesome-decomp-games",
+   "desc": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
+   "stars": 670,
+   "lang": "Python",
+   "created": "2026-10-09T15:15:18Z",
+   "pushed": "2026-10-14T23:27:56Z"
+  },
+  {
+   "name": "zeusinsight/FinderSearch",
+   "url": "https://github.com/zeusinsight/FinderSearch",
+   "desc": "A native macOS file browser with fast fuzzy filename search, powered by fsearch.",
+   "stars": 662,
+   "lang": "Swift",
+   "created": "2026-10-09T08:01:38Z",
+   "pushed": "2026-10-13T07:25:57Z"
+  },
+  {
+   "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
+   "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
+   "desc": "Introduction to Semiconductor Manufacturing",
+   "stars": 643,
+   "lang": "Python",
+   "created": "2026-10-11T02:01:01Z",
+   "pushed": "2026-10-11T11:41:56Z"
+  },
+  {
+   "name": "c22dev/muguet",
+   "url": "https://github.com/c22dev/muguet",
+   "desc": "A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
+   "stars": 602,
+   "lang": "Rust",
+   "created": "2026-10-10T08:45:02Z",
+   "pushed": "2026-10-14T17:47:06Z"
+  },
+  {
+   "name": "nateherkai/roast-room",
+   "url": "https://github.com/nateherkai/roast-room",
+   "desc": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+   "stars": 541,
+   "lang": "JavaScript",
+   "created": "2026-10-10T20:38:58Z",
+   "pushed": "2026-10-13T02:59:59Z"
+  },
+  {
+   "name": "npwitk/Macintosh-Skeletal-Filled",
+   "url": "https://github.com/npwitk/Macintosh-Skeletal-Filled",
+   "desc": "helllllllllloooo font! Turns out it's called Macintosh Skeleton",
+   "stars": 521,
+   "lang": "",
+   "created": "2026-10-10T12:29:10Z",
+   "pushed": "2026-10-14T04:34:12Z"
   }
  ],
  "ai_active": [
   {
-   "name": "affaan-m/ECC",
-   "url": "https://github.com/affaan-m/ECC",
-   "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-   "stars": 279461,
-   "lang": "JavaScript",
-   "created": "2026-01-18T00:51:51Z",
-   "pushed": "2026-10-12T14:45:46Z"
-  },
-  {
    "name": "NousResearch/hermes-agent",
    "url": "https://github.com/NousResearch/hermes-agent",
    "desc": "The agent that grows with you",
-   "stars": 253793,
+   "stars": 253850,
    "lang": "Python",
    "created": "2025-07-22T22:22:28Z",
-   "pushed": "2026-10-14T23:29:40Z"
+   "pushed": "2026-10-15T03:13:42Z"
   },
   {
    "name": "morluto/rea",
    "url": "https://github.com/morluto/rea",
    "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-   "stars": 240875,
+   "stars": 246980,
    "lang": "TypeScript",
    "created": "2026-04-14T00:51:32Z",
-   "pushed": "2026-10-14T23:36:37Z"
+   "pushed": "2026-10-15T03:38:20Z"
   },
   {
    "name": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
    "desc": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-   "stars": 191576,
+   "stars": 191620,
    "lang": "TypeScript",
    "created": "2024-04-15T21:02:29Z",
-   "pushed": "2026-10-14T23:39:17Z"
+   "pushed": "2026-10-15T02:47:25Z"
   },
   {
    "name": "Significant-Gravitas/AutoGPT",
    "url": "https://github.com/Significant-Gravitas/AutoGPT",
    "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-   "stars": 187578,
+   "stars": 187581,
    "lang": "Python",
    "created": "2023-03-16T09:21:07Z",
-   "pushed": "2026-10-14T22:38:47Z"
+   "pushed": "2026-10-15T03:32:17Z"
   },
   {
    "name": "ollama/ollama",
    "url": "https://github.com/ollama/ollama",
    "desc": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-   "stars": 183179,
+   "stars": 183193,
    "lang": "Go",
    "created": "2023-06-26T19:39:32Z",
-   "pushed": "2026-10-14T23:42:49Z"
+   "pushed": "2026-10-15T03:38:10Z"
   },
   {
    "name": "f/prompts.chat",
    "url": "https://github.com/f/prompts.chat",
    "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-   "stars": 172996,
+   "stars": 173015,
    "lang": "HTML",
    "created": "2022-12-05T13:54:13Z",
-   "pushed": "2026-10-14T08:58:33Z"
+   "pushed": "2026-10-15T03:18:07Z"
   },
   {
    "name": "huggingface/transformers",
    "url": "https://github.com/huggingface/transformers",
    "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-   "stars": 167692,
+   "stars": 167701,
    "lang": "Python",
    "created": "2018-10-29T13:56:00Z",
-   "pushed": "2026-10-14T23:40:38Z"
+   "pushed": "2026-10-15T02:36:50Z"
   },
   {
    "name": "DietrichGebert/ponytail",
    "url": "https://github.com/DietrichGebert/ponytail",
    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-   "stars": 163598,
+   "stars": 163717,
    "lang": "JavaScript",
    "created": "2026-06-12T00:52:37Z",
-   "pushed": "2026-10-13T01:46:28Z"
+   "pushed": "2026-10-15T01:02:15Z"
   },
   {
    "name": "langgenius/dify",
    "url": "https://github.com/langgenius/dify",
    "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb",
-   "stars": 158487,
+   "stars": 158503,
    "lang": "TypeScript",
    "created": "2023-04-12T07:40:24Z",
-   "pushed": "2026-10-14T23:41:28Z"
+   "pushed": "2026-10-15T03:38:08Z"
   },
   {
    "name": "open-webui/open-webui",
    "url": "https://github.com/open-webui/open-webui",
    "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-   "stars": 155700,
+   "stars": 155710,
    "lang": "Python",
    "created": "2023-10-06T22:08:27Z",
    "pushed": "2026-10-14T22:19:52Z"
@@ -331,7 +322,7 @@ window.RADAR_TRENDING = {
    "name": "langchain-ai/langchain",
    "url": "https://github.com/langchain-ai/langchain",
    "desc": "The agent engineering platform.",
-   "stars": 147833,
+   "stars": 147841,
    "lang": "Python",
    "created": "2022-10-17T02:58:36Z",
    "pushed": "2026-10-14T17:28:05Z"
@@ -340,25 +331,34 @@ window.RADAR_TRENDING = {
    "name": "harry0703/MoneyPrinterTurbo",
    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
    "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-   "stars": 130932,
+   "stars": 130979,
    "lang": "Python",
    "created": "2024-03-11T02:57:34Z",
-   "pushed": "2026-10-14T05:44:58Z"
+   "pushed": "2026-10-15T03:06:12Z"
   },
   {
    "name": "Graphify-Labs/graphify",
    "url": "https://github.com/Graphify-Labs/graphify",
    "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
-   "stars": 126535,
+   "stars": 126593,
    "lang": "Python",
    "created": "2026-04-03T15:49:07Z",
    "pushed": "2026-10-14T22:17:45Z"
   },
   {
+   "name": "browser-use/browser-use",
+   "url": "https://github.com/browser-use/browser-use",
+   "desc": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+   "stars": 118007,
+   "lang": "Python",
+   "created": "2024-10-31T16:00:56Z",
+   "pushed": "2026-10-15T01:38:16Z"
+  },
+  {
    "name": "JuliusBrussee/caveman",
    "url": "https://github.com/JuliusBrussee/caveman",
    "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-   "stars": 111896,
+   "stars": 111946,
    "lang": "Go",
    "created": "2026-04-04T10:03:00Z",
    "pushed": "2026-10-14T19:07:19Z"
@@ -367,52 +367,52 @@ window.RADAR_TRENDING = {
    "name": "paperclipai/paperclip",
    "url": "https://github.com/paperclipai/paperclip",
    "desc": "The open-source app everyone uses to manage agents at work",
-   "stars": 102152,
+   "stars": 102229,
    "lang": "TypeScript",
    "created": "2026-03-02T15:01:51Z",
-   "pushed": "2026-10-14T23:36:12Z"
+   "pushed": "2026-10-15T03:40:09Z"
   },
   {
    "name": "vllm-project/vllm",
    "url": "https://github.com/vllm-project/vllm",
    "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-   "stars": 93799,
+   "stars": 93808,
    "lang": "Python",
    "created": "2023-02-09T11:23:20Z",
-   "pushed": "2026-10-14T23:30:12Z"
+   "pushed": "2026-10-15T03:22:53Z"
   },
   {
    "name": "OpenHands/OpenHands",
    "url": "https://github.com/OpenHands/OpenHands",
    "desc": "🙌 OpenHands: AI-Driven Development",
-   "stars": 90916,
+   "stars": 90928,
    "lang": "TypeScript",
    "created": "2024-03-13T03:33:31Z",
-   "pushed": "2026-10-14T23:36:24Z"
+   "pushed": "2026-10-15T02:46:04Z"
   },
   {
    "name": "unclecode/crawl4ai",
    "url": "https://github.com/unclecode/crawl4ai",
    "desc": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.",
-   "stars": 85548,
+   "stars": 85560,
    "lang": "Python",
    "created": "2024-05-09T09:48:50Z",
-   "pushed": "2026-10-14T10:33:08Z"
+   "pushed": "2026-10-15T02:21:39Z"
   },
   {
    "name": "bytedance/deer-flow",
    "url": "https://github.com/bytedance/deer-flow",
    "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
-   "stars": 83867,
+   "stars": 83875,
    "lang": "Python",
    "created": "2025-05-07T02:50:19Z",
-   "pushed": "2026-10-14T15:05:55Z"
+   "pushed": "2026-10-15T03:37:59Z"
   },
   {
    "name": "tt-a1i/archify",
    "url": "https://github.com/tt-a1i/archify",
    "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-   "stars": 83505,
+   "stars": 83635,
    "lang": "JavaScript",
    "created": "2026-04-15T05:27:37Z",
    "pushed": "2026-10-14T16:11:23Z"
@@ -421,16 +421,16 @@ window.RADAR_TRENDING = {
    "name": "rtk-ai/rtk",
    "url": "https://github.com/rtk-ai/rtk",
    "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-   "stars": 83376,
+   "stars": 83393,
    "lang": "Rust",
    "created": "2026-01-22T16:54:16Z",
-   "pushed": "2026-10-14T23:45:00Z"
+   "pushed": "2026-10-15T01:04:48Z"
   },
   {
    "name": "datawhalechina/hello-agents",
    "url": "https://github.com/datawhalechina/hello-agents",
    "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-   "stars": 83121,
+   "stars": 83151,
    "lang": "Python",
    "created": "2025-09-07T09:50:24Z",
    "pushed": "2026-10-13T22:28:54Z"
@@ -439,16 +439,16 @@ window.RADAR_TRENDING = {
    "name": "unslothai/unsloth",
    "url": "https://github.com/unslothai/unsloth",
    "desc": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
-   "stars": 78007,
+   "stars": 78017,
    "lang": "Python",
    "created": "2023-11-29T16:50:09Z",
-   "pushed": "2026-10-14T23:44:18Z"
+   "pushed": "2026-10-15T03:39:54Z"
   },
   {
    "name": "headroomlabs-ai/headroom",
    "url": "https://github.com/headroomlabs-ai/headroom",
    "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-   "stars": 75371,
+   "stars": 75382,
    "lang": "Python",
    "created": "2026-01-07T19:58:51Z",
    "pushed": "2026-10-14T22:46:08Z"
