@@ -1,38 +1,38 @@
 window.RADAR_TRENDING = {
- "updated": "2026-10-24T10:29:51.169957+00:00",
+ "updated": "2026-10-24T15:33:53.326959+00:00",
  "new_stars": [
   {
    "name": "pengchujin/aerial-tv",
    "url": "https://github.com/pengchujin/aerial-tv",
    "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-   "stars": 4117,
+   "stars": 4274,
    "lang": "Kotlin",
    "created": "2026-10-20T09:13:06Z",
-   "pushed": "2026-10-24T06:03:21Z"
+   "pushed": "2026-10-24T13:06:33Z"
   },
   {
    "name": "simbasjungles/free-my-tv",
    "url": "https://github.com/simbasjungles/free-my-tv",
    "desc": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-   "stars": 4070,
+   "stars": 4153,
    "lang": "Java",
    "created": "2026-10-19T19:29:01Z",
-   "pushed": "2026-10-24T01:20:17Z"
+   "pushed": "2026-10-24T13:17:19Z"
   },
   {
    "name": "xiaoyang111222/cn-math-taxonomy",
    "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
    "desc": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
-   "stars": 2981,
+   "stars": 3107,
    "lang": "Python",
    "created": "2026-10-18T09:04:43Z",
-   "pushed": "2026-10-24T08:33:07Z"
+   "pushed": "2026-10-24T12:32:48Z"
   },
   {
    "name": "JoasASantos/REA-Prompts",
    "url": "https://github.com/JoasASantos/REA-Prompts",
    "desc": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
-   "stars": 1856,
+   "stars": 1943,
    "lang": "",
    "created": "2026-10-19T22:20:47Z",
    "pushed": "2026-10-21T00:32:22Z"
@@ -41,16 +41,25 @@ window.RADAR_TRENDING = {
    "name": "EthanArbuckle/fairplay-decrypt",
    "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
    "desc": "Offline FairPlay App Store IPA decryption with independent key derivation",
-   "stars": 1785,
+   "stars": 1876,
    "lang": "C",
    "created": "2026-10-19T10:07:58Z",
    "pushed": "2026-10-23T10:58:42Z"
   },
   {
+   "name": "Zagitta/gpu-unlock",
+   "url": "https://github.com/Zagitta/gpu-unlock",
+   "desc": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
+   "stars": 1746,
+   "lang": "C",
+   "created": "2026-10-18T01:28:31Z",
+   "pushed": "2026-10-24T00:41:18Z"
+  },
+  {
    "name": "ikow/php2shell-poc",
    "url": "https://github.com/ikow/php2shell-poc",
    "desc": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-   "stars": 1723,
+   "stars": 1740,
    "lang": "Python",
    "created": "2026-10-21T07:55:16Z",
    "pushed": "2026-10-22T22:41:36Z"
@@ -59,70 +68,70 @@ window.RADAR_TRENDING = {
    "name": "alchaincyf/huashu-motion",
    "url": "https://github.com/alchaincyf/huashu-motion",
    "desc": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
-   "stars": 1566,
+   "stars": 1582,
    "lang": "JavaScript",
    "created": "2026-10-18T12:19:27Z",
    "pushed": "2026-10-22T12:19:37Z"
   },
   {
-   "name": "humblemuzzu/dumbtv",
-   "url": "https://github.com/humblemuzzu/dumbtv",
-   "desc": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
-   "stars": 1420,
-   "lang": "Java",
-   "created": "2026-10-18T17:04:12Z",
-   "pushed": "2026-10-22T22:15:22Z"
-  },
-  {
-   "name": "Ansub/tv-detox",
-   "url": "https://github.com/Ansub/tv-detox",
-   "desc": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
-   "stars": 1417,
-   "lang": "Java",
-   "created": "2026-10-18T06:42:29Z",
-   "pushed": "2026-10-24T07:07:45Z"
-  },
-  {
-   "name": "9bie/php2shell-bypass-aslr-exp",
-   "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-   "desc": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-   "stars": 1367,
-   "lang": "Python",
-   "created": "2026-10-21T11:11:57Z",
-   "pushed": "2026-10-23T20:40:43Z"
+   "name": "xevrion/hatchzip",
+   "url": "https://github.com/xevrion/hatchzip",
+   "desc": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
+   "stars": 1492,
+   "lang": "Rust",
+   "created": "2026-10-21T17:29:28Z",
+   "pushed": "2026-10-24T15:06:44Z"
   },
   {
    "name": "wesbos/3d-model-anything",
    "url": "https://github.com/wesbos/3d-model-anything",
    "desc": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
-   "stars": 1345,
+   "stars": 1484,
    "lang": "Swift",
    "created": "2026-10-21T19:38:50Z",
    "pushed": "2026-10-22T13:10:22Z"
   },
   {
+   "name": "Ansub/tv-detox",
+   "url": "https://github.com/Ansub/tv-detox",
+   "desc": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+   "stars": 1445,
+   "lang": "Java",
+   "created": "2026-10-18T06:42:29Z",
+   "pushed": "2026-10-24T07:07:45Z"
+  },
+  {
+   "name": "humblemuzzu/dumbtv",
+   "url": "https://github.com/humblemuzzu/dumbtv",
+   "desc": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+   "stars": 1438,
+   "lang": "Java",
+   "created": "2026-10-18T17:04:12Z",
+   "pushed": "2026-10-22T22:15:22Z"
+  },
+  {
+   "name": "9bie/php2shell-bypass-aslr-exp",
+   "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+   "desc": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+   "stars": 1389,
+   "lang": "Python",
+   "created": "2026-10-21T11:11:57Z",
+   "pushed": "2026-10-23T20:40:43Z"
+  },
+  {
    "name": "openai/php2shell-checker",
    "url": "https://github.com/openai/php2shell-checker",
    "desc": "",
-   "stars": 1336,
+   "stars": 1367,
    "lang": "JavaScript",
    "created": "2026-10-21T00:29:12Z",
    "pushed": "2026-10-22T22:55:16Z"
   },
   {
-   "name": "xevrion/hatchzip",
-   "url": "https://github.com/xevrion/hatchzip",
-   "desc": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
-   "stars": 1306,
-   "lang": "Rust",
-   "created": "2026-10-21T17:29:28Z",
-   "pushed": "2026-10-23T14:28:39Z"
-  },
-  {
    "name": "oosexgang/hackios-xnu-kernel",
    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
    "desc": "",
-   "stars": 1197,
+   "stars": 1231,
    "lang": "C",
    "created": "2026-10-22T06:20:11Z",
    "pushed": "2026-10-23T14:25:04Z"
@@ -131,25 +140,25 @@ window.RADAR_TRENDING = {
    "name": "colinhacks/reylo",
    "url": "https://github.com/colinhacks/reylo",
    "desc": "Import .sql files into TypeScript with full type inference and zero codegen.",
-   "stars": 1134,
+   "stars": 1171,
    "lang": "Rust",
    "created": "2026-10-21T00:16:54Z",
    "pushed": "2026-10-24T04:54:52Z"
   },
   {
-   "name": "Zagitta/gpu-unlock",
-   "url": "https://github.com/Zagitta/gpu-unlock",
-   "desc": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
-   "stars": 1031,
-   "lang": "C",
-   "created": "2026-10-18T01:28:31Z",
-   "pushed": "2026-10-24T00:41:18Z"
+   "name": "Jakeschincariol/day-trader-skill",
+   "url": "https://github.com/Jakeschincariol/day-trader-skill",
+   "desc": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+   "stars": 983,
+   "lang": "Python",
+   "created": "2026-10-20T14:17:54Z",
+   "pushed": "2026-10-20T14:18:00Z"
   },
   {
    "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
    "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
    "desc": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes onl",
-   "stars": 977,
+   "stars": 981,
    "lang": "Shell",
    "created": "2026-10-21T08:31:43Z",
    "pushed": "2026-10-22T07:19:20Z"
@@ -158,7 +167,7 @@ window.RADAR_TRENDING = {
    "name": "eagle-hq/EAGLE-4",
    "url": "https://github.com/eagle-hq/EAGLE-4",
    "desc": "Official Inference Code of EAGLE-4",
-   "stars": 958,
+   "stars": 961,
    "lang": "Python",
    "created": "2026-10-20T14:03:04Z",
    "pushed": "2026-10-24T08:34:16Z"
@@ -167,34 +176,25 @@ window.RADAR_TRENDING = {
    "name": "ELY-Open-Source/ElyOffice",
    "url": "https://github.com/ELY-Open-Source/ElyOffice",
    "desc": "Ely Office: offline-first desktop apps in Rust and GPUI",
-   "stars": 953,
+   "stars": 960,
    "lang": "Rust",
    "created": "2026-10-19T23:04:42Z",
    "pushed": "2026-10-23T14:58:55Z"
   },
   {
-   "name": "Jakeschincariol/day-trader-skill",
-   "url": "https://github.com/Jakeschincariol/day-trader-skill",
-   "desc": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-   "stars": 934,
-   "lang": "Python",
-   "created": "2026-10-20T14:17:54Z",
-   "pushed": "2026-10-20T14:18:00Z"
-  },
-  {
    "name": "UniXNU/UniXNU",
    "url": "https://github.com/UniXNU/UniXNU",
    "desc": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
-   "stars": 876,
+   "stars": 881,
    "lang": "Python",
    "created": "2026-10-19T10:46:55Z",
-   "pushed": "2026-10-23T15:29:35Z"
+   "pushed": "2026-10-24T11:48:52Z"
   },
   {
    "name": "Snapintosh/Snapintosh",
    "url": "https://github.com/Snapintosh/Snapintosh",
    "desc": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-   "stars": 814,
+   "stars": 852,
    "lang": "Python",
    "created": "2026-10-22T01:40:05Z",
    "pushed": "2026-10-23T08:23:24Z"
@@ -203,7 +203,7 @@ window.RADAR_TRENDING = {
    "name": "stackedlol/ascii-sharks",
    "url": "https://github.com/stackedlol/ascii-sharks",
    "desc": "ascii shark components in typescript",
-   "stars": 802,
+   "stars": 804,
    "lang": "TypeScript",
    "created": "2026-10-19T21:54:19Z",
    "pushed": "2026-10-19T21:58:25Z"
@@ -212,7 +212,7 @@ window.RADAR_TRENDING = {
    "name": "Hugo-Dz/spritefusion-sprite-normals",
    "url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
    "desc": "A tool to generate normal maps from any sprite and animated sprite sheet.",
-   "stars": 651,
+   "stars": 656,
    "lang": "Rust",
    "created": "2026-10-19T13:26:45Z",
    "pushed": "2026-10-20T10:31:00Z"
@@ -221,10 +221,10 @@ window.RADAR_TRENDING = {
    "name": "NVIDIA/flare-local-inference",
    "url": "https://github.com/NVIDIA/flare-local-inference",
    "desc": "",
-   "stars": 631,
+   "stars": 638,
    "lang": "Python",
    "created": "2026-10-20T17:09:40Z",
-   "pushed": "2026-10-24T02:05:45Z"
+   "pushed": "2026-10-24T14:30:10Z"
   }
  ],
  "ai_active": [
@@ -232,43 +232,43 @@ window.RADAR_TRENDING = {
    "name": "morluto/rea",
    "url": "https://github.com/morluto/rea",
    "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-   "stars": 375308,
+   "stars": 376711,
    "lang": "TypeScript",
    "created": "2026-04-14T00:51:32Z",
-   "pushed": "2026-10-24T10:19:49Z"
+   "pushed": "2026-10-24T15:33:18Z"
   },
   {
    "name": "NousResearch/hermes-agent",
    "url": "https://github.com/NousResearch/hermes-agent",
    "desc": "The agent that grows with you",
-   "stars": 256646,
+   "stars": 256720,
    "lang": "Python",
    "created": "2025-07-22T22:22:28Z",
-   "pushed": "2026-10-24T09:17:35Z"
+   "pushed": "2026-10-24T14:34:13Z"
   },
   {
    "name": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
    "desc": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-   "stars": 194789,
+   "stars": 194875,
    "lang": "TypeScript",
    "created": "2024-04-15T21:02:29Z",
-   "pushed": "2026-10-24T00:43:34Z"
+   "pushed": "2026-10-24T13:53:08Z"
   },
   {
    "name": "Significant-Gravitas/AutoGPT",
    "url": "https://github.com/Significant-Gravitas/AutoGPT",
    "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-   "stars": 187724,
+   "stars": 187729,
    "lang": "Python",
    "created": "2023-03-16T09:21:07Z",
-   "pushed": "2026-10-24T10:27:21Z"
+   "pushed": "2026-10-24T15:29:46Z"
   },
   {
    "name": "ollama/ollama",
    "url": "https://github.com/ollama/ollama",
    "desc": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-   "stars": 184589,
+   "stars": 184624,
    "lang": "Go",
    "created": "2023-06-26T19:39:32Z",
    "pushed": "2026-10-23T23:17:57Z"
@@ -277,34 +277,34 @@ window.RADAR_TRENDING = {
    "name": "f/prompts.chat",
    "url": "https://github.com/f/prompts.chat",
    "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-   "stars": 174324,
+   "stars": 174357,
    "lang": "HTML",
    "created": "2022-12-05T13:54:13Z",
-   "pushed": "2026-10-24T03:16:19Z"
+   "pushed": "2026-10-24T13:45:55Z"
   },
   {
    "name": "huggingface/transformers",
    "url": "https://github.com/huggingface/transformers",
    "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-   "stars": 168056,
+   "stars": 168068,
    "lang": "Python",
    "created": "2018-10-29T13:56:00Z",
-   "pushed": "2026-10-24T09:24:46Z"
+   "pushed": "2026-10-24T15:24:47Z"
   },
   {
    "name": "langgenius/dify",
    "url": "https://github.com/langgenius/dify",
    "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb",
-   "stars": 159403,
+   "stars": 159421,
    "lang": "Python",
    "created": "2023-04-12T07:40:24Z",
-   "pushed": "2026-10-24T09:09:26Z"
+   "pushed": "2026-10-24T15:27:19Z"
   },
   {
    "name": "open-webui/open-webui",
    "url": "https://github.com/open-webui/open-webui",
    "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-   "stars": 156616,
+   "stars": 156632,
    "lang": "Python",
    "created": "2023-10-06T22:08:27Z",
    "pushed": "2026-10-24T06:04:47Z"
@@ -313,7 +313,7 @@ window.RADAR_TRENDING = {
    "name": "langchain-ai/langchain",
    "url": "https://github.com/langchain-ai/langchain",
    "desc": "The agent engineering platform.",
-   "stars": 148352,
+   "stars": 148363,
    "lang": "Python",
    "created": "2022-10-17T02:58:36Z",
    "pushed": "2026-10-24T08:27:54Z"
@@ -322,7 +322,7 @@ window.RADAR_TRENDING = {
    "name": "harry0703/MoneyPrinterTurbo",
    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
    "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-   "stars": 134686,
+   "stars": 134773,
    "lang": "Python",
    "created": "2024-03-11T02:57:34Z",
    "pushed": "2026-10-24T00:15:33Z"
@@ -331,7 +331,7 @@ window.RADAR_TRENDING = {
    "name": "Graphify-Labs/graphify",
    "url": "https://github.com/Graphify-Labs/graphify",
    "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
-   "stars": 134088,
+   "stars": 134239,
    "lang": "Python",
    "created": "2026-04-03T15:49:07Z",
    "pushed": "2026-10-23T17:59:28Z"
@@ -340,7 +340,7 @@ window.RADAR_TRENDING = {
    "name": "browser-use/browser-use",
    "url": "https://github.com/browser-use/browser-use",
    "desc": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
-   "stars": 119012,
+   "stars": 119029,
    "lang": "Python",
    "created": "2024-10-31T16:00:56Z",
    "pushed": "2026-10-24T07:23:03Z"
@@ -349,7 +349,7 @@ window.RADAR_TRENDING = {
    "name": "JuliusBrussee/caveman",
    "url": "https://github.com/JuliusBrussee/caveman",
    "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-   "stars": 114702,
+   "stars": 114761,
    "lang": "Go",
    "created": "2026-04-04T10:03:00Z",
    "pushed": "2026-10-24T08:01:52Z"
@@ -358,43 +358,43 @@ window.RADAR_TRENDING = {
    "name": "paperclipai/paperclip",
    "url": "https://github.com/paperclipai/paperclip",
    "desc": "The open-source app everyone uses to manage agents at work",
-   "stars": 106725,
+   "stars": 106808,
    "lang": "TypeScript",
    "created": "2026-03-02T15:01:51Z",
-   "pushed": "2026-10-24T09:55:22Z"
+   "pushed": "2026-10-24T15:30:44Z"
   },
   {
    "name": "vllm-project/vllm",
    "url": "https://github.com/vllm-project/vllm",
    "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-   "stars": 95275,
+   "stars": 95302,
    "lang": "Python",
    "created": "2023-02-09T11:23:20Z",
-   "pushed": "2026-10-24T10:15:54Z"
+   "pushed": "2026-10-24T14:52:33Z"
   },
   {
    "name": "OpenHands/OpenHands",
    "url": "https://github.com/OpenHands/OpenHands",
    "desc": "🙌 OpenHands: AI-Driven Development",
-   "stars": 91702,
+   "stars": 91730,
    "lang": "TypeScript",
    "created": "2024-03-13T03:33:31Z",
-   "pushed": "2026-10-24T09:14:15Z"
+   "pushed": "2026-10-24T13:50:22Z"
   },
   {
    "name": "tt-a1i/archify",
    "url": "https://github.com/tt-a1i/archify",
    "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-   "stars": 88493,
+   "stars": 88605,
    "lang": "JavaScript",
    "created": "2026-04-15T05:27:37Z",
-   "pushed": "2026-10-24T03:55:12Z"
+   "pushed": "2026-10-24T14:25:59Z"
   },
   {
    "name": "unclecode/crawl4ai",
    "url": "https://github.com/unclecode/crawl4ai",
    "desc": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m",
-   "stars": 86146,
+   "stars": 86167,
    "lang": "Python",
    "created": "2024-05-09T09:48:50Z",
    "pushed": "2026-10-22T19:03:10Z"
@@ -403,7 +403,7 @@ window.RADAR_TRENDING = {
    "name": "rtk-ai/rtk",
    "url": "https://github.com/rtk-ai/rtk",
    "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-   "stars": 84422,
+   "stars": 84442,
    "lang": "Rust",
    "created": "2026-01-22T16:54:16Z",
    "pushed": "2026-10-23T16:29:27Z"
@@ -412,25 +412,25 @@ window.RADAR_TRENDING = {
    "name": "bytedance/deer-flow",
    "url": "https://github.com/bytedance/deer-flow",
    "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
-   "stars": 84358,
+   "stars": 84374,
    "lang": "Python",
    "created": "2025-05-07T02:50:19Z",
-   "pushed": "2026-10-24T10:07:01Z"
+   "pushed": "2026-10-24T14:36:44Z"
   },
   {
    "name": "unslothai/unsloth",
    "url": "https://github.com/unslothai/unsloth",
    "desc": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
-   "stars": 78493,
+   "stars": 78509,
    "lang": "Python",
    "created": "2023-11-29T16:50:09Z",
-   "pushed": "2026-10-24T10:25:41Z"
+   "pushed": "2026-10-24T15:31:38Z"
   },
   {
    "name": "headroomlabs-ai/headroom",
    "url": "https://github.com/headroomlabs-ai/headroom",
    "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-   "stars": 77682,
+   "stars": 77705,
    "lang": "Python",
    "created": "2026-01-07T19:58:51Z",
    "pushed": "2026-10-24T07:38:36Z"
@@ -439,7 +439,7 @@ window.RADAR_TRENDING = {
    "name": "rohitg00/ai-engineering-from-scratch",
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "desc": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
-   "stars": 72942,
+   "stars": 73056,
    "lang": "Python",
    "created": "2026-03-18T18:38:02Z",
    "pushed": "2026-10-23T16:14:21Z"
@@ -448,7 +448,7 @@ window.RADAR_TRENDING = {
    "name": "asgeirtj/system_prompts_leaks",
    "url": "https://github.com/asgeirtj/system_prompts_leaks",
    "desc": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro",
-   "stars": 70124,
+   "stars": 70133,
    "lang": "Python",
    "created": "2025-05-03T02:43:56Z",
    "pushed": "2026-10-24T05:25:09Z"
