@@ -1,38 +1,47 @@
 {
- "updated": "2026-11-15T10:29:37.073411+00:00",
+ "updated": "2026-11-15T18:36:06.551701+00:00",
  "new_stars": [
   {
    "name": "huamidev/GestaltX",
    "url": "https://github.com/huamidev/GestaltX",
    "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-   "stars": 7659,
+   "stars": 7723,
    "lang": "Swift",
    "created": "2026-11-09T05:15:48Z",
    "pushed": "2026-11-14T09:27:55Z"
   },
   {
-   "name": "Kianuni/Erosion-CN",
-   "url": "https://github.com/Kianuni/Erosion-CN",
-   "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-   "stars": 2102,
-   "lang": "Swift",
-   "created": "2026-11-10T02:37:31Z",
-   "pushed": "2026-11-14T06:38:10Z"
-  },
-  {
    "name": "deepseek-ai/chat-demo",
    "url": "https://github.com/deepseek-ai/chat-demo",
    "desc": "Chat Demo",
-   "stars": 1952,
+   "stars": 2716,
    "lang": "TypeScript",
    "created": "2026-11-12T08:08:19Z",
    "pushed": "2026-11-13T14:33:08Z"
   },
   {
+   "name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+   "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+   "desc": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
+   "stars": 2336,
+   "lang": "Visual Basic .NET",
+   "created": "2026-11-12T20:49:07Z",
+   "pushed": "2026-11-13T09:24:36Z"
+  },
+  {
+   "name": "Kianuni/Erosion-CN",
+   "url": "https://github.com/Kianuni/Erosion-CN",
+   "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+   "stars": 2122,
+   "lang": "Swift",
+   "created": "2026-11-10T02:37:31Z",
+   "pushed": "2026-11-15T13:24:40Z"
+  },
+  {
    "name": "apex-compute/ANR",
    "url": "https://github.com/apex-compute/ANR",
    "desc": "Apex Neural Rendering (ANR) by Apex Compute",
-   "stars": 1922,
+   "stars": 2071,
    "lang": "C++",
    "created": "2026-11-11T04:27:17Z",
    "pushed": "2026-11-15T09:11:50Z"
@@ -41,16 +50,16 @@
    "name": "FrigadeHQ/yogurt",
    "url": "https://github.com/FrigadeHQ/yogurt",
    "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
-   "stars": 1546,
+   "stars": 1605,
    "lang": "TypeScript",
    "created": "2026-11-10T20:01:01Z",
-   "pushed": "2026-11-15T09:58:34Z"
+   "pushed": "2026-11-15T10:51:00Z"
   },
   {
    "name": "HybridRobotics/supermimic",
    "url": "https://github.com/HybridRobotics/supermimic",
    "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
-   "stars": 1523,
+   "stars": 1543,
    "lang": "Python",
    "created": "2026-11-10T10:46:56Z",
    "pushed": "2026-11-11T08:06:27Z"
@@ -59,172 +68,163 @@
    "name": "agentes-chat/agentes-chat",
    "url": "https://github.com/agentes-chat/agentes-chat",
    "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
-   "stars": 1448,
+   "stars": 1484,
    "lang": "TypeScript",
    "created": "2026-11-09T00:50:28Z",
-   "pushed": "2026-11-15T06:22:40Z"
+   "pushed": "2026-11-15T18:34:28Z"
   },
   {
    "name": "HolyArrs/HolyArrs",
    "url": "https://github.com/HolyArrs/HolyArrs",
    "desc": "One self-hosted app for your shows, movies and music.",
-   "stars": 1215,
+   "stars": 1238,
    "lang": "Go",
    "created": "2026-11-09T23:53:25Z",
    "pushed": "2026-11-15T09:28:04Z"
   },
   {
-   "name": "DevedevT/FFmpeg-GUI-Editor-Windows",
-   "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-   "desc": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
-   "stars": 1053,
-   "lang": "Visual Basic .NET",
-   "created": "2026-11-12T20:49:07Z",
-   "pushed": "2026-11-13T09:24:36Z"
-  },
-  {
    "name": "adriadam10/mkw-recomp",
    "url": "https://github.com/adriadam10/mkw-recomp",
    "desc": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
-   "stars": 1041,
+   "stars": 1157,
    "lang": "C",
    "created": "2026-11-09T15:40:06Z",
-   "pushed": "2026-11-15T08:46:00Z"
-  },
-  {
-   "name": "kolbicz/WQFiles",
-   "url": "https://github.com/kolbicz/WQFiles",
-   "desc": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
-   "stars": 881,
-   "lang": "Objective-C",
-   "created": "2026-11-09T13:43:40Z",
-   "pushed": "2026-11-14T18:14:22Z"
-  },
-  {
-   "name": "alexeyw/lot-map",
-   "url": "https://github.com/alexeyw/lot-map",
-   "desc": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
-   "stars": 848,
-   "lang": "TypeScript",
-   "created": "2026-11-09T19:13:52Z",
-   "pushed": "2026-11-15T01:41:20Z"
-  },
-  {
-   "name": "serveroshq/panel",
-   "url": "https://github.com/serveroshq/panel",
-   "desc": "The open source ServerOS panel: one place to run the Linux servers you already own.",
-   "stars": 823,
-   "lang": "PHP",
-   "created": "2026-11-09T00:47:33Z",
-   "pushed": "2026-11-15T10:08:20Z"
-  },
-  {
-   "name": "JDhruv14/line-art-animation",
-   "url": "https://github.com/JDhruv14/line-art-animation",
-   "desc": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
-   "stars": 799,
-   "lang": "TypeScript",
-   "created": "2026-11-10T09:25:25Z",
-   "pushed": "2026-11-10T09:25:38Z"
-  },
-  {
-   "name": "Eynnzerr/TelemetryCleaner",
-   "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-   "desc": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
-   "stars": 786,
-   "lang": "Kotlin",
-   "created": "2026-11-11T06:25:10Z",
-   "pushed": "2026-11-15T04:47:14Z"
+   "pushed": "2026-11-15T18:11:04Z"
   },
   {
    "name": "duwqijlk/muse-protocol",
    "url": "https://github.com/duwqijlk/muse-protocol",
    "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-   "stars": 717,
+   "stars": 945,
    "lang": "Python",
    "created": "2026-11-14T01:24:58Z",
    "pushed": "2026-11-15T02:55:33Z"
   },
   {
+   "name": "Eynnzerr/TelemetryCleaner",
+   "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+   "desc": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+   "stars": 944,
+   "lang": "Kotlin",
+   "created": "2026-11-11T06:25:10Z",
+   "pushed": "2026-11-15T04:47:14Z"
+  },
+  {
+   "name": "Noniv/abyssal-garden",
+   "url": "https://github.com/Noniv/abyssal-garden",
+   "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound fi",
+   "stars": 928,
+   "lang": "JavaScript",
+   "created": "2026-11-12T13:57:34Z",
+   "pushed": "2026-11-14T17:41:33Z"
+  },
+  {
+   "name": "kolbicz/WQFiles",
+   "url": "https://github.com/kolbicz/WQFiles",
+   "desc": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+   "stars": 912,
+   "lang": "Objective-C",
+   "created": "2026-11-09T13:43:40Z",
+   "pushed": "2026-11-15T18:02:20Z"
+  },
+  {
+   "name": "alexeyw/lot-map",
+   "url": "https://github.com/alexeyw/lot-map",
+   "desc": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
+   "stars": 872,
+   "lang": "TypeScript",
+   "created": "2026-11-09T19:13:52Z",
+   "pushed": "2026-11-15T16:15:15Z"
+  },
+  {
+   "name": "serveroshq/panel",
+   "url": "https://github.com/serveroshq/panel",
+   "desc": "The open source ServerOS panel: one place to run the Linux servers you already own.",
+   "stars": 837,
+   "lang": "PHP",
+   "created": "2026-11-09T00:47:33Z",
+   "pushed": "2026-11-15T17:31:15Z"
+  },
+  {
+   "name": "JDhruv14/line-art-animation",
+   "url": "https://github.com/JDhruv14/line-art-animation",
+   "desc": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+   "stars": 816,
+   "lang": "TypeScript",
+   "created": "2026-11-10T09:25:25Z",
+   "pushed": "2026-11-10T09:25:38Z"
+  },
+  {
+   "name": "ZiChuanLan/freebie-radar",
+   "url": "https://github.com/ZiChuanLan/freebie-radar",
+   "desc": "白嫖资源聚合雷达：57 个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+   "stars": 763,
+   "lang": "TypeScript",
+   "created": "2026-11-12T09:08:11Z",
+   "pushed": "2026-11-15T17:08:25Z"
+  },
+  {
    "name": "opencoredev/islandcn",
    "url": "https://github.com/opencoredev/islandcn",
    "desc": "The open-source Dynamic Island for React, installed with shadcn.",
-   "stars": 703,
+   "stars": 723,
    "lang": "TypeScript",
    "created": "2026-11-13T11:50:50Z",
    "pushed": "2026-11-13T15:14:36Z"
   },
   {
-   "name": "Topkiflare74/ai--manus2.0",
-   "url": "https://github.com/Topkiflare74/ai--manus2.0",
-   "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-   "stars": 678,
+   "name": "failsafe-security/artex",
+   "url": "https://github.com/failsafe-security/artex",
+   "desc": "Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)",
+   "stars": 688,
+   "lang": "Go",
+   "created": "2026-11-10T12:33:18Z",
+   "pushed": "2026-11-11T02:54:02Z"
+  },
+  {
+   "name": "Dodaios/ste80-humanizer",
+   "url": "https://github.com/Dodaios/ste80-humanizer",
+   "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+   "stars": 683,
+   "lang": "Python",
+   "created": "2026-11-09T17:18:59Z",
+   "pushed": "2026-11-14T14:20:14Z"
+  },
+  {
+   "name": "linknimiball1974/ai-texture-forge",
+   "url": "https://github.com/linknimiball1974/ai-texture-forge",
+   "desc": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on",
+   "stars": 671,
    "lang": "",
-   "created": "2026-11-14T19:15:24Z",
-   "pushed": "2026-11-15T10:26:04Z"
+   "created": "2026-11-11T19:09:18Z",
+   "pushed": "2026-11-15T13:26:27Z"
   },
   {
-   "name": "WarriorRemember/IPTV_Player_2.0",
-   "url": "https://github.com/WarriorRemember/IPTV_Player_2.0",
-   "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
-   "stars": 673,
-   "lang": "Rust",
-   "created": "2026-11-14T19:25:25Z",
-   "pushed": "2026-11-15T10:23:25Z"
+   "name": "AIRzZ90/study-materials-fork",
+   "url": "https://github.com/AIRzZ90/study-materials-fork",
+   "desc": "A cross-platform Tauri 2 interface and interaction practice project",
+   "stars": 662,
+   "lang": "TypeScript",
+   "created": "2026-11-12T10:52:32Z",
+   "pushed": "2026-11-12T11:06:34Z"
   },
   {
-   "name": "trackboatwrightplan/GitHub-Copilot-app",
-   "url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app",
-   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-   "stars": 672,
-   "lang": "",
-   "created": "2026-11-14T19:16:41Z",
-   "pushed": "2026-11-15T10:26:08Z"
+   "name": "Robbyant/lingbot-touch",
+   "url": "https://github.com/Robbyant/lingbot-touch",
+   "desc": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+   "stars": 596,
+   "lang": "Python",
+   "created": "2026-11-09T09:02:29Z",
+   "pushed": "2026-11-11T02:28:03Z"
   },
   {
-   "name": "TrapAccountant/GitHub-Copilot-app",
-   "url": "https://github.com/TrapAccountant/GitHub-Copilot-app",
-   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-   "stars": 670,
-   "lang": "",
-   "created": "2026-11-14T19:16:47Z",
-   "pushed": "2026-11-15T10:23:19Z"
-  },
-  {
-   "name": "TurquoiseDetective/IPTV_Player_2.0",
-   "url": "https://github.com/TurquoiseDetective/IPTV_Player_2.0",
-   "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
-   "stars": 669,
-   "lang": "Rust",
-   "created": "2026-11-14T19:25:17Z",
-   "pushed": "2026-11-15T10:23:51Z"
-  },
-  {
-   "name": "tornadonovicewhirl40/IPTV_Player_2.0",
-   "url": "https://github.com/tornadonovicewhirl40/IPTV_Player_2.0",
-   "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
-   "stars": 669,
-   "lang": "Rust",
-   "created": "2026-11-14T19:15:43Z",
-   "pushed": "2026-11-15T10:25:33Z"
-  },
-  {
-   "name": "WattBeetleLearn/IPTV_Player_2.0",
-   "url": "https://github.com/WattBeetleLearn/IPTV_Player_2.0",
-   "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
-   "stars": 667,
-   "lang": "Rust",
-   "created": "2026-11-14T19:25:28Z",
-   "pushed": "2026-11-15T10:23:30Z"
-  },
-  {
-   "name": "topapothecarycanal/ai--manus2.0",
-   "url": "https://github.com/topapothecarycanal/ai--manus2.0",
-   "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-   "stars": 666,
-   "lang": "",
-   "created": "2026-11-14T19:15:24Z",
-   "pushed": "2026-11-15T10:23:47Z"
+   "name": "rivet-dev/open-orange",
+   "url": "https://github.com/rivet-dev/open-orange",
+   "desc": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
+   "stars": 583,
+   "lang": "TypeScript",
+   "created": "2026-11-12T00:44:12Z",
+   "pushed": "2026-11-14T23:37:44Z"
   }
  ],
  "ai_active": [
@@ -232,7 +232,7 @@
    "name": "affaan-m/ECC",
    "url": "https://github.com/affaan-m/ECC",
    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-   "stars": 303439,
+   "stars": 303705,
    "lang": "JavaScript",
    "created": "2026-01-18T00:51:51Z",
    "pushed": "2026-11-15T06:48:46Z"
@@ -241,34 +241,34 @@
    "name": "NousResearch/hermes-agent",
    "url": "https://github.com/NousResearch/hermes-agent",
    "desc": "The agent that grows with you",
-   "stars": 263508,
+   "stars": 263596,
    "lang": "Python",
    "created": "2025-07-22T22:22:28Z",
-   "pushed": "2026-11-15T10:21:02Z"
+   "pushed": "2026-11-15T18:19:37Z"
   },
   {
    "name": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
    "desc": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-   "stars": 201903,
+   "stars": 202005,
    "lang": "TypeScript",
    "created": "2024-04-15T21:02:29Z",
-   "pushed": "2026-11-15T01:43:22Z"
+   "pushed": "2026-11-15T13:01:57Z"
   },
   {
    "name": "Significant-Gravitas/AutoGPT",
    "url": "https://github.com/Significant-Gravitas/AutoGPT",
    "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-   "stars": 188031,
+   "stars": 188039,
    "lang": "Python",
    "created": "2023-03-16T09:21:07Z",
-   "pushed": "2026-11-15T09:27:17Z"
+   "pushed": "2026-11-15T18:02:50Z"
   },
   {
    "name": "ollama/ollama",
    "url": "https://github.com/ollama/ollama",
    "desc": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-   "stars": 187018,
+   "stars": 187069,
    "lang": "Go",
    "created": "2023-06-26T19:39:32Z",
    "pushed": "2026-11-14T00:00:10Z"
@@ -277,7 +277,7 @@
    "name": "f/prompts.chat",
    "url": "https://github.com/f/prompts.chat",
    "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-   "stars": 177465,
+   "stars": 177531,
    "lang": "MDX",
    "created": "2022-12-05T13:54:13Z",
    "pushed": "2026-11-15T07:04:27Z"
@@ -286,25 +286,25 @@
    "name": "huggingface/transformers",
    "url": "https://github.com/huggingface/transformers",
    "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-   "stars": 168997,
+   "stars": 168993,
    "lang": "Python",
    "created": "2018-10-29T13:56:00Z",
-   "pushed": "2026-11-15T00:10:22Z"
+   "pushed": "2026-11-15T18:33:00Z"
   },
   {
    "name": "langgenius/dify",
    "url": "https://github.com/langgenius/dify",
    "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb",
-   "stars": 161186,
+   "stars": 161207,
    "lang": "Python",
    "created": "2023-04-12T07:40:24Z",
-   "pushed": "2026-11-15T10:26:56Z"
+   "pushed": "2026-11-15T17:02:12Z"
   },
   {
    "name": "open-webui/open-webui",
    "url": "https://github.com/open-webui/open-webui",
    "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-   "stars": 158691,
+   "stars": 158740,
    "lang": "Svelte",
    "created": "2023-10-06T22:08:27Z",
    "pushed": "2026-11-15T08:35:45Z"
@@ -313,25 +313,25 @@
    "name": "langchain-ai/langchain",
    "url": "https://github.com/langchain-ai/langchain",
    "desc": "The agent engineering platform.",
-   "stars": 149541,
+   "stars": 149565,
    "lang": "Python",
    "created": "2022-10-17T02:58:36Z",
-   "pushed": "2026-11-15T09:02:02Z"
+   "pushed": "2026-11-15T17:35:14Z"
   },
   {
    "name": "Graphify-Labs/graphify",
    "url": "https://github.com/Graphify-Labs/graphify",
    "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
-   "stars": 148024,
+   "stars": 148262,
    "lang": "Python",
    "created": "2026-04-03T15:49:07Z",
-   "pushed": "2026-11-14T21:28:08Z"
+   "pushed": "2026-11-15T18:11:31Z"
   },
   {
    "name": "harry0703/MoneyPrinterTurbo",
    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
    "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-   "stars": 143686,
+   "stars": 143766,
    "lang": "Python",
    "created": "2024-03-11T02:57:34Z",
    "pushed": "2026-11-13T15:14:28Z"
@@ -340,7 +340,7 @@
    "name": "browser-use/browser-use",
    "url": "https://github.com/browser-use/browser-use",
    "desc": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
-   "stars": 121069,
+   "stars": 121101,
    "lang": "Python",
    "created": "2024-10-31T16:00:56Z",
    "pushed": "2026-11-15T03:39:17Z"
@@ -349,7 +349,7 @@
    "name": "JuliusBrussee/caveman",
    "url": "https://github.com/JuliusBrussee/caveman",
    "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-   "stars": 120263,
+   "stars": 120406,
    "lang": "Go",
    "created": "2026-04-04T10:03:00Z",
    "pushed": "2026-11-15T07:19:16Z"
@@ -358,43 +358,43 @@
    "name": "paperclipai/paperclip",
    "url": "https://github.com/paperclipai/paperclip",
    "desc": "The open-source app everyone uses to manage agents at work",
-   "stars": 114012,
+   "stars": 114095,
    "lang": "TypeScript",
    "created": "2026-03-02T15:01:51Z",
-   "pushed": "2026-11-15T09:56:32Z"
+   "pushed": "2026-11-15T18:33:55Z"
   },
   {
    "name": "vllm-project/vllm",
    "url": "https://github.com/vllm-project/vllm",
    "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-   "stars": 96952,
+   "stars": 96966,
    "lang": "Python",
    "created": "2023-02-09T11:23:20Z",
-   "pushed": "2026-11-15T10:28:41Z"
+   "pushed": "2026-11-15T17:20:48Z"
   },
   {
    "name": "tt-a1i/archify",
    "url": "https://github.com/tt-a1i/archify",
    "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-   "stars": 96538,
+   "stars": 96708,
    "lang": "JavaScript",
    "created": "2026-04-15T05:27:37Z",
-   "pushed": "2026-11-15T09:28:31Z"
+   "pushed": "2026-11-15T14:28:43Z"
   },
   {
    "name": "OpenHands/OpenHands",
    "url": "https://github.com/OpenHands/OpenHands",
    "desc": "🙌 OpenHands: AI-Driven Development",
-   "stars": 93496,
+   "stars": 93523,
    "lang": "TypeScript",
    "created": "2024-03-13T03:33:31Z",
-   "pushed": "2026-11-15T08:21:40Z"
+   "pushed": "2026-11-15T17:37:45Z"
   },
   {
    "name": "unclecode/crawl4ai",
    "url": "https://github.com/unclecode/crawl4ai",
    "desc": "Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe",
-   "stars": 87378,
+   "stars": 87396,
    "lang": "Python",
    "created": "2024-05-09T09:48:50Z",
    "pushed": "2026-11-13T13:32:17Z"
@@ -403,7 +403,7 @@
    "name": "datawhalechina/hello-agents",
    "url": "https://github.com/datawhalechina/hello-agents",
    "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-   "stars": 87020,
+   "stars": 87040,
    "lang": "Python",
    "created": "2025-09-07T09:50:24Z",
    "pushed": "2026-11-13T12:20:01Z"
@@ -412,7 +412,7 @@
    "name": "rtk-ai/rtk",
    "url": "https://github.com/rtk-ai/rtk",
    "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-   "stars": 86610,
+   "stars": 86645,
    "lang": "Rust",
    "created": "2026-01-22T16:54:16Z",
    "pushed": "2026-11-14T07:50:26Z"
@@ -421,37 +421,37 @@
    "name": "bytedance/deer-flow",
    "url": "https://github.com/bytedance/deer-flow",
    "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
-   "stars": 85357,
+   "stars": 85368,
    "lang": "Python",
    "created": "2025-05-07T02:50:19Z",
-   "pushed": "2026-11-14T14:17:15Z"
+   "pushed": "2026-11-15T13:28:36Z"
   },
   {
    "name": "shareAI-lab/learn-claude-code",
    "url": "https://github.com/shareAI-lab/learn-claude-code",
    "desc": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
-   "stars": 80425,
+   "stars": 80442,
    "lang": "Python",
    "created": "2025-06-29T15:34:15Z",
-   "pushed": "2026-11-15T04:06:07Z"
+   "pushed": "2026-11-15T13:41:46Z"
   },
   {
    "name": "headroomlabs-ai/headroom",
    "url": "https://github.com/headroomlabs-ai/headroom",
    "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-   "stars": 79692,
+   "stars": 79727,
    "lang": "Python",
    "created": "2026-01-07T19:58:51Z",
-   "pushed": "2026-11-15T08:31:56Z"
+   "pushed": "2026-11-15T15:29:28Z"
   },
   {
    "name": "unslothai/unsloth",
    "url": "https://github.com/unslothai/unsloth",
    "desc": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
-   "stars": 79528,
+   "stars": 79560,
    "lang": "Python",
    "created": "2023-11-29T16:50:09Z",
-   "pushed": "2026-11-15T10:25:19Z"
+   "pushed": "2026-11-15T18:35:46Z"
   }
  ]
 }
