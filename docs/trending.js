@@ -1,47 +1,56 @@
 window.RADAR_TRENDING = {
- "updated": "2026-11-19T11:15:26.242179+00:00",
+ "updated": "2026-11-19T20:08:01.972106+00:00",
  "new_stars": [
-  {
-   "name": "krisgfx9/Wireless-Device-Battery-Monitor",
-   "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-   "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
-   "stars": 4287,
-   "lang": "C++",
-   "created": "2026-11-16T19:28:29Z",
-   "pushed": "2026-11-19T06:15:50Z"
-  },
   {
    "name": "erkamyaman/rust-anything",
    "url": "https://github.com/erkamyaman/rust-anything",
    "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-   "stars": 4164,
+   "stars": 4960,
    "lang": "Rust",
    "created": "2026-11-16T12:10:36Z",
-   "pushed": "2026-11-19T10:55:27Z"
+   "pushed": "2026-11-19T15:03:23Z"
   },
   {
-   "name": "duwqijlk/muse-protocol",
-   "url": "https://github.com/duwqijlk/muse-protocol",
-   "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-   "stars": 1639,
+   "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+   "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+   "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
+   "stars": 4574,
+   "lang": "C++",
+   "created": "2026-11-16T19:28:29Z",
+   "pushed": "2026-11-19T20:05:11Z"
+  },
+  {
+   "name": "gylive/google-ultra",
+   "url": "https://github.com/gylive/google-ultra",
+   "desc": "",
+   "stars": 2436,
    "lang": "Python",
-   "created": "2026-11-14T01:24:58Z",
-   "pushed": "2026-11-15T02:55:33Z"
+   "created": "2026-11-17T10:21:54Z",
+   "pushed": "2026-11-19T14:11:25Z"
   },
   {
    "name": "Hut-hzf/ung220z-tool",
    "url": "https://github.com/Hut-hzf/ung220z-tool",
    "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-   "stars": 1581,
+   "stars": 1720,
    "lang": "Python",
    "created": "2026-11-15T11:16:46Z",
    "pushed": "2026-11-15T11:17:27Z"
   },
   {
+   "name": "duwqijlk/muse-protocol",
+   "url": "https://github.com/duwqijlk/muse-protocol",
+   "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+   "stars": 1654,
+   "lang": "Python",
+   "created": "2026-11-14T01:24:58Z",
+   "pushed": "2026-11-15T02:55:33Z"
+  },
+  {
    "name": "CzzzzzzJ/mdldm-maitian",
    "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
    "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-   "stars": 1520,
+   "stars": 1594,
    "lang": "JavaScript",
    "created": "2026-11-14T03:59:22Z",
    "pushed": "2026-11-18T02:49:13Z"
@@ -50,7 +59,7 @@ window.RADAR_TRENDING = {
    "name": "haziqahmedqasmi/PeakCut",
    "url": "https://github.com/haziqahmedqasmi/PeakCut",
    "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-   "stars": 1187,
+   "stars": 1315,
    "lang": "Python",
    "created": "2026-11-14T07:38:20Z",
    "pushed": "2026-11-17T13:20:20Z"
@@ -59,7 +68,7 @@ window.RADAR_TRENDING = {
    "name": "sybil-solutions/inference-optimisation-skill",
    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
    "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-   "stars": 1180,
+   "stars": 1243,
    "lang": "Python",
    "created": "2026-11-16T18:40:04Z",
    "pushed": "2026-11-16T18:40:08Z"
@@ -68,7 +77,7 @@ window.RADAR_TRENDING = {
    "name": "joshpuckett/allo",
    "url": "https://github.com/joshpuckett/allo",
    "desc": "Allo is your friendly neighborhood typeface, free and open source",
-   "stars": 1099,
+   "stars": 1137,
    "lang": "Python",
    "created": "2026-11-15T17:33:42Z",
    "pushed": "2026-11-18T07:19:43Z"
@@ -77,43 +86,43 @@ window.RADAR_TRENDING = {
    "name": "zephyr4123/snug",
    "url": "https://github.com/zephyr4123/snug",
    "desc": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every phone, tablet and computer, with native touch gesture",
-   "stars": 1071,
+   "stars": 1090,
    "lang": "Swift",
    "created": "2026-11-13T03:26:21Z",
-   "pushed": "2026-11-19T07:07:13Z"
+   "pushed": "2026-11-19T15:54:45Z"
   },
   {
    "name": "chuanqisun/spaceship",
    "url": "https://github.com/chuanqisun/spaceship",
    "desc": "Steer your ideas in realtime",
-   "stars": 898,
+   "stars": 933,
    "lang": "HTML",
    "created": "2026-11-16T14:43:45Z",
-   "pushed": "2026-11-16T19:53:46Z"
+   "pushed": "2026-11-19T19:13:35Z"
   },
   {
    "name": "opencoredev/islandcn",
    "url": "https://github.com/opencoredev/islandcn",
    "desc": "The open-source Dynamic Island for React, installed with shadcn.",
-   "stars": 815,
+   "stars": 820,
    "lang": "TypeScript",
    "created": "2026-11-13T11:50:50Z",
-   "pushed": "2026-11-18T21:15:36Z"
+   "pushed": "2026-11-19T14:21:30Z"
   },
   {
    "name": "n4ze3m/tiny-voca",
    "url": "https://github.com/n4ze3m/tiny-voca",
    "desc": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
-   "stars": 757,
+   "stars": 771,
    "lang": "Python",
    "created": "2026-11-14T16:02:56Z",
-   "pushed": "2026-11-19T09:32:58Z"
+   "pushed": "2026-11-19T18:15:34Z"
   },
   {
    "name": "yetanotherbrowser/yab",
    "url": "https://github.com/yetanotherbrowser/yab",
    "desc": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
-   "stars": 730,
+   "stars": 735,
    "lang": "Swift",
    "created": "2026-11-14T23:56:32Z",
    "pushed": "2026-11-19T07:36:59Z"
@@ -122,109 +131,100 @@ window.RADAR_TRENDING = {
    "name": "mit-han-lab/pear",
    "url": "https://github.com/mit-han-lab/pear",
    "desc": "Training Reasoning Models in Simulation to Natively Use Real Robots",
-   "stars": 712,
+   "stars": 721,
    "lang": "Python",
    "created": "2026-11-13T17:43:06Z",
    "pushed": "2026-11-19T06:11:14Z"
   },
   {
+   "name": "Bodila51/gtavi-claudecode",
+   "url": "https://github.com/Bodila51/gtavi-claudecode",
+   "desc": "Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits.",
+   "stars": 711,
+   "lang": "Python",
+   "created": "2026-11-18T17:54:29Z",
+   "pushed": "2026-11-19T09:30:06Z"
+  },
+  {
    "name": "boringmarketer/boring-marketing-skills",
    "url": "https://github.com/boringmarketer/boring-marketing-skills",
    "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-   "stars": 689,
+   "stars": 709,
    "lang": "Python",
    "created": "2026-11-16T15:09:46Z",
    "pushed": "2026-11-17T22:53:58Z"
   },
   {
-   "name": "Illson/RustText",
-   "url": "https://github.com/Illson/RustText",
-   "desc": "",
-   "stars": 662,
-   "lang": "Rust",
-   "created": "2026-11-16T17:46:45Z",
-   "pushed": "2026-11-19T01:10:54Z"
-  },
-  {
    "name": "siliconjungle/shapeshift-labs-ink-studio",
    "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
    "desc": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
-   "stars": 652,
+   "stars": 688,
    "lang": "JavaScript",
    "created": "2026-11-16T07:44:00Z",
-   "pushed": "2026-11-19T11:09:40Z"
+   "pushed": "2026-11-19T20:07:52Z"
   },
   {
-   "name": "faizwashere/ScanDot",
-   "url": "https://github.com/faizwashere/ScanDot",
-   "desc": "Experimental Android 3D scanning and point-cloud viewer",
-   "stars": 545,
-   "lang": "Kotlin",
-   "created": "2026-11-13T04:07:57Z",
-   "pushed": "2026-11-13T04:27:21Z"
-  },
-  {
-   "name": "quer3q/kraken-mount",
-   "url": "https://github.com/quer3q/kraken-mount",
-   "desc": "Minimalist PS5 game mounter supporting PKG, folder dumps, zstd and lz4",
-   "stars": 533,
-   "lang": "Rust",
-   "created": "2026-11-13T07:25:37Z",
-   "pushed": "2026-11-18T16:13:46Z"
+   "name": "sourmitocand1987/VividFrame-GPU",
+   "url": "https://github.com/sourmitocand1987/VividFrame-GPU",
+   "desc": "Any source. One real-time GPU enhancement pipeline. · video enhancer · gpu video · real-time video enhancement · hdr · super-resolution · game-streaming · moonlight · dolby-vision · frame-interpolatio",
+   "stars": 581,
+   "lang": "",
+   "created": "2026-11-18T15:51:00Z",
+   "pushed": "2026-11-18T15:51:37Z"
   },
   {
    "name": "ybblab/Jiumi",
    "url": "https://github.com/ybblab/Jiumi",
    "desc": "揪咪 Jiumi：开源安卓应用行为监测与管理，查看权限访问和网络活动。Android app activity & privacy monitor. No root required.",
-   "stars": 496,
+   "stars": 546,
    "lang": "Kotlin",
    "created": "2026-11-13T16:20:27Z",
    "pushed": "2026-11-19T04:36:51Z"
   },
   {
-   "name": "YellowLaborerMarket/Gemini-Config-Checker-",
-   "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
-   "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-   "stars": 474,
-   "lang": "Makefile",
-   "created": "2026-11-15T16:48:18Z",
-   "pushed": "2026-11-15T16:49:31Z"
+   "name": "quer3q/kraken-mount",
+   "url": "https://github.com/quer3q/kraken-mount",
+   "desc": "Minimalist PS5 game mounter supporting PKG, folder dumps, zstd and lz4",
+   "stars": 546,
+   "lang": "Rust",
+   "created": "2026-11-13T07:25:37Z",
+   "pushed": "2026-11-18T16:13:46Z"
   },
   {
-   "name": "weightcashiercupola/Gemini-Config-Checker-",
-   "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
-   "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-   "stars": 473,
-   "lang": "Makefile",
-   "created": "2026-11-15T16:47:11Z",
-   "pushed": "2026-11-15T16:48:06Z"
+   "name": "bothaggsigym1988/frameglide",
+   "url": "https://github.com/bothaggsigym1988/frameglide",
+   "desc": "From a 30 fps console stream to 60–120 fps on your PC. · frame-interpolation · frame-generation · nvidia · windows · dlss · super-resolution · vulkan · dlss5 · upscaling · rife · neural-rendering · ps",
+   "stars": 541,
+   "lang": "",
+   "created": "2026-11-18T15:40:02Z",
+   "pushed": "2026-11-18T15:40:29Z"
   },
   {
-   "name": "WindGatorRise37/Gemini-Config-Checker-",
-   "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
-   "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-   "stars": 472,
-   "lang": "Makefile",
-   "created": "2026-11-15T16:47:17Z",
-   "pushed": "2026-11-15T16:48:17Z"
+   "name": "faizwashere/ScanDot",
+   "url": "https://github.com/faizwashere/ScanDot",
+   "desc": "Experimental Android 3D scanning and point-cloud viewer",
+   "stars": 515,
+   "lang": "Kotlin",
+   "created": "2026-11-13T04:07:57Z",
+   "pushed": "2026-11-13T04:27:21Z"
   },
   {
-   "name": "WyrmClimberManacle/Gemini-Config-Checker-",
-   "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
-   "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-   "stars": 472,
-   "lang": "Makefile",
-   "created": "2026-11-15T16:48:18Z",
-   "pushed": "2026-11-15T16:49:29Z"
+   "name": "0marContreras/gta6recomp",
+   "url": "https://github.com/0marContreras/gta6recomp",
+   "desc": "A GTA VI PC Port",
+   "stars": 504,
+   "lang": "",
+   "created": "2026-11-18T16:49:55Z",
+   "pushed": "2026-11-18T16:51:42Z"
   },
   {
-   "name": "TurtleReside/Gemini-Config-Checker-",
-   "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
-   "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-   "stars": 472,
-   "lang": "Go",
-   "created": "2026-11-15T16:46:04Z",
-   "pushed": "2026-11-15T16:47:00Z"
+   "name": "nilbuild/stick-scene",
+   "url": "https://github.com/nilbuild/stick-scene",
+   "desc": "Skill to draw stick figure animated visuals",
+   "stars": 491,
+   "lang": "JavaScript",
+   "created": "2026-11-15T00:17:40Z",
+   "pushed": "2026-11-16T10:36:25Z"
   }
  ],
  "ai_active": [
@@ -232,7 +232,7 @@ window.RADAR_TRENDING = {
    "name": "affaan-m/ECC",
    "url": "https://github.com/affaan-m/ECC",
    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-   "stars": 306899,
+   "stars": 307178,
    "lang": "JavaScript",
    "created": "2026-01-18T00:51:51Z",
    "pushed": "2026-11-17T06:41:46Z"
@@ -241,34 +241,34 @@ window.RADAR_TRENDING = {
    "name": "NousResearch/hermes-agent",
    "url": "https://github.com/NousResearch/hermes-agent",
    "desc": "The agent that grows with you",
-   "stars": 264626,
+   "stars": 264721,
    "lang": "Python",
    "created": "2025-07-22T22:22:28Z",
-   "pushed": "2026-11-19T11:15:24Z"
+   "pushed": "2026-11-19T20:02:06Z"
   },
   {
    "name": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
    "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
-   "stars": 203513,
+   "stars": 204010,
    "lang": "TypeScript",
    "created": "2024-04-15T21:02:29Z",
-   "pushed": "2026-11-19T10:13:50Z"
+   "pushed": "2026-11-19T18:39:05Z"
   },
   {
    "name": "Significant-Gravitas/AutoGPT",
    "url": "https://github.com/Significant-Gravitas/AutoGPT",
    "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-   "stars": 188100,
+   "stars": 188104,
    "lang": "Python",
    "created": "2023-03-16T09:21:07Z",
-   "pushed": "2026-11-19T11:15:22Z"
+   "pushed": "2026-11-19T19:22:30Z"
   },
   {
    "name": "ollama/ollama",
    "url": "https://github.com/ollama/ollama",
    "desc": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-   "stars": 187592,
+   "stars": 187649,
    "lang": "Go",
    "created": "2023-06-26T19:39:32Z",
    "pushed": "2026-11-18T22:53:05Z"
@@ -277,7 +277,7 @@ window.RADAR_TRENDING = {
    "name": "f/prompts.chat",
    "url": "https://github.com/f/prompts.chat",
    "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-   "stars": 177870,
+   "stars": 177896,
    "lang": "MDX",
    "created": "2022-12-05T13:54:13Z",
    "pushed": "2026-11-19T07:07:20Z"
@@ -286,34 +286,34 @@ window.RADAR_TRENDING = {
    "name": "huggingface/transformers",
    "url": "https://github.com/huggingface/transformers",
    "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-   "stars": 169243,
+   "stars": 169276,
    "lang": "Python",
    "created": "2018-10-29T13:56:00Z",
-   "pushed": "2026-11-19T10:54:04Z"
+   "pushed": "2026-11-19T18:59:23Z"
   },
   {
    "name": "langgenius/dify",
    "url": "https://github.com/langgenius/dify",
    "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb",
-   "stars": 161481,
+   "stars": 161513,
    "lang": "Python",
    "created": "2023-04-12T07:40:24Z",
-   "pushed": "2026-11-19T11:15:02Z"
+   "pushed": "2026-11-19T18:55:05Z"
   },
   {
    "name": "open-webui/open-webui",
    "url": "https://github.com/open-webui/open-webui",
    "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-   "stars": 159076,
+   "stars": 159095,
    "lang": "Svelte",
    "created": "2023-10-06T22:08:27Z",
-   "pushed": "2026-11-18T20:54:11Z"
+   "pushed": "2026-11-19T15:38:22Z"
   },
   {
    "name": "Graphify-Labs/graphify",
    "url": "https://github.com/Graphify-Labs/graphify",
    "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
-   "stars": 150378,
+   "stars": 150564,
    "lang": "Python",
    "created": "2026-04-03T15:49:07Z",
    "pushed": "2026-11-17T21:21:11Z"
@@ -322,115 +322,115 @@ window.RADAR_TRENDING = {
    "name": "langchain-ai/langchain",
    "url": "https://github.com/langchain-ai/langchain",
    "desc": "The agent engineering platform.",
-   "stars": 149884,
+   "stars": 149911,
    "lang": "Python",
    "created": "2022-10-17T02:58:36Z",
-   "pushed": "2026-11-19T08:23:35Z"
+   "pushed": "2026-11-19T19:02:46Z"
   },
   {
    "name": "harry0703/MoneyPrinterTurbo",
    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
    "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-   "stars": 144618,
+   "stars": 144695,
    "lang": "Python",
    "created": "2024-03-11T02:57:34Z",
-   "pushed": "2026-11-18T04:19:44Z"
+   "pushed": "2026-11-19T11:20:13Z"
   },
   {
    "name": "TauricResearch/TradingAgents",
    "url": "https://github.com/TauricResearch/TradingAgents",
    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-   "stars": 123129,
+   "stars": 123164,
    "lang": "Python",
    "created": "2024-12-28T03:31:08Z",
    "pushed": "2026-11-17T03:59:28Z"
   },
   {
-   "name": "browser-use/browser-use",
-   "url": "https://github.com/browser-use/browser-use",
-   "desc": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
-   "stars": 121478,
-   "lang": "Python",
-   "created": "2024-10-31T16:00:56Z",
-   "pushed": "2026-11-19T09:20:11Z"
-  },
-  {
    "name": "JuliusBrussee/caveman",
    "url": "https://github.com/JuliusBrussee/caveman",
    "desc": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
-   "stars": 121418,
+   "stars": 121519,
    "lang": "Go",
    "created": "2026-04-04T10:03:00Z",
    "pushed": "2026-11-19T07:21:42Z"
   },
   {
+   "name": "browser-use/browser-use",
+   "url": "https://github.com/browser-use/browser-use",
+   "desc": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+   "stars": 121502,
+   "lang": "Python",
+   "created": "2024-10-31T16:00:56Z",
+   "pushed": "2026-11-19T09:20:11Z"
+  },
+  {
    "name": "paperclipai/paperclip",
    "url": "https://github.com/paperclipai/paperclip",
    "desc": "The open-source app everyone uses to manage agents at work",
-   "stars": 114942,
+   "stars": 115140,
    "lang": "TypeScript",
    "created": "2026-03-02T15:01:51Z",
-   "pushed": "2026-11-19T11:07:31Z"
+   "pushed": "2026-11-19T20:06:47Z"
   },
   {
    "name": "tt-a1i/archify",
    "url": "https://github.com/tt-a1i/archify",
    "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-   "stars": 97906,
+   "stars": 98017,
    "lang": "JavaScript",
    "created": "2026-04-15T05:27:37Z",
-   "pushed": "2026-11-19T03:45:58Z"
+   "pushed": "2026-11-19T14:44:22Z"
   },
   {
    "name": "vllm-project/vllm",
    "url": "https://github.com/vllm-project/vllm",
    "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-   "stars": 97201,
+   "stars": 97219,
    "lang": "Python",
    "created": "2023-02-09T11:23:20Z",
-   "pushed": "2026-11-19T11:00:09Z"
+   "pushed": "2026-11-19T20:04:41Z"
   },
   {
    "name": "OpenHands/OpenHands",
    "url": "https://github.com/OpenHands/OpenHands",
    "desc": "🙌 OpenHands: AI-Driven Development",
-   "stars": 93816,
+   "stars": 93844,
    "lang": "TypeScript",
    "created": "2024-03-13T03:33:31Z",
-   "pushed": "2026-11-19T10:15:58Z"
+   "pushed": "2026-11-19T17:42:49Z"
   },
   {
    "name": "unclecode/crawl4ai",
    "url": "https://github.com/unclecode/crawl4ai",
    "desc": "Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe",
-   "stars": 87555,
+   "stars": 87568,
    "lang": "Python",
    "created": "2024-05-09T09:48:50Z",
-   "pushed": "2026-11-19T09:01:18Z"
+   "pushed": "2026-11-19T16:02:08Z"
   },
   {
    "name": "rtk-ai/rtk",
    "url": "https://github.com/rtk-ai/rtk",
    "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-   "stars": 87148,
+   "stars": 87182,
    "lang": "Rust",
    "created": "2026-01-22T16:54:16Z",
-   "pushed": "2026-11-19T11:01:50Z"
+   "pushed": "2026-11-19T19:51:05Z"
   },
   {
    "name": "bytedance/deer-flow",
    "url": "https://github.com/bytedance/deer-flow",
    "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
-   "stars": 85517,
+   "stars": 85526,
    "lang": "Python",
    "created": "2025-05-07T02:50:19Z",
-   "pushed": "2026-11-19T03:40:38Z"
+   "pushed": "2026-11-19T13:28:40Z"
   },
   {
    "name": "Ebony-Vinyl/dsh-our-free-model",
    "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
    "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-   "stars": 80482,
+   "stars": 80936,
    "lang": "JavaScript",
    "created": "2026-09-24T16:17:19Z",
    "pushed": "2026-11-18T02:24:22Z"
@@ -439,19 +439,19 @@ window.RADAR_TRENDING = {
    "name": "headroomlabs-ai/headroom",
    "url": "https://github.com/headroomlabs-ai/headroom",
    "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-   "stars": 80132,
+   "stars": 80159,
    "lang": "Python",
    "created": "2026-01-07T19:58:51Z",
-   "pushed": "2026-11-19T07:27:13Z"
+   "pushed": "2026-11-19T14:45:23Z"
   },
   {
    "name": "unslothai/unsloth",
    "url": "https://github.com/unslothai/unsloth",
    "desc": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
-   "stars": 79768,
+   "stars": 79784,
    "lang": "Python",
    "created": "2023-11-29T16:50:09Z",
-   "pushed": "2026-11-19T11:14:48Z"
+   "pushed": "2026-11-19T19:45:52Z"
   }
  ]
 };
