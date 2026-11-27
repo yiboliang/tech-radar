@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-27T07:17:56.925390+00:00",
+ "updated": "2026-11-27T18:43:55.271269+00:00",
  "new_stars": [
   {
    "name": "Marvisak/VIctory",
    "url": "https://github.com/Marvisak/VIctory",
    "desc": "An attempt at running GTA VI on PC",
-   "stars": 13512,
+   "stars": 13719,
    "lang": "Rust",
    "created": "2026-11-23T21:47:25Z",
    "pushed": "2026-11-25T23:27:48Z"
@@ -14,88 +14,79 @@
    "name": "4lwayz/portwatch-vi",
    "url": "https://github.com/4lwayz/portwatch-vi",
    "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-   "stars": 6073,
+   "stars": 6533,
    "lang": "JavaScript",
    "created": "2026-11-21T23:16:41Z",
-   "pushed": "2026-11-27T04:23:49Z"
+   "pushed": "2026-11-27T18:40:33Z"
   },
   {
    "name": "EL4CTEO/fast-anything",
    "url": "https://github.com/EL4CTEO/fast-anything",
    "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-   "stars": 4317,
+   "stars": 4427,
    "lang": "Rust",
    "created": "2026-11-21T14:40:27Z",
-   "pushed": "2026-11-26T22:46:32Z"
-  },
-  {
-   "name": "Belobug/VIctory-Belobug-AMD",
-   "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-   "desc": "",
-   "stars": 3490,
-   "lang": "Rust",
-   "created": "2026-11-25T09:41:37Z",
-   "pushed": "2026-11-26T22:30:21Z"
+   "pushed": "2026-11-27T16:19:57Z"
   },
   {
    "name": "fxceless/victory-fork",
    "url": "https://github.com/fxceless/victory-fork",
    "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
-   "stars": 3299,
+   "stars": 3339,
    "lang": "Rust",
    "created": "2026-11-24T18:02:37Z",
-   "pushed": "2026-11-27T05:28:09Z"
+   "pushed": "2026-11-27T17:52:16Z"
   },
   {
    "name": "ubiquitarianism/leonida",
    "url": "https://github.com/ubiquitarianism/leonida",
    "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
-   "stars": 2554,
+   "stars": 2614,
    "lang": "Python",
    "created": "2026-11-23T23:54:39Z",
-   "pushed": "2026-11-27T03:17:00Z"
+   "pushed": "2026-11-27T17:56:46Z"
   },
   {
-   "name": "os6/nospeaker",
-   "url": "https://github.com/os6/nospeaker",
-   "desc": "make your macbook's trackpad talk using its haptic motor",
-   "stars": 1965,
-   "lang": "Swift",
-   "created": "2026-11-22T12:05:54Z",
-   "pushed": "2026-11-24T02:43:05Z"
-  },
-  {
-   "name": "avatarmanz/VIctory-7900XTX",
-   "url": "https://github.com/avatarmanz/VIctory-7900XTX",
-   "desc": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX",
-   "stars": 1878,
-   "lang": "Rust",
-   "created": "2026-11-25T22:18:14Z",
-   "pushed": "2026-11-27T01:11:22Z"
-  },
-  {
-   "name": "omonkeyz/xbox-emulator",
-   "url": "https://github.com/omonkeyz/xbox-emulator",
-   "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-   "stars": 1853,
-   "lang": "Rust",
-   "created": "2026-11-21T08:08:39Z",
-   "pushed": "2026-11-25T13:47:56Z"
+   "name": "nexu-io/opengame",
+   "url": "https://github.com/nexu-io/opengame",
+   "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish",
+   "stars": 2076,
+   "lang": "TypeScript",
+   "created": "2026-11-25T10:35:45Z",
+   "pushed": "2026-11-27T16:47:33Z"
   },
   {
    "name": "alesha-pro/llm.asm",
    "url": "https://github.com/alesha-pro/llm.asm",
    "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
-   "stars": 1721,
+   "stars": 2007,
    "lang": "Assembly",
    "created": "2026-11-25T07:28:51Z",
    "pushed": "2026-11-25T15:42:44Z"
   },
   {
+   "name": "os6/nospeaker",
+   "url": "https://github.com/os6/nospeaker",
+   "desc": "make your macbook's trackpad talk using its haptic motor",
+   "stars": 1985,
+   "lang": "Swift",
+   "created": "2026-11-22T12:05:54Z",
+   "pushed": "2026-11-24T02:43:05Z"
+  },
+  {
+   "name": "omonkeyz/xbox-emulator",
+   "url": "https://github.com/omonkeyz/xbox-emulator",
+   "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+   "stars": 1851,
+   "lang": "Rust",
+   "created": "2026-11-21T08:08:39Z",
+   "pushed": "2026-11-25T13:47:56Z"
+  },
+  {
    "name": "crhywun/g1-acq",
    "url": "https://github.com/crhywun/g1-acq",
    "desc": "",
-   "stars": 1699,
+   "stars": 1775,
    "lang": "JavaScript",
    "created": "2026-11-22T10:53:17Z",
    "pushed": "2026-11-26T23:51:35Z"
@@ -104,34 +95,52 @@
    "name": "qianyiai/KuroCat",
    "url": "https://github.com/qianyiai/KuroCat",
    "desc": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
-   "stars": 1567,
+   "stars": 1751,
    "lang": "TypeScript",
    "created": "2026-11-21T15:49:31Z",
    "pushed": "2026-11-27T06:32:21Z"
   },
   {
+   "name": "trustno1-coder/VIctory-NVIDIA",
+   "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
+   "desc": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats pan",
+   "stars": 1672,
+   "lang": "Rust",
+   "created": "2026-11-25T23:35:29Z",
+   "pushed": "2026-11-27T18:13:01Z"
+  },
+  {
    "name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
    "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
    "desc": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
-   "stars": 1554,
+   "stars": 1630,
    "lang": "Rust",
    "created": "2026-11-22T18:50:17Z",
-   "pushed": "2026-11-26T11:03:33Z"
+   "pushed": "2026-11-27T17:30:44Z"
   },
   {
-   "name": "nexu-io/opengame",
-   "url": "https://github.com/nexu-io/opengame",
-   "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish",
-   "stars": 1462,
-   "lang": "TypeScript",
-   "created": "2026-11-25T10:35:45Z",
-   "pushed": "2026-11-27T07:14:59Z"
+   "name": "Reukix/Reloc",
+   "url": "https://github.com/Reukix/Reloc",
+   "desc": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+   "stars": 1471,
+   "lang": "Swift",
+   "created": "2026-11-25T17:29:48Z",
+   "pushed": "2026-11-27T11:21:20Z"
+  },
+  {
+   "name": "Pixel679-cmyk/windows-titlebar-blur-customizer",
+   "url": "https://github.com/Pixel679-cmyk/windows-titlebar-blur-customizer",
+   "desc": "Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects.",
+   "stars": 1343,
+   "lang": "C++",
+   "created": "2026-11-26T21:26:56Z",
+   "pushed": "2026-11-26T21:27:28Z"
   },
   {
    "name": "Indigo-0167/universal-game-mod-manager",
    "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
    "desc": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
-   "stars": 1301,
+   "stars": 1335,
    "lang": "Rust",
    "created": "2026-11-23T21:30:10Z",
    "pushed": "2026-11-23T21:30:46Z"
@@ -140,7 +149,7 @@
    "name": "Umbra9179/clipboard-history-manager-windows",
    "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
    "desc": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
-   "stars": 1265,
+   "stars": 1270,
    "lang": "C#",
    "created": "2026-11-23T21:40:15Z",
    "pushed": "2026-11-23T21:40:42Z"
@@ -149,34 +158,25 @@
    "name": "deterministic-machines/deslop-please",
    "url": "https://github.com/deterministic-machines/deslop-please",
    "desc": "Bring (back) sanity to your code",
-   "stars": 1167,
+   "stars": 1255,
    "lang": "Rust",
    "created": "2026-11-22T05:36:03Z",
-   "pushed": "2026-11-25T23:08:48Z"
+   "pushed": "2026-11-27T18:02:34Z"
   },
   {
-   "name": "zero5122/offline-file-converter-windows",
-   "url": "https://github.com/zero5122/offline-file-converter-windows",
-   "desc": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
-   "stars": 1072,
-   "lang": "Python",
-   "created": "2026-11-23T21:38:47Z",
-   "pushed": "2026-11-23T21:39:16Z"
-  },
-  {
-   "name": "Reukix/Reloc",
-   "url": "https://github.com/Reukix/Reloc",
-   "desc": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
-   "stars": 1060,
-   "lang": "Swift",
-   "created": "2026-11-25T17:29:48Z",
-   "pushed": "2026-11-26T17:30:26Z"
+   "name": "ZigZagBoi1/ScarlettPort",
+   "url": "https://github.com/ZigZagBoi1/ScarlettPort",
+   "desc": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
+   "stars": 1168,
+   "lang": "Rust",
+   "created": "2026-11-24T09:36:26Z",
+   "pushed": "2026-11-27T18:43:20Z"
   },
   {
    "name": "solv4626/steam-achievement-manager-windows",
    "url": "https://github.com/solv4626/steam-achievement-manager-windows",
    "desc": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
-   "stars": 1058,
+   "stars": 1102,
    "lang": "Rust",
    "created": "2026-11-23T21:31:33Z",
    "pushed": "2026-11-23T21:32:09Z"
@@ -185,46 +185,46 @@
    "name": "kai415-debug/ffmpeg-video-audio-converter",
    "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
    "desc": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
-   "stars": 1020,
+   "stars": 1072,
    "lang": "C++",
    "created": "2026-11-23T21:32:56Z",
    "pushed": "2026-11-23T21:33:23Z"
   },
   {
-   "name": "sybil-solutions/skill-distill",
-   "url": "https://github.com/sybil-solutions/skill-distill",
-   "desc": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
-   "stars": 944,
-   "lang": "Python",
-   "created": "2026-11-21T01:43:00Z",
-   "pushed": "2026-11-21T03:48:01Z"
-  },
-  {
    "name": "lsernau/grh-lean",
    "url": "https://github.com/lsernau/grh-lean",
    "desc": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
-   "stars": 942,
+   "stars": 1019,
    "lang": "Lean",
    "created": "2026-11-25T20:42:55Z",
    "pushed": "2026-11-25T20:45:04Z"
   },
   {
+   "name": "sybil-solutions/skill-distill",
+   "url": "https://github.com/sybil-solutions/skill-distill",
+   "desc": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+   "stars": 990,
+   "lang": "Python",
+   "created": "2026-11-21T01:43:00Z",
+   "pushed": "2026-11-21T03:48:01Z"
+  },
+  {
    "name": "xikhar/papercraft",
    "url": "https://github.com/xikhar/papercraft",
    "desc": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
-   "stars": 853,
+   "stars": 925,
    "lang": "JavaScript",
    "created": "2026-11-21T00:29:56Z",
    "pushed": "2026-11-21T17:37:19Z"
   },
   {
-   "name": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
-   "url": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering",
-   "desc": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.",
-   "stars": 804,
-   "lang": "HTML",
-   "created": "2026-11-21T17:08:48Z",
-   "pushed": "2026-11-26T22:26:05Z"
+   "name": "zortos293/XSEmu",
+   "url": "https://github.com/zortos293/XSEmu",
+   "desc": "Experimental Xbox Series X|S (GDK) title runner for Windows, built on the XCL translation layer: D3D12.X to D3D12, RDNA2 shaders to DXIL.",
+   "stars": 883,
+   "lang": "Rust",
+   "created": "2026-11-23T12:57:17Z",
+   "pushed": "2026-11-27T15:36:06Z"
   }
  ],
  "ai_active": [
@@ -232,43 +232,43 @@
    "name": "NousResearch/hermes-agent",
    "url": "https://github.com/NousResearch/hermes-agent",
    "desc": "The agent that grows with you",
-   "stars": 266474,
+   "stars": 266597,
    "lang": "Python",
    "created": "2025-07-22T22:22:28Z",
-   "pushed": "2026-11-27T07:01:10Z"
+   "pushed": "2026-11-27T18:43:19Z"
   },
   {
    "name": "firecrawl/firecrawl",
    "url": "https://github.com/firecrawl/firecrawl",
    "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-   "stars": 211159,
+   "stars": 211525,
    "lang": "TypeScript",
    "created": "2024-04-15T21:02:29Z",
-   "pushed": "2026-11-27T00:15:09Z"
+   "pushed": "2026-11-27T18:40:40Z"
   },
   {
    "name": "ollama/ollama",
    "url": "https://github.com/ollama/ollama",
    "desc": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-   "stars": 188273,
+   "stars": 188304,
    "lang": "Go",
    "created": "2023-06-26T19:39:32Z",
-   "pushed": "2026-11-26T19:40:41Z"
+   "pushed": "2026-11-27T10:05:28Z"
   },
   {
    "name": "Significant-Gravitas/AutoGPT",
    "url": "https://github.com/Significant-Gravitas/AutoGPT",
    "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-   "stars": 188205,
+   "stars": 188209,
    "lang": "Python",
    "created": "2023-03-16T09:21:07Z",
-   "pushed": "2026-11-27T07:08:18Z"
+   "pushed": "2026-11-27T14:31:17Z"
   },
   {
    "name": "f/prompts.chat",
    "url": "https://github.com/f/prompts.chat",
    "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-   "stars": 178630,
+   "stars": 178688,
    "lang": "MDX",
    "created": "2022-12-05T13:54:13Z",
    "pushed": "2026-11-27T03:13:20Z"
@@ -277,34 +277,34 @@
    "name": "huggingface/transformers",
    "url": "https://github.com/huggingface/transformers",
    "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-   "stars": 169389,
+   "stars": 169382,
    "lang": "Python",
    "created": "2018-10-29T13:56:00Z",
-   "pushed": "2026-11-27T06:36:13Z"
+   "pushed": "2026-11-27T18:26:36Z"
   },
   {
    "name": "langgenius/dify",
    "url": "https://github.com/langgenius/dify",
    "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb",
-   "stars": 161981,
+   "stars": 162020,
    "lang": "Python",
    "created": "2023-04-12T07:40:24Z",
-   "pushed": "2026-11-27T07:13:47Z"
+   "pushed": "2026-11-27T14:56:03Z"
   },
   {
    "name": "open-webui/open-webui",
    "url": "https://github.com/open-webui/open-webui",
    "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-   "stars": 159664,
+   "stars": 159688,
    "lang": "Svelte",
    "created": "2023-10-06T22:08:27Z",
-   "pushed": "2026-11-27T00:38:20Z"
+   "pushed": "2026-11-27T16:00:01Z"
   },
   {
    "name": "Graphify-Labs/graphify",
    "url": "https://github.com/Graphify-Labs/graphify",
    "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
-   "stars": 153956,
+   "stars": 154191,
    "lang": "Python",
    "created": "2026-04-03T15:49:07Z",
    "pushed": "2026-11-27T02:53:36Z"
@@ -313,16 +313,16 @@
    "name": "langchain-ai/langchain",
    "url": "https://github.com/langchain-ai/langchain",
    "desc": "The agent engineering platform.",
-   "stars": 150057,
+   "stars": 150077,
    "lang": "Python",
    "created": "2022-10-17T02:58:36Z",
-   "pushed": "2026-11-26T10:36:59Z"
+   "pushed": "2026-11-27T08:21:12Z"
   },
   {
    "name": "harry0703/MoneyPrinterTurbo",
    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
    "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-   "stars": 145903,
+   "stars": 145977,
    "lang": "Python",
    "created": "2024-03-11T02:57:34Z",
    "pushed": "2026-11-27T06:30:42Z"
@@ -331,7 +331,7 @@
    "name": "TauricResearch/TradingAgents",
    "url": "https://github.com/TauricResearch/TradingAgents",
    "desc": "TradingAgents: Towards Agentic Finance Research",
-   "stars": 123871,
+   "stars": 123926,
    "lang": "TypeScript",
    "created": "2024-12-28T03:31:08Z",
    "pushed": "2026-11-25T07:27:54Z"
@@ -340,7 +340,7 @@
    "name": "JuliusBrussee/caveman",
    "url": "https://github.com/JuliusBrussee/caveman",
    "desc": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
-   "stars": 123143,
+   "stars": 123277,
    "lang": "Go",
    "created": "2026-04-04T10:03:00Z",
    "pushed": "2026-11-27T05:38:24Z"
@@ -349,25 +349,25 @@
    "name": "browser-use/browser-use",
    "url": "https://github.com/browser-use/browser-use",
    "desc": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
-   "stars": 122178,
+   "stars": 122221,
    "lang": "Python",
    "created": "2024-10-31T16:00:56Z",
-   "pushed": "2026-11-27T03:20:23Z"
+   "pushed": "2026-11-27T18:42:49Z"
   },
   {
    "name": "paperclipai/paperclip",
    "url": "https://github.com/paperclipai/paperclip",
    "desc": "The open-source app everyone uses to manage agents at work",
-   "stars": 117448,
+   "stars": 117558,
    "lang": "TypeScript",
    "created": "2026-03-02T15:01:51Z",
-   "pushed": "2026-11-27T07:09:04Z"
+   "pushed": "2026-11-27T15:21:12Z"
   },
   {
    "name": "rasbt/LLMs-from-scratch",
    "url": "https://github.com/rasbt/LLMs-from-scratch",
    "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-   "stars": 109109,
+   "stars": 109146,
    "lang": "Jupyter Notebook",
    "created": "2023-07-23T18:15:57Z",
    "pushed": "2026-11-26T15:25:17Z"
@@ -376,82 +376,82 @@
    "name": "tt-a1i/archify",
    "url": "https://github.com/tt-a1i/archify",
    "desc": "Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Curso",
-   "stars": 100702,
+   "stars": 100892,
    "lang": "JavaScript",
    "created": "2026-04-15T05:27:37Z",
-   "pushed": "2026-11-26T01:45:04Z"
+   "pushed": "2026-11-27T17:04:57Z"
   },
   {
    "name": "vllm-project/vllm",
    "url": "https://github.com/vllm-project/vllm",
    "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-   "stars": 97671,
+   "stars": 97708,
    "lang": "Python",
    "created": "2023-02-09T11:23:20Z",
-   "pushed": "2026-11-27T07:13:38Z"
+   "pushed": "2026-11-27T18:02:28Z"
   },
   {
    "name": "OpenHands/OpenHands",
    "url": "https://github.com/OpenHands/OpenHands",
    "desc": "🙌 OpenHands: AI-Driven Development",
-   "stars": 94434,
+   "stars": 94459,
    "lang": "TypeScript",
    "created": "2024-03-13T03:33:31Z",
-   "pushed": "2026-11-27T00:09:54Z"
+   "pushed": "2026-11-27T16:32:07Z"
   },
   {
    "name": "Ebony-Vinyl/dsh-our-free-model",
    "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
    "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-   "stars": 88539,
+   "stars": 89048,
    "lang": "JavaScript",
    "created": "2026-09-24T16:17:19Z",
-   "pushed": "2026-11-26T07:34:12Z"
+   "pushed": "2026-11-27T16:40:49Z"
   },
   {
    "name": "rtk-ai/rtk",
    "url": "https://github.com/rtk-ai/rtk",
    "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-   "stars": 87980,
+   "stars": 88039,
    "lang": "Rust",
    "created": "2026-01-22T16:54:16Z",
-   "pushed": "2026-11-26T20:27:32Z"
+   "pushed": "2026-11-27T16:59:02Z"
   },
   {
    "name": "bytedance/deer-flow",
    "url": "https://github.com/bytedance/deer-flow",
    "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
-   "stars": 85861,
+   "stars": 85876,
    "lang": "Python",
    "created": "2025-05-07T02:50:19Z",
-   "pushed": "2026-11-27T07:15:21Z"
+   "pushed": "2026-11-27T14:09:21Z"
   },
   {
    "name": "headroomlabs-ai/headroom",
    "url": "https://github.com/headroomlabs-ai/headroom",
    "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-   "stars": 80958,
+   "stars": 80993,
    "lang": "Python",
    "created": "2026-01-07T19:58:51Z",
-   "pushed": "2026-11-27T01:24:34Z"
+   "pushed": "2026-11-27T18:14:41Z"
   },
   {
    "name": "rohitg00/ai-engineering-from-scratch",
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "desc": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
-   "stars": 80686,
+   "stars": 80833,
    "lang": "Python",
    "created": "2026-03-18T18:38:02Z",
-   "pushed": "2026-11-25T15:31:09Z"
+   "pushed": "2026-11-27T14:19:38Z"
   },
   {
    "name": "unslothai/unsloth",
    "url": "https://github.com/unslothai/unsloth",
    "desc": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
-   "stars": 80330,
+   "stars": 80372,
    "lang": "Python",
    "created": "2023-11-29T16:50:09Z",
-   "pushed": "2026-11-27T07:11:25Z"
+   "pushed": "2026-11-27T18:43:49Z"
   }
  ]
 }
